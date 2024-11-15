@@ -1,0 +1,7 @@
+# Compleasm plots for VGP Phase I genomes
+
+Compleasm run in `busco` mode with the `vertebrata_odb10` database. In the tables, `Frameshift_compleasm` corresponds to the number of identified genes which contain at least one frameshift event, counted once per gene in the case of duplicated BUSCOs.
+
+Compleasm v0.2.6 was run on all VGP phase I, DNAZoo and Zoonomia genomes as follows:
+
+`compleasm_kit/compleasm.py run -t12 -l vertebrata -o ncbi_dataset/data/${f}/${f}.compleasm -a ncbi_dataset/data/${f}/*fna`
