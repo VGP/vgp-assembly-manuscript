@@ -1,0 +1,470 @@
+Accession	Complete_compleasm	Single_compleasm	Duplicated_compleasm	Fragmented_compleasm	Missing_compleasm	Frameshift_compleasm	Tax_ID	Submission_Date	Species_name	Super_class	Class	Infra_class	Sub_class	Super_order	Order	Sequencing_type
+GCA_024166365.1	3352	3330	22	0	2	76	99487	2022-07-06	Elephas maximus indicus	Sarcopterygii	Mammalia			Afrotheria	Proboscidea	PacBio HiFi
+GCA_030014295.1	3352	3334	18	0	2	82	9785	2023-05-16	Loxodonta africana	Sarcopterygii	Mammalia			Afrotheria	Proboscidea	PacBio HiFi
+GCA_028571685.1	3352	3338	14	2	0	74	77598	2023-02-10	Heterohyrax brucei	Sarcopterygii	Mammalia			Afrotheria	Hyracoidea	PacBio HiFi
+GCA_030035585.1	3354	3340	14	0	0	82	29137	2023-05-18	Dugong dugon	Sarcopterygii	Mammalia			Afrotheria	Sirenia	PacBio HiFi
+GCA_043290085.1	3345	3281	64	1	8	94	320637	2024-10-17	Rhynchocyon petersi	Sarcopterygii	Mammalia			Afrotheria	Macroscelidea	PacBio HiFi
+GCA_023851605.1	3346	3176	170	5	3	124	48850	2022-06-22	Tamandua tetradactyla	Sarcopterygii	Mammalia			Xenarthra	Pilosa	PacBio CLR
+GCA_015220235.1	3338	3121	217	8	8	173	27675	2020-11-03	Choloepus didactylus	Sarcopterygii	Mammalia			Xenarthra	Pilosa	PacBio CLR
+GCA_030445035.2	3333	3251	82	4	17	150	9361	2023-07-13	Dasypus novemcinctus	Sarcopterygii	Mammalia			Xenarthra	Cingulata	PacBio HiFi
+GCA_009914755.4	3354	3310	44	0	0	102	9606	2022-01-24	Homo sapiens	Sarcopterygii	Mammalia			Euarchontoglires	Primates	T2T
+GCA_028858775.2	3354	3305	49	0	0	97	9598	2024-01-08	Pan troglodytes	Sarcopterygii	Mammalia			Euarchontoglires	Primates	T2T
+GCA_029289425.2	3354	3309	45	0	0	103	9597	2024-01-08	Pan paniscus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	T2T
+GCA_029281585.3	3354	3304	50	0	0	92	9595	2024-08-01	Gorilla gorilla gorilla	Sarcopterygii	Mammalia			Euarchontoglires	Primates	T2T
+GCA_028885655.2	3354	3312	42	0	0	96	9601	2024-01-05	Pongo abelii	Sarcopterygii	Mammalia			Euarchontoglires	Primates	T2T
+GCA_028885625.2	3354	3309	45	0	0	94	9600	2024-01-08	Pongo pygmaeus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	T2T
+GCA_028878055.3	3353	3300	53	1	0	92	9590	2024-06-20	Symphalangus syndactylus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	T2T
+GCA_043159975.1	3305	3247	58	6	43	99	9545	2024-10-15	Macaca nemestrina	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio HiFi
+GCA_011100555.2	3347	3254	93	4	3	124	9483	2021-04-28	Callithrix jacchus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio CLR
+GCA_027406575.1	3353	3181	172	1	0	100	9470	2022-12-28	Nycticebus coucang	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio HiFi
+GCA_020740605.1	3341	3300	41	1	12	98	9447	2021-11-04	Lemur catta	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio HiFi
+GCA_027409185.1	3351	3286	65	0	3	105	110931	2022-12-28	Cynocephalus volans	Sarcopterygii	Mammalia			Euarchontoglires	Dermoptera	PacBio HiFi
+GCA_028451465.1	3352	3285	67	2	0	101	34844	2023-02-06	Erethizon dorsatum	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio CLR
+GCA_963383645.1	3350	3299	51	1	2	93	39082	2023-08-26	Muscardinus avellanarius	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi
+GCA_902686455.2	3351	3170	181	3	0	220	55149	2020-07-31	Sciurus vulgaris	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio CLR
+GCA_902686445.2	3353	3279	74	1	0	226	30640	2020-07-31	Sciurus carolinensis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio CLR
+GCA_964194105.1	3350	3248	102	4	0	101	9997	2024-06-28	Spermophilus citellus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi
+GCA_903995435.1	3344	3315	29	5	5	118	60746	2020-08-21	Acomys russatus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio CLR
+GCA_947179515.1	3348	3318	30	2	4	106	10129	2022-10-28	Apodemus sylvaticus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi
+GCA_011762505.2	3343	3282	61	3	8	103	61156	2024-10-22	Arvicanthis niloticus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio CLR
+GCA_015227675.2	3350	3283	67	1	3	111	10116	2020-11-10	Rattus norvegicus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio CLR
+GCA_963924665.1	3274	3194	80	7	73	110	13151	2024-01-29	Micromys minutus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi
+GCA_949316315.1	3346	3253	93	4	4	108	10090	2023-04-08	Mus musculus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi
+GCA_903995425.1	3307	3286	21	25	22	136	38674	2020-08-21	Onychomys torridus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio CLR
+GCA_903992535.2	3345	3284	61	3	6	205	1047088	2021-05-15	Arvicola amphibius	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio CLR
+GCA_950005125.1	3350	3265	85	0	4	95	269649	2023-05-01	Chionomys nivalis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi
+GCA_037038515.1	3348	3285	63	3	3	89	10058	2024-03-06	Microtus pennsylvanicus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi
+GCA_026229955.1	3309	3199	110	3	42	92	372063	2022-11-14	Peromyscus maniculatus sonoriensis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi
+GCA_020740685.1	3333	3195	138	10	11	108	51337	2021-11-04	Jaculus jaculus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio CLR
+GCA_031878675.1	3331	3253	78	5	18	102	10013	2023-09-25	Thomomys bottae	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi
+GCA_949820135.1	3347	3313	34	3	4	119	9988	2023-04-19	Sylvilagus floridanus	Sarcopterygii	Mammalia			Euarchontoglires	Lagomorpha	PacBio HiFi
+GCA_964237555.1	3348	3257	91	2	4	114	9986	2024-08-31	Oryctolagus cuniculus	Sarcopterygii	Mammalia			Euarchontoglires	Lagomorpha	PacBio HiFi
+GCA_030435755.1	3342	3285	57	1	11	101	9978	2023-07-13	Ochotona princeps	Sarcopterygii	Mammalia			Euarchontoglires	Lagomorpha	PacBio HiFi
+GCA_026018925.1	3349	3224	125	4	1	175	70687	2022-11-07	Tupaia tana	Sarcopterygii	Mammalia			Euarchontoglires	Scandentia	PacBio CLR
+GCA_008692025.1	3349	3320	29	0	5	160	42100	2019-09-26	Phocoena sinus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio CLR
+GCA_963924675.1	3346	3320	26	1	7	107	9742	2024-01-29	Phocoena phocoena	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_011762595.1	3347	3302	45	1	6	110	9739	2020-03-27	Tursiops truncatus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio CLR
+GCA_039906515.1	3351	3307	44	0	3	116	82174	2024-05-31	Pseudorca crassidens	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_036417435.1	3350	3310	40	0	4	96	9725	2024-02-06	Inia geoffrensis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_949987515.2	3348	3308	40	1	5	102	9728	2024-09-07	Delphinus delphis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_964270905.1	3349	3297	52	0	5	113	90246	2024-09-29	Lagenorhynchus acutus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_009873245.3	3350	3276	74	1	3	160	9771	2020-10-02	Balaenoptera musculus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio CLR
+GCA_951394435.1	3343	3309	34	0	11	110	9737	2023-06-16	Stenella coeruleoalba	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_028021215.1	3352	3292	60	0	2	103	9764	2023-01-31	Eschrichtius robustus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_028023285.1	3350	3280	70	1	3	92	2746895	2023-01-30	Balaenoptera ricei	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_949987535.1	3345	3280	65	5	4	119	9767	2023-05-01	Balaenoptera acutorostrata	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_041834305.1	3351	3281	70	1	2	100	9773	2024-09-09	Megaptera novaeangliae	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_937001465.1	3351	3303	48	0	3	116	9733	2022-05-03	Orcinus orca	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_949774975.1	3345	3291	54	3	6	116	27610	2023-04-08	Lagenorhynchus albirostris	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_963455315.2	3343	3287	56	1	10	108	9731	2024-09-07	Globicephala melas	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_025265405.1	3347	3257	90	0	7	103	48708	2022-09-19	Mesoplodon densirostris	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_964165515.1	3347	3255	92	2	5	112	48745	2024-06-06	Mesoplodon bidens	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_949752795.1	3342	3273	69	4	8	114	48744	2023-04-08	Hyperoodon ampullatus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_026419965.1	3345	3308	37	2	7	109	27615	2022-11-27	Kogia breviceps	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_028564815.1	3352	3263	89	1	1	117	27606	2023-02-09	Eubalaena glacialis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_005190385.3	3346	3309	37	0	8	194	40151	2022-11-09	Monodon monoceros	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio CLR
+GCA_030028045.1	3351	3231	120	0	3	117	575201	2023-05-18	Hippopotamus amphibius kiboko	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_003369695.2	3342	3285	57	3	9	122	30522	2018-11-30	Bos indicus x Bos taurus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio RSII
+GCF_963930625.1	3351	3282	69	1	2	103	9886	2024-01-31	Muntiacus reevesi	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_030704935.1	3353	3344	9	1	0	87	9823	2023-08-10	Sus scrofa	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_036321535.1	3313	3293	20	3	38	96	9838	2024-01-31	Camelus dromedarius	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_036426135.1	3349	3329	20	0	5	106	9796	2024-02-07	Equus caballus	Sarcopterygii	Mammalia			Laurasiatheria	Perissodactyla	PacBio HiFi
+GCA_020826845.1	3354	3335	19	0	0	85	77932	2021-11-10	Diceros bicornis minor	Sarcopterygii	Mammalia			Laurasiatheria	Perissodactyla	PacBio HiFi
+GCA_031878705.1	3349	3333	16	0	5	92	9802	2023-09-25	Tapirus indicus	Sarcopterygii	Mammalia			Laurasiatheria	Perissodactyla	PacBio HiFi
+GCA_004126475.3	3330	3306	24	7	17	197	89673	2020-05-12	Phyllostomus discolor	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio CLR
+GCA_038363095.2	3346	3263	83	2	6	107	27634	2024-05-21	Artibeus lituratus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_038363145.1	3335	3255	80	4	15	109	51014	2024-04-22	Artibeus intermedius	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_039655065.1	3349	3319	30	2	3	110	2994998	2024-05-17	Glossophaga mutica	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_022682495.2	3331	3310	21	5	18	101	9430	2022-03-24	Desmodus rotundus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_037157525.1	3349	3302	47	3	2	111	1552295	2024-03-15	Molossus alvarezi	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_014108415.1	3349	3327	22	2	3	102	27622	2020-08-13	Molossus molossus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio CLR
+GCA_039880945.1	3347	3314	33	4	3	110	2997257	2024-05-29	Molossus nigricans	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_030848825.1	3350	3305	45	2	2	109	9438	2023-08-22	Tadarida brasiliensis	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_014108235.1	3352	3264	88	1	1	118	51298	2020-08-13	Myotis myotis	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio CLR
+GCA_963259705.1	3349	3270	79	0	5	115	98922	2023-08-20	Myotis daubentonii	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_964094495.2	3344	3232	112	3	7	124	109479	2024-06-12	Myotis mystacinus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_964212035.1	3349	3292	57	3	2	115	109481	2024-08-02	Myotis nattereri	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_014108245.1	3345	3296	49	4	5	119	59472	2020-08-13	Pipistrellus kuhlii	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio CLR
+GCA_903992545.1	3177	3126	51	32	145	221	59474	2020-08-06	Pipistrellus pipistrellus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio CLR
+GCA_949987585.1	3348	3316	32	2	4	113	246814	2023-05-01	Pipistrellus pygmaeus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_951640355.1	3351	3317	34	2	1	114	59451	2023-05-18	Eptesicus nilssonii	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_027574615.1	3353	3320	33	0	1	116	29078	2023-01-09	Eptesicus fuscus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio CLR
+GCA_963455305.1	3351	3299	52	2	1	124	61862	2023-09-20	Plecotus auritus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_037038545.1	3347	3309	38	2	5	95	249017	2024-03-06	Rhynchonycteris naso	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_027563665.1	3341	3227	114	1	12	149	9440	2023-01-09	Antrozous pallidus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio CLR
+GCA_026230045.1	3304	3209	95	3	47	122	124745	2022-11-18	Corynorhinus townsendii	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_963924515.1	3347	3305	42	3	4	110	59485	2024-01-29	Vespertilio murinus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_964264875.1	3343	3300	43	4	7	119	59465	2024-09-21	Nyctalus leisleri	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_964146895.1	3348	3327	21	3	3	107	9433	2024-06-06	Miniopterus schreibersii	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_036850995.1	3348	3295	53	3	3	99	249018	2024-02-26	Saccopteryx leptura	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio CLR
+GCA_036850765.1	3348	3284	64	4	2	97	59482	2024-02-26	Saccopteryx bilineata	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio CLR
+GCA_004115265.3	3351	3288	63	1	2	128	59479	2019-05-17	Rhinolophus ferrumequinum	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio CLR
+GCA_964194185.1	3349	3282	67	4	1	113	77218	2024-06-28	Rhinolophus hipposideros	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_014176215.1	3345	3337	8	3	6	90	9407	2020-08-13	Rousettus aegyptiacus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio CLR
+GCA_031876335.1	3352	3298	54	1	1	108	175524	2023-09-25	Hipposideros larvatus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_902655055.2	3350	3268	82	0	4	160	9657	2020-07-31	Lutra lutra	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio CLR
+GCA_009829155.1	3337	3299	38	1	16	95	36723	2020-01-03	Mustela erminea	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio CLR
+GCA_030435805.1	3353	3297	56	1	0	84	9666	2023-07-13	Mustela lutreola	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi
+GCA_964106545.1	3347	3251	96	4	3	86	452646	2024-06-06	Neogale vison	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi
+GCA_963455335.1	3343	3325	18	9	1	86	29065	2023-09-20	Martes martes	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi
+GCA_922984935.2	3353	3297	56	1	0	102	9662	2022-03-23	Meles meles	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi
+GCA_905319855.2	3351	3290	61	2	1	103	9612	2021-03-26	Canis lupus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi
+GCA_011100685.1	3351	3285	66	1	2	126	9615	2020-03-10	Canis lupus familiaris	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio CLR
+GCA_964106825.2	3346	3270	76	6	2	96	9627	2024-06-27	Vulpes vulpes	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi
+GCA_040955705.1	3352	3283	69	1	1	100	9622	2024-08-01	Lycaon pictus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi
+GCA_009762305.2	3352	3241	111	2	0	163	9704	2020-07-14	Zalophus californianus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio CLR
+GCA_007474595.2	3338	3327	11	8	8	211	61383	2020-07-14	Lynx canadensis	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio CLR
+GCA_028018385.1	3351	3319	32	2	1	101	61452	2023-01-31	Neofelis nebulosa	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi
+GCA_030020395.1	3351	3300	51	0	3	105	143292	2023-05-23	Manis pentadactyla	Sarcopterygii	Mammalia			Laurasiatheria	Pholidota	PacBio HiFi
+GCA_024139225.1	3329	3243	86	10	15	213	109475	2022-07-06	Suncus etruscus	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	PacBio CLR
+GCA_027595985.1	3332	3284	48	8	13	129	42254	2023-01-09	Sorex araneus	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	PacBio HiFi
+GCA_964194135.1	3343	3306	37	3	8	80	9375	2024-06-28	Talpa europaea	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	PacBio HiFi
+GCA_950295315.1	3314	3287	27	26	14	109	9365	2023-05-01	Erinaceus europaeus	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	PacBio HiFi
+GCA_011100635.1	3329	3222	107	13	12	89	9337	2020-03-10	Trichosurus vulpecula	Sarcopterygii	Mammalia				Diprotodontia	PacBio CLR
+GCA_028372415.1	3348	3271	77	3	3	76	9315	2023-02-06	Notamacropus eugenii	Sarcopterygii	Mammalia				Diprotodontia	PacBio HiFi
+GCA_003287225.2	3348	3326	22	1	5	234	38626	2022-12-12	Phascolarctos cinereus	Sarcopterygii	Mammalia				Diprotodontia	PacBio RSII
+GCA_037893015.1	3327	3205	122	11	16	115	92651	2024-04-04	Macrotis lagotis	Sarcopterygii	Mammalia				Peramelemorphia	PacBio HiFi
+GCA_019393635.1	3347	3257	90	2	5	228	33562	2021-08-03	Dromiciops gliroides	Sarcopterygii	Mammalia				Microbiotheria	PacBio CLR
+GCA_027887165.1	3315	3251	64	11	28	92	13616	2023-01-18	Monodelphis domestica	Sarcopterygii	Mammalia				Didelphimorphia	PacBio HiFi
+GCA_004115215.4	3307	3294	13	16	31	161	9258	2020-11-06	Ornithorhynchus anatinus	Sarcopterygii	Mammalia				Monotremata	PacBio CLR
+GCA_015852505.1	3297	3290	7	13	44	158	9261	2020-12-09	Tachyglossus aculeatus	Sarcopterygii	Mammalia				Monotremata	PacBio CLR
+GCA_003957565.4	3310	3303	7	10	34	116	59729	2021-05-04	Taeniopygia guttata	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio CLR
+GCA_026979565.1	3320	3312	8	7	27	119	81927	2022-12-21	Vidua chalybeata	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_027477595.1	3308	3298	10	12	34	118	30427	2022-12-29	Haemorhous mexicanus	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_963513975.1	3309	3301	8	8	37	104	37598	2023-09-28	Fringilla coelebs	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_028018845.1	3269	3260	9	8	77	118	44398	2023-01-31	Melospiza georgiana	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_035770615.1	3308	3277	31	7	39	125	1914991	2024-01-24	Melospiza melodia melodia	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_027887145.1	3324	3314	10	10	20	116	2857398	2023-01-18	Ammospiza caudacuta	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_027579445.1	3280	3267	13	6	68	108	2857394	2023-01-09	Ammospiza nelsoni	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_036010785.1	3318	3298	20	7	29	117	3111550	2024-01-24	Ammospiza maritima maritima	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_031885435.1	3315	3305	10	8	31	123	161624	2023-09-25	Passerculus sandwichensis	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_036417665.1	3286	3266	20	14	54	126	48849	2024-02-07	Passer domesticus	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_014839755.1	3292	3287	5	9	53	123	73324	2020-10-02	Sylvia borin	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio CLR
+GCA_009819655.1	3250	3223	27	15	89	152	48155	2019-12-31	Sylvia atricapilla	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio CLR
+GCA_015227805.3	3283	3271	12	12	58	130	43150	2021-11-30	Hirundo rustica	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio CLR
+GCA_009764595.1	3160	3122	38	26	168	261	135433	2019-12-19	Geothlypis trichas	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio CLR
+GCA_903797595.2	3260	3253	7	21	73	137	37610	2021-05-03	Erithacus rubecula	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio CLR
+GCA_009819885.2	3319	3228	91	7	28	151	91951	2020-12-22	Catharus ustulatus	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio CLR
+GCA_030490865.1	3323	3121	202	7	24	106	48891	2023-07-18	Poecile atricapillus	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_029582105.1	3281	3271	10	25	48	109	2939378	2023-04-06	Oenanthe melanoleuca	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio CLR
+GCA_963662255.1	3319	3309	10	11	24	109	127875	2023-12-11	Cinclus cinclus	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_020745825.3	3310	3296	14	13	31	126	39638	2023-03-15	Agelaius phoeniceus	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio RSII
+GCA_027559615.1	3293	3286	7	8	53	131	279927	2023-01-09	Acridotheres tristis	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_014706295.1	3264	3249	15	18	72	133	2767082	2020-09-23	Lycocorax pyrrhopterus obiensis	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio CLR
+GCA_020740725.1	3304	3297	7	10	40	125	134902	2021-11-04	Corvus hawaiiensis	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_009650955.1	3288	3276	12	17	49	135	1196302	2019-11-14	Corvus moneduloides	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio CLR
+GCA_009829145.1	3290	3274	16	11	53	202	296741	2020-01-03	Chiroxiphia lanceolata	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio CLR
+GCA_036250125.1	3273	3250	23	14	67	127	415032	2024-01-31	Pseudopipra pipra	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_016904835.1	3268	3253	15	14	72	207	57068	2021-02-17	Acanthisitta chloris	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio CLR
+GCA_004027225.2	3324	3292	32	6	24	117	2489341	2020-03-04	Strigops habroptila	Sarcopterygii	Aves	Neognathae			Psittaciformes	PacBio CLR
+GCA_012275295.1	3335	3292	43	5	14	129	13146	2020-04-13	Melopsittacus undulatus	Sarcopterygii	Aves	Neognathae			Psittaciformes	PacBio CLR
+GCA_028858755.1	3317	3305	12	6	31	105	9226	2023-02-24	Ara ararauna	Sarcopterygii	Aves	Neognathae			Psittaciformes	PacBio HiFi
+GCA_039720435.1	3310	3266	44	10	34	110	151761	2024-05-24	Amazona ochrocephala	Sarcopterygii	Aves	Neognathae			Psittaciformes	PacBio HiFi
+GCA_037157495.1	3301	3268	33	9	44	103	678569	2024-03-15	Lathamus discolor	Sarcopterygii	Aves	Neognathae			Psittaciformes	PacBio HiFi
+GCA_963264785.1	3338	3329	9	6	10	113	232653	2023-08-20	Psittacula echo	Sarcopterygii	Aves	Neognathae			Psittaciformes	PacBio HiFi
+GCA_023634155.1	3305	3291	14	3	46	99	8954	2022-06-02	Falco peregrinus	Sarcopterygii	Aves	Neognathae			Falconiformes	PacBio HiFi
+GCA_015220075.1	3309	3294	15	10	35	125	120794	2020-11-03	Falco rusticolus	Sarcopterygii	Aves	Neognathae			Falconiformes	PacBio CLR
+GCA_023638135.1	3280	3265	15	6	68	109	345155	2022-06-02	Falco biarmicus	Sarcopterygii	Aves	Neognathae			Falconiformes	PacBio HiFi
+GCA_023634085.1	3304	3292	12	4	46	101	345164	2022-06-02	Falco cherrug	Sarcopterygii	Aves	Neognathae			Falconiformes	PacBio HiFi
+GCA_017639655.1	3308	3288	20	7	39	128	148594	2021-03-30	Falco naumanni	Sarcopterygii	Aves	Neognathae			Falconiformes	PacBio CLR
+GCA_963210335.1	3312	3302	10	9	33	87	148596	2023-08-19	Falco punctatus	Sarcopterygii	Aves	Neognathae			Falconiformes	PacBio HiFi
+GCA_009819825.1	3321	3305	16	11	22	183	54380	2019-12-31	Cariama cristata	Sarcopterygii	Aves	Neognathae			Cariamiformes	PacBio CLR
+GCA_014839835.1	3277	3267	10	11	66	110	118200	2020-10-02	Dryobates pubescens	Sarcopterygii	Aves	Neognathae			Piciformes	PacBio CLR
+GCA_015220805.1	3268	3260	8	7	79	144	488313	2020-11-03	Pogoniulus pusillus	Sarcopterygii	Aves	Neognathae			Piciformes	PacBio CLR
+GCA_009819595.1	3296	3259	37	7	51	269	57421	2019-12-31	Merops nubicus	Sarcopterygii	Aves	Neognathae			Coraciiformes	PacBio CLR
+GCA_009769605.1	3308	3295	13	4	42	219	153643	2019-12-23	Bucorvus abyssinicus	Sarcopterygii	Aves	Neognathae			Bucerotiformes	PacBio CLR
+GCA_020746105.1	3300	3287	13	8	46	157	297711	2021-11-05	Trogon surrucura	Sarcopterygii	Aves	Neognathae			Trogoniformes	PacBio CLR
+GCA_034619465.1	3299	3295	4	9	46	117	188344	2023-12-27	Leptosomus discolor	Sarcopterygii	Aves	Neognathae			Coraciiformes	PacBio HiFi
+GCA_028858725.2	3251	3224	27	5	98	103	57412	2023-02-24	Colius striatus	Sarcopterygii	Aves	Neognathae			Coliiformes	PacBio HiFi
+GCA_031877795.1	3317	3295	22	8	29	109	111821	2023-09-25	Strix aluco	Sarcopterygii	Aves	Neognathae			Strigiformes	PacBio HiFi
+GCA_900496995.4	3330	3318	12	7	17	151	223781	2021-03-26	Aquila chrysaetos chrysaetos	Sarcopterygii	Aves	Neognathae			Accipitriformes	PacBio CLR
+GCA_947461875.1	3333	3320	13	5	16	93	8969	2022-12-06	Haliaeetus albicilla	Sarcopterygii	Aves	Neognathae			Accipitriformes	PacBio HiFi
+GCA_026419915.1	3337	3323	14	4	13	124	202280	2022-11-27	Harpia harpyja	Sarcopterygii	Aves	Neognathae			Accipitriformes	PacBio HiFi
+GCA_929443795.1	3343	3334	9	5	6	90	8957	2022-02-09	Accipiter gentilis	Sarcopterygii	Aves	Neognathae			Accipitriformes	PacBio HiFi
+GCA_028022735.1	3341	3322	19	4	9	104	33610	2023-01-31	Gypaetus barbatus	Sarcopterygii	Aves	Neognathae			Accipitriformes	PacBio HiFi
+GCA_964188355.1	3344	3339	5	2	8	89	30397	2024-06-21	Buteo buteo	Sarcopterygii	Aves	Neognathae			Accipitriformes	PacBio HiFi
+GCA_037962945.1	3325	3298	27	4	25	101	43583	2024-04-04	Sarcoramphus papa	Sarcopterygii	Aves	Neognathae			Accipitriformes	PacBio HiFi
+GCA_030463565.1	3332	3313	19	2	20	108	36300	2023-07-18	Pelecanus crispus	Sarcopterygii	Aves	Neognathae			Pelecaniformes	PacBio HiFi
+GCA_020745775.1	3319	3310	9	3	32	166	1118847	2021-11-05	Theristicus caerulescens	Sarcopterygii	Aves	Neognathae			Pelecaniformes	PacBio CLR
+GCA_949628215.1	3318	3307	11	7	29	109	126867	2023-04-08	Phalacrocorax aristotelis	Sarcopterygii	Aves	Neognathae			Suliformes	PacBio HiFi
+GCA_963921805.1	3332	3321	11	5	17	116	9209	2024-02-09	Phalacrocorax carbo	Sarcopterygii	Aves	Neognathae			Suliformes	PacBio HiFi
+GCA_031468815.1	3323	3318	5	3	28	88	37578	2023-09-15	Morus bassanus	Sarcopterygii	Aves	Neognathae			Suliformes	PacBio HiFi
+GCA_017639555.1	3298	3289	9	8	48	232	52777	2021-03-30	Ciconia maguari	Sarcopterygii	Aves	Neognathae			Ciconiiformes	PacBio CLR
+GCA_964195595.1	3343	3310	33	2	9	104	1323832	2024-06-30	Calonectris borealis	Sarcopterygii	Aves	Neognathae			Procellariiformes	PacBio HiFi
+GCA_027474245.1	3306	3292	14	4	44	113	9240	2022-12-28	Spheniscus humboldti	Sarcopterygii	Aves	Neognathae			Sphenisciformes	PacBio HiFi
+GCA_030936135.1	3321	3313	8	6	27	103	37040	2023-08-30	Gavia stellata	Sarcopterygii	Aves	Neognathae			Gaviiformes	PacBio HiFi
+GCA_027574665.1	3315	3302	13	8	31	114	54386	2023-01-09	Rhynochetos jubatus	Sarcopterygii	Aves	Neognathae			Eurypygiformes	PacBio HiFi
+GCA_017639485.1	3295	3286	9	10	49	164	670352	2021-03-30	Pluvialis apricaria	Sarcopterygii	Aves	Neognathae			Charadriiformes	PacBio CLR
+GCA_008658365.1	3284	3279	5	9	61	181	28689	2019-10-10	Alca torda	Sarcopterygii	Aves	Neognathae			Charadriiformes	PacBio CLR
+GCA_009819605.1	3310	3288	22	8	36	121	108405	2019-12-31	Sterna hirundo	Sarcopterygii	Aves	Neognathae			Charadriiformes	PacBio CLR
+GCA_028500815.1	3315	3291	24	9	30	117	75485	2023-02-09	Rissa tridactyla	Sarcopterygii	Aves	Neognathae			Charadriiformes	PacBio HiFi
+GCA_963924245.1	3332	3326	6	3	19	111	1192867	2024-01-20	Chroicocephalus ridibundus	Sarcopterygii	Aves	Neognathae			Charadriiformes	PacBio HiFi
+GCA_963932225.1	3337	3332	5	6	11	99	8915	2024-02-07	Larus fuscus	Sarcopterygii	Aves	Neognathae			Charadriiformes	PacBio HiFi
+GCA_964106895.1	3300	3275	25	7	47	90	31919	2024-06-06	Numenius arquata	Sarcopterygii	Aves	Neognathae			Charadriiformes	PacBio HiFi
+GCA_964199755.1	3338	3326	12	3	13	91	119627	2024-07-14	Larus michahellis	Sarcopterygii	Aves	Neognathae			Charadriiformes	PacBio HiFi
+GCA_011004875.1	3331	3320	11	4	19	126	100784	2020-03-05	Balearica regulorum gibbericeps	Sarcopterygii	Aves	Neognathae			Gruiformes	PacBio CLR
+GCA_028858705.1	3340	3318	22	4	10	91	9117	2023-02-24	Grus americana	Sarcopterygii	Aves	Neognathae			Gruiformes	PacBio CLR
+GCA_964106855.1	3346	3334	12	3	5	104	40816	2024-06-06	Grus grus	Sarcopterygii	Aves	Neognathae			Gruiformes	PacBio HiFi
+GCA_020800305.1	3272	3259	13	8	74	93	439704	2021-11-08	Porphyrio hochstetteri	Sarcopterygii	Aves	Neognathae			Gruiformes	PacBio HiFi
+GCA_964237585.1	3300	3287	13	10	44	89	9123	2024-08-31	Gallinula chloropus	Sarcopterygii	Aves	Neognathae			Gruiformes	PacBio HiFi
+GCA_030867145.1	3300	3277	23	8	46	100	30419	2023-08-24	Opisthocomus hoazin	Sarcopterygii	Aves	Neognathae			Opisthocomiformes	PacBio HiFi
+GCA_003957555.2	3221	3209	12	25	108	185	9244	2019-05-17	Calypte anna	Sarcopterygii	Aves	Neognathae			Apodiformes	PacBio CLR
+GCA_023637945.1	3261	3252	9	9	84	105	46513	2022-06-01	Phaethornis superciliosus	Sarcopterygii	Aves	Neognathae			Apodiformes	PacBio CLR
+GCA_036169615.1	3254	3236	18	10	90	114	472823	2024-01-26	Heliangelus exortis	Sarcopterygii	Aves	Neognathae			Apodiformes	PacBio HiFi
+GCA_020740795.1	3244	3235	9	7	103	104	8895	2021-11-04	Apus apus	Sarcopterygii	Aves	Neognathae			Apodiformes	PacBio CLR
+GCA_020745705.1	3272	3263	9	8	74	172	243314	2021-11-05	Hemiprocne comata	Sarcopterygii	Aves	Neognathae			Apodiformes	PacBio CLR
+GCA_907165065.1	3315	3302	13	4	35	98	111811	2021-05-17	Caprimulgus europaeus	Sarcopterygii	Aves	Neognathae			Caprimulgiformes	PacBio CLR
+GCA_039906565.1	3297	3274	23	14	43	120	48277	2024-05-31	Aegotheles albertisi	Sarcopterygii	Aves	Neognathae			Caprimulgiformes	PacBio HiFi
+GCA_028020825.1	3312	3277	35	4	38	112	8905	2023-01-31	Podargus strigoides	Sarcopterygii	Aves	Neognathae			Caprimulgiformes	PacBio HiFi
+GCA_013368605.1	3306	3290	16	8	40	156	48427	2020-06-23	Nyctibius grandis	Sarcopterygii	Aves	Neognathae			Caprimulgiformes	PacBio CLR
+GCA_036417535.1	3316	3308	8	6	32	110	187382	2024-02-07	Chlamydotis macqueenii	Sarcopterygii	Aves	Neognathae			Otidiformes	PacBio HiFi
+GCA_009769465.1	3278	3270	8	10	66	234	121530	2019-12-19	Tauraco erythrolophus	Sarcopterygii	Aves	Neognathae			Musophagiformes	PacBio CLR
+GCA_017976375.1	3323	3313	10	7	24	123	55661	2021-04-15	Cuculus canorus	Sarcopterygii	Aves	Neognathae			Cuculiformes	PacBio CLR
+GCA_009769525.1	3273	3263	10	16	65	315	240206	2019-12-23	Pterocles gutturalis	Sarcopterygii	Aves	Neognathae			Pterocliformes	PacBio CLR
+GCA_901699155.2	3192	3147	45	16	146	218	177155	2021-05-17	Streptopelia turtur	Sarcopterygii	Aves	Neognathae			Columbiformes	PacBio CLR
+GCA_964273445.1	3318	3305	13	7	29	93	177147	2024-10-04	Streptopelia decaocto	Sarcopterygii	Aves	Neognathae			Columbiformes	PacBio HiFi
+GCA_963082525.1	3322	3310	12	8	24	110	187126	2023-08-09	Nesoenas mayeri	Sarcopterygii	Aves	Neognathae			Columbiformes	PacBio HiFi
+GCA_036013445.1	3341	3336	5	3	10	95	187106	2024-01-26	Caloenas nicobarica	Sarcopterygii	Aves	Neognathae			Columbiformes	PacBio HiFi
+GCA_036971685.1	3334	3318	16	4	16	94	372321	2024-03-06	Patagioenas fasciata	Sarcopterygii	Aves	Neognathae			Columbiformes	PacBio HiFi
+GCA_036013475.2	3302	3283	19	7	45	109	8932	2024-04-08	Columba livia	Sarcopterygii	Aves	Neognathae			Columbiformes	PacBio HiFi
+GCA_009819775.1	3302	3287	15	9	43	196	9218	2019-12-31	Phoenicopterus ruber ruber	Sarcopterygii	Aves	Neognathae			Phoenicopteriformes	PacBio CLR
+GCA_016700215.2	3303	3297	6	11	40	101	9031	2021-10-01	Gallus gallus	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	PacBio CLR
+GCA_023343835.1	3286	3278	8	10	58	120	64668	2022-05-12	Lagopus muta	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	PacBio HiFi
+GCA_951394365.1	3284	3275	9	9	61	110	100830	2023-06-15	Tetrao urogallus	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	PacBio HiFi
+GCA_039878825.1	3258	3249	9	13	83	118	46218	2024-05-31	Excalfactoria chinensis	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	PacBio HiFi
+GCA_009819795.1	3299	3287	12	9	46	115	219594	2019-12-31	Aythya fuligula	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	PacBio CLR
+GCA_964211825.1	3339	3313	26	6	9	112	219593	2024-07-31	Aythya ferina	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	PacBio HiFi
+GCA_964035555.1	3316	3305	11	8	30	114	30387	2024-04-29	Netta rufina	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	PacBio HiFi
+GCA_964188345.1	3329	3298	31	8	17	100	8839	2024-06-21	Anas platyrhynchos	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	PacBio HiFi
+GCA_009769625.2	3297	3284	13	8	49	179	8869	2021-03-31	Cygnus olor	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	PacBio CLR
+GCA_963932015.1	3314	3302	12	11	29	120	28680	2024-02-07	Anas acuta	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	PacBio HiFi
+GCA_964034855.1	3320	3311	9	7	27	120	132585	2024-04-27	Anser brachyrhynchus	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	PacBio HiFi
+GCA_964211835.1	3321	3296	25	6	27	116	8843	2024-07-31	Anser anser	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	PacBio HiFi
+GCA_964059595.1	3331	3319	12	5	18	98	107022	2024-06-06	Bucephala clangula	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	PacBio HiFi
+GCA_963989345.1	3328	3317	11	6	20	99	197941	2024-03-14	Clangula hyemalis	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	PacBio HiFi
+GCA_036873955.1	3289	3264	25	12	53	116	1570318	2024-02-26	Mergus octosetaceus	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	PacBio HiFi
+GCA_040807025.1	3332	3219	113	5	17	87	8801	2024-07-22	Struthio camelus	Sarcopterygii	Aves			Palaeognathae	Struthioniformes	PacBio HiFi
+GCA_036370855.1	3326	3187	139	7	21	98	8790	2024-02-26	Dromaius novaehollandiae	Sarcopterygii	Aves			Palaeognathae	Casuariiformes	PacBio HiFi
+GCA_036417845.1	3337	3331	6	7	10	115	2696672	2024-02-06	Apteryx mantelli	Sarcopterygii	Aves			Palaeognathae	Apterygiformes	PacBio HiFi
+GCA_028389875.1	3333	3327	6	5	16	89	8795	2023-02-06	Rhea pennata	Sarcopterygii	Aves			Palaeognathae	Rheiformes	PacBio HiFi
+GCA_030867095.1	3328	3317	11	2	24	77	8496	2023-08-24	Alligator mississippiensis	Sarcopterygii	Crocodylia				Crocodylia	PacBio HiFi
+GCA_030020295.1	3337	3329	8	3	14	68	94835	2023-05-22	Gavialis gangeticus	Sarcopterygii	Crocodylia				Crocodylia	PacBio HiFi
+GCA_033958435.1	3347	3340	7	3	4	69	44489	2023-11-27	Carettochelys insculpta	Sarcopterygii	Testudinata		Testudinata		Testudines	PacBio HiFi
+GCA_015237465.2	3350	3344	6	0	4	65	8469	2021-07-15	Chelonia mydas	Sarcopterygii	Testudinata		Testudinata		Testudines	PacBio CLR
+GCA_033349115.1	2997	2983	14	20	337	67	3026461	2023-11-06	Macrochelys suwanniensis	Sarcopterygii	Testudinata		Testudinata		Testudines	PacBio HiFi
+GCA_009764565.4	3314	3310	4	10	30	161	27794	2021-08-25	Dermochelys coriacea	Sarcopterygii	Testudinata		Testudinata		Testudines	PacBio CLR
+GCA_028017835.1	3342	3334	8	1	11	63	82168	2023-01-30	Emys orbicularis	Sarcopterygii	Testudinata		Testudinata		Testudines	PacBio HiFi
+GCA_027887155.1	3349	3339	10	1	4	65	2991368	2023-01-18	Malaclemys terrapin pileata	Sarcopterygii	Testudinata		Testudinata		Testudines	PacBio HiFi
+GCA_032164245.1	3207	3195	12	11	136	69	142480	2023-09-29	Sternotherus odoratus	Sarcopterygii	Testudinata		Testudinata		Testudines	PacBio HiFi
+GCA_007399415.1	3344	3310	34	2	8	143	1825980	2019-07-25	Gopherus evgoodei	Sarcopterygii	Testudinata		Testudinata		Testudines	PacBio CLR
+GCA_025201925.1	3333	3320	13	11	10	67	286002	2022-09-15	Gopherus flavomarginatus	Sarcopterygii	Testudinata		Testudinata		Testudines	PacBio CLR
+GCA_040894355.1	3351	3346	5	0	3	76	1041117	2024-07-26	Myuchelys georgesi	Sarcopterygii	Testudinata		Testudinata		Testudines	PacBio HiFi
+GCA_035149785.1	3332	3325	7	1	21	71	51853	2024-01-18	Candoia aspera	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_030867105.1	3335	3330	5	2	17	74	283338	2023-08-24	Liasis olivaceus	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_024294585.1	3322	3307	15	5	27	90	246179	2022-07-20	Vipera latastei	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_947247035.1	3294	3276	18	19	40	112	103942	2022-10-30	Vipera ursinii	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_031021105.1	3269	3207	62	15	70	114	121349	2023-08-31	Erythrolamprus reginae	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_964194415.1	3313	3264	49	7	34	100	31155	2024-06-28	Vipera berus	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_009769535.1	3260	3198	62	22	72	254	35005	2019-12-23	Thamnophis elegans	Sarcopterygii	Lepidosauria				Squamata	PacBio CLR
+GCA_964273705.1	3300	3271	29	12	42	85	2025560	2024-10-05	Natrix helvetica	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_037176765.1	3332	3227	105	9	13	96	38937	2024-03-15	Anolis sagrei	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_035047305.1	3335	3324	11	5	14	73	179887	2024-01-03	Bradypodion pumilum	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_035047345.1	3332	3311	21	8	14	84	179890	2024-01-03	Bradypodion ventrale	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_030440675.1	3339	3337	2	4	11	88	187939	2023-07-12	Furcifer pardalis	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_030412105.1	3336	3322	14	6	12	68	118683	2023-07-07	Cyclura pinguis	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_029215775.1	3341	3332	9	1	12	69	2202111	2023-03-14	Anniella stebbinsi	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_023053635.2	3341	3333	8	2	11	75	159646	2024-01-04	Elgaria multicarinata webbii	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_009819535.1	3340	3303	37	3	11	143	80427	2019-12-31	Lacerta agilis	Sarcopterygii	Lepidosauria				Squamata	PacBio CLR
+GCA_027172205.1	3350	3332	18	2	2	68	65483	2022-12-27	Podarcis raffonei	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_951804945.1	3349	3337	12	2	3	83	1330250	2023-06-02	Podarcis cretensis	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_964188175.1	3349	3334	15	2	3	66	65484	2024-06-21	Podarcis siculus	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_964188315.1	3350	3327	23	2	2	69	64176	2024-06-21	Podarcis muralis	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_964188305.1	3291	3271	20	2	61	66	90520	2024-06-21	Podarcis bocagei	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_964106915.2	3349	3333	16	2	3	68	90521	2024-09-17	Podarcis gaigeae	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_964106645.2	3342	3315	27	7	5	69	74359	2024-07-06	Podarcis pityusensis	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_964252035.1	3255	3239	16	11	88	68	140042	2024-08-31	Podarcis erhardii	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_964234715.1	3349	3327	22	3	2	73	65482	2024-08-31	Podarcis melisellensis	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_964270895.1	3348	3322	26	2	4	76	65481	2024-09-29	Podarcis filfolensis	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_963506605.1	3348	3323	25	2	4	79	8524	2023-09-20	Zootoca vivipara	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_030035675.1	3339	3312	27	4	11	61	261503	2023-05-22	Rhineura floridana	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_023333525.1	2811	2801	10	12	531	75	2917703	2022-05-11	Aspidoscelis tigris stejnegeri	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_035046505.1	3237	3222	15	7	110	63	71010	2024-01-04	Tiliqua scincoides	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_029931775.1	3345	3329	16	3	6	80	460621	2023-05-15	Euleptes europaea	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_027410445.1	3264	3222	42	32	58	74	8351	2022-12-28	Discoglossus pictus	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio CLR
+GCA_027579735.1	3248	3151	97	54	51	112	8345	2023-01-09	Bombina bombina	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio CLR
+GCA_964205295.1	3188	3103	85	83	81	58	8348	2024-07-29	Bombina variegata	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCA_037306005.1	3279	3268	11	26	49	63	43566	2024-03-20	Rhinophrynus dorsalis	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCA_040206685.1	3177	3152	25	67	110	121	8439	2024-06-17	Ascaphus truei	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCA_031893055.1	3233	3210	23	10	111	101	238119	2023-09-26	Leptodactylus fuscus	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCA_036172605.1	3306	3277	29	9	39	62	191477	2024-01-26	Pelobates fuscus	Sarcopterygii	Amphibia					PacBio HiFi
+GCA_036172795.1	3314	3299	15	7	33	60	233781	2024-01-26	Pelodytes ibericus	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCA_027358695.2	3302	3291	11	7	45	83	233779	2022-12-27	Spea bombifrons	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCA_038501925.1	3329	2012	1317	5	20	108	288555	2024-04-29	Xenopus petersii	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCA_035609145.1	3266	3239	27	12	76	77	57060	2024-01-12	Eleutherodactylus coqui	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCA_040937935.1	3239	3178	61	27	88	89	752182	2024-07-30	Hyperolius riggenbachi	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCA_905171765.1	3274	3248	26	25	55	119	8384	2021-01-28	Bufo bufo	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio CLR
+GCA_027789765.1	3298	3245	53	12	44	79	150705	2023-01-13	Dendropsophus ebraccatus	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio CLR
+GCA_029499605.1	3216	3199	17	41	97	95	327740	2023-04-07	Hyla sarda	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCA_032444005.1	3290	3255	35	15	48	66	111125	2023-10-16	Ranitomeya imitator	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCA_040894005.1	3249	3216	33	27	78	79	76066	2024-07-30	Engystomops pustulosus	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCA_028390025.1	3275	3260	15	16	63	68	495146	2023-02-06	Pseudophryne corroboree	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCA_038048845.1	3273	3246	27	14	67	75	3061075	2024-04-17	Mixophyes fleayi	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCA_027917425.1	3278	3255	23	16	60	79	8429	2023-01-18	Gastrophryne carolinensis	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCA_905171775.1	3261	3225	36	28	65	106	8407	2021-01-28	Rana temporaria	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio CLR
+GCA_026652325.1	3290	3249	41	28	36	45	8319	2022-12-05	Pleurodeles waltl	Sarcopterygii	Amphibia			Batrachia	Caudata	PacBio HiFi
+GCA_901001135.2	3315	3245	70	14	25	170	194408	2021-04-24	Rhinatrema bivittatum	Sarcopterygii	Amphibia				Gymnophiona	PacBio CLR
+GCA_901765095.2	3306	3191	115	13	35	164	1415580	2021-04-24	Microcaecilia unicolor	Sarcopterygii	Amphibia				Gymnophiona	PacBio CLR
+GCA_902459505.2	3294	3255	39	23	37	90	260995	2021-04-24	Geotrypetes seraphini	Sarcopterygii	Amphibia				Gymnophiona	PacBio CLR
+GCA_900747795.4	3311	3299	12	12	31	97	27687	2021-07-07	Erpetoichthys calabaricus	Actinopterygii	Cladistia				Polypteriformes	PacBio CLR
+GCA_902713425.2	3335	1006	2329	8	11	124	7906	2022-02-02	Acipenser ruthenus	Actinopterygii	Actinopteri		Chondrostei		Acipenseriformes	PacBio HiFi
+GCA_036373705.1	3334	3324	10	5	15	83	7924	2024-02-06	Amia calva	Actinopterygii	Actinopteri	Holostei	Neopterygii		Amiiformes	PacBio HiFi
+GCA_040954835.1	3350	3347	3	3	1	83	7918	2024-08-01	Lepisosteus oculatus	Actinopterygii	Actinopteri	Holostei	Neopterygii		Semionotiformes	PacBio HiFi
+GCA_013368585.1	3343	3092	251	0	11	94	118141	2020-06-23	Megalops cyprinoides	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Elopiformes	PacBio CLR
+GCA_013347855.1	3321	3152	169	7	26	120	7936	2020-06-18	Anguilla anguilla	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Anguilliformes	PacBio CLR
+GCA_963514075.1	3310	3153	157	14	30	129	82655	2023-09-29	Conger conger	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Anguilliformes	PacBio HiFi
+GCA_900964775.1	3336	3215	121	2	16	108	113540	2019-04-11	Scleropages formosus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Osteoglossiformes	PacBio CLR
+GCA_900700375.2	3306	3058	248	10	38	196	299321	2020-07-31	Denticeps clupeoides	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Clupeiformes	PacBio CLR
+GCA_018492685.1	3330	3304	26	9	15	145	34773	2021-05-25	Alosa sapidissima	Actinopterygii	Actinopteri	Teleostei		Euarchontoglires	Primates	PacBio HiFi
+GCA_963457725.1	3326	3301	25	10	18	106	196075	2023-09-20	Sprattus sprattus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Clupeiformes	PacBio HiFi
+GCA_963854185.1	3321	3291	30	10	23	119	27697	2023-12-14	Sardina pilchardus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Clupeiformes	PacBio HiFi
+GCA_902362185.1	3344	3321	23	3	7	98	29144	2019-08-14	Chanos chanos	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Gonorynchiformes	PacBio CLR
+GCA_944039275.1	3336	3319	17	2	16	90	7955	2022-06-24	Danio rerio	Actinopterygii	Actinopteri	Teleostei	Neopterygii	Cypriniphysae	Cypriniformes	PacBio HiFi
+GCA_949152265.1	3327	3309	18	6	21	108	58324	2023-04-08	Phoxinus phoxinus		Mammalia			Euarchontoglires	Primates	PacBio HiFi
+GCA_951802725.1	3333	3316	17	3	18	117	48668	2023-05-30	Rutilus rutilus	Actinopterygii	Actinopteri	Teleostei	Neopterygii	Cypriniphysae	Cypriniformes	PacBio HiFi
+GCA_949319135.1	3335	3309	26	3	16	103	8284	2023-04-08	Squalius cephalus	Actinopterygii	Actinopteri	Teleostei	Neopterygii	Cypriniphysae	Cypriniformes	PacBio HiFi
+GCA_947034865.1	3290	3271	19	10	53	133	135647	2022-10-07	Barbatula barbatula	Actinopterygii	Actinopteri	Teleostei	Neopterygii	Cypriniphysae	Cypriniformes	PacBio HiFi
+GCA_963993115.1	3332	3302	30	2	20	124	38527	2024-03-16	Abramis brama	Actinopterygii	Actinopteri	Teleostei	Neopterygii	Cypriniphysae	Cypriniformes	PacBio HiFi
+GCA_964197995.1	3330	3284	46	9	15	124	58319	2024-07-10	Scardinius erythrophthalmus	Actinopterygii	Actinopteri	Teleostei	Neopterygii	Cypriniphysae	Primates	PacBio HiFi
+GCA_949357685.1	3316	3295	21	15	23	124	27704	2023-04-08	Gobio gobio	Actinopterygii	Actinopteri	Teleostei	Neopterygii	Cypriniphysae	Cypriniformes	PacBio HiFi
+GCA_963082965.1	3327	1646	1681	7	20	157	217509	2023-08-09	Carassius carassius	Actinopterygii	Actinopteri	Teleostei	Neopterygii	Cypriniphysae	Cypriniformes	PacBio HiFi
+GCA_936440315.1	3344	753	2591	3	7	190	40830	2022-05-03	Barbus barbus	Actinopterygii	Actinopteri	Teleostei	Neopterygii	Cypriniphysae	Cypriniformes	PacBio HiFi
+GCA_038024135.1	3334	3317	17	2	18	105	28792	2024-04-08	Cyprinella venusta	Actinopterygii	Actinopteri	Teleostei	Neopterygii	Cypriniphysae	Cypriniformes	PacBio HiFi
+GCA_013358815.1	3334	3315	19	5	15	163	8005	2020-06-23	Electrophorus electricus	Actinopterygii	Actinopteri	Teleostei	Neopterygii	Characiphysae	Gymnotiformes	PacBio CLR
+GCA_015220715.1	3348	3336	12	2	4	90	42514	2020-11-03		Actinopterygii	Actinopteri	Teleostei	Neopterygii	Characiphysae	Characiformes	PacBio CLR
+GCA_029633855.2	3286	3005	281	12	56	93	27720	2024-06-25	Hoplias malabaricus	Actinopterygii	Actinopteri	Teleostei	Neopterygii	Characiphysae	Characiformes	PacBio HiFi
+GCA_030463535.1	3296	3287	9	11	47	112	930266	2023-07-14	Salminus brasiliensis	Actinopterygii	Actinopteri	Teleostei	Neopterygii	Characiphysae	Characiformes	PacBio HiFi
+GCA_946808225.1	3305	3289	16	13	36	114	933932	2022-09-15	Silurus aristotelis	Actinopterygii	Actinopteri	Teleostei	Neopterygii	Characiphysae	Siluriformes	PacBio HiFi
+GCA_027358585.1	3323	3312	11	6	25	104	310915	2022-12-28	Pangasianodon hypophthalmus	Actinopterygii	Actinopteri	Teleostei	Neopterygii	Characiphysae	Siluriformes	PacBio HiFi
+GCA_027579695.1	3306	3278	28	4	44	93	443677	2023-01-09	Neoarius graeffei	Actinopterygii	Actinopteri	Teleostei	Neopterygii	Characiphysae	Siluriformes	PacBio HiFi
+GCA_030014385.1	3320	3299	21	4	30	97	2290929	2023-05-16	Trichomycterus rosablanca	Actinopterygii	Actinopteri	Teleostei	Neopterygii	Characiphysae	Siluriformes	PacBio HiFi
+GCA_951799395.1	3305	3244	61	18	30	132	446415	2023-05-27	Argentina silus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Argentiniformes	PacBio HiFi
+GCA_963989245.1	3294	3144	150	24	36	191	443705	2024-03-11	Nansenia antarctica	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Argentiniformes	PacBio HiFi
+GCA_017639675.1	2957	2937	20	55	342	146	946358	2021-03-30	Aplochiton taeniatus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Galaxiiformes	PacBio CLR
+GCA_011004845.1	3349	3326	23	1	4	125	8010	2020-03-05	Esox lucius	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Esociformes	PacBio CLR
+GCA_901001165.2	3326	1797	1529	17	11	140	8032	2021-04-24	Salmo trutta	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Salmoniformes	PacBio CLR
+GCA_036784965.1	3026	1990	1036	34	294	155	152111	2024-02-23	Salvelinus alpinus oquassa	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Salmoniformes	PacBio HiFi
+GCA_964263955.1	3291	1571	1720	30	32	160	59291	2024-09-15	Coregonus lavaretus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Salmoniformes	PacBio HiFi
+GCA_038355195.1	3291	3258	33	22	41	188	8014	2024-04-17	Osmerus mordax	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Osmeriformes	PacBio HiFi
+GCA_963692335.1	3289	3269	20	35	30	179	29151	2023-12-11	Osmerus eperlanus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Osmeriformes	PacBio HiFi
+GCA_949987555.1	3250	3202	48	51	53	146	473354	2023-05-03	Borostomias antarcticus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Stomiiformes	PacBio HiFi
+GCA_963971535.1	3225	3130	95	58	71	193	948063	2024-03-07	Notolepis coatsorum	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Aulopiformes	PacBio HiFi
+GCA_951216825.1	3309	3053	256	20	25	118	206093	2023-05-11	Electrona antarctica	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Myctophiformes	PacBio HiFi
+GCA_964188405.1	3294	3094	200	15	45	127	1091426	2024-06-21		Actinopterygii	Actinopteri	Teleostei	Neopterygii		Myctophiformes	PacBio HiFi
+GCA_963280865.1	3329	3030	299	10	15	134	948025	2023-08-20	Gymnoscopelus braueri	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Myctophiformes	PacBio HiFi
+GCA_963454915.1	3342	3072	270	5	7	99	1090481	2023-09-13	Gymnoscopelus microlampas	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Myctophiformes	PacBio HiFi
+GCA_963921795.1	3333	3009	324	6	15	110	473322	2024-02-09	Nannobrachium achirus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Myctophiformes	PacBio HiFi
+GCA_963924005.1	3317	3141	176	12	25	144	443714	2024-01-19	Protomyctophum bolini	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Myctophiformes	PacBio HiFi
+GCA_029633865.1	3297	3264	33	16	41	106	2546036	2023-04-13	Lampris incognitus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Lampriformes	PacBio HiFi
+GCA_960531495.1	3335	3306	29	6	13	130	64108	2023-07-26	Zeus faber	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Zeiformes	PacBio HiFi
+GCA_902167405.1	3255	3240	15	24	75	187	8049	2019-07-16	Ochotona princeps	Sarcopterygii	Mammalia			Euarchontoglires	Lagomorpha	PacBio CLR
+GCA_949987615.1	3301	3292	9	20	33	169	185739	2023-05-03	Pollachius pollachius	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Gadiformes	PacBio HiFi
+GCA_964030765.1	2985	2901	84	99	270	180	81636	2024-04-20	Micromesistius poutassou	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Gadiformes	PacBio HiFi
+GCA_902150065.1	3344	3328	16	5	5	123	586833	2019-07-03	Myripristis murdjan	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Holocentriformes	PacBio CLR
+GCA_902500255.1	3300	3266	34	28	26	272	390379	2019-09-30	Thalassophryne amazonica	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Batrachoidiformes	PacBio CLR
+GCA_009829125.3	3308	3281	27	10	36	185	409849	2023-03-21	Periophthalmus magnuspinnatus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Gobiiformes	PacBio CLR
+GCA_951799975.1	3320	3312	8	19	15	213	85417	2023-05-27	Gobius niger	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Gobiiformes	PacBio HiFi
+GCA_901709675.2	3297	3270	27	13	44	281	161584	2020-07-31	Syngnathus acus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Syngnathiformes	PacBio CLR
+GCA_910596095.1	3352	3344	8	2	0	103	8240	2021-07-07	Thunnus maccoyii	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Scombriformes	PacBio HiFi
+GCA_963924715.1	3351	3342	9	2	1	118	8237	2024-01-29	Thunnus thynnus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Scombriformes	PacBio HiFi
+GCA_914725855.1	3353	3345	8	1	0	101	8236	2021-09-16	Thunnus albacares	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Scombriformes	PacBio HiFi
+GCA_027409825.1	3307	3296	11	21	26	110	13676	2022-12-28	Scomber japonicus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Scombriformes	PacBio HiFi
+GCA_963691925.1	3303	3297	6	20	31	125	13677	2023-12-07	Scomber scombrus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Scombriformes	PacBio HiFi
+GCA_900324485.3	3327	3313	14	4	23	132	205130	2021-04-24	Mastacembelus armatus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Synbranchiformes	PacBio CLR
+GCA_900324465.3	3347	3306	41	3	4	131	64144	2021-04-24	Anabas testudineus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Anabantiformes	PacBio CLR
+GCA_900634795.4	3335	3315	20	6	13	169	158456	2023-03-10	Betta splendens	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Anabantiformes	PacBio CLR
+GCA_017976425.1	3347	3343	4	2	5	128	941984	2021-04-15	Toxotes jaculatrix	Actinopterygii	Actinopteri	Teleostei	Neopterygii			PacBio CLR
+GCA_009819705.1	3330	3308	22	6	18	162	8267	2019-12-31	Hippoglossus hippoglossus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Pleuronectiformes	PacBio CLR
+GCA_947347685.1	3328	3309	19	8	18	173	8262	2022-11-29	Pleuronectes platessa	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Artiodactyla	PacBio HiFi
+GCA_949316205.1	3334	3323	11	4	16	130	8260	2023-04-05	Platichthys flesus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Pleuronectiformes	PacBio HiFi
+GCA_963576545.1	3339	3304	35	6	9	117	27771	2023-11-03	Limanda limanda	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Pleuronectiformes	PacBio HiFi
+GCA_964266715.1	3337	3319	18	5	12	126	106175	2024-09-26	Microstomus kitt	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Pleuronectiformes	PacBio HiFi
+GCA_958295425.1	3342	3329	13	5	7	135	90069	2023-07-06	Solea solea	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Pleuronectiformes	PacBio HiFi
+GCA_963457635.1	3332	3314	18	7	15	149	90074	2023-09-20	Microchirus variegatus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Pleuronectiformes	PacBio HiFi
+GCA_963854745.1	3332	3321	11	4	18	149	52904	2023-12-15	Scophthalmus maximus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Pleuronectiformes	PacBio HiFi
+GCA_900963305.2	3350	3316	34	1	3	141	173247	2021-04-24	Echeneis naucrates	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Carangiformes	PacBio CLR
+GCA_905171665.2	3336	3315	21	3	15	141	36212	2021-11-26	Trachurus trachurus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Carangiformes	PacBio CLR
+GCA_900634625.2	3340	3263	77	5	9	178	210632	2020-07-31	Parambassis ranga	Actinopterygii	Actinopteri	Teleostei	Neopterygii			PacBio CLR
+GCA_007364275.2	3339	3276	63	4	11	187	63155	2019-08-01	Archocentrus centrarchus	Actinopterygii	Actinopteri	Teleostei	Neopterygii	Cichlomorphae	Cichliformes	PacBio CLR
+GCA_900246225.5	3302	3250	52	10	42	140	8154	2021-04-24	Astatotilapia calliptera	Actinopterygii	Actinopteri	Teleostei	Neopterygii	Cichlomorphae	Cichliformes	PacBio CLR
+GCA_963969265.1	3334	3310	24	5	15	135	454631	2024-02-26	Rhamphochromis sp. 'chilingali'	Actinopterygii	Actinopteri	Teleostei	Neopterygii	Cichlomorphae	Cichliformes	PacBio HiFi
+GCA_020382885.1	3352	3349	3	2	0	124	75038	2021-10-13	Scatophagus argus	Actinopterygii	Actinopteri	Teleostei	Neopterygii			PacBio CLR
+GCA_014839685.1	3350	3346	4	0	4	197	195821	2020-10-02	Anableps anableps	Actinopterygii	Actinopteri	Teleostei	Neopterygii	Atherinomorphae	Cyprinodontiformes	PacBio CLR
+GCA_021462225.2	3348	3238	110	0	6	129	208333	2022-02-24	Girardinichthys multiradiatus	Actinopterygii	Actinopteri	Teleostei	Neopterygii	Atherinomorphae	Cyprinodontiformes	PacBio CLR
+GCA_037039145.1	3328	3320	8	7	19	137	54267	2024-03-06	Fundulus diaphanus	Actinopterygii	Actinopteri	Teleostei	Neopterygii	Atherinomorphae	Cyprinodontiformes	PacBio HiFi
+GCA_963514085.1	3338	3326	12	10	6	156	48171	2023-09-29	Chelon labrosus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Mugiliformes	PacBio HiFi
+GCF_017639745.1	3348	3334	14	2	4	135	1250792	2021-03-30	Melanotaenia boesemani	Actinopterygii	Actinopteri	Teleostei	Neopterygii	Atherinomorphae	Atheriniformes	PacBio CLR
+GCA_933228915.1	3318	3309	9	20	16	137	446457	2022-03-23	Telmatherina bonti	Actinopterygii	Actinopteri	Teleostei	Neopterygii	Atherinomorphae	Atheriniformes	PacBio HiFi
+GCA_027942865.1	3350	3342	8	3	1	116	219752	2023-01-24	Odontesthes bonariensis	Actinopterygii	Actinopteri	Teleostei	Neopterygii	Atherinomorphae	Atheriniformes	PacBio HiFi
+GCA_014839995.1	3316	3306	10	14	24	130	129108	2020-10-02	Xenentodon cancila	Actinopterygii	Actinopteri	Teleostei	Neopterygii	Atherinomorphae	Beloniformes	PacBio CLR
+GCA_020510985.1	3342	3307	35	4	8	148	390368	2021-10-15	Pholidichthys leucotaenia	Actinopterygii	Actinopteri	Teleostei		Laurasiatheria	Perissodactyla	PacBio CLR
+GCA_949357725.1	3268	3250	18	39	46	108	1484357	2023-04-08	Hyperoplus immaculatus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Uranoscopiformes	PacBio HiFi
+GCA_949987685.1	3305	3286	19	22	26	119	146480	2023-05-03	Ammodytes marinus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Uranoscopiformes	PacBio HiFi
+GCA_902148845.1	3314	3107	207	12	28	253	181472	2019-07-03	Salarias fasciatus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Blenniiformes	PacBio CLR
+GCA_963422515.1	3283	3269	14	31	40	243	195075	2023-09-13	Blennius ocellaris	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Blenniiformes	PacBio HiFi
+GCA_963383615.1	3341	3336	5	5	8	164	56720	2023-08-26	Lipophrys pholis	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Blenniiformes	PacBio HiFi
+GCA_019677235.1	3340	3276	64	7	7	190	27706	2021-08-19	Micropterus salmoides	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Centrarchiformes	PacBio CLR
+GCA_009762535.1	3228	3216	12	32	94	199	1203425	2019-12-18	Notolabrus celidotus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Labriformes	PacBio CLR
+GCA_020745685.1	3340	3329	11	5	9	167	34787	2021-11-05	Tautogolabrus adspersus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Labriformes	PacBio CLR
+GCA_963584025.1	3347	3337	10	2	5	126	508554	2023-11-05	Labrus mixtus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Labriformes	PacBio HiFi
+GCA_947650265.1	3278	3268	10	30	46	164	171736	2022-12-21	Symphodus melops	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Labriformes	PacBio HiFi
+GCA_963930695.1	3327	3315	12	11	16	163	56723	2024-01-31	Labrus bergylta	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Labriformes	PacBio HiFi
+GCA_900634415.1	3116	3077	39	51	187	309	56716	2019-02-06	Cottoperca gobio	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Perciformes	PacBio CLR
+GCA_904848185.1	3353	3345	8	1	0	111	8177	2020-10-12	Acanthopagrus latus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Spariformes	PacBio CLR
+GCA_910591455.2	3340	3332	8	5	9	130	56726	2021-11-18	Pholis gunnellus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Perciformes	PacBio HiFi
+GCA_028022725.1	3325	3301	24	11	18	145	1772091	2023-01-31	Lycodopsis pacificus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Perciformes	PacBio HiFi
+GCA_949748355.1	3325	3289	36	11	18	142	1091424	2023-04-08	Melanostigma gelatinosum	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Perciformes	PacBio HiFi
+GCA_949606895.1	3202	3190	12	75	77	200	101497	2023-04-08	Notothenia rossii	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Perciformes	PacBio HiFi
+GCA_963514095.1	3344	3337	7	6	4	163	426098	2023-09-29	Eutrigla gurnardus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Perciformes	PacBio HiFi
+GCA_017976325.1	3352	3340	12	2	0	132	109905	2021-04-15	Chelmon rostratus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Chaetodontiformes	PacBio CLR
+GCA_039877785.1	3349	3339	10	3	2	107	109706	2024-05-29	Chaetodon trifascialis	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Chaetodontiformes	PacBio HiFi
+GCA_900880675.2	3330	3305	25	8	16	134	8175	2021-04-24	Sparus aurata	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Spariformes	PacBio CLR
+GCA_013358685.1	3313	3284	29	15	26	143	882753	2020-06-18	Antennarius maculatus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Lophiiformes	PacBio CLR
+GCA_901000725.3	3297	3168	129	15	42	240	31033	2021-04-24	Takifugu rubripes	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Tetraodontiformes	PacBio CLR
+GCA_042242105.1	3353	3326	27	1	0	113	3127111	2024-09-25	Pempheris klunzingeri	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Acropomatiformes	PacBio HiFi
+GCA_902148855.1	3332	3226	106	12	10	223	375764	2019-07-03	Sphaeramia orbicularis	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Kurtiformes	PacBio CLR
+GCA_900634775.2	3283	3209	74	16	55	218	441366	2020-07-31	Gouania willdenowi	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Blenniiformes	PacBio CLR
+GCA_963691815.1	3342	3328	14	5	7	137	94984	2023-12-07	Echiichthys vipera	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Perciformes	PacBio HiFi
+GCA_009769545.1	3294	3275	19	13	47	229	8103	2019-12-23	Cyclopterus lumpus	Actinopterygii	Actinopteri	Teleostei		Laurasiatheria	Chiroptera	PacBio CLR
+GCA_015220745.1	3312	3292	20	8	34	154	72105	2020-11-03	Sebastes umbrosus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Perciformes	PacBio CLR
+GCA_043250625.1	3335	3324	11	13	6	120	394691	2024-10-17	Sebastes fasciatus	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Perciformes	PacBio HiFi
+GCA_910589615.1	3337	3325	12	8	9	152	61643	2021-07-07	Taurulus bubalis	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Perciformes	PacBio HiFi
+GCA_949316345.1	3334	3321	13	10	10	153	134920	2023-04-08	Pungitius pungitius	Actinopterygii	Actinopteri	Teleostei	Neopterygii		Perciformes	PacBio HiFi
+GCA_035084275.1	2950	2926	24	50	354	135	7873	2024-01-05	Hydrolagus colliei		Chondrichthyes		Holocephali		Chimaeriformes	PacBio HiFi
+GCA_036365525.1	3274	3241	33	28	52	67	7792	2024-02-06	Heterodontus francisci		Chondrichthyes	Selachii	Elasmobranchii	Heterodontoidea	Heterodontiformes	PacBio HiFi
+GCA_020745735.1	3292	3273	19	19	43	60	170820	2021-11-05	Hemiscyllium ocellatum		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Orectolobiformes	PacBio CLR
+GCA_030684315.1	3227	3207	20	32	95	62	3053191	2023-08-08	Stegostoma tigrinum		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Chiroptera	PacBio HiFi
+GCA_017639515.1	3289	3271	18	31	34	60	13397	2021-03-30	Carcharodon carcharias		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Lamniformes	PacBio CLR
+GCA_964194155.1	3268	3241	27	52	34	62	57982	2024-06-28	Cetorhinus maximus		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Lamniformes	PacBio HiFi
+GCA_902713615.2	3202	3164	38	45	107	145	7830	2021-01-28	Scyliorhinus canicula		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Carcharhiniformes	PacBio CLR
+GCA_964213995.1	3245	3222	23	56	53	71	112232	2024-08-22	Mustelus asterias		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Carcharhiniformes	PacBio HiFi
+GCA_035084215.1	3228	3197	31	50	75	82	212740	2024-01-05	Heptranchias perlo		Chondrichthyes	Selachii	Elasmobranchii		Hexanchiformes	PacBio HiFi
+GCA_036971175.1	3181	3150	31	41	132	96	1343680	2024-03-06	Mustela lutreola	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi
+GCA_010909765.2	3189	3163	26	40	125	112	386614	2020-02-21	Amblyraja radiata		Chondrichthyes		Elasmobranchii	Batoidea	Rajiformes	PacBio CLR
+GCA_963514005.1	3201	3183	18	47	106	109	223862	2023-09-28	Raja brachyura		Chondrichthyes		Elasmobranchii	Batoidea	Rajiformes	PacBio HiFi
+GCA_009764475.2	3250	3231	19	23	81	214	685728	2019-12-19	Pristis pectinata		Chondrichthyes		Elasmobranchii	Batoidea	Rhinopristiformes	PacBio CLR
+GCA_030144855.1	3268	3241	27	27	59	74	79690	2023-06-05	Hypanus sabinus		Chondrichthyes		Elasmobranchii	Batoidea	Myliobatiformes	PacBio HiFi
+GCA_030028105.1	3272	3242	30	24	58	65	1983395	2023-05-22	Mobula birostris		Chondrichthyes		Elasmobranchii	Batoidea	Myliobatiformes	PacBio HiFi
+GCA_037176945.1	3343	3332	11	5	6	59	7897	2024-03-18	Latimeria chalumnae	Sarcopterygii					Coelacanthiformes	PacBio HiFi
+GCA_010993605.1	2589	2540	49	107	658	213	7757	2020-02-24	Petromyzon marinus		Hyperoartia				Petromyzontiformes	PacBio CLR
+GCA_964198595.1	2566	2516	50	129	658	210	7748	2024-07-13	Lampetra fluviatilis		Hyperoartia				Petromyzontiformes	PacBio HiFi
+GCA_019207075.1	2424	2388	36	90	840	131	2700040	2021-07-13	Branchiostoma floridae x Branchiostoma belcheri		Leptocardii				Amphioxiformes	missing
+GCA_015852565.1	2413	2375	38	95	846	136	2700039	2020-12-09	Branchiostoma floridae x Branchiostoma japonicum		Leptocardii				Amphioxiformes	missing
+GCA_035083965.1	2423	2385	38	82	849	125	7740	2024-01-05	Branchiostoma lanceolatum		Leptocardii				Amphioxiformes	PacBio HiFi
+GCA_902459465.3	2170	2147	23	103	1081	83	7604	2020-02-12	Asterias rubens	Asterozoa	Asteroidea			Forcipulatacea	Forcipulatida	PacBio CLR
+GCA_040954625.1	2361	2314	47	73	920	118	3154068	2024-08-01	Saccoglossus sp. HW-2024a		Enteropneusta					PacBio HiFi
+GCA_918807975.1	1675	1600	75	108	1571	89	2771288	2021-11-19	Aplidium turbinatum		Ascidiacea				Aplousobranchia	PacBio HiFi
+GCA_963082875.1	1650	1636	14	117	1587	109	431183	2023-08-09	Corella eumyota		Ascidiacea				Phlebobranchia	PacBio HiFi
+GCA_947623445.1	1697	1676	21	118	1539	112	159417	2022-12-19	Clavelina lepadiformis		Ascidiacea				Aplousobranchia	PacBio HiFi
+GCA_963924565.1	1669	1650	19	118	1567	100	201961	2024-01-29	Ascidiella aspersa		Ascidiacea				Phlebobranchia	PacBio HiFi
+GCA_964204865.1	1774	1755	19	126	1454	70	7725	2024-07-27	Styela clava		Ascidiacea				Stolidobranchia	PacBio HiFi
+GCA_947561715.1	1686	1666	20	117	1551	171	38561	2022-12-11	Ascidia mentula		Ascidiacea				Phlebobranchia	PacBio HiFi
