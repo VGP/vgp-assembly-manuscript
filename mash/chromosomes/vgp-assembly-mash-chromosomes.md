@@ -6,11 +6,16 @@ Download VGP Bioproject metadata:
 datasets summary genome accession PRJNA489243 > vgp-metadata.json
 ```
 ## list VGP repo
-We can use [jq](https://jqlang.github.io/jq/) to parse the repo (here is jq's [manual](https://jqlang.github.io/jq/manual/)):
+We can use [jq](https://jqlang.github.io/jq/) to parse the repo (here is jq's [manual](https://jqlang.github.io/jq/manual/)), selecting only primary/complete genomes:
 ```
-cat vgp-metadata.json | jq -r '.reports[] | .accession + "," + .assembly_info.assembly_name + "," + (.assembly_info.biosample.attributes[] | select(.name=="scientific_name").value) // .accession + "," + .assembly_info.assembly_name + ","' > accession_metadata.ls
+cat vgp-metadata.json | 
+jq -r '.reports[] | 
+.accession + "," + .assembly_info.assembly_name + "," + '.assembly_info.assembly_type' + "," + .assembly_info.diploid_role + "," + .assembly_info.assembly_level + "," + (.assembly_info.biosample.attributes[] | select(.name=="scientific_name").value) // 
+.accession + "," + .assembly_info.assembly_name + "," + '.assembly_info.assembly_type' + "," + .assembly_info.diploid_role + "," + .assembly_info.assembly_level' | \
+grep -v alt | grep Chromosome > accession_metadata.ls
 cat accession_metadata.ls
 ```
+Note: we used jq's alternative operator `\\` in case species not set
 ## Download assemblies
 We can download a random subset of genomes combining jq's and NCBI's datasets functionalities, then compute [mash](https://github.com/marbl/Mash) sketches and all-vs-all distances.
 First compute individual mash sketches:
@@ -40,26 +45,16 @@ do
 		exit 1
 	fi
 	
-	mash sketch -s 10000000 $genome
-	mv $genome.msh sketches
-	rm -r $accession.zip $accession
+	gfastats -s s $genome | cut -f1 > chr.ls # assembled molecules only
+	gfastats -i <(grep $(cut -c1-2 chr.ls | uniq | head -1) chr.ls) $genome -o $accession.chr.fa
+	mash sketch -p 32 -i -s 10000000 $accession.chr.fa # parellized 32 ways, per chromosome, 10M hashes
+	mv $accession.chr.fa.msh sketches
+	rm -r $accession.chr.fa $accession.zip $accession
 done<accession_metadata.ls
 ```
-Next compute triangular mash distance matrix:
+Next compute triangular mash distance matrix with [distance_matrix.sh](../distance_matrix.sh):
 ```
-#!/bin/bash
-
-readarray -t in < genome_list.tsv # input list
-
-for (( i=0; i<${#in[@]}; i++ )); do # triangular matrix
-    for (( j=0; j<${#in[@]}; j++ )); do
-        if [ $j -gt $i ]; then # sketch and get the dist
-        	accession1=${in[$i]%%$'\t'*}
-        	accession2=${in[$j]%%$'\t'*}
-            echo $accession1 $accession2 $(mash dist sketches/$accession1* sketches/$accession2* | cut -f3-5)
-        fi
-    done
-done
+bash distance_matrix.sh genome_list.tsv
 ```
 
 We can now run `distance_hist.py` to get the histogram of the distances.
@@ -73,3 +68,5 @@ printf "Accession 1,Tolid 1,Class 1,Accession 2,Tolid 2,Class 2,D\n" > filtered_
 awk 'FNR==NR{a[$1]=$2; next} {FS=" "} {$0=$0; if ($3<0.2) printf $1","a[$1]","substr(a[$1], 1, 1)","$2","a[$2]","substr(a[$2], 1, 1)","$3"\n"}' FS="," accession_metadata.ls distance_matrix.txt >> filtered_distance_matrix.txt
 ```
 This can then be visualized in tools such as Cytoscape.
+We can also generate a heatmap/hierarchical clustering using the distance matrix:
+python distance_heatmap.py
