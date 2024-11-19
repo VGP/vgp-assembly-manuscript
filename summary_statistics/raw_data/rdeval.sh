@@ -19,9 +19,11 @@ do
 
     while read -r -u 4 SAMPLE SRR SRX INSTR LIB_STR
     	do
-        	printf "downloading: $SAMPLE\t$SRR\t$SRX\n"
-        	fasterq-dump $SRR
-        done 4< <(grep SMRT accessions.ls)
+        	if [ ! -f $SRR.fastq ]; then
+        	  printf "downloading: $SAMPLE\t$SRR\t$SRX\n"
+        	  fasterq-dump $SRR
+        	fi
+        done 4< <(grep SMRT accessions.ls | awk '{if ($6!=0) print}')
 
     printf "$SAMPLE\t" >> rdeval.tsv
     rdeval -r *.fastq | awk -F': ' '{print $2}' | sed 1d | sed -z 's/\n/\t/g; s/.$//' >> rdeval.tsv
@@ -30,4 +32,4 @@ do
     rdeval *.fastq -s c | sed -z 's/\n/;/g' >> rdevalCumInv.tsv
 
 	rm -f *.fastq
-done 3< <(grep 'ERS\|SRS' raw_data_metadata.ls | awk '{if ($6!=0) print}')
+done 3< <(grep 'ERS\|SRS' raw_data_metadata.ls)
