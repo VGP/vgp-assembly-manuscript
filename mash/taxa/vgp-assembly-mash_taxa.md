@@ -13,10 +13,13 @@ cat accession_metadata.ls
 ```
 ## Download assemblies
 We can download a random subset of genomes combining jq's and NCBI's datasets functionalities, then compute [mash](https://github.com/marbl/Mash) sketches and all-vs-all distances.
-First compute individual mash sketches with [sketch_genomes.sh](sketch_genomes.sh).
+First compute individual mash sketches with [sketch_genomes.sh](sketch_genomes.sh):
+```
+bash sketch_genomes.sh false 32 # do not subset, nthreads
+```
 Next compute triangular mash distance matrix with [distance_matrix.sh](distance_matrix.sh):
 ```
-bash distance_matrix genome_list.tsv
+bash distance_matrix.sh genome_list.tsv
 ```
 
 We can now run `distance_hist.py` to get the histogram of the distances.

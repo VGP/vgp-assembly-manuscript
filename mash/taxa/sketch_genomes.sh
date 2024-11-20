@@ -2,6 +2,7 @@
 set -e
 
 SUBSET=${1:-false}
+SUBSET=${2:-32}
 
 SEED=42
 mkdir -p sketches
@@ -25,7 +26,7 @@ do
 		exit 1
 	fi
 
-	mash sketch -s 10000000 $genome
+	mash sketch -p $THREAD -s 10000000 $genome
 	mv $genome.msh sketches
 	rm -r $accession.zip $accession
 done<accession_metadata.ls
