@@ -1,0 +1,42 @@
+Accession	Tax_ID	Submission_Date	Number_Contigs	Contig_N50	Contig_N90	Assembly_Size	Species_name	Super_class	Class	Infra_class	Sub_class	Super_order	Order	Sequencing_type
+GCA_003427335.1	137246	2018-08-02	467906	20717	2663	3043880664	Chiloscyllium punctatum		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Orectolobiformes	missing
+GCA_003427355.1	75743	2018-08-02	1083680	6732	1378	3653673366	Scyliorhinus torazame		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Carcharhiniformes	missing
+GCA_012026655.1	1459831	2020-04-03	252783	15857	1350	1113541090	Hydrolagus affinis		Chondrichthyes		Holocephali		Chimaeriformes	missing
+GCA_024137785.1	7801	2022-06-30	69171	55429	18566	2473671363	Ginglymostoma cirratum		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Orectolobiformes	missing
+GCA_024679065.1	195334	2022-08-15	4248	3933132	458590	2772466352	Sphyrna mokarran		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Carcharhiniformes	missing
+GCA_026260435.1	7798	2022-11-21	187146	127514	15067	4729392758	Squalus suckleyi		Chondrichthyes	Selachii	Elasmobranchii		Squaliformes	missing
+GCA_026770705.1	57983	2022-12-09	7410	4177150	353767	4975295872	Isurus oxyrinchus		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Lamniformes	PacBio HiFi
+GCA_030035685.1	1983395	2023-05-22	3300	8612779	606557	3579117238	Mobula birostris		Chondrichthyes		Elasmobranchii	Batoidea	Myliobatiformes	PacBio HiFi
+GCA_030264375.1	302049	2023-06-13	656966	5188	1590	2260469970	Carcharhinus longimanus		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Carcharhiniformes	missing
+GCA_030265395.1	3025902	2023-06-13	656834	4260	1328	1877600436	Rhina ancylostomus		Chondrichthyes		Elasmobranchii	Batoidea	Rhinopristiformes	missing
+GCA_030324005.1	7821	2023-06-22	917597	3375	1135	2169338174	Negaprion brevirostris		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Carcharhiniformes	missing
+GCA_030390025.1	7797	2023-07-03	9353	1715360	180465	3711563034	Squalus acanthias		Chondrichthyes	Selachii	Elasmobranchii		Squaliformes	missing
+GCA_031763465.1	263718	2023-09-20	1378695	1056	562	1309058706	Squatina squatina		Chondrichthyes	Selachii	Elasmobranchii	Squatiniformes		missing
+GCA_032162045.1	3071792	2023-09-28	1530099	1798	406	1672479157	Torpedo suessii		Chondrichthyes		Elasmobranchii	Batoidea	Torpediniformes	missing
+GCA_032362145.1	2760903	2023-10-04	1235962	2604	936	2369504584	Hypanus berthalutzae		Chondrichthyes		Elasmobranchii	Batoidea	Myliobatiformes	missing
+GCA_034780895.1	335006	2023-12-28	872185	2863	1021	1843403912	Rhynchobatus australiae		Chondrichthyes		Elasmobranchii	Batoidea	Rhinopristiformes	missing
+GCA_035084275.1	7873	2024-01-05	2484	1059761	173370	1002782278	Hydrolagus colliei		Chondrichthyes		Holocephali		Chimaeriformes	PacBio HiFi
+GCA_035221665.1	432798	2024-01-12	5833	1483976	204262	2754385657	Okamejei kenojei		Chondrichthyes		Elasmobranchii	Batoidea	Rajiformes	missing
+GCA_036785375.1	173042	2024-02-23	19048	305059	77230	3439713060	Leucoraja ocellata		Chondrichthyes		Elasmobranchii	Batoidea	Rajiformes	PacBio HiFi
+GCA_036971175.1	1343680	2024-03-06	1952	5005593	838877	3109976173	Narcine bancroftii		Chondrichthyes		Elasmobranchii	Batoidea	Torpediniformes	PacBio HiFi
+GCA_037974335.1	7815	2024-04-08	1904	5319141	657817	3227307048	Prionace glauca		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Carcharhiniformes	missing
+GCA_038087875.1	1072478	2024-04-17	19274	150120	44330	1940914328	Malacoraja senta		Chondrichthyes		Elasmobranchii	Batoidea	Rajiformes	PacBio HiFi
+GCA_044704955.1	55135	2024-11-13	10302	1893048	338545	5921854391	Pristiophorus japonicus		Chondrichthyes	Selachii	Elasmobranchii	Pristiophoriformes		PacBio HiFi
+GCA_902713615.2	7830	2021-01-28	7791	1855773	254691	4156169183	Scyliorhinus canicula		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Carcharhiniformes	PacBio CLR
+GCA_963514005.1	223862	2023-09-28	3916	2048057	381198	2700013873	Raja brachyura		Chondrichthyes		Elasmobranchii	Batoidea	Rajiformes	PacBio HiFi
+GCA_964194155.1	57982	2024-06-28	7866	1961965	302312	3993310905	Cetorhinus maximus		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Lamniformes	PacBio HiFi
+GCA_964213995.1	112232	2024-08-22	8904	1197343	218505	3679074345	Mustelus asterias		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Carcharhiniformes	PacBio HiFi
+GCF_004010195.1	36176	2019-01-10	258531	39767	6134	3352367770	Chiloscyllium plagiosum		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Orectolobiformes	missing
+GCF_009764475.1	685728	2019-12-19	870	17009522	2113481	2247278111	Pristis pectinata		Chondrichthyes		Elasmobranchii	Batoidea	Rhinopristiformes	PacBio CLR
+GCF_010909765.2	386614	2020-02-21	4710	1419197	221657	2367812420	Amblyraja radiata		Chondrichthyes		Elasmobranchii	Batoidea	Rajiformes	missing
+GCF_017639515.1	13397	2021-03-30	3364	6544962	585221	4267160923	Carcharodon carcharias		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Lamniformes	PacBio CLR
+GCF_018977255.1	7868	2021-06-21	16152	112251	31181	991467970	Callorhinchus milii		Chondrichthyes		Holocephali		Chimaeriformes	PacBio CLR
+GCF_020745735.1	170820	2021-11-05	5678	8845575	220415	3905901714	Hemiscyllium ocellatum		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Orectolobiformes	PacBio CLR
+GCF_021869965.1	259920	2022-02-03	112003	48454	12587	2639418029	Rhincodon typus		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Orectolobiformes	missing
+GCF_028641065.1	7782	2023-02-22	2631	5196943	467743	2190780661	Leucoraja erinaceus		Chondrichthyes		Elasmobranchii	Batoidea	Rajiformes	missing
+GCF_030144855.1	79690	2023-06-05	4637	4266932	448615	4044539443	Hypanus sabinus		Chondrichthyes		Elasmobranchii	Batoidea	Myliobatiformes	PacBio HiFi
+GCF_030684315.1	3053191	2023-08-08	1994	6162596	939944	3181408905	Stegostoma tigrinum		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Orectolobiformes	PacBio HiFi
+GCF_035084215.1	212740	2024-01-05	3713	4905566	460839	3249549108	Heptranchias perlo		Chondrichthyes	Selachii	Elasmobranchii		Hexanchiformes	PacBio HiFi
+GCF_036365525.1	7792	2024-02-06	5087	3418954	699970	5984679151	Heterodontus francisci		Chondrichthyes	Selachii	Elasmobranchii	Heterodontoidea	Heterodontiformes	PacBio HiFi
+GCF_902713615.1	7830	2020-12-17	7792	1855773	254691	4156185880	Scyliorhinus canicula		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Carcharhiniformes	PacBio CLR
+GCF_963921235.1	723540	2024-01-06	897	23327000	2102019	3475540093	Mobula hypostoma		Chondrichthyes		Elasmobranchii	Batoidea	Myliobatiformes	Oxford Nanopore

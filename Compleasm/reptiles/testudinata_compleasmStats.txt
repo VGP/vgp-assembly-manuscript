@@ -1,0 +1,47 @@
+Accession	Complete_compleasm	Single_compleasm	Duplicated_compleasm	Fragmented_compleasm	Missing_compleasm	Frameshift_compleasm	Tax_ID	Submission_Date	Species_name	Super_class	Class	Infra_class	Sub_class	Super_order	Order	Sequencing_type	Submitter
+GCA_002896415.1	3163	3148	15	113	77	96	38772	2018-01-24	Gopherus agassizii	Sarcopterygii			Testudinata		Testudines	Illumina	Arizona State University
+GCA_003846335.1	3252	3190	62	87	15	75	241437	2018-11-28	Cuora mccordi	Sarcopterygii			Testudinata		Testudines	missing	McDonnell Genome Institute - Washington University School of Medicine
+GCA_003942145.1	3342	3333	9	8	4	54	55544	2018-12-12	Platysternon megacephalum	Sarcopterygii			Testudinata		Testudines	Illumina	Institute of Zoology,  Guangdong Academy of Sciences
+GCA_004028625.2	2836	2768	68	402	111	117	74909	2019-03-22	Cuora amboinensis	Sarcopterygii			Testudinata		Testudines	Illumina	McDonnell Genome Institute - Washington University School of Medicine
+GCA_007922155.1	3325	3181	144	19	10	91	904206	2019-08-05	Mesoclemmys tuberculata	Sarcopterygii			Testudinata		Testudines	missing	McDonnell Genome Institute - Washington University School of Medicine
+GCA_007922175.1	3311	3280	31	35	8	89	367368	2019-08-01	Pelusios castaneus	Sarcopterygii			Testudinata		Testudines	missing	McDonnell Genome Institute - Washington University School of Medicine
+GCA_007922195.1	3336	3310	26	13	5	64	44507	2019-08-05	Podocnemis expansa	Sarcopterygii			Testudinata		Testudines	missing	McDonnell Genome Institute - Washington University School of Medicine
+GCA_007922225.1	3346	3271	75	5	3	74	251359	2019-08-05	Emydura subglobosa	Sarcopterygii			Testudinata		Testudines	missing	McDonnell Genome Institute - Washington University School of Medicine
+GCA_007922305.1	3322	3265	57	22	8	71	55550	2019-08-05	Dermatemys mawii	Sarcopterygii			Testudinata		Testudines	missing	McDonnell Genome Institute - Washington University School of Medicine
+GCA_019425775.1	3348	3335	13	1	5	246	904230	2021-07-30	Rafetus swinhoei	Sarcopterygii			Testudinata		Testudines	Oxford Nanopore	Center for Ecological and Environmental Sciences
+GCA_022086475.1	3299	3272	27	4	51	62	335395	2022-02-09	Actinemys marmorata	Sarcopterygii			Testudinata		Testudines	PacBio HiFi	UCLA
+GCA_023634205.1	3353	3340	13	0	1	60	1485138	2022-06-01	Actinemys pallida	Sarcopterygii			Testudinata		Testudines	PacBio HiFi	UCLA
+GCA_026122505.1	3353	3341	12	0	1	74	167804	2022-11-15	Aldabrachelys gigantea	Sarcopterygii			Testudinata		Testudines	PacBio HiFi	University of Zurich
+GCA_030012505.1	3351	3344	7	0	3	53	27787	2023-05-15	Eretmochelys imbricata	Sarcopterygii			Testudinata		Testudines	PacBio HiFi	Guangdong Ocean University
+GCA_030068395.1	3010	3000	10	167	175	122	55534	2023-06-05	Apalone spinifera	Sarcopterygii			Testudinata		Testudines	Illumina	Iowa State University
+GCA_032164245.1	3207	3195	12	11	136	69	142480	2023-09-29	Sternotherus odoratus	Sarcopterygii			Testudinata		Testudines	PacBio HiFi	Canadas Genomic Enterprise
+GCA_032172135.1	3273	3247	26	8	73	48	335392	2023-09-28	Glyptemys insculpta	Sarcopterygii			Testudinata		Testudines	PacBio HiFi	Canadas Genomic Enterprise
+GCA_032595735.1	3304	3301	3	3	47	89	171793	2023-10-12	Pelochelys cantorii	Sarcopterygii			Testudinata		Testudines	missing	Pearl River Fisheries Research Institute, Chinese Academy of Fishery Sciences
+GCA_033296515.1	3342	3310	32	1	11	76	3026461	2023-11-06	Macrochelys suwanniensis	Sarcopterygii			Testudinata		Testudines	PacBio HiFi	Vertebrate Genomes Project
+GCA_033958435.1	3347	3340	7	3	4	69	44489	2023-11-27	Carettochelys insculpta	Sarcopterygii			Testudinata		Testudines	PacBio HiFi	Northwestern Polytechnical University
+GCA_036785055.1	3347	3329	18	1	6	56	85613	2024-02-23	Emydoidea blandingii	Sarcopterygii			Testudinata		Testudines	PacBio HiFi	Canadas Genomic Enterprise
+GCA_037349215.1	3350	3296	54	1	3	64	8481	2024-03-20	Graptemys geographica	Sarcopterygii			Testudinata		Testudines	PacBio HiFi	Canadas national platform for genome sequencing and analysis
+GCA_037349315.1	3343	3261	82	6	5	79	8475	2024-03-20	Chelydra serpentina	Sarcopterygii			Testudinata		Testudines	PacBio HiFi	Canadas national platform for genome sequencing and analysis
+GCA_040208395.1	3351	3334	17	0	3	61	85608	2024-06-20	Clemmys guttata	Sarcopterygii			Testudinata		Testudines	PacBio HiFi	Canadas national platform for genome sequencing and analysis
+GCA_040782865.1	3327	3295	32	21	6	87	86975	2024-07-19	Testudo graeca	Sarcopterygii			Testudinata		Testudines	Illumina	Miguel Hernandez University
+GCA_040894355.1	3351	3346	5	0	3	76	1041117	2024-07-26	Myuchelys georgesi	Sarcopterygii			Testudinata		Testudines	PacBio HiFi	The University of Sydney
+GCA_044707075.1	3290	3277	13	50	14	96	55537	2024-11-13	Staurotypus triporcatus	Sarcopterygii			Testudinata		Testudines	Illumina	Iowa State University
+GCA_044758175.1	3189	3186	3	133	31	133	101491	2024-11-10	Trionyx triunguis	Sarcopterygii			Testudinata		Testudines	Illumina	Iridian Genomes
+GCA_044758195.1	3313	3310	3	36	5	90	158814	2024-11-10	Terrapene carolina	Sarcopterygii			Testudinata		Testudines	Illumina	Iridian Genomes
+GCA_044758295.1	3316	3315	1	35	3	90	44522	2024-11-10	Pelomedusa subrufa	Sarcopterygii			Testudinata		Testudines	Illumina	Iridian Genomes
+GCA_044758505.1	3320	3318	2	27	7	86	260652	2024-11-10	Rhinoclemmys areolata	Sarcopterygii			Testudinata		Testudines	Illumina	Iridian Genomes
+GCA_044758685.1	3204	3198	6	122	28	161	904225	2024-11-10	Trachemys venusta	Sarcopterygii			Testudinata		Testudines	Illumina	Iridian Genomes
+GCF_000230535.1	3175	3161	14	113	65	190	13735	2012-07-24	Pelodiscus sinensis	Sarcopterygii			Testudinata		Testudines	Illumina	P. sinensis genome project consortium
+GCF_002925995.2	3275	2927	348	59	20	85	2587831	2018-09-21	Terrapene triunguis	Sarcopterygii			Testudinata		Testudines	missing	McDonnell Genome Institute - Washington University School of Medicine
+GCF_003597395.1	3284	3278	6	62	8	124	106734	2018-09-25	Chelonoidis abingdonii	Sarcopterygii			Testudinata		Testudines	Illumina	Universidad de Oviedo
+GCF_007399415.2	3344	3310	34	2	8	143	1825980	2019-07-25	Gopherus evgoodei	Sarcopterygii			Testudinata		Testudines	PacBio CLR	Vertebrate Genomes Project
+GCF_009764565.3	3314	3310	4	10	30	161	27794	2021-08-25	Dermochelys coriacea	Sarcopterygii			Testudinata		Testudines	PacBio CLR	G10K
+GCF_011386835.1	3343	3320	23	6	5	77	8478	2023-09-08	Chrysemys picta bellii	Sarcopterygii			Testudinata		Testudines	PacBio HiFi	St. Louis University
+GCF_013100865.1	3234	3219	15	34	86	67	31138	2020-05-15	Trachemys scripta elegans	Sarcopterygii			Testudinata		Testudines	Illumina	California Academy of Sciences
+GCF_015237465.2	3350	3344	6	0	4	65	8469	2021-07-15	Chelonia mydas	Sarcopterygii			Testudinata		Testudines	PacBio CLR	Vertebrate Genomes Project
+GCF_016161935.1	3352	3328	24	1	1	61	260615	2020-12-22	Mauremys reevesii	Sarcopterygii			Testudinata		Testudines	Oxford Nanopore	Anhui normal university
+GCF_020497125.1	3351	3293	58	2	1	63	74926	2021-10-14	Mauremys mutica	Sarcopterygii			Testudinata		Testudines	PacBio CLR	Institute of Zoology, Guangdong Academy of Science
+GCF_023653815.1	3320	3311	9	3	31	70	8467	2022-06-07	Caretta caretta	Sarcopterygii			Testudinata		Testudines	Oxford Nanopore	Canadas Genomic Enterprise
+GCF_026122565.2	3349	3346	3	3	2	82	1129001	2024-07-25	Emydura macquarii macquarii	Sarcopterygii			Testudinata		Testudines	Oxford Nanopore	CSIRO Applied Genomics Initiative
+GCF_027887155.1	3349	3339	10	1	4	65	2991368	2023-01-18	Malaclemys terrapin pileata	Sarcopterygii			Testudinata		Testudines	PacBio HiFi	Vertebrate Genomes Project
+GCF_028017835.1	3342	3334	8	1	11	63	82168	2023-01-30	Emys orbicularis	Sarcopterygii			Testudinata		Testudines	PacBio HiFi	Vertebrate Genomes Project

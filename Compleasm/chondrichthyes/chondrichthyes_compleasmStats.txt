@@ -1,0 +1,42 @@
+Accession	Complete_compleasm	Single_compleasm	Duplicated_compleasm	Fragmented_compleasm	Missing_compleasm	Frameshift_compleasm	Tax_ID	Submission_Date	Species_name	Super_class	Class	Infra_class	Sub_class	Super_order	Order	Sequencing_type	Submitter
+GCA_003427335.1	3077	3068	9	153	123	112	137246	2018-08-02	Chiloscyllium punctatum		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Orectolobiformes	Illumina	Phyloinformatics Unit, Division of Bio-Function Dynamics Imaging, Center for Life Science Technologies, RIKEN
+GCA_003427355.1	2741	2713	28	395	215	111	75743	2018-08-02	Scyliorhinus torazame		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Carcharhiniformes	Illumina	Phyloinformatics Unit, Division of Bio-Function Dynamics Imaging, Center for Life Science Technologies, RIKEN
+GCA_012026655.1	1925	1909	16	995	419	75	1459831	2020-04-03	Hydrolagus affinis		Chondrichthyes		Holocephali		Chimaeriformes	Illumina	CIIMAR - Interdisciplinary Centre of Marine and Environmental Research
+GCA_024137785.1	3054	3034	20	106	194	113	7801	2022-06-30	Ginglymostoma cirratum		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Orectolobiformes	Illumina	Texas A&M University
+GCA_024679065.1	3272	3255	17	19	63	67	195334	2022-08-15	Sphyrna mokarran		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Carcharhiniformes	Illumina	Cornell University
+GCA_026260435.1	3165	3131	34	118	69	108	7798	2022-11-21	Squalus suckleyi		Chondrichthyes	Selachii	Elasmobranchii		Squaliformes	Illumina	Canadas Genomic Enterprise
+GCA_026770705.1	3273	3234	39	36	45	90	57983	2022-12-09	Isurus oxyrinchus		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Lamniformes	PacBio HiFi	Cornell University
+GCA_030035685.1	3216	3192	24	30	108	68	1983395	2023-05-22	Mobula birostris		Chondrichthyes		Elasmobranchii	Batoidea	Myliobatiformes	PacBio HiFi	Vertebrate Genomes Project
+GCA_030264375.1	3022	3010	12	173	159	246	302049	2023-06-13	Carcharhinus longimanus		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Carcharhiniformes	Illumina	Iridian Genomes
+GCA_030265395.1	3027	3013	14	158	168	258	3025902	2023-06-13	Rhina ancylostomus		Chondrichthyes		Elasmobranchii	Batoidea	Rhinopristiformes	Illumina	Iridian Genomes
+GCA_030324005.1	3013	2989	24	170	169	305	7821	2023-06-22	Negaprion brevirostris		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Carcharhiniformes	Illumina	Iridian Genomes
+GCA_030390025.1	3179	3151	28	82	93	116	7797	2023-07-03	Squalus acanthias		Chondrichthyes	Selachii	Elasmobranchii		Squaliformes	missing	Nord University
+GCA_031763465.1	537	534	3	1107	1707	603	263718	2023-09-20	Squatina squatina		Chondrichthyes	Selachii	Elasmobranchii	Squatiniformes		Illumina	Iridian Genomes
+GCA_032162045.1	173	169	4	1102	2052	39	3071792	2023-09-28	Torpedo suessii		Chondrichthyes		Elasmobranchii	Batoidea	Torpediniformes	Illumina	Natural History Museum Vienna
+GCA_032362145.1	2860	2845	15	235	258	364	2760903	2023-10-04	Hypanus berthalutzae		Chondrichthyes		Elasmobranchii	Batoidea	Myliobatiformes	Illumina	Iridian Genomes
+GCA_034780895.1	3004	2986	18	171	179	326	335006	2023-12-28	Rhynchobatus australiae		Chondrichthyes		Elasmobranchii	Batoidea	Rhinopristiformes	Illumina	Iridian Genomes
+GCA_035084275.1	2950	2926	24	50	354	135	7873	2024-01-05	Hydrolagus colliei		Chondrichthyes		Holocephali		Chimaeriformes	PacBio HiFi	Vertebrate Genomes Project
+GCA_035221665.1	3197	3173	24	35	122	190	432798	2024-01-12	Okamejei kenojei		Chondrichthyes		Elasmobranchii	Batoidea	Rajiformes	missing	BGI-Qingdao
+GCA_036785375.1	3082	1992	1090	79	193	207	173042	2024-02-23	Leucoraja ocellata		Chondrichthyes		Elasmobranchii	Batoidea	Rajiformes	PacBio HiFi	Canadas Genomic Enterprise
+GCA_036971175.1	3181	3150	31	41	132	96	1343680	2024-03-06	Narcine bancroftii		Chondrichthyes		Elasmobranchii	Batoidea	Torpediniformes	PacBio HiFi	Vertebrate Genomes Project
+GCA_037974335.1	3210	3148	62	31	113	91	7815	2024-04-08	Prionace glauca		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Carcharhiniformes	missing	shanghai ocean university
+GCA_038087875.1	1968	1904	64	181	1205	220	1072478	2024-04-17	Malacoraja senta		Chondrichthyes		Elasmobranchii	Batoidea	Rajiformes	PacBio HiFi	Canadas Genomic Enterprise
+GCA_044704955.1	3195	3162	33	85	74	91	55135	2024-11-13	Pristiophorus japonicus		Chondrichthyes	Selachii	Elasmobranchii	Pristiophoriformes		PacBio HiFi	Vertebrate Genomes Project
+GCA_902713615.2	3202	3164	38	45	107	145	7830	2021-01-28	Scyliorhinus canicula		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Carcharhiniformes	PacBio CLR	Wellcome Sanger Institute
+GCA_963514005.1	3201	3183	18	47	106	109	223862	2023-09-28	Raja brachyura		Chondrichthyes		Elasmobranchii	Batoidea	Rajiformes	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_964194155.1	3268	3241	27	52	34	62	57982	2024-06-28	Cetorhinus maximus		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Lamniformes	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_964213995.1	3245	3222	23	56	53	71	112232	2024-08-22	Mustelus asterias		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Carcharhiniformes	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCF_004010195.1	3188	3178	10	90	76	70	36176	2019-01-10	Chiloscyllium plagiosum		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Orectolobiformes	missing	BGI
+GCF_009764475.1	3250	3231	19	23	81	214	685728	2019-12-19	Pristis pectinata		Chondrichthyes		Elasmobranchii	Batoidea	Rhinopristiformes	PacBio CLR	Vertebrate Genomes Project
+GCF_010909765.2	3189	3163	26	40	125	112	386614	2020-02-21	Amblyraja radiata		Chondrichthyes		Elasmobranchii	Batoidea	Rajiformes	Illumina	Vertebrate Genomes Project
+GCF_017639515.1	3289	3271	18	31	34	60	13397	2021-03-30	Carcharodon carcharias		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Lamniformes	PacBio CLR	Vertebrate Genomes Project
+GCF_018977255.1	3170	3125	45	55	129	178	7868	2021-06-21	Callorhinchus milii		Chondrichthyes		Holocephali		Chimaeriformes	PacBio CLR	Institute of Molecular and Cell Biology, A*star, Singapore
+GCF_020745735.1	3292	3273	19	19	43	60	170820	2021-11-05	Hemiscyllium ocellatum		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Orectolobiformes	PacBio CLR	Vertebrate Genomes Project
+GCF_021869965.1	2876	2860	16	328	150	133	259920	2022-02-03	Rhincodon typus		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Orectolobiformes	Illumina	Squalomix
+GCF_028641065.1	3224	3182	42	30	100	160	7782	2023-02-22	Leucoraja erinaceus		Chondrichthyes		Elasmobranchii	Batoidea	Rajiformes	Illumina	Okinawa Institute of Science and Technology
+GCF_030144855.1	3268	3241	27	27	59	74	79690	2023-06-05	Hypanus sabinus		Chondrichthyes		Elasmobranchii	Batoidea	Myliobatiformes	PacBio HiFi	Vertebrate Genomes Project
+GCF_030684315.1	3227	3207	20	32	95	62	3053191	2023-08-08	Stegostoma tigrinum		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Orectolobiformes	PacBio HiFi	Vertebrate Genomes Project
+GCF_035084215.1	3228	3197	31	50	75	82	212740	2024-01-05	Heptranchias perlo		Chondrichthyes	Selachii	Elasmobranchii		Hexanchiformes	PacBio HiFi	Vertebrate Genomes Project
+GCF_036365525.1	3274	3241	33	28	52	67	7792	2024-02-06	Heterodontus francisci		Chondrichthyes	Selachii	Elasmobranchii	Heterodontoidea	Heterodontiformes	PacBio HiFi	Vertebrate Genomes Project
+GCF_902713615.1	3202	3164	38	45	107	145	7830	2020-12-17	Scyliorhinus canicula		Chondrichthyes	Selachii	Elasmobranchii	Galeoidea	Carcharhiniformes	PacBio CLR	SC
+GCF_963921235.1	3264	3242	22	22	68	68	723540	2024-01-06	Mobula hypostoma		Chondrichthyes		Elasmobranchii	Batoidea	Myliobatiformes	Oxford Nanopore	Centro Nacional de Analisis Genomico

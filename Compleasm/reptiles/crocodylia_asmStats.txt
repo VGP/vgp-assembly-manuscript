@@ -1,0 +1,7 @@
+Accession	Tax_ID	Submission_Date	Number_Contigs	Contig_N50	Contig_N90	Assembly_Size	Species_name	Super_class	Class	Infra_class	Sub_class	Super_order	Order	Sequencing_type
+GCA_030014935.1	8499	2023-05-15	723741	27826	1984	2315246792	Caiman crocodilus	Sarcopterygii					Crocodylia	missing
+GCA_038503035.1	184239	2024-04-26	66798	99156	18638	2290403972	Crocodylus rhombifer	Sarcopterygii					Crocodylia	missing
+GCF_000455745.1	38654	2013-08-29	177282	23412	6855	2198602449	Alligator sinensis	Sarcopterygii					Crocodylia	missing
+GCF_001723895.1	8502	2016-09-13	97109	34073	10016	1940871353	Crocodylus porosus	Sarcopterygii					Crocodylia	missing
+GCF_001723915.1	94835	2016-09-13	248607	14799	4075	1942637146	Gavialis gangeticus	Sarcopterygii					Crocodylia	missing
+GCF_030867095.1	8496	2023-08-24	356	38556409	10058093	2330342026	Alligator mississippiensis	Sarcopterygii					Crocodylia	PacBio HiFi
