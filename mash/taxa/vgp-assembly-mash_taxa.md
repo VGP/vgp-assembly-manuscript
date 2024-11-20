@@ -13,38 +13,7 @@ cat accession_metadata.ls
 ```
 ## Download assemblies
 We can download a random subset of genomes combining jq's and NCBI's datasets functionalities, then compute [mash](https://github.com/marbl/Mash) sketches and all-vs-all distances.
-First compute individual mash sketches:
-```
-#!/bin/bash
-set -e
-
-SEED=42
-mkdir -p sketches
-rm -f genome_list.tsv mash_distances.tsv
-while IFS="," read -r accession tolid latin_name
-do
-	RANDOM=$SEED
-	VAL=$RANDOM
-	SEED=$RANDOM
-	if (( $(echo "scale=4; ${VAL}/32767 > 0.25" |bc -l) )); then
-		printf "skipping: $accession\t$tolid\t$latin_name\n"
-        continue
-    fi
-	datasets download genome accession $accession --filename $accession.zip
-	unzip -o $accession.zip -d $accession
-	printf "$accession\t$tolid\t$latin_name\n" >> genome_list.tsv
-	
-	genome=$accession/ncbi_dataset/data/$accession/*.fna
-	if ! cmp -s <(md5sum $genome | cut -f1 -d' ') <(grep fna $accession/md5sum.txt | cut -f1 -d' '); then
-		printf "Check file integrity: $accession"
-		exit 1
-	fi
-	
-	mash sketch -s 10000000 $genome
-	mv $genome.msh sketches
-	rm -r $accession.zip $accession
-done<accession_metadata.ls
-```
+First compute individual mash sketches with [sketch_genomes.sh](sketch_genomes.sh).
 Next compute triangular mash distance matrix:
 ```
 #!/bin/bash
