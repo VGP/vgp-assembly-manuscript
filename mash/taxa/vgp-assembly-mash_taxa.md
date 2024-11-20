@@ -14,21 +14,9 @@ cat accession_metadata.ls
 ## Download assemblies
 We can download a random subset of genomes combining jq's and NCBI's datasets functionalities, then compute [mash](https://github.com/marbl/Mash) sketches and all-vs-all distances.
 First compute individual mash sketches with [sketch_genomes.sh](sketch_genomes.sh).
-Next compute triangular mash distance matrix:
+Next compute triangular mash distance matrix with [distance_matrix.sh](distance_matrix.sh):
 ```
-#!/bin/bash
-
-readarray -t in < genome_list.tsv # input list
-
-for (( i=0; i<${#in[@]}; i++ )); do # triangular matrix
-    for (( j=0; j<${#in[@]}; j++ )); do
-        if [ $j -gt $i ]; then # sketch and get the dist
-        	accession1=${in[$i]%%$'\t'*}
-        	accession2=${in[$j]%%$'\t'*}
-            echo $accession1 $accession2 $(mash dist sketches/$accession1* sketches/$accession2* | cut -f3-5)
-        fi
-    done
-done
+bash distance_matrix genome_list.tsv
 ```
 
 We can now run `distance_hist.py` to get the histogram of the distances.
@@ -43,4 +31,6 @@ awk 'FNR==NR{a[$1]=$2; next} {FS=" "} {$0=$0; if ($3<0.2) printf $1","a[$1]","su
 ```
 This can then be visualized in tools such as Cytoscape.
 We can also generate a heatmap/hierarchical clustering using the distance matrix:
-python distance_heatmap.py
+```
+python distance_heatmap.py # work in progress
+```
