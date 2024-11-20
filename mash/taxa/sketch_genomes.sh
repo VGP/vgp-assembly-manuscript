@@ -13,7 +13,11 @@ do
 	VAL=$RANDOM
 	SEED=$RANDOM
 	if [ $SUBSET ] && (( $(echo "scale=4; ${VAL}/32767 > 0.25" |bc -l) )); then
-		printf "skipping: %s\t%s\t%s\n" "$accession" "$tolid" "$latin_name"
+		printf "Subsampling mode. Skipping: %s\t%s\t%s\n" "$accession" "$tolid" "$latin_name"
+    continue
+  fi
+  if [ -f sketches/$accession*.msh ]; then
+		printf "Sketch already available. Skipping: %s\t%s\t%s\n" "$accession" "$tolid" "$latin_name"
     continue
   fi
 	datasets download genome accession $accession --filename $accession.zip
