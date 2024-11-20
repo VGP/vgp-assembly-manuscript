@@ -1,6 +1,6 @@
 #!/bin/bash
 
-THREAD=${1:-32}
+THREAD="${1:-32}"
 
 rm -f mash_chromosomes.out
 
