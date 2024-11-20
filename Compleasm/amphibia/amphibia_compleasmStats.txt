@@ -1,0 +1,152 @@
+Accession	Complete_compleasm	Single_compleasm	Duplicated_compleasm	Fragmented_compleasm	Missing_compleasm	Frameshift_compleasm	Tax_ID	Submission_Date	Species_name	Super_class	Class	Infra_class	Sub_class	Super_order	Order	Sequencing_type	Submitter
+GCA_004786255.1	3186	3172	14	82	86	162	30357	2019-04-17	Pyxicephalus adspersus	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	University of Connecticut
+GCA_009364415.1	2827	2597	230	389	134	113	30317	2019-10-28	Spea multiplicata	Sarcopterygii	Amphibia			Batrachia	Anura	missing	University of Southern California
+GCA_009364435.1	26	26	0	777	2530	6	85089	2019-10-28	Scaphiopus couchii	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	University of Southern California
+GCA_009364455.1	77	74	3	1076	2171	11	8435	2019-10-28	Scaphiopus holbrookii	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	University of Southern California
+GCA_009667805.1	3255	3204	51	39	60	87	445787	2019-11-19	Leptobrachium leishanense	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio RSII	Central China Normal University
+GCA_009801035.1	2529	2517	12	573	242	120	51950	2019-12-27	Oophaga pumilio	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	University of California, Berkeley
+GCA_011038615.1	2988	2971	17	219	144	233	104065	2020-02-28	Limnodynastes dumerilii	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	Kunming Institute of Zoology, Chinese Academy of Sciences
+GCA_016617825.1	1637	1631	6	984	721	251	2741728	2021-01-12	Platyplectrum ornatum	Sarcopterygii	Amphibia			Batrachia	Anura	Oxford Nanopore	Kent State Universirt
+GCA_018402905.1	3035	3006	29	216	102	158	8410	2021-03-18	Glandirana rugosa	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	Celluler Biology Section, Dept. of Cellular and Molecular Biology, Primate Research Institute, Kyoto University
+GCA_018994145.1	3041	3017	24	100	213	167	428466	2021-06-24	Leptobrachium ailaonicum	Sarcopterygii	Amphibia			Batrachia	Anura	missing	Center for Ecological and Environmental Sciences
+GCA_019447015.1	3174	3112	62	100	80	215	247094	2021-08-05	Hymenochirus boettgeri	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	University of California, Berkeley
+GCA_019650415.1	951	948	3	1585	787	41	247091	2021-08-17	Pipa parva	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	University of California, Berkeley
+GCA_021901965.1	385	381	4	1322	1627	20	191480	2022-02-03	Pipa carvalhoi	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	Federal University of Parana
+GCA_022657655.1	244	242	2	1227	1842	26	2798809	2022-03-21	Phrynoglossus myanhessei	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	LOEWE Centre for Translational Biodiversity Genomics (LOEWE-TBG)
+GCA_023970735.1	0	0	0	19	3335	7	428384	2022-06-27	Pseudis tocantins	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	University of Campinas
+GCA_024363595.1	3048	2398	650	192	113	196	8354	2022-07-22	Xenopus borealis	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	University of California, Berkeley
+GCA_025379985.1	2144	2138	6	680	518	502	860369	2022-09-23	Phyllomedusa bahiana	Sarcopterygii	Amphibia			Batrachia	Anura	missing	CIBIO - Centro de Investigacao em Biodiversidade e Recursos Geneticos
+GCA_027410445.1	3264	3222	42	32	58	74	8351	2022-12-28	Discoglossus pictus	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio CLR	Vertebrate Genomes Project
+GCA_027789725.1	3302	3199	103	12	40	80	150705	2023-01-13	Dendropsophus ebraccatus	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio CLR	Vertebrate Genomes Project
+GCA_027917425.1	3278	3255	23	16	60	79	8429	2023-01-18	Gastrophryne carolinensis	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi	Vertebrate Genomes Project
+GCA_028564925.1	3123	3068	55	101	129	83	45438	2023-02-09	Lithobates sylvaticus	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio CLR	G10K
+GCA_029206835.1	3264	3010	254	34	56	113	160500	2023-03-14	Rana muscosa	Sarcopterygii	Amphibia			Batrachia	Anura	missing	Pacific Biosciences
+GCA_029215755.1	3293	3272	21	12	49	92	228670	2023-03-14	Spea hammondii	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi	UCLA
+GCA_029574335.1	3227	3101	126	43	84	103	670907	2023-04-09	Rana kukunoris	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	Anhui University
+GCA_030180145.1	157	155	2	511	2680	63	1346618	2023-06-06	Desmognathus organi	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_030264435.1	59	59	0	288	3005	42	52101	2023-06-13	Desmognathus imitator	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_030264455.1	195	189	6	495	2657	77	503920	2023-06-13	Desmognathus abditus	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_030264475.1	109	108	1	427	2813	69	52099	2023-06-13	Desmognathus conanti	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_030264495.1	82	81	1	346	2923	65	52107	2023-06-13	Desmognathus welteri	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_030264635.1	128	128	0	556	2665	88	52096	2023-06-13	Desmognathus aeneus	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_030264875.1	133	132	1	363	2854	50	2005549	2023-06-13	Desmognathus valentinei	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_030264895.1	75	75	0	309	2966	47	52097	2023-06-13	Desmognathus auriculatus	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_030264915.1	83	81	2	347	2921	46	179531	2023-06-13	Desmognathus orestes	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_030264935.1	136	136	0	454	2760	71	52104	2023-06-13	Desmognathus ochrophaeus	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_030264955.1	115	115	0	445	2792	79	43046	2023-06-13	Desmognathus apalachicolae	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_030264975.1	216	214	2	486	2647	60	2981334	2023-06-13	Desmognathus pascagoula	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_030264995.1	116	115	1	394	2840	71	179530	2023-06-13	Desmognathus ocoee	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_030265015.1	90	89	1	385	2875	59	279537	2023-06-13	Desmognathus folkertsi	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_030265035.1	74	74	0	454	2818	79	52108	2023-06-13	Desmognathus wrighti	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_030265095.1	111	110	1	474	2765	70	52100	2023-06-13	Desmognathus fuscus	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_031753635.1	57	57	0	235	3061	37	179529	2023-09-20	Desmognathus carolinensis	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_031753655.1	71	70	1	272	3007	42	52106	2023-09-20	Desmognathus santeetlah	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_031753675.1	116	115	1	453	2782	83	52103	2023-09-20	Desmognathus monticola	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_031753695.1	102	102	0	494	2753	88	52102	2023-09-20	Desmognathus marmoratus	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_031769625.1	3279	3245	34	32	43	73	3041213	2023-09-22	Taudactylus pleione	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi	Threatened Species Initiative
+GCA_031893025.1	3277	3246	31	10	67	91	238119	2023-09-26	Leptodactylus fuscus	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi	Vertebrate Genomes Project
+GCA_032274985.1	58	58	0	275	3020	42	3018287	2023-10-02	Desmognathus aureatus	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_032275005.1	90	90	0	341	2918	55	3018285	2023-10-02	Desmognathus adatsihi	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_032275285.1	79	79	0	336	2936	64	3018294	2023-10-02	Desmognathus perlapsus	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_032275315.1	81	81	0	313	2958	47	3018291	2023-10-02	Desmognathus intermedius	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_032353675.1	71	70	1	268	3015	42	3018288	2023-10-04	Desmognathus balsameus	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_032353775.1	60	60	0	244	3045	51	3018290	2023-10-04	Desmognathus gvnigeusgwotli	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_032353815.1	64	64	0	237	3052	52	3018289	2023-10-04	Desmognathus cheaha	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_032353855.1	45	45	0	229	3078	45	3018292	2023-10-04	Desmognathus kanawha	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_032353935.1	79	79	0	308	2965	50	407057	2023-10-04	Desmognathus planiceps	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_032354855.1	68	68	0	280	3002	51	3018293	2023-10-04	Desmognathus mavrokoilius	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_032357565.1	56	55	1	178	3120	46	3018295	2023-10-04	Desmognathus valtos	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_032360725.1	76	74	2	503	2764	45	3018286	2023-10-04	Desmognathus amphileucus	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_033118305.1	82	81	1	411	2856	67	3064033	2023-10-30	Desmognathus campi	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_033119125.1	141	141	0	546	2659	78	3064031	2023-10-30	Desmognathus anicetus	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_033119425.1	3218	3174	44	50	86	151	30338	2023-11-02	Bufotes viridis	Sarcopterygii	Amphibia			Batrachia	Anura	Oxford Nanopore	Leibniz Institute of Freshwater Ecology and Inland Fisheries
+GCA_033557465.1	3247	3218	29	68	39	58	8453	2023-11-14	Ichthyophis bannanicus	Sarcopterygii	Amphibia				Gymnophiona	MGI	Northwestern Polytechnical University
+GCA_033576535.1	3132	3046	86	67	155	630	92733	2023-11-13	Allobates femoralis	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	Stanford University
+GCA_033576555.1	2263	2247	16	460	629	611	152496	2023-11-13	Oophaga sylvatica	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	Stanford University
+GCA_034782015.1	142	141	1	635	2570	82	3064036	2023-12-28	Desmognathus tilleyi	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_034783875.1	114	113	1	394	2842	65	3064032	2023-12-28	Desmognathus bairdi	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_034783935.1	122	121	1	458	2766	84	3064034	2023-12-28	Desmognathus catahoula	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_035044885.1	6	6	0	206	3142	10	307978	2024-01-03	Pseudobranchus striatus	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_035047425.1	28	28	0	361	2963	26	147899	2024-01-03	Eurycea quadridigitata	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_035048385.1	33	33	0	365	2949	45	43042	2024-01-03	Plethodon glutinosus	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_035048675.1	6	6	0	115	3232	7	2978768	2024-01-03	Siren sphagnicola	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_035049765.1	102	102	0	598	2646	66	3064035	2024-01-03	Desmognathus lycos	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_035582665.1	8	8	0	59	3287	9	2495638	2024-01-11	Siren reticulata	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_035582685.1	7	7	0	57	3290	12	8312	2024-01-11	Amphiuma means	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_035582705.1	13	13	0	107	3233	23	154577	2024-01-11	Aneides aeneus	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_035582915.1	7	6	1	20	3327	8	324346	2024-01-11	Necturus beyeri	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_035583015.1	38	37	1	257	3057	42	315413	2024-01-11	Plethodon ventralis	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_035583035.1	13	13	0	190	3148	19	332575	2024-01-11	Eurycea cirrigera	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_035583075.1	19	19	0	154	3180	21	332576	2024-01-11	Eurycea guttolineata	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_035583255.1	20	20	0	205	3128	21	134762	2024-01-11	Pseudotriton ruber	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_035591995.1	28	26	2	251	3073	35	291263	2024-01-11	Stereochilus marginatus	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_035593325.1	34	34	0	446	2863	34	324349	2024-01-11	Pseudotriton montanus	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_035593885.1	32	31	1	402	2912	36	2081930	2024-01-11	Eurycea paludicola	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_036172795.1	3314	3299	15	7	33	60	233781	2024-01-26	Pelodytes ibericus	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi	Vertebrate Genomes Project
+GCA_036250195.1	3312	3279	33	9	33	75	3058680	2024-01-31	Mixophyes australis	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi	The University of Sydney
+GCA_036250615.1	2752	2741	11	307	292	167	2829185	2024-01-31	Ptychadena robeensis	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	New York University Abu Dhabi
+GCA_037306005.1	3279	3268	11	26	49	63	43566	2024-03-20	Rhinophrynus dorsalis	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi	Vertebrate Genomes Project
+GCA_037367395.1	3183	3121	62	95	76	80	8404	2024-03-19	Lithobates pipiens	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi	Canadas Genomic Enterprise
+GCA_037952835.1	3119	3065	54	124	111	89	190274	2024-04-03	Lithobates septentrionalis	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi	Canadas national platform for genome sequencing and analysis
+GCA_037952925.1	3205	3021	184	72	75	79	145282	2024-04-04	Lithobates clamitans	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi	Canadas national platform for genome sequencing and analysis
+GCA_038048845.1	3273	3246	27	14	67	75	3061075	2024-04-17	Mixophyes fleayi	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi	Vertebrate Genomes Project
+GCA_038406705.1	26	26	0	354	2971	26	134758	2024-04-22	Eurycea bislineata	Sarcopterygii	Amphibia			Batrachia	Caudata	Illumina	Iridian Genomes
+GCA_038501925.1	3329	2012	1317	5	20	108	288555	2024-04-29	Xenopus petersii	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi	Vertebrate Genomes Project
+GCA_039654945.1	3281	3237	44	21	52	80	92724	2024-05-16	Dendrobates tinctorius	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi	Bangor University
+GCA_040206685.1	3177	3152	25	67	110	121	8439	2024-06-17	Ascaphus truei	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi	Vertebrate Genomes Project
+GCA_040894005.1	3249	3216	33	27	78	79	76066	2024-07-30	Engystomops pustulosus	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi	Vertebrate Genomes Project
+GCA_041080635.1	3284	3252	32	20	50	91	2776728	2024-08-07	Atelopus laetissimus	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi	Amphibian Genomics Consortium
+GCA_041430395.1	3264	3239	25	23	67	99	30325	2024-08-22	Anaxyrus boreas	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi	UCLA
+GCA_042186555.1	3222	3184	38	37	94	98	8400	2024-09-24	Aquarana catesbeiana	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio CLR	Zhongkai University of Agriculture and Engineering
+GCA_043774495.1	3256	3217	39	34	64	69	47562	2024-10-24	Pseudacris regilla	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi	University of California, Santa Cruz
+GCA_044007775.1	879	873	6	1599	831	57	127645	2024-10-28	Hoplobatrachus occipitalis	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	Iridian Genomes
+GCA_044007875.1	1657	1649	8	1235	439	50	349990	2024-10-28	Leptodactylus fragilis	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	Iridian Genomes
+GCA_044008015.1	655	654	1	1571	1087	51	467733	2024-10-28	Phrynobatrachus minutus	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	Iridian Genomes
+GCA_044008435.1	407	404	3	1491	1405	32	318396	2024-10-28	Scinax staufferi	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	Iridian Genomes
+GCA_044008735.1	544	541	3	1531	1228	47	8388	2024-10-28	Incilius valliceps	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	Iridian Genomes
+GCA_044009215.1	497	496	1	1583	1211	40	317403	2024-10-28	Triprion petasatus	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	Iridian Genomes
+GCA_044628515.1	1680	1674	6	1221	436	55	323527	2024-11-06	Leptodactylus mystaceus	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	Iridian Genomes
+GCA_044629035.1	428	427	1	1632	1249	35	213803	2024-11-06	Trachycephalus venulosus	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	Iridian Genomes
+GCA_044758215.1	593	587	6	1632	1086	35	2790342	2024-11-10	Conraua beccarii	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	Iridian Genomes
+GCA_044758425.1	495	490	5	1539	1260	50	248862	2024-11-10	Osteocephalus taurinus	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	Iridian Genomes
+GCA_044758445.1	662	660	2	1593	1049	59	1978132	2024-11-10	Sclerophrys asmarae	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	Iridian Genomes
+GCA_044758465.1	544	540	4	1600	1166	38	1342833	2024-11-10	Ptychadena erlangeri	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	Iridian Genomes
+GCA_044758485.1	303	302	1	1371	1632	43	1133662	2024-11-10	Adenomera lutzi	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	Iridian Genomes
+GCA_044758525.1	433	425	8	1462	1410	36	279982	2024-11-10	Smilisca baudinii	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	Iridian Genomes
+GCA_044758545.1	283	279	4	1228	1799	37	2668082	2024-11-10	Boana sibleszi	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	Iridian Genomes
+GCA_044758605.1	500	497	3	1583	1234	52	1978144	2024-11-10	Sclerophrys regularis	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	Iridian Genomes
+GCA_044758645.1	249	57	192	1194	1872	32	143418	2024-11-10	Hyperolius nasutus	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	Iridian Genomes
+GCA_044758665.1	1679	1670	9	1220	433	64	228420	2024-11-10	Leptodactylus melanonotus	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	Iridian Genomes
+GCA_044758825.1	365	362	3	1428	1505	37	327965	2024-11-10	Phrynobatrachus natalensis	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	Iridian Genomes
+GCA_044758895.1	405	403	2	1482	1415	38	317335	2024-11-10	Tlalocohyla loquax	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	Iridian Genomes
+GCA_900303285.2	3279	3248	31	23	51	88	8386	2024-06-11	Rhinella marina	Sarcopterygii	Amphibia			Batrachia	Anura	Oxford Nanopore	UNIVERSITY OF NEW SOUTH WALES
+GCA_901001135.2	3315	3245	70	14	25	170	194408	2021-04-24	Rhinatrema bivittatum	Sarcopterygii	Amphibia				Gymnophiona	PacBio CLR	Wellcome Sanger Institute
+GCA_901765095.2	3306	3191	115	13	35	164	1415580	2021-04-24	Microcaecilia unicolor	Sarcopterygii	Amphibia				Gymnophiona	PacBio CLR	Wellcome Sanger Institute
+GCA_902459505.2	3294	3255	39	23	37	90	260995	2021-04-24	Geotrypetes seraphini	Sarcopterygii	Amphibia				Gymnophiona	PacBio CLR	Wellcome Sanger Institute
+GCA_933207985.1	3166	3092	74	72	116	71	61616	2023-06-09	Pelobates cultripes	Sarcopterygii	Amphibia			Batrachia	Anura	missing	The Spanish National Research Council (CSIC)
+GCA_947044405.1	3289	3271	18	19	45	241	375434	2022-10-08	Leptodactylus fallax	Sarcopterygii	Amphibia			Batrachia	Anura	Oxford Nanopore	IBE (Institut de Biologia Evolutiva)
+GCA_951230385.1	3174	3163	11	105	74	732	386267	2023-05-08	Staurois parvus	Sarcopterygii	Amphibia			Batrachia	Anura	missing	EAST CAROLINA UNIVERSITY
+GCA_963921515.1	3112	3065	47	166	74	95	342570	2024-02-07	Calotriton arnoldi	Sarcopterygii	Amphibia			Batrachia	Caudata	Oxford Nanopore	institut de biologia evolutiva (upf-csic)
+GCA_964204655.1	3266	3188	78	30	58	38	8323	2024-07-31	Triturus cristatus	Sarcopterygii	Amphibia			Batrachia	Caudata	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_964205295.1	3188	3103	85	83	81	58	8348	2024-07-29	Bombina variegata	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_964261635.1	3265	3188	77	38	51	44	256425	2024-10-17	Lissotriton helveticus	Sarcopterygii	Amphibia			Batrachia	Caudata	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_964263255.1	3221	3111	110	84	49	45	8324	2024-10-17	Lissotriton vulgaris	Sarcopterygii	Amphibia			Batrachia	Caudata	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCF_000004195.4	3326	3309	17	7	21	64	8364	2019-11-14	Xenopus tropicalis	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	University of California, Berkeley
+GCF_000935625.1	3191	3173	18	101	61	100	125878	2015-03-17	Nanorana parkeri	Sarcopterygii	Amphibia			Batrachia	Anura	Illumina	BGI-Shenzhen
+GCF_014858855.1	3153	3027	126	45	156	148	30331	2020-10-21	Bufo gargarizans	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio CLR	Chengdu Institute of Biology, CAS
+GCF_017654675.1	3330	1984	1346	4	20	92	8355	2021-04-12	Xenopus laevis	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio RSII	International Xenopus Sequencing Consortium
+GCF_027358695.1	3302	3291	11	7	45	83	233779	2022-12-27	Spea bombifrons	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi	Vertebrate Genomes Project
+GCF_027579735.1	3248	3151	97	54	51	112	8345	2023-01-09	Bombina bombina	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio CLR	Vertebrate Genomes Project
+GCF_028390025.1	3275	3260	15	16	63	68	495146	2023-02-06	Pseudophryne corroboree	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi	Vertebrate Genomes Project
+GCF_029499605.1	3216	3199	17	41	97	95	327740	2023-04-07	Hyla sarda	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi	Vertebrate Genomes Project
+GCF_031143425.1	3247	3219	28	32	75	46	8319	2024-03-19	Pleurodeles waltl	Sarcopterygii	Amphibia			Batrachia	Caudata	PacBio HiFi	The Max Planck Institute of Molecular Cell Biology and Genetics
+GCF_032444005.1	3290	3255	35	15	48	66	111125	2023-10-16	Ranitomeya imitator	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi	Vertebrate Genomes Project
+GCF_035609145.1	3266	3239	27	12	76	77	57060	2024-01-12	Eleutherodactylus coqui	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi	Vertebrate Genomes Project
+GCF_036172605.1	3306	3277	29	9	39	62	191477	2024-01-26	Pelobates fuscus	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi	Vertebrate Genomes Project
+GCF_040937935.1	3239	3178	61	27	88	89	752182	2024-07-30	Hyperolius riggenbachi	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi	Vertebrate Genomes Project
+GCF_040938575.1	3120	3087	33	175	59	47	8296	2024-07-30	Ambystoma mexicanum	Sarcopterygii	Amphibia			Batrachia	Caudata	PacBio HiFi	University of Kentucky
+GCF_901001135.1	3315	3245	70	14	25	170	194408	2019-06-02	Rhinatrema bivittatum	Sarcopterygii	Amphibia				Gymnophiona	PacBio CLR	SC
+GCF_901765095.1	3306	3191	115	13	35	164	1415580	2019-06-22	Microcaecilia unicolor	Sarcopterygii	Amphibia				Gymnophiona	PacBio CLR	SC
+GCF_902459505.1	3294	3255	39	23	37	90	260995	2019-08-18	Geotrypetes seraphini	Sarcopterygii	Amphibia				Gymnophiona	PacBio CLR	SC
+GCF_905171765.1	3274	3248	26	25	55	119	8384	2021-01-28	Bufo bufo	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio CLR	Wellcome Sanger Institute
+GCF_905171775.1	3261	3225	36	28	65	106	8407	2021-01-28	Rana temporaria	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio CLR	Wellcome Sanger Institute
