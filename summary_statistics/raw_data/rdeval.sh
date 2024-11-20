@@ -10,11 +10,9 @@ do
 	VAL=$RANDOM
 	SEED=$RANDOM
 	printf "Processing: %s\t%s\t%s\n", "$accession", "$tolid", "$SRA"
-	if [ "$(echo "scale=4; ${VAL}/32767 > 0.05" |bc -l)" ]; then
+	if (( $(echo "scale=4; ${VAL}/32767 > 0.05" |bc -l) )); then
 		printf "Skipping for subsampling.\n"
-		printf "hello1\n"
     continue
-    printf "hello2\n"
   fi
   printf "Searching: %s\n", "$SRA"
   esearch -db sra -query "$SRA" | esummary | xtract -pattern DocumentSummary -element Sample@acc Run@acc Experiment@acc Platform instrument_model LIBRARY_STRATEGY Summary -element Statistics@total_bases > accessions.ls
