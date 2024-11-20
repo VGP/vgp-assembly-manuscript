@@ -2,7 +2,7 @@
 
 THREAD="${1:-32}"
 
-rm -f mash_chromosomes.out
+rm -f distance_matrix.tsv
 
 readarray -t in < $1 # input list
 
