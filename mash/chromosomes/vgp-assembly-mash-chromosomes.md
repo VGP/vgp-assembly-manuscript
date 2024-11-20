@@ -60,13 +60,6 @@ bash distance_matrix.sh genome_list.tsv
 We can now run `distance_hist.py` to get the histogram of the distances.
 We can add metadata to the accessions using this command:
 ```
-awk 'FNR==NR{a[$1]=$2; next} {FS=" "} {$0=$0; print $1, a[$1], a[$2], $2, $3}' FS="," accession_metadata.ls distance_matrix.txt
+awk 'FNR==NR{a[$1]=$2; next} {FS=" "} {$0=$0; print $1","a[$1]","$2","a[$2]","$3","$4","$5}' FS="," accession_metadata.ls distance_matrix.tsv > distance_matrix_with_accessions.csv
 ```
-Potentially filtering distant interactions:
-```
-printf "Accession 1,Tolid 1,Class 1,Accession 2,Tolid 2,Class 2,D\n" > filtered_distance_matrix.txt
-awk 'FNR==NR{a[$1]=$2; next} {FS=" "} {$0=$0; if ($3<0.2) printf $1","a[$1]","substr(a[$1], 1, 1)","$2","a[$2]","substr(a[$2], 1, 1)","$3"\n"}' FS="," accession_metadata.ls distance_matrix.txt >> filtered_distance_matrix.txt
-```
-This can then be visualized in tools such as Cytoscape.
-We can also generate a heatmap/hierarchical clustering using the distance matrix:
-python distance_heatmap.py
+Now we can find individual chromosome matches with [best_hits.py](best_hits.py)

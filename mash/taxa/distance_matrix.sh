@@ -1,5 +1,7 @@
 #!/bin/bash
 
+THREAD=${1:-32}
+
 readarray -t in < $1 # input list
 
 for (( i=0; i<${#in[@]}; i++ )); do # triangular matrix
@@ -7,7 +9,7 @@ for (( i=0; i<${#in[@]}; i++ )); do # triangular matrix
         if [ $j -gt $i ]; then # sketch and get the dist
         	accession1=${in[$i]%%$'\t'*}
         	accession2=${in[$j]%%$'\t'*}
-            echo $accession1 $accession2 $(mash dist sketches/$accession1* sketches/$accession2* | cut -f3-5)
+            echo $accession1 $accession2 $(mash dist -p "$THREAD" sketches/$accession1* sketches/$accession2* | cut -f3-5)
         fi
     done
 done
