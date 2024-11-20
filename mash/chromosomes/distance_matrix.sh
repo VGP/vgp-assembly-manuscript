@@ -1,6 +1,6 @@
 #!/bin/bash
 
-THREAD="${1:-32}"
+THREAD="${2:-32}"
 
 rm -f distance_matrix.tsv
 
