@@ -30,6 +30,10 @@ table1 %>% as_tibble() %>% print(n=Inf, width=Inf)
 
 getDescendants(7742,'accessionTaxa.sql')
 
+table2 <- read.csv("data_freeze_ids.ls", header=FALSE)
+taxons_VGP<-getTaxonomy(table,'accessionTaxa.sql')
+print(taxons_VGP)
+
 raw <- getRawTaxonomy(7742,'accessionTaxa.sql')
 normalized <- normalizeTaxa(raw, lineageOrder=c('infraorder','suborder','superorder','infraclass','subclass','class','subphylum'))
 
