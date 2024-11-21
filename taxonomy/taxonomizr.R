@@ -31,7 +31,7 @@ table1 %>% as_tibble() %>% print(n=Inf, width=Inf)
 getDescendants(7742,'accessionTaxa.sql')
 
 table2 <- read.csv("data_freeze_ids.ls", header=FALSE)
-taxons_VGP<-getTaxonomy(table2$0,'accessionTaxa.sql')
+taxons_VGP<-getTaxonomy(table2[,1],'accessionTaxa.sql')
 print(taxons_VGP)
 
 raw <- getRawTaxonomy(7742,'accessionTaxa.sql')
