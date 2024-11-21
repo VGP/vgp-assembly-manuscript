@@ -28,5 +28,10 @@ table1 <- cbind(table1,taxaId_Genbank, taxons_Genbank)
 
 table1 %>% as_tibble() %>% print(n=Inf, width=Inf)
 
-full_tree <- makeNewick(getDescendants(7742,'accessionTaxa.sql'))
+getDescendants(7742,'accessionTaxa.sql')
+
+raw <- getRawTaxonomy(7742,'accessionTaxa.sql')
+normalized <- normalizeTaxa(raw, lineageOrder=c('infraorder','suborder','superorder','infraclass','subclass','class'))
+
+full_tree <- makeNewick(normalized)
 write(full_tree, file = "full_tree.nwk")
