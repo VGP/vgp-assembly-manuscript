@@ -7,7 +7,7 @@ install_load <- function(packages){
           if (p %in% rownames(installed.packages())) {
                library(p, character.only=TRUE)
           } else {
-               install.packages(p)
+               install.packages(p, repos = "http://cran.us.r-project.org")
                library(p,character.only = TRUE)
           }
      }
