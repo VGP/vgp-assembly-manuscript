@@ -1,4 +1,11 @@
 #fetch NCBI db
+setwd(dirname(rstudioapi::getSourceEditorContext()$path))
+
+if(!require(taxonomizr)){
+    install.packages("taxonomizr")
+    library(taxonomizr)
+}
+
 prepareDatabase('accessionTaxa.sql')
 
 #load RefSeq data

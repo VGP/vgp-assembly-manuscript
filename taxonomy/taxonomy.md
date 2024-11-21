@@ -16,4 +16,7 @@ Get all species with accessions
 cat vgp-metadata.json | jq -r '.reports[] | .accession + "," + .assembly_info.assembly_name + "," + (.assembly_info.biosample.attributes[] | select(.name=="scientific_name").value)' | cut -d',' -f3 | sort | uniq > species.ls
 cat species.ls
 ```
-We can use R's [taxonomizr](https://cran.r-project.org/web/packages/taxonomizr/vignettes/usage.html) package to explore the taxonomy further: 
+We can use R's [taxonomizr](https://cran.r-project.org/web/packages/taxonomizr/vignettes/usage.html) package to explore the taxonomy further:
+```
+Rscript taxonomizr.R
+```
