@@ -35,7 +35,7 @@ taxa_VGP<-getTaxonomy(table2[,1],'accessionTaxa.sql')
 VGP_tree <- makeNewick(taxa_VGP)
 write(VGP_tree, file = "VGP_tree.nwk")
 
-descendants_all <- geId(getDescendants(7742,'accessionTaxa.sql'), 'accessionTaxa.sql')
+descendants_all <- getId(getDescendants(7742,'accessionTaxa.sql'), 'accessionTaxa.sql')
 taxa_all<-getTaxonomy(descendants_all,'accessionTaxa.sql')
 
 full_tree <- makeNewick(taxa_all)
