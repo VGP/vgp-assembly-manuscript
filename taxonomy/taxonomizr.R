@@ -26,5 +26,4 @@ taxaId_Genbank<-accessionToTaxa(as.character(table1$Accession),"accessionTaxa.sq
 taxons_Genbank<-getTaxonomy(taxaId_Genbank,'accessionTaxa.sql')
 table1 <- cbind(table1,taxaId_Genbank, taxons_Genbank)
 
-data <- table1 %>% t() %>% as_tibble()
-data %>% print(width = Inf, n = Inf)
+table1 %>% as_tibble() %>% print(n=40)
