@@ -31,7 +31,7 @@ table1 %>% as_tibble() %>% print(n=Inf, width=Inf)
 getDescendants(7742,'accessionTaxa.sql')
 
 raw <- getRawTaxonomy(7742,'accessionTaxa.sql')
-normalized <- normalizeTaxa(raw, lineageOrder=c('infraorder','suborder','superorder','infraclass','subclass','class'))
+normalized <- normalizeTaxa(raw, lineageOrder=c('infraorder','suborder','superorder','infraclass','subclass','class','subphylum'))
 
 full_tree <- makeNewick(normalized)
 write(full_tree, file = "full_tree.nwk")
