@@ -27,3 +27,5 @@ taxons_Genbank<-getTaxonomy(taxaId_Genbank,'accessionTaxa.sql')
 table1 <- cbind(table1,taxaId_Genbank, taxons_Genbank)
 
 table1 %>% as_tibble() %>% print(n=Inf, width=Inf)
+
+getDescendants(7742,'accessionTaxa.sql')
