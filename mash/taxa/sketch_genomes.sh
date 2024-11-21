@@ -12,7 +12,7 @@ do
 	RANDOM=$SEED
 	VAL=$RANDOM
 	SEED=$RANDOM
-	if [ $SUBSET ] && (( $(echo "scale=4; ${VAL}/32767 > 0.25" |bc -l) )); then
+	if [ $SUBSET = true ] && (( $(echo "scale=4; ${VAL}/32767 > 0.25" |bc -l) )); then
 		printf "Subsampling mode. Skipping: %s\t%s\t%s\n" "$accession" "$tolid" "$latin_name"
     continue
   fi
