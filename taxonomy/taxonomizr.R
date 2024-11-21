@@ -26,7 +26,7 @@ taxaId_Genbank<-accessionToTaxa(as.character(table1$Accession),"accessionTaxa.sq
 taxa_Genbank<-getTaxonomy(taxaId_Genbank,'accessionTaxa.sql')
 table1 <- cbind(table1,taxaId_Genbank, taxa_Genbank)
 
-table1 %>% as_tibble() %>% print(n=Inf, width=Inf)
+#table1 %>% as_tibble() %>% print(n=Inf, width=Inf)
 
 table2 <- read.csv("data_freeze_ids.ls", header=FALSE)
 taxa_VGP<-getTaxonomy(table2[,1],'accessionTaxa.sql')
@@ -35,8 +35,7 @@ taxa_VGP<-getTaxonomy(table2[,1],'accessionTaxa.sql')
 VGP_tree <- makeNewick(taxa_VGP)
 write(VGP_tree, file = "VGP_tree.nwk")
 
-descendants_all <- getDescendants(7742,'accessionTaxa.sql')
-print(descendants_all)
+descendants_all <- geId(getDescendants(7742,'accessionTaxa.sql'), 'accessionTaxa.sql')
 taxa_all<-getTaxonomy(descendants_all,'accessionTaxa.sql')
 
 full_tree <- makeNewick(taxa_all)
