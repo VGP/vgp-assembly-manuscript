@@ -1,6 +1,6 @@
 # tested with Rstudio/Rscript v==4.0
 
-requiredpackages <- c("this.path", "data.table", "taxonomizr")
+requiredpackages <- c("this.path", "data.table", "taxonomizr", "tidyverse")
 
 install_load <- function(packages){
      for (p in packages) {
@@ -25,4 +25,6 @@ names(table1) <- c("Accession", "Tolid", "Species")
 taxaId_Genbank<-accessionToTaxa(as.character(table1$Accession),"accessionTaxa.sql")
 taxons_Genbank<-getTaxonomy(taxaId_Genbank,'accessionTaxa.sql')
 table1 <- cbind(table1,taxaId_Genbank, taxons_Genbank)
-print(table1)
+
+data <- table1 %>% t() %>% as_tibble()
+data %>% print(width = Inf, n = Inf)
