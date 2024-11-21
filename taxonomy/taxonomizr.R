@@ -28,4 +28,5 @@ table1 <- cbind(table1,taxaId_Genbank, taxons_Genbank)
 
 table1 %>% as_tibble() %>% print(n=Inf, width=Inf)
 
-getDescendants(7742,'accessionTaxa.sql')
+full_tree <- makeNewick(getDescendants(7742,'accessionTaxa.sql'))
+write(full_tree, file = "full_tree.nwk")
