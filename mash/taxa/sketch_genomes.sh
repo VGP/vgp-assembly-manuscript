@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-SUBSET=${1:-false}
+SUBSET=${1:-true}
 THREAD=${2:-32}
 
 SEED=42
