@@ -1,6 +1,6 @@
-#fetch NCBI db
+# tested with Rstudio/Rscript v==4.0
 
-requiredpackages <- c("rstudioapi", "data.table", "taxonomizr")
+requiredpackages <- c("this.path", "data.table", "taxonomizr")
 
 install_load <- function(packages){
      for (p in packages) {
@@ -15,8 +15,9 @@ install_load <- function(packages){
 
 install_load(requiredpackages)
 
-setwd(dirname(rstudioapi::getSourceEditorContext()$path))
+setwd(this.path::here())
 
+#fetch NCBI db
 prepareDatabase('accessionTaxa.sql')
 
 #load RefSeq data
