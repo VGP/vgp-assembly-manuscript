@@ -15,8 +15,6 @@ install_load <- function(packages){
 
 install_load(requiredpackages)
 
-setwd(this.path::here())
-
 #fetch NCBI db
 prepareDatabase('accessionTaxa.sql')
 
