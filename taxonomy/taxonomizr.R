@@ -30,12 +30,13 @@ table1 %>% as_tibble() %>% print(n=Inf, width=Inf)
 
 table2 <- read.csv("data_freeze_ids.ls", header=FALSE)
 taxa_VGP<-getTaxonomy(table2[,1],'accessionTaxa.sql')
-print(taxa_VGP)
+#print(taxa_VGP)
 
 VGP_tree <- makeNewick(taxa_VGP)
 write(VGP_tree, file = "VGP_tree.nwk")
 
 descendants_all <- getDescendants(7742,'accessionTaxa.sql')
+print(descendants_all)
 taxa_all<-getTaxonomy(descendants_all,'accessionTaxa.sql')
 
 full_tree <- makeNewick(taxa_all)
