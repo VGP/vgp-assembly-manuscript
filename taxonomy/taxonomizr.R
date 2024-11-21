@@ -34,10 +34,11 @@ table2 <- read.csv("data_freeze_ids.ls", header=FALSE)
 taxons_VGP<-getTaxonomy(table2[,1],'accessionTaxa.sql')
 print(taxons_VGP)
 
-full_tree <- makeNewick(taxons_VGP)
-write(full_tree, file = "VGP_tree.nwk")
+VGP_tree <- makeNewick(taxons_VGP)
+write(VGP_tree, file = "VGP_tree.nwk")
 
 raw <- getRawTaxonomy(7742,'accessionTaxa.sql')
+write.csv(raw,"raw.csv")
 normalized <- normalizeTaxa(raw, lineageOrder=c('infraorder','suborder','superorder','infraclass','subclass','class','subphylum'))
 
 full_tree <- makeNewick(normalized)
