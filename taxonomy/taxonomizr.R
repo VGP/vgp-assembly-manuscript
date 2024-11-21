@@ -1,6 +1,6 @@
 #fetch NCBI db
 
-requiredpackages <- c("rstudioapi", "taxonomizr")
+requiredpackages <- c("rstudioapi", "data.table", "taxonomizr")
 
 install_load <- function(packages){
      for (p in packages) {
