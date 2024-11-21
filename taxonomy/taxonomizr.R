@@ -1,10 +1,21 @@
 #fetch NCBI db
-setwd(dirname(rstudioapi::getSourceEditorContext()$path))
 
-if(!require(taxonomizr)){
-    install.packages("taxonomizr")
-    library(taxonomizr)
+requiredpackages <- c("rstudioapi", "taxonomizr")
+
+install_load <- function(packages){
+     for (p in packages) {
+          if (p %in% rownames(installed.packages())) {
+               library(p, character.only=TRUE)
+          } else {
+               install.packages(p)
+               library(p,character.only = TRUE)
+          }
+     }
 }
+
+install_load(requiredpackages)
+
+setwd(dirname(rstudioapi::getSourceEditorContext()$path))
 
 prepareDatabase('accessionTaxa.sql')
 
