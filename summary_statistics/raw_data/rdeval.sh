@@ -3,7 +3,7 @@ set -e
 
 SEED=42
 rm -f rdeval.tsv rdevalCumInv.tsv all_accessions.ls
-printf 'SRS\tSRR\tSRX\t# reads\tTotal read length\tAverage read length\tRead N50\tSmallest read length\tLargest read length\tCoverage\tGC content\tBase composition (A:C:T:G)\tAverage read quality\n' >> rdeval.tsv
+printf 'SRS\t# reads\tTotal read length\tAverage read length\tRead N50\tSmallest read length\tLargest read length\tCoverage\tGC content\tBase composition (A:C:T:G)\tAverage read quality\n' >> rdeval.tsv
 while IFS="," read -r -u 3 accession tolid SRA
 do
 	RANDOM=$SEED
