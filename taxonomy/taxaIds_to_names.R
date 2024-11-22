@@ -20,5 +20,6 @@ prepareDatabase('accessionTaxa.sql')
 
 #load data
 taxaIds <- read.csv(args[1], header=FALSE)
-taxa <- getTaxonomy(taxaIds,'accessionTaxa.sql')
+names(taxaIds) <- c("Taxon")
+taxa <- getTaxonomy(taxaIds$Taxon,'accessionTaxa.sql')
 write(taxa, file = args[2])
