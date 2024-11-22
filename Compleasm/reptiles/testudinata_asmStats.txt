@@ -1,0 +1,48 @@
+Accession	Tax_ID	Submission_Date	Number_Contigs	Contig_N50	Contig_N90	Assembly_Size	Species_name	Super_class	Class	Infra_class	Sub_class	Super_order	Order	Sequencing_type
+GCA_002896415.1	38772	2018-01-24	637119	10252	1902	2152041803	Gopherus agassizii	Sarcopterygii			Testudinata		Testudines	missing
+GCA_003846335.1	241437	2018-11-28	150231	74338	11694	2260898254	Cuora mccordi	Sarcopterygii			Testudinata		Testudines	missing
+GCA_003942145.1	55544	2018-12-12	469569	41750	5540	2282553896	Platysternon megacephalum	Sarcopterygii			Testudinata		Testudines	missing
+GCA_004028625.2	74909	2019-03-22	154614	47152	6675	2203323269	Cuora amboinensis	Sarcopterygii			Testudinata		Testudines	missing
+GCA_007922155.1	904206	2019-08-05	78757	146430	29094	1974625336	Mesoclemmys tuberculata	Sarcopterygii			Testudinata		Testudines	missing
+GCA_007922175.1	367368	2019-08-01	112514	74864	16259	1994855768	Pelusios castaneus	Sarcopterygii			Testudinata		Testudines	missing
+GCA_007922195.1	44507	2019-08-05	74735	134824	31692	2399180176	Podocnemis expansa	Sarcopterygii			Testudinata		Testudines	missing
+GCA_007922225.1	251359	2019-08-05	56575	350989	68971	1964698078	Emydura subglobosa	Sarcopterygii			Testudinata		Testudines	missing
+GCA_007922305.1	55550	2019-08-05	62170	183958	38529	1835994521	Dermatemys mawii	Sarcopterygii			Testudinata		Testudines	missing
+GCA_019425775.1	904230	2021-07-30	1126	30963999	6529704	2237908528	Rafetus swinhoei	Sarcopterygii			Testudinata		Testudines	Oxford Nanopore
+GCA_022086475.1	335395	2022-02-09	196	75081387	9118225	2301103724	Actinemys marmorata	Sarcopterygii			Testudinata		Testudines	PacBio HiFi
+GCA_023634205.1	1485138	2022-06-01	106	93983910	17898726	2326923047	Actinemys pallida	Sarcopterygii			Testudinata		Testudines	PacBio HiFi
+GCA_026122505.1	167804	2022-11-15	1041	58656949	6787288	2373210104	Aldabrachelys gigantea	Sarcopterygii			Testudinata		Testudines	PacBio HiFi
+GCA_030012505.1	27787	2023-05-15	303	82034986	16597414	2296181134	Eretmochelys imbricata	Sarcopterygii			Testudinata		Testudines	PacBio HiFi
+GCA_030068395.1	55534	2023-06-05	226404	14718	4002	1882691203	Apalone spinifera	Sarcopterygii			Testudinata		Testudines	missing
+GCA_032164245.1	142480	2023-09-29	771	17031157	1283573	1759301033	Sternotherus odoratus	Sarcopterygii			Testudinata		Testudines	PacBio HiFi
+GCA_032172135.1	335392	2023-09-28	375	95749198	5905284	2323437979	Glyptemys insculpta	Sarcopterygii			Testudinata		Testudines	PacBio HiFi
+GCA_032595735.1	171793	2023-10-12	554	41440143	7000000	2160986712	Pelochelys cantorii	Sarcopterygii			Testudinata		Testudines	missing
+GCA_033296515.1	3026461	2023-11-06	656	43882550	4786086	2132203265	Macrochelys suwanniensis	Sarcopterygii			Testudinata		Testudines	PacBio HiFi
+GCA_033958435.1	44489	2023-11-27	146	126464372	20314305	2180314667	Carettochelys insculpta	Sarcopterygii			Testudinata		Testudines	PacBio HiFi
+GCA_036785055.1	85613	2024-02-23	403	43111614	3204752	2334365286	Emydoidea blandingii	Sarcopterygii			Testudinata		Testudines	PacBio HiFi
+GCA_037349215.1	8481	2024-03-20	202	107021855	14355223	2275220717	Graptemys geographica	Sarcopterygii			Testudinata		Testudines	PacBio HiFi
+GCA_037349315.1	8475	2024-03-20	816	47384726	2408421	2284342779	Chelydra serpentina	Sarcopterygii			Testudinata		Testudines	PacBio HiFi
+GCA_040208395.1	85608	2024-06-20	154	108421626	22057855	2286379631	Clemmys guttata	Sarcopterygii			Testudinata		Testudines	PacBio HiFi
+GCA_040782865.1	86975	2024-07-19	598572	10732	1882	2196546985	Testudo graeca	Sarcopterygii			Testudinata		Testudines	missing
+GCA_040894355.1	1041117	2024-07-26	186	56181416	12406371	1980040392	Myuchelys georgesi	Sarcopterygii			Testudinata		Testudines	PacBio HiFi
+GCA_044707075.1	55537	2024-11-13	201179	15931	4186	1630017980	Staurotypus triporcatus	Sarcopterygii			Testudinata		Testudines	missing
+GCA_044758175.1	101491	2024-11-10	499962	14219	2792	1981424769	Trionyx triunguis	Sarcopterygii			Testudinata		Testudines	missing
+GCA_044758195.1	158814	2024-11-10	960004	7737	1000	2107055561	Terrapene carolina	Sarcopterygii			Testudinata		Testudines	missing
+GCA_044758295.1	44522	2024-11-10	577798	11578	2270	1895303520	Pelomedusa subrufa	Sarcopterygii			Testudinata		Testudines	missing
+GCA_044758505.1	260652	2024-11-10	527595	12095	2426	2033553772	Rhinoclemmys areolata	Sarcopterygii			Testudinata		Testudines	missing
+GCA_044758685.1	904225	2024-11-10	992066	7323	1046	2071652952	Trachemys venusta	Sarcopterygii			Testudinata		Testudines	missing
+GCF_000230535.1	13735	2012-07-24	205380	21993	5665	2106639384	Pelodiscus sinensis	Sarcopterygii			Testudinata		Testudines	missing
+GCF_002925995.2	2587831	2018-09-21	106051	76614	12650	2439725469	Terrapene triunguis	Sarcopterygii			Testudinata		Testudines	missing
+GCF_003597395.1	106734	2018-09-25	74048	63057	15862	2169537558	Chelonoidis abingdonii	Sarcopterygii			Testudinata		Testudines	missing
+GCF_007399415.2	1825980	2019-07-25	945	12863190	2440673	2269003890	Gopherus evgoodei	Sarcopterygii			Testudinata		Testudines	PacBio CLR
+GCF_009764565.3	27794	2021-08-25	708	7029801	1734682	2159167478	Dermochelys coriacea	Sarcopterygii			Testudinata		Testudines	PacBio CLR
+GCF_011386835.1	8478	2023-09-08	11120	13370154	951319	2371548498	Chrysemys picta bellii	Sarcopterygii			Testudinata		Testudines	PacBio HiFi
+GCF_013100865.1	31138	2020-05-15	25528	148326	39798	2044051184	Trachemys scripta elegans	Sarcopterygii			Testudinata		Testudines	missing
+GCF_015237465.2	8469	2021-07-15	391	39415510	8654002	2122414938	Chelonia mydas	Sarcopterygii			Testudinata		Testudines	PacBio CLR
+GCF_016161935.1	260615	2020-12-22	628	33352699	1860610	2367567429	Mauremys reevesii	Sarcopterygii			Testudinata		Testudines	Oxford Nanopore
+GCF_020497125.1	74926	2021-10-14	1636	15010728	1048870	2390893795	Mauremys mutica	Sarcopterygii			Testudinata		Testudines	PacBio CLR
+GCF_023653815.1	8467	2022-06-07	2753	18214114	2611949	2131883923	Caretta caretta	Sarcopterygii			Testudinata		Testudines	Oxford Nanopore
+GCF_025201925.1	286002	2022-09-15	2487	6917139	521464	2370903624	Gopherus flavomarginatus	Sarcopterygii			Testudinata		Testudines	PacBio CLR
+GCF_026122565.2	1129001	2024-07-25	3735	17066353	2826762	1924425589	Emydura macquarii macquarii	Sarcopterygii			Testudinata		Testudines	Oxford Nanopore
+GCF_027887155.1	2991368	2023-01-18	217	75591180	12314931	2209471813	Malaclemys terrapin pileata	Sarcopterygii			Testudinata		Testudines	PacBio HiFi
+GCF_028017835.1	82168	2023-01-30	254	91255289	9278625	2306416405	Emys orbicularis	Sarcopterygii			Testudinata		Testudines	PacBio HiFi
