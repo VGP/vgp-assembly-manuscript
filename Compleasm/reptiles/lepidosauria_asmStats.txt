@@ -1,0 +1,213 @@
+Accession	Tax_ID	Submission_Date	Number_Contigs	Contig_N50	Contig_N90	Assembly_Size	Species_name	Super_class	Class	Infra_class	Sub_class	Super_order	Order	Sequencing_type
+GCA_000516915.1	8665	2013-12-11	1332879	2943	506	1378912207	Ophiophagus hannah	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_000737285.1	384069	2014-08-01	636898	3822	781	1123660727	Crotalus pyrrhus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_001625485.2	35024	2024-11-01	5719	2255360	305138	1574169046	Crotalus horridus	Sarcopterygii	Lepidosauria				Squamata	Oxford Nanopore
+GCA_003113815.1	8508	2018-05-10	350823	21082	4804	3849631520	Sphenodon punctatus	Sarcopterygii	Lepidosauria				Sphenodontia	missing
+GCA_003118565.2	143630	2021-09-14	118732	21198	5563	1420206524	Paroedura picta	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_003400415.2	8742	2019-01-08	219946	9980	2554	1257484766	Crotalus viridis viridis	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_003402635.1	88087	2018-08-02	231088	17042	3528	1367649128	Protobothrops flavoviridis	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_003457575.1	527827	2018-09-05	195470	16788	4346	1608526356	Thermophis baileyi	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_003586115.2	96440	2018-12-11	23137	370220	58571	2033833041	Salvator merianae	Sarcopterygii	Lepidosauria				Squamata	PacBio RSII
+GCA_004319985.1	34996	2019-01-09	281190	15512	3289	1624260488	Emydocephalus ijimae	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_004320005.1	34990	2019-02-13	313421	7234	1806	1254859633	Hydrophis melanocephalus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_004320025.1	8630	2019-01-09	180051	16151	4546	1558442497	Laticauda laticaudata	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_009733165.1	35670	2019-12-11	13807	302078	49788	1658862854	Naja naja	Sarcopterygii	Lepidosauria				Squamata	Oxford Nanopore
+GCA_012654045.1	31142	2020-04-22	99818	41154	7871	1664294496	Ptyas mucosa	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_012654085.1	39099	2020-04-22	118816	38205	6443	1635629544	Pantherophis obsoletus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_014337955.1	403789	2020-08-31	170666	17774	5025	1546582450	Aspidoscelis marmoratus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_015471245.1	8628	2020-11-04	105298	38278	9301	1857854971	Laticauda colubrina	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_016801065.1	190870	2021-02-04	46009	91782	20510	1782063287	Sceloporus tristichus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_017656035.1	2777982	2021-04-01	311047	7005	1916	1315220932	Myanophis thanlyinensis	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_018340635.1	8724	2021-05-11	28754	162550	25198	1671135838	Bothrops jararaca	Sarcopterygii	Lepidosauria				Squamata	PacBio RSII
+GCA_019457695.2	1296673	2023-08-10	1163184	1484	552	1333285553	Chrysopelea ornata	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_019473425.1	8686	2021-08-09	2399	18985681	898557	1980417238	Hydrophis cyanocinctus	Sarcopterygii	Lepidosauria				Squamata	PacBio CLR
+GCA_020142125.1	52577	2021-09-27	263610	12043	3390	1872493838	Phrynosoma platyrhinos	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_020711275.1	48253	2021-11-02	1818025	1066	336	1334023404	Calotes versicolor	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_021292165.1	52224	2021-12-28	2405	3338364	690419	2189909879	Shinisaurus crocodilurus	Sarcopterygii	Lepidosauria				Squamata	PacBio CLR
+GCA_022379055.1	261707	2022-02-23	3139135	1400	252	1608299297	Anilios bituberculatus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_022410635.1	88860	2022-02-28	1613788	2318	479	1508781649	Tretioscincus oriximinensis	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_022412395.1	174780	2022-02-28	3649979	844	208	1506179066	Calyptommatus sinebrachiatus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_022577455.1	94893	2022-03-15	396	54101938	2274954	1842526335	Arizona elegans	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_023053685.1	158812	2022-04-19	1167	8013852	729993	1782951407	Diadophis punctatus similis	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_023333525.1	2917703	2022-05-11	113	30424254	9295825	1335664379	Aspidoscelis tigris stejnegeri	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_023333645.1	8519	2022-05-11	659	18989278	2131133	2856351871	Sceloporus occidentalis	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_023362775.1	51858	2022-05-13	374	37334273	4787148	1804931334	Charina bottae	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_023646645.1	1275487	2022-06-02	13056	1316942	53257	1686515024	Varanus salvator macromaculatus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_023653725.1	8616	2022-06-07	2079	5437538	503308	1581808212	Bungarus multicinctus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_023846285.1	171651	2022-06-22	102689	27024	8294	1592519988	Phrynocephalus versicolor	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_023970755.1	8773	2022-06-22	4303	1596756	186784	1557776103	Azemiops feae	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_024294585.1	246179	2022-07-20	825	44839567	1471406	1628021246	Vipera latastei	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_024449315.1	343250	2022-07-26	128244	27427	5801	1602527963	Daboia siamensis	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_024509115.1	8741	2022-08-04	1141	10371895	854153	1564573703	Crotalus helleri	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_025802295.1	186598	2022-10-23	380361	4574	1413	1198134078	Psammodynastes pulverulentus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_026122225.1	2940292	2022-11-10	3543	1358783	388662	2303480078	Heloderma charlesbogerti	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_026167975.1	372482	2022-11-14	116	62272472	16439368	1968352221	Phrynosoma blainvillii	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_026170595.1	245608	2022-11-14	54	127798174	25908016	1571220993	Plestiodon gilberti rubricaudatus	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_026541955.2	129328	2023-06-01	1888506	794	276	1139999037	Simalia boeleni	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_026931265.2	2879190	2023-06-01	703744	3400	1021	1321425304	Tropidonophis doriae	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_027559625.1	129333	2023-01-03	298616	10334	2736	1351159366	Morelia viridis	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_027560375.1	121343	2023-01-03	831141	2896	871	1348971587	Imantodes cenchoa	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_027560395.1	39328	2023-01-03	753655	3942	890	1378243277	Boaedon fuliginosus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_029204185.1	470340	2023-03-14	104309	35012	7383	1697300219	Lerista edwardsae	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_029215685.1	94852	2023-03-14	1233	26555075	934721	1682822729	Pituophis catenifer annectens	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_029215795.1	2202111	2023-03-14	122	120289678	29594555	1891073199	Anniella stebbinsi	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_029233225.1	747221	2023-03-20	461	64972995	10095276	2348835656	Lepidodactylus listeri	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_029282475.1	171643	2023-03-20	944	46215561	7786151	1816858791	Phrynocephalus forsythii	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_029375565.1	36310	2023-03-23	5480	10858724	1316638	2740979981	Gekko gecko	Sarcopterygii	Lepidosauria				Squamata	Oxford Nanopore
+GCA_029891615.1	2563697	2023-04-28	12847	1528028	149904	1733446845	Natrix natrix natrix	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_030015325.1	2509230	2023-05-16	74	109130949	30261697	1409969067	Cryptoblepharus egeriae	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_030052795.1	648196	2023-05-19	91390	153617	11226	1659886079	Pantherophis alleghaniensis	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_030412105.1	118683	2023-07-07	58	112814430	19452413	1982549248	Cyclura pinguis	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_030440675.1	187939	2023-07-12	23	158731830	31613784	1609766112	Furcifer pardalis	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_030556195.1	2032994	2023-07-31	18453	584161	87635	2422237427	Anolis apletophallus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_030761175.1	1651146	2023-08-16	297	68931034	2768766	1503982412	Masticophis lateralis	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_030847615.1	43593	2023-08-21	96	138191064	24564385	2466587183	Gambelia wislizenii	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_030867105.1	283338	2023-08-24	116	65226870	11736611	1485822150	Liasis olivaceus	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_031001705.1	129332	2023-08-30	168974	14021	4060	1349946023	Simalia tracyae	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_031021105.1	121349	2023-08-31	1791	3064756	551183	1963770841	Erythrolamprus reginae	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_032467955.1	1082482	2023-10-10	492000	5944	1348	1331215792	Pseudoxenodon macrops	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_032467975.1	8765	2023-10-10	498549	4713	1194	1202781358	Trimeresurus albolabris	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_032468015.1	143666	2023-10-10	905901	3422	662	1446097240	Mimophis mahfalensis	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_032468035.1	46264	2023-10-10	793544	2666	880	1255117928	Aparallactus werneri	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_032468055.1	46287	2023-10-10	357805	6983	2066	1296056156	Acrochordus granulatus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_032468095.1	211648	2023-10-10	584752	5218	1309	1415149602	Pareas carinatus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_032468115.1	292832	2023-10-10	614469	4391	1163	1395142203	Grayia smithii	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_032468135.1	2905135	2023-10-10	595912	3483	1052	1241191226	Calamaria suluensis	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_032468155.1	186594	2023-10-10	369937	8406	1832	1247409681	Oxyrhabdium leporinum	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_032468175.1	2725382	2023-10-10	458175	6040	1457	1274115524	Toxicocalamus goodenoughensis	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_032468195.1	46267	2023-10-10	628257	3359	1008	1230242128	Cerberus rynchops	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_032468215.1	2200754	2023-10-10	837856	4078	775	1501405012	Stegonotus admiraltiensis	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_032468235.1	1175435	2023-10-10	578654	4086	1072	1235720233	Pseudoxyrhopus heterurus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_032766585.1	254669	2023-10-17	152	27396532	9404206	1398207223	Darevskia unisexualis	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_033807585.1	355693	2023-11-21	1797	35743180	958767	2166655682	Hydrophis major	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_033807725.1	355681	2023-11-20	8083	748881	166574	2010331050	Hydrophis elegans	Sarcopterygii	Lepidosauria				Squamata	Oxford Nanopore
+GCA_034064705.1	64174	2023-12-04	1557	13867869	738173	1739305912	Bothrops alternatus	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_034509955.1	3148767	2023-12-21	531	23281897	5903010	1870034007	Urosaurus nigricauda	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_034641385.1	122392	2023-12-26	402	15581688	3025413	1408516084	Darevskia mixta	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_034641395.1	307438	2023-12-26	1656	3089098	713753	1925748154	Darevskia armeniaca	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_034642065.1	307440	2023-12-26	1805	2900118	450538	1772584127	Darevskia nairensis	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_034642135.1	122353	2023-12-26	3559	1103363	192498	1647904108	Darevskia valentini	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_035047305.1	179887	2024-01-03	39	178505980	37318862	2486264672	Bradypodion pumilum	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_035047345.1	179890	2024-01-03	135	174922266	22069499	2373185313	Bradypodion ventrale	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_036250565.1	1070323	2024-01-29	669948	3494	962	1273906848	Sibynophis collaris	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_037013535.1	103694	2024-03-05	877	39629392	3476292	1817564256	Intellagama lesueurii	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_037043045.1	355685	2024-03-06	1450	11305392	1807312	1923830204	Hydrophis curtus	Sarcopterygii	Lepidosauria				Squamata	Oxford Nanopore
+GCA_037055225.1	8685	2024-03-07	973	17311133	3166728	1925338771	Hydrophis ornatus	Sarcopterygii	Lepidosauria				Squamata	Oxford Nanopore
+GCA_037215915.1	94886	2024-03-19	697	28315126	1563895	1922476285	Pantherophis vulpinus	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_037367245.1	740940	2024-03-20	1270	2541092	892718	1813125221	Phrynocephalus guinanensis	Sarcopterygii	Lepidosauria				Squamata	PacBio CLR
+GCA_037367255.1	516951	2024-03-19	7825	3253229	250276	1915366367	Phrynocephalus putjatai	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_037367305.1	171652	2024-03-19	6591	4027282	403434	1866892948	Phrynocephalus vlangalii	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_037575465.1	648198	2024-03-27	369	66322725	2538938	1791426338	Pantherophis spiloides	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_038048745.1	3052055	2024-04-17	1099	72486006	771426	1828979847	Coluber constrictor foxii	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_039707465.1	126483	2024-05-20	749	104787037	2406354	1924612479	Rhabdophis nuchalis	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_039797435.1	8729	2024-05-24	366	67532859	3025907	1696157089	Crotalus adamanteus	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_039880765.1	8756	2024-05-29	1472	12532727	441575	1559591605	Sistrurus catenatus	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_040207535.1	143539	2024-06-17	162	109210969	26447670	1652966380	Correlophus ciliatus	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_040207615.1	8678	2024-06-17	9163	821899	152181	2074346991	Aipysurus laevis	Sarcopterygii	Lepidosauria				Squamata	Oxford Nanopore
+GCA_040285375.1	1816318	2024-06-25	70	170066346	14330461	1779338323	Laudakia wui	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_041107755.1	2202412	2024-08-08	562711	5479	1266	1434306443	Leptophis mexicanus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_041108255.1	1159290	2024-08-08	1603199	311	241	529939490	Xenodon rabdocephalus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_041295975.1	1476580	2024-08-15	651253	6107	1614	1855294531	Laemanctus serratus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_041380405.1	3095121	2024-08-21	23	199700853	37978314	1397757186	Spondylurus nitidus	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_041722995.2	316450	2024-11-06	226	90404876	8961000	1567883383	Acritoscincus duperreyi	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_041731335.1	911496	2024-09-03	1667465	2438	349	1948542187	Gonatodes alexandermendesi	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_041893435.1	8735	2024-09-10	1189	5135385	647661	1586188919	Crotalus ruber	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_042257475.1	886391	2024-09-27	279	19951807	3484423	1733310839	Asaccus caudivolvulus	Sarcopterygii	Lepidosauria				Squamata	Oxford Nanopore
+GCA_042478105.1	39310	2024-10-02	16642	262190	58400	1159497882	Gallotia galloti	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_042902775.1	8692	2024-10-10	917344	5745	406	1472373030	Bitis arietans	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_042902795.1	8654	2024-10-10	847596	6220	583	1523462434	Naja nigricollis	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_042902815.1	44735	2024-10-10	850909	5757	451	1412404391	Causus rhombeatus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_042902835.1	153723	2024-10-10	1179409	4241	516	1839690366	Hemidactylus brookii	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_042902875.1	39023	2024-10-10	990831	5421	414	1562557796	Micrurus diastema	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_042902895.1	617161	2024-10-10	1327063	3282	384	1833401447	Trioceros balebicornutus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_043090225.1	1720241	2024-10-12	905860	2940	939	1616007812	Anolis rodriguezii	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_043090385.1	2516550	2024-10-12	643676	8486	1217	1613049536	Acanthocercus minutus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_043090425.1	91908	2024-10-12	523520	9576	2178	1729081790	Chamaeleo dilepis	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_043090505.1	8639	2024-10-12	821781	3239	872	1320890996	Naja haje	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_043090545.1	427726	2024-10-12	889680	3727	877	1460149154	Leptodeira frenata	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_043090665.1	323608	2024-10-12	834013	4506	1094	1673882858	Anolis tropidonotus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_043090695.1	8722	2024-10-12	848718	4954	584	1433783764	Bothrops asper	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_043090765.1	2202509	2024-10-12	617681	9294	1330	1609111359	Xenagama zonura	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_043090785.1	1433128	2024-10-12	674728	17441	691	1516266805	Aspidoscelis angusticeps	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_043090795.1	449387	2024-10-12	328225	11825	3100	1693830259	Coleonyx elegans	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_043090905.1	3102984	2024-10-12	444642	10949	1620	1147500195	Panaspis annettesabinae	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_043090945.1	43620	2024-10-12	486934	10728	2312	1748686877	Sceloporus chrysostictus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_043090965.1	323738	2024-10-12	330105	13445	2987	1332615901	Trachylepis brevicollis	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_043090985.1	1247901	2024-10-12	630570	12626	1635	1658881221	Acanthocercus cyanogaster	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_043091005.1	382754	2024-10-12	774540	5233	927	1420759417	Psammophis punctulatus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_043091225.1	186583	2024-10-12	671503	7195	1167	1512090613	Drymarchon corais	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_043091265.1	190824	2024-10-12	915400	5289	520	1543904660	Crotaphopeltis hotamboeia	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_043110025.1	42165	2024-10-14	630508	5337	1318	1524848850	Atractaspis microlepidota	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_043110085.1	338837	2024-10-14	1500036	3951	312	1794428251	Telescopus dhara	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_043110945.1	617237	2024-10-14	985645	3312	999	1716600744	Trioceros harennae	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_043111055.1	690286	2024-10-14	1630911	1074	312	1212023374	Agama finchi	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_043111265.1	617160	2024-10-14	1251547	2890	597	1774437787	Trioceros affinis	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_043111325.1	1401211	2024-10-14	1229903	5106	327	1655568018	Phrynonax poecilonotus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_043380585.1	8727	2024-10-18	1517	9330433	584201	1632193668	Bothrops cotiara	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_043380785.1	157549	2024-10-18	1153	15609620	920649	1713735417	Bothrops fonsecai	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_043643385.1	179908	2024-10-24	1033	14096519	4107230	1803497301	Chamaeleo calyptratus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_043656425.1	8558	2024-10-23	566651	9421	1734	1585415804	Varanus albigularis	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_043656535.1	355654	2024-10-23	674824	12468	528	1442596265	Trachylepis striata	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_043656835.1	1328047	2024-10-23	826564	3704	973	1498124140	Philothamnus battersbyi	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_043656995.1	681533	2024-10-23	1108410	4635	341	1500767715	Mochlus sundevallii	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_043658275.1	8643	2024-10-23	707806	6368	920	1471320917	Naja melanoleuca	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_044008395.1	290508	2024-10-28	1023116	4576	973	1900036520	Thecadactylus rapicauda	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_044335405.1	373863	2024-11-03	936501	8370	712	1852966666	Chamaeleo laevigatus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_044335425.1	1043007	2024-11-03	539086	6058	1286	1294233093	Crotalus simus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_044335435.1	175455	2024-11-03	633708	10269	1328	1525043713	Agama doriae	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_044335465.1	434258	2024-11-03	936302	5581	389	1497495426	Psammophis sibilans	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_044335485.1	2202176	2024-11-03	1805900	1940	316	1742833447	Coniophanes imperialis	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_044335585.1	427721	2024-11-03	1040818	3972	442	1564871233	Imantodes gemmistratus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_044473165.1	864816	2024-11-05	162873	19261	4761	1158507952	Trachylepis maculilabris	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_044474425.1	1159292	2024-11-05	903938	3891	742	1599332265	Drymobius margaritiferus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_044628595.1	62046	2024-11-06	1087374	10220	328	1759467775	Varanus niloticus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_044758705.1	51844	2024-11-10	802538	9222	673	1642239419	Anilius scytale	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_044758725.1	91909	2024-11-10	920900	6896	967	1812278810	Chamaeleo gracilis	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_044758745.1	186588	2024-11-10	1493192	2720	330	1638323433	Natriciteres olivacea	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_044758865.1	933631	2024-11-10	884300	5244	1123	1808936791	Sphaerodactylus glaucus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_044758885.1	174777	2024-11-10	1456145	3053	614	2107932395	Bachia flavescens	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_900245895.1	95620	2018-04-26	8151	340243	87875	1418148296	Lacerta bilineata	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_900245905.1	65476	2018-04-26	4737	662519	160842	1439843026	Lacerta viridis	Sarcopterygii	Lepidosauria				Squamata	missing
+GCA_947247035.1	103942	2022-10-30	2203	2137891	373932	1624659740	Vipera ursinii	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_947686815.1	74358	2023-08-09	4495	1478291	214700	1459843799	Podarcis lilfordi	Sarcopterygii	Lepidosauria				Squamata	Oxford Nanopore
+GCA_948472985.1	51191	2023-02-03	9495	712766	171151	1911280145	Iguana delicatissima	Sarcopterygii	Lepidosauria				Squamata	Oxford Nanopore
+GCA_948474755.1	500334	2023-02-03	9618	444732	124620	1915228381	Ctenosaura bakeri	Sarcopterygii	Lepidosauria				Squamata	Oxford Nanopore
+GCA_951804945.1	1330250	2023-06-02	98	65743000	10682484	1507617655	Podarcis cretensis	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_964106635.2	74359	2024-07-05	1548	1719006	482155	1416806496	Podarcis pityusensis	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_964106915.2	90521	2024-09-17	1094	2858450	867886	1514467035	Podarcis gaigeae	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_964188175.1	65484	2024-06-21	1056	3060007	941915	1571229243	Podarcis siculus	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_964188305.1	90520	2024-06-21	1512	2681335	688477	1615005807	Podarcis bocagei	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_964194415.1	31155	2024-06-28	1536	4688414	655095	1694805808	Vipera berus	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_964234825.1	65482	2024-08-31	954	3107267	805019	1436894101	Podarcis melisellensis	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_964252035.1	140042	2024-08-31	1162	3226442	886564	1495827434	Podarcis erhardii	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_964265115.1	184164	2024-09-25	141	32743049	6875288	1752151081	Malpolon monspessulanus	Sarcopterygii	Lepidosauria				Squamata	Oxford Nanopore
+GCA_964270895.1	65481	2024-09-29	1221	3042058	777859	1506791724	Podarcis filfolensis	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCA_964273705.1	2025560	2024-10-05	2497	1870695	378482	1777114490	Natrix helvetica	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCF_000186305.1	176946	2013-09-15	274244	10658	2731	1384550427	Python bivittatus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCF_001077635.1	35019	2015-06-26	254150	6870	1761	1122623622	Thamnophis sirtalis	Sarcopterygii	Lepidosauria				Squamata	missing
+GCF_001447785.1	146911	2015-11-25	335470	29574	5460	2402047013	Gekko japonicus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCF_001527695.2	103944	2016-01-22	167851	21948	3445	1542279527	Protobothrops mucrosquamatus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCF_004329235.1	64176	2019-03-07	6246	714612	166615	1508102667	Podarcis muralis	Sarcopterygii	Lepidosauria				Squamata	PacBio CLR
+GCF_004798865.1	61221	2019-04-17	21148	189344	47250	1493306760	Varanus komodoensis	Sarcopterygii	Lepidosauria				Squamata	Oxford Nanopore
+GCF_009769535.1	35005	2019-12-23	1883	4620601	406312	1634004602	Thamnophis elegans	Sarcopterygii	Lepidosauria				Squamata	PacBio CLR
+GCF_009819535.1	80427	2019-12-31	408	6613248	1700075	1387913091	Lacerta agilis	Sarcopterygii	Lepidosauria				Squamata	PacBio CLR
+GCF_016545835.1	88082	2021-01-06	4228	2106662	356649	1612002213	Crotalus tigris	Sarcopterygii	Lepidosauria				Squamata	missing
+GCF_019175285.1	8520	2021-07-08	93150	75501	14783	1858345178	Sceloporus undulatus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCF_021028975.2	933632	2022-04-08	4332	9459502	749452	1810617447	Sphaerodactylus townsendi	Sarcopterygii	Lepidosauria				Squamata	missing
+GCF_023053635.1	159646	2024-01-04	107	85762895	10599774	1790487304	Elgaria multicarinata webbii	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCF_027172205.1	65483	2022-12-27	57	61439401	17461228	1513108387	Podarcis raffonei	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCF_027244095.1	884348	2022-12-28	86	160691000	24048327	2294742821	Hemicordylus capensis	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCF_028583425.1	481883	2023-02-10	137	80105973	26247130	2237391308	Eublepharis macularius	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCF_028640845.1	499056	2023-02-22	1079	23873608	5801550	1772386980	Ahaetulla prasina	Sarcopterygii	Lepidosauria				Squamata	Oxford Nanopore
+GCF_029531705.1	94885	2023-03-31	4019	3031475	332618	1649955141	Pantherophis guttatus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCF_029931775.1	460621	2023-05-15	744	26991305	5347058	1777871067	Euleptes europaea	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCF_030035675.1	261503	2023-05-22	318	18156940	4510158	2300953310	Rhineura floridana	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCF_032191835.1	13085	2023-09-29	2269	14376057	579159	2633311856	Heteronotia binoei	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCF_035046505.1	71010	2024-01-04	722	33113817	1908749	1623257912	Tiliqua scincoides	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCF_035149785.1	51853	2024-01-18	250	55640180	4988378	1530790180	Candoia aspera	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCF_035594765.1	28377	2024-01-12	1052	26091274	3271826	1820733924	Anolis carolinensis	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCF_037176765.1	38937	2024-03-15	220	43146625	5517933	1950792770	Anolis sagrei	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi
+GCF_900067755.1	103695	2017-02-28	104295	33316	8854	1648247221	Pogona vitticeps	Sarcopterygii	Lepidosauria				Squamata	missing
+GCF_900518725.1	8663	2018-09-24	131878	31763	5265	1584918968	Notechis scutatus	Sarcopterygii	Lepidosauria				Squamata	missing
+GCF_900518735.1	8673	2018-09-24	88015	50443	8376	1550748963	Pseudonaja textilis	Sarcopterygii	Lepidosauria				Squamata	missing
+GCF_963506605.1	8524	2023-09-20	731	3447840	1052316	1440102786	Zootoca vivipara	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi

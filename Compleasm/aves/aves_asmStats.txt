@@ -1,0 +1,1297 @@
+Accession	Tax_ID	Submission_Date	Number_Contigs	Contig_N50	Contig_N90	Assembly_Size	Species_name	Super_class	Class	Infra_class	Sub_class	Super_order	Order	Sequencing_type
+GCA_000332375.2	241585	2020-08-28	200284	21872	2789	1078989409	Amazona vittata	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_000699545.1	345573	2014-06-11	152268	17412	4393	1127833593	Podiceps cristatus	Sarcopterygii	Aves	Neognathae			Podicipediformes	missing
+GCA_000699945.1	43455	2014-06-11	216823	15248	2792	1142028413	Cathartes aura	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_001281735.1	1220523	2015-09-14	82096	22849	5896	1001655251	Zosterops lateralis melanops	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_001655095.1	144762	2016-06-02	298829	9618	1968	996184809	Phylloscopus trochiloides viridanus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_001655115.1	56441	2016-06-02	482155	4603	1031	988378389	Phylloscopus plumbeitarsus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_001746935.2	1037456	2020-12-08	69223	43576	7469	955438354	Setophaga coronata coronata	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_001870855.1	211916	2016-11-07	60594	47484	10822	979919245	Tympanuchus cupido pinnatus	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	missing
+GCA_002002985.2	30415	2019-05-08	63481	67532	13015	1192329019	Grus japonensis	Sarcopterygii	Aves	Neognathae			Gruiformes	missing
+GCA_002167245.1	256693	2017-06-05	24653	438970	23247	1016059588	Sporophila hypoxantha	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_002173435.1	2723871	2017-06-06	121675	28337	6584	1201057528	Phalacrocorax pelagicus	Sarcopterygii	Aves	Neognathae			Suliformes	missing
+GCA_002173455.1	56069	2017-06-06	130411	30878	6062	1233912499	Phalacrocorax auritus	Sarcopterygii	Aves	Neognathae			Suliformes	missing
+GCA_002173475.1	473964	2017-06-06	48205	67789	18182	1192393285	Phalacrocorax harrisi	Sarcopterygii	Aves	Neognathae			Suliformes	missing
+GCA_002174335.1	37046	2017-06-06	541517	8905	975	1335201566	Phalacrocorax brasilianus	Sarcopterygii	Aves	Neognathae			Suliformes	missing
+GCA_002218305.1	9009	2017-07-13	59818	154132	19129	1016929532	Callipepla squamata	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	missing
+GCA_002224875.1	75864	2017-07-25	141209	33329	4728	1179286053	Anas zonorhyncha	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_002289315.1	28711	2017-09-11	127444	22064	5013	1153380548	Uria lomvia	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_002631895.1	60468	2017-10-23	156672	18499	4316	1103429466	Agapornis roseicollis	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_002844005.1	1758121	2017-12-15	139617	21257	1817	886828261	Limosa lapponica baueri	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_002849675.1	451385	2018-01-02	32223	106977	18004	1013431323	Acridotheres javanicus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_002870145.1	9228	2018-01-09	429422	7355	1682	1292418961	Psittacula krameri	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_002909625.1	9083	2018-01-31	202991	10376	2497	1030761918	Bambusicola thoracicus	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	missing
+GCA_003264655.1	156760	2018-06-25	110602	19405	5619	1155685327	Spheniscus mendiculus	Sarcopterygii	Aves	Neognathae			Sphenisciformes	missing
+GCA_003286495.1	64799	2018-07-02	110476	23465	4106	1039639678	Chlorodrepanis virens	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_003342815.1	8805	2018-07-26	22342	97229	25647	945798648	Eudromia elegans	Sarcopterygii	Aves			Palaeognathae	Tinamiformes	missing
+GCA_003342895.1	8787	2018-07-26	24308	131062	29695	1197487119	Casuarius casuarius	Sarcopterygii	Aves			Palaeognathae	Casuariiformes	missing
+GCA_003342965.1	8824	2018-07-26	27269	127792	29409	1213897877	Apteryx owenii	Sarcopterygii	Aves			Palaeognathae	Apterygiformes	missing
+GCA_003342985.1	8823	2018-07-26	27811	104693	25777	1203438034	Apteryx haastii	Sarcopterygii	Aves			Palaeognathae	Apterygiformes	missing
+GCA_003343005.1	8797	2018-07-26	34570	67884	18323	1146652679	Rhea americana	Sarcopterygii	Aves			Palaeognathae	Rheiformes	missing
+GCA_003400225.2	187383	2020-12-15	42324	90121	18584	1141585977	Chlamydotis undulata undulata	Sarcopterygii	Aves	Neognathae			Otidiformes	missing
+GCA_003435085.1	9065	2018-08-31	157634	22931	4279	1046825594	Syrmaticus mikado	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	missing
+GCA_003546035.1	1948886	2018-09-11	45787	62192	12187	1003779412	Mixornis gularis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_003676055.1	44316	2018-10-23	39605	137954	17824	1048326600	Chloebia gouldiae	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_003697955.1	425635	2018-10-30	60484	107942	18178	1170088336	Calidris pygmaea	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_003713215.1	39963	2018-11-06	16532	317757	52894	1052188452	Paradisaea rubra	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_003713285.1	28716	2018-11-06	21084	193657	32129	1045990886	Diphyllodes magnificus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_003713295.1	39961	2018-11-06	14822	336676	59042	1048101212	Parotia lawesii	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_003713305.1	36263	2018-11-06	15999	363883	53496	1048000545	Cicinnurus regius	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_003829775.2	40217	2022-06-02	61478	71406	9192	999217636	Junco hyemalis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_003947215.1	241587	2018-12-14	22614	208912	41088	1231620060	Amazona collaria	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_003993805.1	507594	2019-01-04	137886	15798	4563	1105214142	Himantopus leucocephalus	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_004023745.1	171275	2019-01-15	266069	10462	2484	1183858900	Recurvirostra avosetta	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_004320125.1	1381582	2019-02-15	85959	53695	8806	1086943594	Scolopax mira	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_004320165.1	1517798	2019-02-16	191226	17109	2518	1132405441	Dendrocopos noguchii	Sarcopterygii	Aves	Neognathae			Piciformes	missing
+GCA_004320225.1	1564486	2019-02-16	68368	59150	11716	1190982516	Bubo blakistoni	Sarcopterygii	Aves	Neognathae			Strigiformes	missing
+GCA_004360235.1	40817	2019-03-22	1818	17886166	1516334	1230853664	Grus nigricollis	Sarcopterygii	Aves	Neognathae			Gruiformes	Oxford Nanopore
+GCA_005890655.1	211967	2019-06-14	1042	3470252	989002	1000038965	Centrocercus minimus	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	PacBio RSII
+GCA_006130075.1	8853	2019-06-05	29793	220846	31731	1134556562	Branta canadensis	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_006937325.1	8811	2019-07-12	2180497	644	186	890478848	Anomalopteryx didiformis	Sarcopterygii	Aves			Palaeognathae	Dinornithiformes	missing
+GCA_007252995.1	364589	2019-07-22	261946	11554	2551	1109485392	Zosterops borbonicus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_007556475.1	43580	2019-07-26	238135	12686	2758	1096741410	Zosterops pallidus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_008033365.1	1743254	2019-08-20	186300	10737	2355	989332576	Pseudorectes ferrugineus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_008360975.2	1497555	2022-02-11	2227	6736108	423325	1102284676	Lichenostomus cassidix	Sarcopterygii	Aves	Neognathae			Passeriformes	Oxford Nanopore
+GCA_008658365.1	28689	2019-10-10	322	18221265	3374007	1174931441	Alca torda	Sarcopterygii	Aves	Neognathae			Charadriiformes	PacBio CLR
+GCA_008692595.2	9014	2021-04-29	39169	106817	10761	939359420	Colinus virginianus	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	missing
+GCA_008694505.1	181631	2019-09-25	54089	45026	10686	1032922052	Cyanoderma ruficeps	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_008711295.1	50392	2019-09-27	86591	39499	9695	1193810998	Charadrius alexandrinus	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_008921705.1	85105	2019-10-08	55593	93678	15700	1191749133	Burhinus oedicnemus	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_009690805.1	2518271	2019-11-22	46936	57590	13059	1014855308	Hemignathus wilsoni	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_009741485.1	2593467	2019-12-12	24975	101293	21395	1062456442	Malurus cyaneus samueli	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio RSII
+GCA_009764595.1	135433	2019-12-19	1757	3247339	323245	1064430700	Geothlypis trichas	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio CLR
+GCA_009769605.1	153643	2019-12-23	316	12039478	3104693	1124523019	Bucorvus abyssinicus	Sarcopterygii	Aves	Neognathae			Bucerotiformes	PacBio CLR
+GCA_009792885.1	2668079	2019-12-23	27074	148736	25861	1004907222	Eremophila alpestris peregrina	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_009806455.1	172684	2019-12-27	65591	43434	9908	1126902467	Tetrax tetrax	Sarcopterygii	Aves	Neognathae			Otidiformes	missing
+GCA_009812075.1	172413	2019-12-31	41194	53982	11949	924770102	Sialia sialis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_009819605.1	108405	2019-12-31	328	22002498	3404150	1219607931	Sterna hirundo	Sarcopterygii	Aves	Neognathae			Charadriiformes	PacBio CLR
+GCA_009819775.1	9218	2019-12-31	370	14700712	2395608	1237624816	Phoenicopterus ruber ruber	Sarcopterygii	Aves	Neognathae			Phoenicopteriformes	PacBio CLR
+GCA_009823435.2	13180	2022-11-30	282581	15829	2297	1117867470	Nymphicus hollandicus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_009867205.2	190661	2022-11-27	185385	19942	4574	1114374011	Aratinga weddellii	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_009867235.2	57247	2022-11-27	204877	36774	6246	1116834024	Psittacus erithacus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_009867315.2	1549196	2022-11-27	154811	38524	7198	1105210112	Psittacus timneh	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_009936445.2	51900	2022-07-21	260830	12520	2247	1105924951	Anodorhynchus hyacinthinus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_010014725.2	176013	2022-11-27	459691	4241	1125	1007656281	Ara chloropterus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_010014865.2	211511	2022-11-27	172987	22345	5221	1112488058	Pyrrhura frontalis	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_010014875.2	176074	2022-07-29	276138	13131	2811	1106662505	Psitteuteles goldiei	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_010014925.2	13114	2022-11-30	207685	12253	3007	1084550708	Lorius garrulus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_010014965.2	311890	2022-07-29	218170	18623	3992	1133686187	Pyrrhura griseipectus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_010015045.2	471713	2022-07-29	267514	8229	2004	1046017890	Lophochroa leadbeateri	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_010015965.3	57237	2023-09-20	362077	5563	1441	1026749961	Ara militaris	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_010076225.1	37081	2020-01-31	84018	41561	10250	1236520606	Spheniscus magellanicus	Sarcopterygii	Aves	Neognathae			Sphenisciformes	missing
+GCA_010077935.1	92683	2020-01-31	34279	101688	22889	1220380633	Spheniscus demersus	Sarcopterygii	Aves	Neognathae			Sphenisciformes	missing
+GCA_010078415.1	79643	2020-01-31	34478	119051	23147	1228273172	Pygoscelis antarcticus	Sarcopterygii	Aves	Neognathae			Sphenisciformes	missing
+GCA_010078445.1	92688	2020-01-31	35075	69583	18508	1187311428	Eudyptes sclateri	Sarcopterygii	Aves	Neognathae			Sphenisciformes	missing
+GCA_010078485.1	2517240	2020-01-31	39632	84129	17995	1255729456	Megadyptes antipodes antipodes	Sarcopterygii	Aves	Neognathae			Sphenisciformes	missing
+GCA_010078495.1	2052820	2020-01-31	34600	122764	25964	1308285663	Eudyptula minor novaehollandiae	Sarcopterygii	Aves	Neognathae			Sphenisciformes	missing
+GCA_010080425.1	57240	2020-01-31	142133	24233	5258	1254614709	Eudyptes schlegeli	Sarcopterygii	Aves	Neognathae			Sphenisciformes	missing
+GCA_010080465.1	345258	2020-01-31	41167	96022	20078	1314410653	Eudyptula albosignata	Sarcopterygii	Aves	Neognathae			Sphenisciformes	missing
+GCA_010082375.1	2495534	2020-01-31	132898	21450	5507	1238182443	Eudyptes moseleyi	Sarcopterygii	Aves	Neognathae			Sphenisciformes	missing
+GCA_010084205.1	79627	2020-01-31	30687	164481	31907	1330981288	Eudyptes chrysolophus	Sarcopterygii	Aves	Neognathae			Sphenisciformes	missing
+GCA_010085355.1	79626	2020-01-31	43030	66001	15818	1197790916	Eudyptes chrysocome	Sarcopterygii	Aves	Neognathae			Sphenisciformes	missing
+GCA_010085365.1	1419345	2020-01-31	33098	74280	19550	1192873763	Eudyptes filholi	Sarcopterygii	Aves	Neognathae			Sphenisciformes	missing
+GCA_010087175.1	9234	2020-01-31	33830	117300	23395	1220635914	Aptenodytes patagonicus	Sarcopterygii	Aves	Neognathae			Sphenisciformes	missing
+GCA_010303855.1	30461	2020-02-04	133317	37091	7467	1201476694	Bubo bubo	Sarcopterygii	Aves	Neognathae			Strigiformes	missing
+GCA_010312235.1	224669	2020-02-04	127054	36723	7655	1216074549	Buteo japonicus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_010365825.1	257818	2020-02-04	151517	52366	10305	1212025020	Otus sunia	Sarcopterygii	Aves	Neognathae			Strigiformes	missing
+GCA_011057875.1	227169	2020-03-02	69999	48746	8459	1129658684	Pterocles orientalis	Sarcopterygii	Aves	Neognathae			Pterocliformes	missing
+GCA_011074415.1	45637	2020-03-10	27664	136958	23842	1116727462	Stictonetta naevosa	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_011075105.1	555264	2020-03-10	25704	151401	26807	1124050865	Heteronetta atricapilla	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_011076525.1	658922	2020-03-10	31007	105082	20500	1113350850	Nettapus auritus	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_011125475.1	371916	2020-03-17	453	15373166	2233217	1309626407	Melanerpes aurifrons	Sarcopterygii	Aves	Neognathae			Piciformes	Oxford Nanopore
+GCA_011317185.2	492513	2022-11-14	141587	15681	3898	1094490554	Eupsittula pertinax	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_011762725.2	30456	2022-12-29	956648	1682	420	996188346	Pionus senilis	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_011763355.2	311895	2022-11-27	184198	20854	4368	1121876177	Pyrrhura molinae	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_011763455.2	311897	2022-07-21	156229	23964	5707	1111208551	Pyrrhura perlata	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_011763535.2	176024	2022-07-21	210342	17202	2857	1094490652	Eclectus roratus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_011800095.2	51906	2022-07-21	279914	19274	3288	1150640701	Guaruba guarouba	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_011801015.1	172690	2020-03-31	165403	34349	1907	1293716190	Ardeotis arabs	Sarcopterygii	Aves	Neognathae			Otidiformes	missing
+GCA_012487455.1	214438	2020-04-08	83495	51153	9714	1195266885	Nisaetus nipalensis	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_012487855.1	40818	2020-04-08	100703	35960	7361	1176261022	Grus monacha	Sarcopterygii	Aves	Neognathae			Gruiformes	missing
+GCA_012488435.1	2717088	2020-04-08	113081	30857	6561	1174954608	Antigone vipio	Sarcopterygii	Aves	Neognathae			Gruiformes	missing
+GCA_013186435.1	311356	2020-05-28	78770	27028	6175	1004141260	Turdus rufiventris	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013372525.1	9121	2020-06-24	31348	246158	33850	1148146681	Fulica atra	Sarcopterygii	Aves	Neognathae			Gruiformes	missing
+GCA_013389825.1	48396	2020-07-06	149807	32126	4433	1015008279	Crypturellus undulatus	Sarcopterygii	Aves			Palaeognathae	Tinamiformes	missing
+GCA_013389865.1	33601	2020-07-06	241620	18763	2740	1132883335	Piaya cayana	Sarcopterygii	Aves	Neognathae			Cuculiformes	missing
+GCA_013389885.1	8947	2020-07-06	254439	28387	3037	1130625920	Geococcyx californianus	Sarcopterygii	Aves	Neognathae			Cuculiformes	missing
+GCA_013389905.1	56068	2020-07-06	201856	25609	4244	1116486329	Sula dactylatra	Sarcopterygii	Aves	Neognathae			Suliformes	missing
+GCA_013389925.1	73327	2020-07-06	182615	20998	3470	994958686	Aegithalos caudatus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013389945.1	37042	2020-07-06	262776	21934	2446	1152537595	Fregata magnificens	Sarcopterygii	Aves	Neognathae			Suliformes	missing
+GCA_013389965.1	135184	2020-07-06	474969	6879	626	837299647	Todus mexicanus	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_013389985.1	85069	2020-07-06	236547	20866	2406	970110150	Dryoscopus gambensis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013390005.1	135972	2020-07-06	239716	24169	2408	1021347378	Calyptomena viridis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013390025.1	9163	2020-07-06	196352	17194	3070	1068462495	Pitta sordida	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013390045.1	175131	2020-07-06	231670	29083	2463	1001787582	Picathartes gymnocephalus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013390065.1	667144	2020-07-06	68315	34719	7149	1024224066	Chloropsis hardwickii	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013390105.1	237442	2020-07-06	399580	10894	785	856686366	Tichodroma muraria	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013396355.1	47692	2020-07-10	32236	70620	18553	1050374304	Menura novaehollandiae	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013396365.1	110676	2020-07-10	43737	53870	14233	1156020157	Cochlearius cochlearius	Sarcopterygii	Aves	Neognathae			Pelecaniformes	missing
+GCA_013396375.1	89386	2020-07-10	50995	48381	11096	1111993402	Ardeotis kori	Sarcopterygii	Aves	Neognathae			Otidiformes	missing
+GCA_013396435.1	56067	2020-07-10	93519	21331	5935	1155353775	Anhinga anhinga	Sarcopterygii	Aves	Neognathae			Suliformes	missing
+GCA_013396455.1	172689	2020-07-10	42108	50191	13664	1093433144	Lophotis ruficrista	Sarcopterygii	Aves	Neognathae			Otidiformes	missing
+GCA_013396465.1	363769	2020-07-10	47043	55501	11024	1027733644	Smithornis capensis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013396485.1	449384	2020-07-10	50388	64317	10149	1034786682	Ptilorrhoa leucosticta	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013396505.1	1352770	2020-07-10	36898	61759	17068	1156406333	Chunga burmeisteri	Sarcopterygii	Aves	Neognathae			Cariamiformes	missing
+GCA_013396525.1	254446	2020-07-10	33970	83183	15993	1035170909	Chaetorhynchus papuensis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013396555.1	495162	2020-07-10	42377	55378	12394	1047097709	Tachuris rubrigastra	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013396575.1	58203	2020-07-10	80962	24089	5755	1003615074	Rhodinocichla rosea	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013396595.1	48426	2020-07-10	83208	28616	6326	1129216629	Nyctibius bracteatus	Sarcopterygii	Aves	Neognathae			Caprimulgiformes	missing
+GCA_013396615.1	79653	2020-07-10	85942	23886	6373	1149640527	Oceanites oceanicus	Sarcopterygii	Aves	Neognathae			Procellariiformes	missing
+GCA_013396635.1	1118817	2020-07-10	73630	40414	10148	1020165826	Penelope pileata	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	missing
+GCA_013396655.1	190295	2020-07-10	69739	68988	13688	1039716656	Campylorhamphus procurvoides	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013396675.1	91767	2020-07-10	216469	15136	2979	1205469434	Eubucco bourcierii	Sarcopterygii	Aves	Neognathae			Piciformes	missing
+GCA_013396695.1	419690	2020-07-10	110392	43451	6740	1067306499	Sakesphorus luctuosus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013396715.1	1118524	2020-07-10	149854	26292	5083	1172632378	Ciccaba nigrolineata	Sarcopterygii	Aves	Neognathae			Strigiformes	missing
+GCA_013396735.1	117165	2020-07-10	102101	36531	7217	1046411125	Grallaria varia	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013396755.1	265632	2020-07-10	65770	66301	13354	1038562829	Sclerurus mexicanus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013396775.1	114276	2020-07-10	70551	58715	12345	1053444013	Cephalopterus ornatus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013396815.1	103954	2020-07-10	226207	6602	1748	973341793	Corythaeola cristata	Sarcopterygii	Aves	Neognathae			Musophagiformes	missing
+GCA_013396835.1	2585815	2020-07-10	183750	20007	3681	1183770426	Psilopogon haemacephalus	Sarcopterygii	Aves	Neognathae			Piciformes	missing
+GCA_013396875.1	34956	2020-07-10	90152	57453	10379	1055146183	Vireo altiloquus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013396915.1	54059	2020-07-10	71848	52309	12835	1151356498	Stercorarius parasiticus	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_013396935.1	176943	2020-07-10	100895	41850	8033	1093787337	Baryphthengus martii	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_013396955.1	13245	2020-07-10	195007	18249	3005	991228282	Regulus satrapa	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013396975.1	135168	2020-07-10	150466	20805	3578	971723344	Bucco capensis	Sarcopterygii	Aves	Neognathae			Piciformes	missing
+GCA_013396995.1	667154	2020-07-10	77519	55699	10840	1006287027	Dicaeum eximium	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013397015.1	381031	2020-07-10	111924	33505	7016	1038258873	Myiagra hebetior	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013397025.1	79633	2020-07-10	149256	28019	5351	1175180126	Oceanodroma tethys	Sarcopterygii	Aves	Neognathae			Procellariiformes	missing
+GCA_013397055.1	449367	2020-07-10	104976	36337	7212	1030803565	Pachycephala philippinensis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013397075.1	237438	2020-07-10	72917	66561	12308	1031623190	Rhabdornis inornatus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013397095.1	2585820	2020-07-10	120246	36911	6174	1032745851	Sterrhoptilus dennistouni	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013397115.1	2585810	2020-07-10	74105	58848	11856	1034181433	Edolisoma coerulescens	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013397135.1	369605	2020-07-10	82261	45546	10603	1046648739	Pachyramphus minor	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013397155.1	175120	2020-07-10	87036	64973	10862	1029218275	Irena cyanogastra	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013397235.1	28713	2020-07-10	68788	59110	12531	1032608268	Lanius ludovicianus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013397245.1	74200	2020-07-10	132286	34927	5568	1015926087	Thryothorus ludovicianus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013397275.1	240201	2020-07-10	124553	28043	6636	1195267258	Burhinus bistriatus	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_013397295.1	66707	2020-07-10	123704	28609	5853	1020376776	Polioptila caerulea	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013397315.1	237420	2020-07-10	129425	32238	5773	1042981028	Donacobius atricapilla	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013397375.1	99882	2020-07-10	90389	50547	8885	1022479851	Toxostoma redivivum	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013397395.1	337173	2020-07-10	101238	43135	8184	1040556305	Sinosuthora webbiana	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013397415.1	456388	2020-07-10	72922	32522	6514	1021490767	Neopipo cinnamomea	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013397435.1	107208	2020-07-10	42897	76154	13403	1009860118	Erythrocercus mccallii	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013397455.1	33598	2020-07-10	33899	73479	17601	1055737055	Crotophaga sulcirostris	Sarcopterygii	Aves	Neognathae			Cuculiformes	missing
+GCA_013397465.1	463165	2020-07-10	55998	48265	9346	1000497705	Furnarius figulus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013397495.1	254557	2020-07-10	38031	61463	14232	1026444678	Mionectes macconnelli	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013397515.1	57439	2020-07-10	111360	26073	5448	960670606	Upupa epops	Sarcopterygii	Aves	Neognathae			Bucerotiformes	missing
+GCA_013397535.1	2585816	2020-07-10	55196	38836	10085	1074364016	Pterocles burchelli	Sarcopterygii	Aves	Neognathae			Pterocliformes	missing
+GCA_013397555.1	571890	2020-07-10	90997	32950	7843	1019170173	Urocynchramus pylzowi	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013397565.1	28724	2020-07-10	71895	71891	13840	1049708363	Ptilonorhynchus violaceus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013397595.1	342381	2020-07-10	32339	82537	19604	1119396791	Halcyon senegalensis	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_013397615.1	176039	2020-07-10	116540	17824	3613	1021131135	Eolophus roseicapilla	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_013397635.1	115618	2020-07-10	115891	22138	3573	1022945491	Columbina picui	Sarcopterygii	Aves	Neognathae			Columbiformes	missing
+GCA_013397655.1	287016	2020-07-10	76406	33561	6692	1124953421	Chroicocephalus maculipennis	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_013397665.1	141839	2020-07-10	77661	29241	6016	1030529174	Probosciger aterrimus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_013397695.1	1118519	2020-07-10	38255	66277	14132	1029319583	Centropus unirufus	Sarcopterygii	Aves	Neognathae			Cuculiformes	missing
+GCA_013397715.1	198940	2020-07-10	67726	46130	7253	1013754498	Calcarius ornatus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013397725.1	156170	2020-07-10	50661	81491	18518	1038744194	Rhagologus leucostigma	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013397755.1	254448	2020-07-10	70227	67183	13765	1035698508	Cnemophilus loriae	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013397775.1	461239	2020-07-10	53451	59779	15191	1033040479	Eulacestoma nigropectus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013397795.1	38397	2020-07-10	55372	60556	15209	1027467587	Orthonyx spaldingii	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013397815.1	461220	2020-07-10	95837	39787	8217	1042529526	Aleadryas rufinucha	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013397825.1	360224	2020-07-10	31838	79812	17131	1061511693	Onychorhynchus coronatus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013397845.1	254552	2020-07-10	79700	54471	11390	1023265634	Melanocharis versteri	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013397865.1	181839	2020-07-10	58066	54693	13918	1033908312	Struthidea cinerea	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013397895.1	720586	2020-07-10	55775	69505	15605	1025272407	Origma solitaria	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013397915.1	254528	2020-07-10	73518	47250	11262	1024869767	Daphoenositta chrysoptera	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013397935.1	243059	2020-07-10	63758	48152	12194	1018135208	Dasyornis broadbenti	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013397955.1	266360	2020-07-10	69932	57615	13106	1007034428	Grantiella picta	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013397975.1	1160894	2020-07-10	83721	46022	9750	1034963128	Machaerirhynchus nigripectus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013397995.1	720584	2020-07-10	108192	38980	6760	1003749200	Malurus elegans	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013398015.1	979223	2020-07-10	71106	57354	12730	1032010239	Oreocharis arfaki	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013398035.1	181101	2020-07-10	103850	16217	3607	854803993	Panurus biarmicus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013398055.1	461245	2020-07-10	75026	50790	11215	1035709406	Ifrita kowaldi	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013398075.1	366454	2020-07-10	106256	30650	6150	1015570850	Notiomystis cincta	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013398115.1	254539	2020-07-10	58991	88972	19737	1037567408	Falcunculus frontatus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013398125.1	48278	2020-07-10	80005	46244	10012	1076157925	Aegotheles bennettii	Sarcopterygii	Aves	Neognathae			Caprimulgiformes	missing
+GCA_013398155.1	227192	2020-07-10	170680	20909	4008	1115892818	Pedionomus torquatus	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_013398175.1	47695	2020-07-10	68862	52840	11832	1048104586	Climacteris rufus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013398225.1	48435	2020-07-10	186552	18483	4195	1192522296	Steatornis caripensis	Sarcopterygii	Aves	Neognathae			Caprimulgiformes	missing
+GCA_013398275.1	254652	2020-07-10	76139	56247	11676	1035757775	Promerops cafer	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013398295.1	227182	2020-07-10	69473	55718	13857	1167876586	Chionis minor	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_013398315.1	2585814	2020-07-10	48267	37305	9838	939795269	Nothoprocta pentlandii	Sarcopterygii	Aves			Palaeognathae	Tinamiformes	missing
+GCA_013398335.1	83376	2020-07-10	49406	39347	9669	943442019	Nothoprocta ornata	Sarcopterygii	Aves			Palaeognathae	Tinamiformes	missing
+GCA_013398345.1	1977171	2020-07-10	69709	26881	6731	967761333	Nothocercus nigrocapillus	Sarcopterygii	Aves			Palaeognathae	Tinamiformes	missing
+GCA_013398405.1	371919	2020-07-10	78937	57804	7018	1023594972	Pheucticus melanocephalus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013398455.1	64802	2020-07-10	54580	84295	17770	1020433289	Loxia curvirostra	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013398475.1	75869	2020-07-10	34301	91211	19936	1101017527	Asarcornis scutulata	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_013398505.2	468512	2021-04-30	95623	22972	4663	1058514814	Rhegmatorhina hoffmannsi	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013398575.1	73333	2020-07-10	67148	48850	8544	1023258710	Certhia familiaris	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013398595.1	614051	2020-07-10	52308	47121	9461	984454866	Cercotrichas coryphoeus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013398615.1	3235156	2020-07-10	33826	85408	16249	903162233	Brachypodius melanocephalos	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013398635.1	797021	2020-07-10	48476	75833	10263	1009859639	Copsychus sechellarum	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013398715.1	381881	2020-07-10	87095	28306	7244	1044486590	Nesospiza acunhae	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013398735.1	2585813	2020-07-10	59376	32724	8173	978095341	Nothocercus julius	Sarcopterygii	Aves			Palaeognathae	Tinamiformes	missing
+GCA_013398745.1	239371	2020-07-10	42566	52038	13627	993739876	Sapayoa aenigma	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013398795.1	1463973	2020-07-10	59525	35375	8124	981123452	Elachura formosa	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013398815.1	425643	2020-07-10	116162	33424	7035	1185526735	Ibidorhyncha struthersii	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_013398835.1	337179	2020-07-10	115574	16757	3677	990836721	Emberiza fucata	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013398855.1	874463	2020-07-10	115482	40781	6643	1027527664	Mohoua ochrocephala	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013398875.1	670356	2020-07-10	63861	32414	7798	999695827	Prunella himalayana	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013398915.1	458190	2020-07-10	159254	32947	6257	1150284946	Dromas ardeola	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_013398935.1	1961834	2020-07-10	83989	25796	6030	1042459335	Ceuthmochares aereus	Sarcopterygii	Aves	Neognathae			Cuculiformes	missing
+GCA_013398955.1	1347786	2020-07-10	58956	83470	16557	1045971336	Callaeas wilsoni	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013398975.1	159581	2020-07-10	156601	29178	4894	1031385535	Catharus fuscescens	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013398995.1	670337	2020-07-10	168984	36904	3840	1054214713	Alaudala cheleensis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013399015.1	1109041	2020-07-10	58761	90769	14681	1001440294	Galbula dea	Sarcopterygii	Aves	Neognathae			Piciformes	missing
+GCA_013399035.1	64278	2020-07-10	102087	45644	7110	1036000780	Quiscalus mexicanus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013399055.1	322582	2020-07-10	261634	12772	1978	1156197873	Ramphastos sulfuratus	Sarcopterygii	Aves	Neognathae			Piciformes	missing
+GCA_013399075.1	176938	2020-07-10	196854	19738	3132	1032119350	Chloroceryle aenea	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_013399095.1	54359	2020-07-10	81645	39180	9861	1156480022	Psophia crepitans	Sarcopterygii	Aves	Neognathae			Gruiformes	missing
+GCA_013399115.1	8851	2020-07-10	86695	31568	8254	1121468530	Anseranas semipalmata	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_013399135.1	54369	2020-07-10	126629	29424	5518	1082178807	Heliornis fulica	Sarcopterygii	Aves	Neognathae			Gruiformes	missing
+GCA_013399175.1	886794	2020-07-10	87308	38807	8183	970641112	Odontophorus gujanensis	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	missing
+GCA_013399195.1	450177	2020-07-10	101792	69143	14718	1045186543	Dicrurus megarhynchus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013399215.1	252798	2020-07-10	43069	53121	14094	1172083986	Spizaetus tyrannus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_013399225.1	667186	2020-07-10	62390	53517	13285	1015053539	Rhipidura dahli	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013399275.1	56311	2020-07-10	45801	45813	12094	1086497534	Trogon melanurus	Sarcopterygii	Aves	Neognathae			Trogoniformes	missing
+GCA_013399295.1	114369	2020-07-10	37927	52186	14742	1043129745	Piprites chloris	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013399305.1	118793	2020-07-10	39314	62790	14339	1090886764	Rostratula benghalensis	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_013399335.1	79628	2020-07-10	147684	13624	3218	1114937725	Fregetta grallaria	Sarcopterygii	Aves	Neognathae			Procellariiformes	missing
+GCA_013399355.1	56343	2020-07-10	40762	53035	15255	1162818711	Herpetotheres cachinnans	Sarcopterygii	Aves	Neognathae			Falconiformes	missing
+GCA_013399365.1	2953425	2020-07-10	122300	48291	9018	1109495448	Pampusana beccarii	Sarcopterygii	Aves	Neognathae			Columbiformes	missing
+GCA_013399395.1	382315	2020-07-10	91380	25115	5511	1072674711	Nyctiprogne leucopyga	Sarcopterygii	Aves	Neognathae			Caprimulgiformes	missing
+GCA_013399435.1	54971	2020-07-10	129729	33950	6135	1114516392	Arenaria interpres	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_013399455.1	156561	2020-07-10	183618	35722	3587	970669310	Anthoscopus minutus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013399475.1	30388	2020-07-10	182320	25042	4482	1130326297	Chauna torquata	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_013399495.1	103956	2020-07-10	56483	40947	10538	1165625200	Corythaixoides concolor	Sarcopterygii	Aves	Neognathae			Musophagiformes	missing
+GCA_013399515.1	208069	2020-07-10	69155	27507	7139	1007488956	Sylvietta virens	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013399535.1	297813	2020-07-10	140393	13977	3442	1101416910	Phaetusa simplex	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_013399565.1	9252	2020-07-10	70943	28903	8196	1168226045	Podilymbus podiceps	Sarcopterygii	Aves	Neognathae			Podicipediformes	missing
+GCA_013399595.1	78217	2020-07-10	35733	66495	17505	1155553443	Glaucidium brasilianum	Sarcopterygii	Aves	Neognathae			Strigiformes	missing
+GCA_013399615.1	175529	2020-07-10	127135	27701	5721	1118561637	Amazona guildingii	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_013399635.1	118183	2020-07-10	69596	33812	8013	1142465253	Chordeiles acutipennis	Sarcopterygii	Aves	Neognathae			Caprimulgiformes	missing
+GCA_013399675.1	1118748	2020-07-10	107031	46775	8647	1187592377	Mesembrinibis cayennensis	Sarcopterygii	Aves	Neognathae			Pelecaniformes	missing
+GCA_013399695.1	1118560	2020-07-10	69562	42203	10420	1038213026	Formicarius rufipectus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013399715.1	81907	2020-07-10	231722	12353	2201	1020279833	Alectura lathami	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	missing
+GCA_013399735.1	137541	2020-07-10	103927	37027	8338	1045709351	Tyrannus savana	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013399775.1	91796	2020-07-10	468013	6267	978	1039491884	Semnornis frantzii	Sarcopterygii	Aves	Neognathae			Piciformes	missing
+GCA_013399795.1	2485327	2020-07-10	147853	29416	4875	1043792889	Zosterops hypoxanthus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013399835.1	2585812	2020-07-10	82144	46155	9632	1025642991	Leptocoma aspasia	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013399855.1	114331	2020-07-10	62395	54131	13056	1053941021	Oxyruncus cristatus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013399875.1	9132	2020-07-10	62620	74040	15149	1045095681	Gymnorhina tibicen	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013399895.1	239386	2020-07-10	57866	53932	13217	1032753128	Serilophus lunatus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013399915.1	201329	2020-07-10	180923	23983	3593	1034452564	Illadopsis cleaveri	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013399935.1	161649	2020-07-10	167406	26660	4254	984760830	Cinclus mexicanus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013399945.1	441696	2020-07-10	121823	36000	6067	1021181461	Ploceus nigricollis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013399975.1	545262	2020-07-10	125862	32277	5395	1110782976	Indicator maculatus	Sarcopterygii	Aves	Neognathae			Piciformes	missing
+GCA_013399995.1	279966	2020-07-10	130496	25257	5101	990372378	Oenanthe oenanthe	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013400035.1	227184	2020-07-10	120582	28197	6087	1165373661	Rynchops niger	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_013400055.1	227226	2020-07-10	106931	34117	7039	1115929276	Nycticryphes semicollaris	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_013400075.1	68497	2020-07-10	136550	35821	5590	1038285541	Hippolais icterina	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013400115.1	113115	2020-07-10	73344	46384	9337	988580102	Rhinopomastus cyanomelas	Sarcopterygii	Aves	Neognathae			Bucerotiformes	missing
+GCA_013400135.1	240209	2020-07-10	144573	27138	5319	1141114809	Rhinoptilus africanus	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_013400155.1	3150915	2020-07-10	48099	49316	11155	1022480137	Helopsaltes ochotensis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013400175.1	161653	2020-07-10	102913	45950	7291	1016476899	Phainopepla nitens	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013400195.1	54356	2020-07-10	113265	32635	7176	1160329073	Aramus guarauna	Sarcopterygii	Aves	Neognathae			Gruiformes	missing
+GCA_013400215.1	52622	2020-07-10	95170	40886	7655	1005447935	Cisticola juncidis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013400235.1	181099	2020-07-10	68608	67624	13130	1031841844	Oriolus oriolus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013400255.1	50251	2020-07-10	90536	40398	7983	1010446889	Sitta europaea	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013400275.1	2585818	2020-07-10	161658	22047	4141	1035880932	Rhadina sibilatrix	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013400295.1	243888	2020-07-10	143683	43106	5283	1171586670	Larus smithsonianus	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_013400315.1	125297	2020-07-10	123834	33613	5979	1020083878	Bombycilla garrulus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013400335.1	325343	2020-07-10	97592	42652	8126	1119698696	Eurystomus gularis	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_013400355.1	73330	2020-07-10	85451	38844	8958	1020421568	Certhia brachydactyla	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013400375.1	161742	2020-07-10	104395	34128	7058	1082188192	Thinocorus orbignyianus	Sarcopterygii	Aves	Neognathae			Ciconiiformes	missing
+GCA_013400415.1	312124	2020-07-10	108617	31551	6485	1049256979	Scytalopus superciliaris	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013400435.1	182897	2020-07-10	138833	31810	5250	1017477912	Pycnonotus jocosus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013400445.1	36275	2020-07-10	97932	23863	4597	1004887283	Leiothrix lutea	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013400475.1	240729	2020-07-10	147317	32213	5049	1221937131	Tricholaema leucomelas	Sarcopterygii	Aves	Neognathae			Piciformes	missing
+GCA_013400515.1	1112836	2020-07-10	208963	29506	2893	997094210	Erpornis zantholeuca	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013400535.1	33581	2020-07-10	386416	11464	1204	1078179962	Scopus umbretta	Sarcopterygii	Aves	Neognathae			Pelecaniformes	missing
+GCA_013400555.1	54508	2020-07-10	250171	18280	2506	1058440827	Jacana jacana	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_013400575.1	135441	2020-07-10	117586	38399	6717	1030095890	Peucedramus taeniatus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013400585.1	1218682	2020-07-10	270298	16693	1722	946700603	Chloropsis cyanopogon	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013400615.1	302527	2020-07-10	322892	16640	1383	1078752061	Syrrhaptes paradoxus	Sarcopterygii	Aves	Neognathae			Pterocliformes	missing
+GCA_013400635.1	589841	2020-07-10	337922	16402	903	842356480	Hypocryptadius cinnamomeus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013400655.1	98133	2020-07-10	548342	7146	679	1008610195	Mystacornis crossleyi	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013400675.1	98144	2020-07-10	949938	2452	320	921829211	Oxylabes madagascariensis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013400695.1	254563	2020-07-10	696805	4787	369	854298021	Neodrepanis coruscans	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013400715.1	670355	2020-07-10	302577	14741	1521	990881112	Prunella fulvescens	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013400735.1	9176	2020-07-10	222909	24908	2162	1012513977	Pomatostomus ruficeps	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013400755.1	37079	2020-07-10	122410	37297	7110	1198389937	Pelecanoides urinatrix	Sarcopterygii	Aves	Neognathae			Procellariiformes	missing
+GCA_013400775.1	221966	2020-07-10	266797	18221	1864	1021680014	Chaetops frenatus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013400795.1	227228	2020-07-10	138546	30111	5496	1171983181	Pluvianellus socialis	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_013400815.1	1463675	2020-07-10	76686	28608	5852	991849702	Centropus bengalensis	Sarcopterygii	Aves	Neognathae			Cuculiformes	missing
+GCA_013400835.1	2585822	2020-07-10	141426	31765	5401	1108940299	Zapornia atra	Sarcopterygii	Aves	Neognathae			Gruiformes	missing
+GCA_013400855.1	245048	2020-07-10	554145	9189	530	933030025	Buphagus erythrorhynchus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013400875.1	317792	2020-07-10	457787	9860	788	935221264	Anhinga rufa	Sarcopterygii	Aves	Neognathae			Suliformes	missing
+GCA_013400895.1	54017	2020-07-10	249629	18477	2977	1075653365	Thalassarche chlororhynchos	Sarcopterygii	Aves	Neognathae			Procellariiformes	missing
+GCA_013400915.1	254575	2020-07-10	104403	48226	8008	1025637327	Pardalotus punctatus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013400935.1	2529409	2020-07-10	161911	26424	3344	954450049	Turnix velox	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_013400955.1	626378	2020-07-10	208666	39640	2528	1046232378	Drymodes brunneopygia	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013400975.1	449594	2020-07-10	48893	82144	19069	1046015035	Atrichornis clamosus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013400995.1	689266	2020-07-10	343183	6920	1824	965432706	Oreotrochilus melanogaster	Sarcopterygii	Aves	Neognathae			Apodiformes	missing
+GCA_013401035.1	2585811	2020-07-10	903856	2404	388	974392994	Horornis vulcanius	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013401055.1	13746	2020-07-10	155551	20443	4299	1132533270	Uria aalge	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_013401065.1	28697	2020-07-10	123523	38289	7946	1173099452	Cepphus grylle	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_013401095.1	142471	2020-07-10	92671	54910	4578	1037090097	Passerina amoena	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013401135.1	68486	2020-07-10	99659	62469	10956	1051673297	Cettia cetti	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013401175.1	269412	2020-07-10	114497	62223	4752	1037854742	Xiphorhynchus elegans	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013401195.1	932028	2020-07-10	61535	51603	8446	1010659109	Pomatorhinus ruficollis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013401215.1	2478892	2020-07-10	161016	36096	4018	1168287680	Atlantisia rogersi	Sarcopterygii	Aves	Neognathae			Gruiformes	missing
+GCA_013401235.1	357074	2020-07-10	67947	28091	7431	1026306856	Pteruthius melanotis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013401255.1	458196	2020-07-10	86322	47876	9537	1100041245	Urocolius indicus	Sarcopterygii	Aves	Neognathae			Coliiformes	missing
+GCA_013401275.1	56262	2020-07-10	266347	15673	2528	1126007845	Pandion haliaetus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_013401295.1	43316	2020-07-10	72367	34361	7652	1144459400	Glareola pratincola	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_013401315.1	33584	2020-07-10	410955	18025	1001	1064507687	Balaeniceps rex	Sarcopterygii	Aves	Neognathae			Pelecaniformes	missing
+GCA_013401335.1	135165	2020-07-10	274352	23008	2079	1057572414	Brachypteracias leptosomus	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_013401355.1	390723	2020-07-10	595837	7064	567	1029425644	Ceyx cyanopectus	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_013401375.1	40210	2020-07-10	760767	5402	384	954848116	Spizella passerina	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_013407035.1	30423	2020-07-13	552	23262489	4250230	1032959578	Coloeus monedula	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio CLR
+GCA_013433245.1	303304	2020-07-21	227	11243935	2659937	1131864996	Ara glaucogularis	Sarcopterygii	Aves	Neognathae			Psittaciformes	Oxford Nanopore
+GCA_014362685.1	219595	2020-08-22	97734	23904	5806	1044261403	Cygnus cygnus	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_014362705.1	985682	2020-08-22	38064	92059	15196	1082245892	Columba janthina nitens	Sarcopterygii	Aves	Neognathae			Columbiformes	missing
+GCA_014363025.1	36249	2020-08-22	52302	49133	10274	1014839646	Corvus macrorhynchos	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_014363165.1	43311	2020-08-22	115122	18995	5095	1096757785	Fratercula cirrhata	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_014363185.1	52647	2020-08-22	40799	68104	16940	1174031446	Haliaeetus pelagicus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_014363365.1	127929	2020-08-22	31949	97307	15710	997988923	Leucopsar rothschildi	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_014549065.1	98964	2020-09-15	34334	113887	16578	1020643957	Cardinalis cardinalis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_014706295.1	2767082	2020-09-23	3297	7380351	535447	1102011750	Lycocorax pyrrhopterus obiensis	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio CLR
+GCA_014839755.1	73324	2020-10-02	310	31914676	4602110	1043816732	Sylvia borin	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio CLR
+GCA_015163975.2	311896	2022-11-27	302050	16545	2409	1143939386	Pyrrhura lepida	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_015227895.2	51355	2021-12-06	9565	826960	50090	1369050887	Colaptes auratus	Sarcopterygii	Aves	Neognathae			Piciformes	missing
+GCA_015883425.2	245042	2022-03-24	29051	122377	20161	1023249782	Lamprotornis superbus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_016545565.2	311901	2022-12-29	204064	18702	3656	1125584825	Pyrrhura cruentata	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_016584745.2	209781	2022-11-18	994	24608944	3350264	1246731387	Phylloscopus trochilus trochilus	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_016647715.1	9050	2021-01-15	35114	91093	14778	1041449050	Pavo muticus	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	missing
+GCA_017310255.1	110671	2021-03-09	29147	222988	37594	1194621758	Butorides virescens	Sarcopterygii	Aves	Neognathae			Pelecaniformes	missing
+GCA_017315185.1	371907	2021-03-09	24312	196832	39966	1236332227	Bubo scandiacus	Sarcopterygii	Aves	Neognathae			Strigiformes	missing
+GCA_017589585.1	274622	2021-03-26	1749	3796120	380105	1112484139	Phylloscopus whistleri	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_017590115.1	356906	2021-03-26	24490	364434	70931	1043966562	Montifringilla adamsi	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_017612475.1	36299	2021-03-29	73843	38076	6981	1005910354	Zosterops japonicus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_017639245.1	176066	2021-03-30	643	22647286	4499492	1168408283	Myiopsitta monachus	Sarcopterygii	Aves	Neognathae			Psittaciformes	PacBio RSII
+GCA_017639355.1	12930	2021-03-30	3562354	589	154	1052188054	Amazona aestiva	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_017639485.1	670352	2021-03-30	375	15203797	2878681	1235472775	Pluvialis apricaria	Sarcopterygii	Aves	Neognathae			Charadriiformes	PacBio CLR
+GCA_017639555.1	52777	2021-03-30	385	23757428	3837980	1217227625	Ciconia maguari	Sarcopterygii	Aves	Neognathae			Ciconiiformes	PacBio CLR
+GCA_018104995.1	8855	2021-04-23	24339	206888	36086	1103530892	Cairina moschata	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_018403395.1	1215352	2021-03-31	105359	39993	6749	1183367635	Gorsachius goisagi	Sarcopterygii	Aves	Neognathae			Pelecaniformes	missing
+GCA_018697195.1	186443	2021-06-03	37058	140998	23106	1085216835	Certhia americana	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_018881555.1	34926	2021-06-14	13583	552305	74299	1084680034	Amblyornis subalaris	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_018904545.1	662061	2021-06-16	42792	82163	14554	1006668213	Motacilla tschutschensis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_019023105.1	547948	2021-06-24	1570	7273401	355220	1079388738	Diglossa brunneiventris	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_019232035.1	48397	2021-07-15	16145	156610	33319	1103639291	Cygnus buccinator	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_019593555.1	9097	2021-08-13	21806	112545	26727	999954804	Crossoptilon mantchuricum	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	missing
+GCA_020086605.1	56324	2021-09-21	60072	102405	9069	1147301972	Lanius collurio	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_020466415.1	2860302	2021-10-13	61876	68851	7217	901471304	Ammodramus savannarum pratensis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_020745705.1	243314	2021-11-05	364	20531774	3188086	1154638596	Hemiprocne comata	Sarcopterygii	Aves	Neognathae			Apodiformes	PacBio CLR
+GCA_020745775.1	1118847	2021-11-05	192	37098842	8697371	1201104556	Theristicus caerulescens	Sarcopterygii	Aves	Neognathae			Pelecaniformes	PacBio CLR
+GCA_020746105.1	297711	2021-11-05	435	16237294	3148609	1155478760	Trogon surrucura	Sarcopterygii	Aves	Neognathae			Trogoniformes	PacBio CLR
+GCA_020800305.1	439704	2021-11-08	501	13461271	1797143	1264978104	Porphyrio hochstetteri	Sarcopterygii	Aves	Neognathae			Gruiformes	PacBio HiFi
+GCA_020917445.1	88110	2021-11-22	56299	43283	9812	1003292165	Riparia riparia	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_021164005.1	1676003	2021-12-10	45172	132574	14653	1086473285	Willisornis vidua nigrigula	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_021292215.1	9046	2021-12-27	1561	6360312	643154	1014407805	Lophura nycthemera	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	missing
+GCA_021398385.1	36248	2022-01-10	961	3972749	1002786	1190689946	Gyps himalayensis	Sarcopterygii	Aves	Neognathae			Accipitriformes	PacBio CLR
+GCA_021437185.1	159579	2022-01-11	67726	35283	7540	997294947	Catharus minimus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_021437205.1	159580	2022-01-11	91002	24235	4938	990774549	Catharus bicknelli	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_021513735.1	9049	2022-01-19	1198	6188159	1119826	1043648945	Pavo cristatus	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	PacBio CLR
+GCA_021534815.1	39621	2022-01-20	4108	6141892	289611	1188245980	Acrocephalus arundinaceus	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio CLR
+GCA_021963965.1	198938	2022-02-04	1539	8253817	323144	1401798777	Artemisiospiza belli	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_022316685.1	519845	2022-02-17	3361	3084734	99475	1165905362	Progne subis subis	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio CLR
+GCA_022441285.1	2944898	2022-03-02	44803	102588	13892	1056669284	Acrocephalus kingi	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_022605575.1	650015	2022-03-17	964	7445194	803017	1391373953	Laterallus jamaicensis coturniculus	Sarcopterygii	Aves	Neognathae			Gruiformes	PacBio HiFi
+GCA_022605955.1	156759	2022-03-17	1299	11906378	480073	1395578322	Rallus limicola	Sarcopterygii	Aves	Neognathae			Gruiformes	PacBio HiFi
+GCA_023055355.1	9191	2022-04-19	311	22601135	3216427	1157598756	Agelaius tricolor	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_023055505.1	2893758	2022-05-05	608	5506990	883393	1085319022	Callipepla californica brunnescens	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	PacBio HiFi
+GCA_023079485.1	190676	2022-04-22	1865	12033856	1262192	1100442216	Archilochus colubris	Sarcopterygii	Aves	Neognathae			Apodiformes	Oxford Nanopore
+GCA_023333565.1	48681	2022-05-11	4252	2082814	306458	1218511095	Puffinus mauretanicus	Sarcopterygii	Aves	Neognathae			Procellariiformes	Oxford Nanopore
+GCA_023375905.1	8901	2022-05-16	46536	58550	12580	1116927697	Nycticorax nycticorax	Sarcopterygii	Aves	Neognathae			Pelecaniformes	missing
+GCA_023637945.1	46513	2022-06-01	211	35194150	5326539	1016303327	Phaethornis superciliosus	Sarcopterygii	Aves	Neognathae			Apodiformes	PacBio CLR
+GCA_023644505.1	209618	2022-06-02	31625	165784	26875	1060655905	Empidonax alnorum	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_024222105.1	261198	2022-07-12	434726	4959	1277	1137815888	Accipiter cooperii	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_024320895.1	867390	2022-07-18	190656	16569	3801	1086070259	Psittacara holochlorus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_024320935.1	178884	2022-07-18	373191	10138	1617	1139380958	Eupsittula cactorum	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_024331605.1	178893	2022-07-19	194737	21727	4832	1117337527	Primolius couloni	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_024331625.1	178885	2022-07-19	157369	19070	4680	1092375145	Psittacara leucophthalmus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_024331645.1	190152	2022-07-19	396010	6096	1265	1058997711	Poicephalus robustus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_024331665.1	151759	2022-07-20	897679	4592	304	1208591360	Amazona autumnalis	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_024336845.1	51902	2022-07-20	74381	26502	7060	1088111904	Cyanopsitta spixii	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_024336885.1	1651254	2022-07-20	112099	26253	4995	1137123059	Actenoides hombroni	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_024337085.1	178888	2022-07-20	233560	20927	4224	1132299787	Diopsittaca nobilis	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_024361725.1	303305	2022-07-20	599841	3255	808	1046992318	Pionus maximiliani	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_024361745.1	141836	2022-07-21	483242	16169	1120	1181764273	Cacatua alba	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_024361765.2	867391	2023-06-01	507532	19026	857	1221178778	Psittacara wagleri	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_024362935.1	123631	2022-07-22	971	6807045	976702	1222356672	Setophaga petechia	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_024363025.1	986101	2022-07-21	304666	8826	1659	1038622797	Callocephalon fimbriatum	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_024363045.1	1230190	2022-07-21	186916	23694	5251	1121303545	Aratinga maculata	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_024363065.2	311883	2023-06-01	304617	24670	4033	1155164244	Pyrrhura roseifrons	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_024363085.1	1549147	2022-07-21	209103	12939	2805	1058798082	Eos semilarvata	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_024363155.1	193005	2022-07-21	161206	27965	6956	1193853177	Aquila nipalensis	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_024363185.1	2868207	2022-07-21	328012	10445	1993	1194766526	Accipiter hiogaster	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_024430995.1	100819	2022-07-25	18573	107537	29755	1134303832	Falco tinnunculus	Sarcopterygii	Aves	Neognathae			Falconiformes	missing
+GCA_024432695.1	491646	2022-07-25	16555	127856	34613	1153639382	Falco pelegrinoides	Sarcopterygii	Aves	Neognathae			Falconiformes	missing
+GCA_024496005.1	311899	2022-07-30	217125	20376	4328	1124629185	Pyrrhura hoffmanni	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_024499975.1	170866	2022-08-01	176435	26765	4665	1147716982	Halcyon malimbica	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_024499995.1	2022865	2022-08-01	513572	19440	997	1217084277	Pyrrhura lucianii	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_024500445.1	266349	2022-08-01	1031	27441776	4111861	1076660361	Entomyzon cyanotis	Sarcopterygii	Aves	Neognathae			Passeriformes	Oxford Nanopore
+GCA_024582635.1	1651851	2022-08-06	284843	27987	3767	1185581245	Todiramphus saurophagus	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_024605025.1	463374	2022-08-09	227935	23960	3806	1152541769	Megaceryle maxima	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_024606505.1	1848762	2022-08-09	73491	35298	12674	1752633775	Aquila spilogaster	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_024611155.1	85095	2022-08-10	270813	14138	2349	953791659	Corythornis cristatus	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_024611175.1	488310	2022-08-10	246250	25653	3549	1153650906	Megaceryle torquata	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_024611195.1	325326	2022-08-10	189274	22181	3385	928041000	Ceyx melanurus	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_024635365.1	8832	2022-08-16	49039	50173	11655	1070119933	Aix galericulata	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_024733675.1	309851	2022-08-22	204691	24698	5227	1109526215	Psilopsiagon aymara	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_024733695.1	178883	2022-08-22	182905	16926	4151	1093644942	Ara severus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_024734035.1	228309	2022-08-22	283291	25226	2614	1060780553	Alethe castanea	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_024734555.1	520170	2022-08-23	47557	95329	13740	1082799734	Trochalopteron elliotii	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_024865655.1	160761	2022-09-02	4460	16287717	1224325	1141021394	Emberiza elegans	Sarcopterygii	Aves	Neognathae			Passeriformes	Oxford Nanopore
+GCA_025308975.1	518696	2022-09-20	93470	29492	6707	1183962525	Accipiter rufiventris	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_025308995.1	223443	2022-09-20	291658	6228	1903	1165513251	Buteo ventralis	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_025309315.1	387834	2022-09-20	260265	7143	1933	1123156801	Melierax canorus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_025309335.1	8959	2022-09-20	134834	15075	4227	1157432980	Aegypius monachus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_025309795.1	387812	2022-09-20	84295	32058	7928	1179489597	Butastur rufipennis	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_025310135.1	218281	2022-09-20	70594	39958	9540	1182931073	Buteo platypterus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_025310495.1	387842	2022-09-20	74905	36374	8613	1179121408	Harpagus bidentatus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_025310515.1	223473	2022-09-20	116998	28873	5403	1188985039	Buteo albonotatus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_025310935.1	258817	2022-09-20	223158	9607	2344	1168419213	Henicopernis longicauda	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_025311575.1	192873	2022-09-20	124577	17700	4711	1157447546	Elanoides forficatus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_025311615.1	223492	2022-09-20	418563	1217	611	460251986	Parabuteo unicinctus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_025331215.1	342376	2022-09-20	211170	29688	4331	1146147839	Actenoides lindsayi	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_025345505.1	1651259	2022-09-21	32125	148777	25838	1193251798	Todiramphus chloris collaris	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_025434525.1	925988	2022-09-27	49253	51274	10304	989395205	Malurus alboscapulatus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_025435035.1	345744	2022-09-27	116468	32521	5947	1212298193	Cryptoleucopteryx plumbea	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_025435075.1	223475	2022-09-27	100582	41189	8506	1214081015	Buteo lineatus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_025447755.1	2231443	2022-09-27	185881	18661	3411	951149830	Corythornis vintsioides	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_025447775.1	2231426	2022-09-27	238981	12425	2176	938448744	Ceyx margarethae	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_025447895.1	1356036	2022-09-27	502373	3378	977	1106279417	Butastur liventer	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_025447915.1	274059	2022-09-27	101344	21703	5256	1073025250	Trichoglossus euteles	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_025447935.1	309859	2022-09-27	325964	4703	1348	1005864192	Barnardius zonarius	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_025447955.1	555338	2022-09-27	95346	23411	6084	1083219695	Psilopsiagon aurifrons	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_025448015.1	211877	2022-09-27	183393	13663	2534	1079426161	Bolborhynchus lineola	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_025448035.1	136504	2022-09-27	136171	32316	5035	1121080507	Cacatua moluccensis	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_025448055.1	345186	2022-09-27	161453	11516	3205	1079618251	Pionites leucogaster	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_025448095.1	176045	2022-09-27	153030	13420	3354	1069763980	Poicephalus senegalus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_025448115.1	387845	2022-09-27	208909	24329	2914	1247352174	Micronisus gabar	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_025448135.1	321120	2022-09-27	602974	2278	825	1043467011	Haliaeetus ichthyaetus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_025448155.1	141834	2022-09-27	303653	36355	4562	1132982908	Cacatua ducorpsii	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_025448235.2	2868390	2023-09-20	797257	5480	432	1285775075	Buteogallus gundlachii	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_025504685.1	589916	2022-10-03	29428	124542	18692	1018543106	Leucosticte australis	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_025504725.1	43465	2022-09-30	78109	32391	8606	1170540034	Circaetus gallicus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_025504875.1	387825	2022-09-30	641559	1291	646	740934715	Circus macrourus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_025583725.1	8846	2022-10-06	1429	5739385	477628	1129361036	Anser indicus	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_025584955.1	197521	2022-10-05	272016	21210	2729	1055587614	Alethe diademata	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_025629865.1	309862	2022-10-08	175253	10965	2927	1081840357	Cyanoliseus patagonus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_025629885.1	471714	2022-10-08	118380	16070	4208	1059827558	Lorius chlorocercus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_025629905.1	274062	2022-10-08	224980	13202	2254	1121896038	Lorius lory	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_025629925.1	504068	2022-10-08	148141	15864	3400	1074530437	Platycercus adscitus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_025629965.1	114435	2022-10-08	132638	17770	4014	1084295118	Cyanoramphus novaezelandiae	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_025629985.1	1743360	2022-10-08	151836	29097	2846	1068676773	Chamaetylas fuelleborni	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_025630005.1	453957	2022-10-08	262269	32999	1266	1295075012	Falco fasciinucha	Sarcopterygii	Aves	Neognathae			Falconiformes	missing
+GCA_025630025.2	114734	2023-05-25	505401	3200	930	1093732559	Gallinago media	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_025727635.1	115122	2022-10-17	80397	35871	8135	1182298380	Buteo hemilasius	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_025727695.1	52778	2022-10-17	117061	18245	5024	1169874830	Ciconia stormi	Sarcopterygii	Aves	Neognathae			Ciconiiformes	missing
+GCA_025727715.1	36247	2022-10-17	86216	31926	7942	1193283942	Gyps fulvus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_025727755.1	387806	2022-10-17	86103	29764	7406	1167851743	Accipiter soloensis	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_025727795.1	223496	2022-10-17	103312	26235	5400	1155317225	Buteogallus meridionalis	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_025727815.1	115229	2022-10-17	96999	29673	6260	1169968963	Buteo lagopus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_025727835.1	1458047	2022-10-17	67337	39256	10545	1170095216	Megatriorchis doriae	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_025727875.1	1620238	2022-10-17	529403	2308	907	957957330	Circus maillardi	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_025727895.1	387835	2022-10-17	544552	2303	929	993093368	Melierax metabates	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_025727915.1	427539	2022-10-17	167918	13966	3097	1159653586	Macheiramphus alcinus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_025727955.1	148593	2022-10-17	84972	33844	7120	1165735722	Falco cenchroides	Sarcopterygii	Aves	Neognathae			Falconiformes	missing
+GCA_025727975.1	70275	2022-10-17	74387	38032	9161	1188111752	Hieraaetus pennatus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_025728005.1	387810	2022-10-17	63306	40487	10937	1162339888	Accipiter virgatus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_025728025.1	321089	2022-10-17	413849	4066	1223	1092901452	Pithecophaga jefferyi	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_025728075.1	555258	2022-10-17	165803	15448	3080	1115865364	Gallinago paraguaiae	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_025740775.1	52645	2022-10-18	89415	30508	7066	1172207992	Haliaeetus leucogaster	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_025762695.1	325341	2022-10-19	92628	21582	4610	909114769	Merops pusillus	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_025769955.1	298831	2022-10-20	77246	42341	7080	1041840733	Setophaga kirtlandii	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_025769975.1	2774350	2022-10-20	60215	48049	9805	1113576436	Gallinago jamesoni	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_025774025.1	171277	2022-10-20	123400	21733	3872	1122587115	Xenus cinereus	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_025802055.1	34924	2022-10-23	73177	43520	8877	1049371639	Pica pica	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_025802315.1	252783	2022-10-23	189479	33330	3210	1281746012	Hieraaetus ayresii	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_025802355.1	2231442	2022-10-23	190483	13325	2221	969312023	Corythornis madagascariensis	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_025802415.1	345749	2022-10-23	943924	280	239	289940169	Pseudastur occidentalis	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_025802475.2	258803	2023-06-07	953235	282	235	302374676	Pernis celebensis	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_025920805.1	228564	2022-10-31	50040	79653	11126	1019341866	Petroica traversi	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_025960845.1	72873	2022-11-02	71820	58357	8559	1137608457	Tachycineta bicolor	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_026109245.1	307441	2022-11-09	283779	7909	1842	1166754767	Nisaetus alboniger	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_026122665.1	1381581	2022-11-10	120198	25178	4485	1109229764	Gallinago hardwickii	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_026122685.1	670344	2022-11-10	243244	10785	1854	1118263936	Gallinago megala	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_026153235.1	345746	2022-11-12	174171	11506	3294	1160403750	Morphnarchus princeps	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_026167965.1	114083	2022-11-14	575	7854909	1180092	1162942653	Cyanocitta stelleri	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_026212715.1	387829	2022-11-16	79829	28851	7904	1155804792	Elanus axillaris	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_026212835.1	223485	2022-11-16	303952	6057	1606	1124691529	Geranoaetus albicaudatus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_026212995.1	321094	2022-11-16	55391	45191	12466	1167236255	Leucopternis kuhli	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_026213055.1	321095	2022-11-16	400300	3293	1196	984343252	Leucopternis melanops	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_026213075.1	252796	2022-11-16	102163	26398	5495	1176543125	Spizaetus ornatus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_026259535.1	115134	2022-11-21	64361	43419	11350	1167893271	Buteo rufinus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_026259555.1	182944	2022-11-21	523847	1437	658	657343747	Protonotaria citrea	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_026261815.1	1780129	2022-11-21	922	18573903	1852966	1077789125	Monarcha castaneiventris obscurior	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_026283615.1	244084	2022-11-22	119306	17493	4681	1086703633	Amazona vinacea	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_026283635.1	176014	2022-11-22	709125	1800	696	991755613	Ara macao	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_026283665.1	241562	2022-11-22	424790	9915	1389	1126419428	Amazona leucocephala	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_026283705.1	867386	2022-11-22	227658	16771	2960	1122346481	Psittacara chloropterus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_026283745.1	51898	2022-11-22	408722	6689	1288	1092444622	Eupsittula aurea	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_026283765.1	176047	2022-11-22	177754	17292	3275	1084793341	Psephotus haematonotus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_026283785.1	176022	2022-11-22	575368	16822	464	1181194827	Coracopsis vasa	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_026283805.1	136503	2022-11-22	225798	18349	3140	1125165170	Psittacara mitratus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_026283825.1	523728	2022-11-22	336148	9150	1888	1108085604	Poicephalus rufiventris	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_026283845.1	178894	2022-11-22	353307	7448	1572	1096202237	Primolius maracana	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_026283865.1	281916	2022-11-22	438377	5466	1186	1060133157	Poicephalus meyeri	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_026283885.1	241588	2022-11-22	372793	25953	2636	1158879461	Poicephalus gulielmi	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_026283905.1	232645	2022-11-22	347232	6663	1627	1077228581	Psittacula cyanocephala	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_026284485.1	231027	2022-11-22	301798	20648	2604	1144619628	Aratinga jandaya	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_026284505.1	51904	2022-11-22	328368	20115	3093	1165958011	Deroptyus accipitrinus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_026284525.1	311898	2022-11-22	384121	20940	2541	1174915371	Pyrrhura melanura	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_026284545.1	51910	2022-11-22	287765	16399	3020	1135823643	Pyrrhura picta	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_026284565.1	311892	2022-11-22	261769	20635	3218	1136701851	Pyrrhura orcesi	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_026284585.2	311894	2023-06-01	215007	19321	3326	1111750685	Pyrrhura albipectus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_026284605.1	1118838	2022-11-22	194003	22817	4225	1126422478	Pyrrhura egregia	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_026284625.1	467031	2022-11-22	190673	19806	4523	1115424363	Ara ambiguus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_026284665.2	51908	2023-09-20	158715	14251	3567	1086719195	Aratinga nenday	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_026284685.1	867384	2022-11-22	201415	19255	3854	1127301085	Aratinga auricapillus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_026284705.1	311887	2022-11-22	305975	20146	2949	1157306325	Pyrrhura amazonum	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_026284725.1	752200	2022-11-22	355515	12731	2321	1149280431	Eupsittula canicularis	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_026284745.2	178892	2023-06-01	682708	16887	378	1283498080	Primolius auricollis	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_026284765.1	211510	2022-11-22	279446	17862	3075	1147875338	Thectocercus acuticaudatus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_026284785.1	638628	2022-11-22	259995	23239	4109	1153768710	Eupsittula nana	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_026284805.1	309841	2022-11-22	212031	17040	3432	1119474698	Rhynchopsitta pachyrhyncha	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_026284825.2	2338438	2023-06-01	215007	19321	3326	1111750685	Pyrrhura hoematotis	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_026284845.1	178890	2022-11-22	256683	8132	2222	1077656721	Orthopsittaca manilatus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_026284865.1	1107398	2022-11-22	1509833	1433	258	1106848266	Eos histrio	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_026413205.1	2918857	2022-11-27	106094	20872	4791	1087408423	Pyrrhura chapmani	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_026413225.1	73107	2022-11-27	135	40962436	8651169	1198250872	Otis tarda	Sarcopterygii	Aves	Neognathae			Otidiformes	Oxford Nanopore
+GCA_026413425.1	279954	2022-11-27	144980	14820	3598	1108976956	Tringa solitaria	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_026413525.1	234075	2022-11-27	1206186	1213	291	932194691	Poicephalus cryptoxanthus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_026413545.1	2840665	2022-11-27	88244	32674	5024	1016988678	Cichladusa arquata	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_026413565.1	1177618	2022-11-27	227	29098202	6338495	1144751285	Aythya baeri	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	Oxford Nanopore
+GCA_026546585.1	248153	2022-11-30	103678	26705	4172	1015220955	Muscicapa adusta	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_026546715.1	1118562	2022-11-30	61768	45528	9399	1111238218	Gallinago undulata	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_026546895.1	228321	2022-11-30	102146	28080	4237	1011113269	Pogonocichla stellata	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_026770005.1	335207	2022-12-09	69236	35405	9518	1154361849	Butastur indicus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_026770055.1	2767950	2022-12-09	144362	14347	3562	1045579916	Myrmophylax atrothorax	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_026770115.1	387811	2022-12-09	294450	6997	1594	1121838843	Aviceda subcristata	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_026770195.1	387821	2022-12-09	92503	31186	6363	1169609556	Circus approximans	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_026770275.1	43518	2022-12-09	135515	18898	4043	1161522431	Milvus milvus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_026770345.1	43165	2022-12-09	114547	22419	4877	1054969679	Tyrannus tyrannus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_026770365.1	321134	2022-12-09	531948	2321	815	947231334	Harpyhaliaetus coronatus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_026770385.1	321087	2022-12-09	365970	5397	1431	1176908450	Circaetus cinerascens	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_026873725.1	223777	2022-12-13	77371	36211	8121	1177782565	Busarellus nigricollis	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_026930665.1	223445	2022-12-16	72308	32716	8869	1159426549	Buteo albigula	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_026930705.1	387814	2022-12-16	291161	6321	1835	1145895988	Buteo nitidus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_026930785.1	321108	2022-12-16	284046	834	549	232087925	Harpyopsis novaeguineae	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_026930925.1	2763549	2022-12-16	396075	3471	1253	1022612989	Chelictinia riocourii	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_026937345.1	56263	2022-12-16	75256	35684	8615	1178214191	Buteo jamaicensis	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_026937365.1	555235	2022-12-16	214567	9314	2367	1131534055	Circus cinereus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_026937515.1	321072	2022-12-16	119663	23028	4697	1181890486	Polyboroides typus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_027122295.1	399590	2022-12-20	76999	40834	9327	1172426727	Falco rufigularis	Sarcopterygii	Aves	Neognathae			Falconiformes	missing
+GCA_027122915.1	56349	2022-12-20	94778	31407	6087	1162766727	Falco femoralis	Sarcopterygii	Aves	Neognathae			Falconiformes	missing
+GCA_027122955.1	495962	2022-12-20	69048	40973	10829	1160676580	Falco deiroleucus	Sarcopterygii	Aves	Neognathae			Falconiformes	missing
+GCA_027123655.1	1765322	2022-12-20	84765	32569	5385	1018418842	Muscicapa comitata	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_027123695.1	2840664	2022-12-20	252160	7101	1647	982099265	Chamaetylas choloensis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_027474245.1	9240	2022-12-28	389	13936613	2609794	1357302657	Spheniscus humboldti	Sarcopterygii	Aves	Neognathae			Sphenisciformes	PacBio HiFi
+GCA_027475465.1	252785	2022-12-28	78899	33725	8201	1180011453	Hieraaetus morphnoides	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_027475485.1	387794	2022-12-28	352752	38991	4379	1257545387	Accipiter fasciatus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_027475505.1	518698	2022-12-28	137876	19326	3831	1161162945	Melierax poliopterus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_027479025.1	387800	2022-12-28	455276	10532	1806	1236648722	Accipiter melanoleucus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_027479145.1	518695	2022-12-28	194691	23165	5668	1190578093	Accipiter cirrocephalus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_027479285.1	387801	2022-12-28	332492	20264	3107	1214528375	Accipiter novaehollandiae	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_027497695.1	993364	2022-12-30	129358	26337	6799	1178841514	Accipiter castanilius	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_027497715.1	211598	2022-12-30	154355	25123	4755	1183078562	Accipiter nisus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_027497755.1	8961	2022-12-30	801151	962	576	737863049	Aquila audax	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_027497775.1	387799	2022-12-30	637	17712854	2011408	1397974797	Accipiter melanochlamys	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_027497815.1	321113	2022-12-30	366097	10855	1963	1198940648	Aquila africana	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_027497835.1	387793	2022-12-30	280744	12326	2834	1191200874	Accipiter erythropus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_027497855.1	56330	2022-12-30	705799	6662	596	1283444625	Accipiter striatus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_027559655.1	56255	2023-01-03	83754	35863	8554	1189941896	Accipiter superciliosus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_027559835.1	342359	2023-01-03	356937	13253	1681	987608856	Ispidina lecontei	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_027560015.1	342361	2023-01-03	231147	27296	3649	1104959463	Chloroceryle amazona	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_027560035.1	860587	2023-01-03	262065	16766	2527	932502372	Ceyx erithaca	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_027560095.1	342360	2023-01-03	252385	18046	2877	1090505298	Chloroceryle inda	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_027560215.1	1003843	2023-01-03	155975	40441	7229	1139540511	Halcyon smyrnensis	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_027560235.1	325332	2023-01-03	482071	25744	1393	1219103801	Halcyon leucocephala	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_027560335.1	325331	2023-01-03	212354	28457	4061	1142617575	Halcyon badia	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_027560355.1	2231448	2023-01-03	274359	19285	2862	1166168558	Halcyon chelicuti	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_027563805.1	175830	2023-01-03	84409	33332	7454	1082518954	Buceros bicornis	Sarcopterygii	Aves	Neognathae			Bucerotiformes	missing
+GCA_027564015.1	107377	2023-01-03	396063	4984	1178	1138613555	Gallinago gallinago	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_027564035.1	279947	2023-01-03	355512	6400	1166	1122457182	Gallinago delicata	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_027564115.1	390721	2023-01-03	150764	24237	4503	933466269	Ceyx argentatus	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_027564165.1	586766	2023-01-03	109433	25491	4970	1120718206	Gallinago nigripennis	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_027564205.1	8953	2023-01-03	79653	38155	7581	1164528705	Falco columbarius	Sarcopterygii	Aves	Neognathae			Falconiformes	missing
+GCA_027564225.1	433633	2023-01-03	157443	26058	3384	1151896873	Gallinago stenura	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_027564255.1	1977158	2023-01-03	398638	12715	1305	1006073328	Corythornis leucogaster	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_027564435.1	495972	2023-01-03	203725	10384	2518	1148580597	Falco berigora	Sarcopterygii	Aves	Neognathae			Falconiformes	missing
+GCA_027564455.1	495971	2023-01-03	82108	36529	8213	1174133218	Falco novaeseelandiae	Sarcopterygii	Aves	Neognathae			Falconiformes	missing
+GCA_027564495.1	2802618	2023-01-03	140356	14655	3830	1104180611	Gallinago solitaria	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_027564555.1	156757	2023-01-03	442421	3577	1204	1124349123	Buteo swainsoni	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_027564575.1	2927792	2023-01-03	628723	1341	656	748308973	Spilornis abbotti	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_027564655.1	321080	2023-01-03	80192	34169	7959	1185051940	Leptodon cayanensis	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_027564675.1	252795	2023-01-03	256213	6663	2104	1136493213	Nisaetus cirrhatus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_027564695.1	371914	2023-01-03	93166	30438	7004	1185959811	Ictinia mississippiensis	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_027564715.1	2869446	2023-01-03	75049	33664	9038	1168234435	Buteogallus solitarius	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_027564735.1	156764	2023-01-03	106525	24149	5856	1179340559	Rostrhamus sociabilis	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_027574665.1	54386	2023-01-09	448	10485863	1735776	1330929107	Rhynochetos jubatus	Sarcopterygii	Aves	Neognathae			Eurypygiformes	PacBio HiFi
+GCA_027574825.1	36241	2023-01-06	112176	19438	5315	1178507507	Ciconia nigra	Sarcopterygii	Aves	Neognathae			Ciconiiformes	missing
+GCA_027575065.1	8971	2023-01-06	70741	37067	9195	1176772332	Haliastur indus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_027575085.1	321128	2023-01-06	95974	28807	5767	1167478658	Geranospiza caerulescens	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_027575105.1	321117	2023-01-06	535108	2553	820	996384185	Haliastur sphenurus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_027575145.1	8967	2023-01-06	417199	2173	936	741248646	Gyps rueppelli	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_027575165.1	224668	2023-01-06	113039	26675	4931	1174244547	Buteogallus aequinoctialis	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_027575645.1	228317	2023-01-06	216363	14578	3159	1030678536	Cossypha caffra	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_027576135.1	228318	2023-01-06	215605	22499	2709	1035762102	Cossypha dichroa	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_027576195.1	869905	2023-01-06	295238	19185	2531	1053683119	Cossypha heuglini	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_027576295.1	228319	2023-01-06	158837	25828	3678	1033667422	Cossypha polioptera	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_027576695.1	228314	2023-01-06	320807	45633	4458	1107583162	Cossypha archeri	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_027576755.1	2364092	2023-01-06	781424	2557	435	982125901	Chamaetylas poliocephala	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_027576815.1	228316	2023-01-06	516404	9238	720	1132810664	Cossypha niveicapilla	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_027579975.1	39789	2023-01-06	155045	13626	3673	1176808116	Ciconia abdimii	Sarcopterygii	Aves	Neognathae			Ciconiiformes	missing
+GCA_027579995.1	52776	2023-01-06	105754	21491	5906	1182279974	Ciconia episcopus	Sarcopterygii	Aves	Neognathae			Ciconiiformes	missing
+GCA_027580015.1	115230	2023-01-06	202716	10513	2536	1141777042	Buteo oreophilus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_027580075.1	2869447	2023-01-06	81499	35849	7713	1177251728	Geranoaetus polyosoma	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_027580095.1	2709557	2023-01-06	69036	35212	9508	1165133196	Circus hudsonius	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_027580135.1	2906790	2023-01-06	143991	20632	3764	1185133603	Nisaetus floris	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_027886175.1	48150	2023-01-17	517	28093532	4147649	1247501225	Phylloscopus collybita	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_027925045.1	2861861	2022-12-22	440	20705417	2212175	1179491729	Hypotaenidia okinawae	Sarcopterygii	Aves	Neognathae			Gruiformes	Oxford Nanopore
+GCA_028020825.1	8905	2023-01-31	1241	11637970	1214671	1268974171	Podargus strigoides	Sarcopterygii	Aves	Neognathae			Caprimulgiformes	PacBio HiFi
+GCA_028022735.1	33610	2023-01-31	491	18064636	2371643	1363299411	Gypaetus barbatus	Sarcopterygii	Aves	Neognathae			Accipitriformes	PacBio HiFi
+GCA_028536675.1	142466	2023-02-07	1665	11534525	403960	1348473225	Aphelocoma californica	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_028554615.1	1567149	2023-02-09	53647	60848	9675	1103595722	Rallus crepitans	Sarcopterygii	Aves	Neognathae			Gruiformes	missing
+GCA_028564985.1	84988	2023-02-09	92713	28156	5041	1011970161	Crax fasciolata	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	missing
+GCA_028565035.1	56783	2023-02-09	106077	37784	5669	1086130688	Garrulus glandarius	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_028565055.1	113189	2023-02-09	129852	21017	4009	1013641595	Phoeniculus purpureus	Sarcopterygii	Aves	Neognathae			Bucerotiformes	missing
+GCA_028565255.1	488309	2023-02-09	138959	17488	3575	1112726073	Megaceryle alcyon	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_028565315.1	100826	2023-02-09	64965	38021	8541	1071878775	Scolopax rusticola	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_028565335.1	161678	2023-02-09	118671	23410	4476	1149617488	Limnodromus scolopaceus	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_028565915.1	57426	2023-02-09	105567	35900	4534	1106192111	Momotus momota	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_028566535.1	56299	2023-02-09	321452	4911	1231	950724004	Scolopax minor	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_028566575.1	279933	2023-02-09	263490	7301	1756	1085859955	Bartramia longicauda	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_028566615.2	240202	2023-05-25	509233	3126	970	1103760153	Calidris melanotos	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_028567075.1	58210	2023-02-09	107968	26922	5208	1168987486	Toxostoma rufum	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_028567095.1	2219150	2023-02-09	70958	34058	9187	1165618973	Accipiter rufitorques	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_028571045.1	1032525	2023-02-09	67405	43044	8591	1092499185	Scolopax bukidnonensis	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_028571105.1	9071	2023-02-09	174913	16316	2721	1062105664	Tragopan temminckii	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	missing
+GCA_028571125.1	35669	2023-02-09	101286	27933	6133	1154206100	Larus argentatus	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_028583065.1	100858	2023-02-10	149162	32391	5353	1177250686	Threskiornis aethiopicus	Sarcopterygii	Aves	Neognathae			Pelecaniformes	missing
+GCA_028858755.1	9226	2023-02-24	353	38811057	7771832	1223372069	Ara ararauna	Sarcopterygii	Aves	Neognathae			Psittaciformes	PacBio HiFi
+GCA_029042245.1	189534	2023-03-15	196	32460729	7683303	1135187360	Aythya marila	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	Oxford Nanopore
+GCA_029286575.1	371930	2023-03-20	134552	13348	3638	1011087902	Pitangus sulphuratus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_029620185.1	371864	2023-04-07	33295	106788	21045	1115932552	Melanitta fusca	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_029814485.1	1458044	2023-04-18	317028	4740	1554	1055553021	Erythrotriorchis buergersi	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_029814565.1	309866	2023-04-18	95759	24432	6250	1097415749	Pionites melanocephalus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_029814625.1	57074	2023-04-18	92411	25676	5934	1085716777	Psittacula derbiana	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_029890015.1	345747	2023-04-27	396075	3471	1253	1022612988	Leucopternis lacernulatus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_030060385.1	1471808	2023-05-22	4782	3195478	392075	1083165774	Muscicapa striata striata	Sarcopterygii	Aves	Neognathae			Passeriformes	Oxford Nanopore
+GCA_030068125.2	867394	2024-08-30	1573229	286	241	515355093	Conuropsis carolinensis	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_030264335.1	345190	2023-06-13	398829	3370	1064	931665773	Enicognathus leptorhynchus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_030265165.1	311888	2023-06-13	593486	1642	689	817164530	Pyrrhura pfrimeri	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_030265185.1	311886	2023-06-13	94656	22559	5952	1090641526	Pyrrhura eisenmanni	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_030265285.1	274074	2023-06-13	92374	33046	5762	1087351293	Cacatua sanguinea	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_030265375.1	1344800	2023-06-13	1241625	531	328	647149413	Cacatua tenuirostris	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_030322885.1	311889	2023-06-22	639668	1128	605	664807886	Pyrrhura emma	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_030323915.1	458118	2023-06-22	93798	23438	6127	1087632198	Brotogeris chrysoptera	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_030408155.1	140446	2023-07-05	1050	11027439	886118	1143936723	Lophura swinhoii	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	PacBio HiFi
+GCA_030418925.1	2338437	2023-07-11	697472	884	559	601379954	Pyrrhura viridicata	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_030449065.1	52124	2023-07-13	17987	165044	42782	1182171558	Oceanodroma leucorhoa	Sarcopterygii	Aves	Neognathae			Procellariiformes	missing
+GCA_030556125.1	2338447	2023-07-31	472388	5423	1037	1085868315	Pyrrhura berlepschi	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_030584885.1	8928	2023-07-31	20973	180212	40405	1236370069	Ciconia ciconia	Sarcopterygii	Aves	Neognathae			Ciconiiformes	missing
+GCA_030625065.1	40179	2023-08-08	228	23345045	3011238	1135014974	Alectoris magna	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	PacBio HiFi
+GCA_030674165.1	30457	2023-08-07	32864	118264	25131	1229944802	Pygoscelis papua	Sarcopterygii	Aves	Neognathae			Sphenisciformes	missing
+GCA_030710405.1	2231572	2023-08-11	29005	125642	29519	1126814153	Todiramphus albicilla	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_030770645.1	161676	2023-08-17	37954	106225	19829	1170937545	Numenius phaeopus	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_030819815.1	201991	2023-08-18	980	13287088	1274693	1432181851	Strix occidentalis	Sarcopterygii	Aves	Neognathae			Strigiformes	PacBio HiFi
+GCA_031001785.1	232620	2023-08-30	528843	2151	841	892309532	Psittacula himalayana	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_031468815.1	37578	2023-09-15	669	10178591	1441996	1294754726	Morus bassanus	Sarcopterygii	Aves	Neognathae			Suliformes	PacBio HiFi
+GCA_031762335.1	232655	2023-09-20	418704	794	540	330247649	Psittacula eupatria	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_031762375.1	1549155	2023-09-20	142170	18077	3450	1085421690	Poicephalus rueppellii	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_031762455.1	2797240	2023-09-20	606208	1681	719	850497133	Myiopsitta luchsi	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_031762475.1	141271	2023-09-20	97619	27566	5465	1080853262	Cacatua sulphurea	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_031762855.1	1265750	2023-09-20	591596	1030	587	573193294	Forpus conspicillatus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_031762955.1	232633	2023-09-20	206970	8124	2297	1049727626	Psittacula longicauda	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_031763565.1	244075	2023-09-20	401073	4028	1114	1033330349	Amazona festiva	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_031763585.1	2338445	2023-09-20	502860	2062	831	828822821	Pyrrhura subandina	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_031763605.1	244082	2023-09-20	605461	1201	630	663027192	Amazona rhodocorytha	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_031763625.1	152276	2023-09-20	109887	18896	4994	1086902874	Amazona oratrix	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_031763645.1	458108	2023-09-20	1427133	339	241	503060104	Pionus seniloides	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_031763745.2	13214	2024-08-05	2073068	296	239	693957693	Pionus menstruus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_031763765.1	12946	2023-09-20	488307	755	531	368626962	Psittacara erythrogenys	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_031763935.1	241578	2023-09-20	117971	18544	4592	1096240703	Amazona finschi	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_031764275.1	2495904	2023-09-20	2174159	388	244	845267365	Poicephalus flavifrons	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_031877785.1	111821	2023-09-25	390	13783470	2302473	1217576959	Strix aluco	Sarcopterygii	Aves	Neognathae			Strigiformes	PacBio HiFi
+GCA_031885435.1	161624	2023-09-25	359	19816254	4248821	1268127531	Passerculus sandwichensis	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_032159205.1	1304818	2023-09-28	136886	20862	3314	1077383648	Eurystomus glaucurus suahelicus	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_032165215.1	75835	2023-09-28	65975	42441	9343	1082724076	Anas bernieri	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_032165235.1	75873	2023-09-28	55859	49633	11175	1077706147	Lophonetta specularioides	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_032165255.1	75879	2023-09-28	48590	58149	12541	1074672653	Speculanas specularis	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_032165275.1	75842	2023-09-28	127233	15408	4077	1063902100	Spatula discors	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_032173965.1	50250	2023-09-29	533	18480409	3360192	1032218100	Sitta carolinensis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_032191515.2	33595	2023-09-29	768	17162444	1123872	1315374053	Phaenicophaeus curvirostris	Sarcopterygii	Aves	Neognathae			Cuculiformes	PacBio HiFi
+GCA_032191525.1	75856	2023-09-29	345339	7387	1107	1109691731	Spatula querquedula	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_032206185.1	135627	2023-09-29	1147	7605730	768334	1302215470	Columba guinea	Sarcopterygii	Aves	Neognathae			Columbiformes	PacBio HiFi
+GCA_032270845.1	371860	2023-10-02	301764	6047	1427	1049999469	Branta hutchinsii	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_032270905.1	8833	2023-10-02	387367	5475	1473	1263337034	Aix sponsa	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_032273925.1	30466	2023-10-02	180427	9844	2416	948247953	Rhynchotus rufescens	Sarcopterygii	Aves			Palaeognathae	Tinamiformes	missing
+GCA_032274085.1	56337	2023-10-02	274939	7326	1802	1143160259	Milvago chimachima	Sarcopterygii	Aves	Neognathae			Falconiformes	missing
+GCA_032274285.1	56339	2023-10-02	779598	1021	577	749737705	Polihierax semitorquatus	Sarcopterygii	Aves	Neognathae			Falconiformes	missing
+GCA_032274325.1	1620256	2023-10-02	696603	1538	688	914521266	Circus macrosceles	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_032274405.1	2571053	2023-10-02	616357	2452	849	1122651361	Accipiter meyerianus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_032274425.1	495914	2023-10-02	402163	4265	1227	1113663395	Falco moluccensis	Sarcopterygii	Aves	Neognathae			Falconiformes	missing
+GCA_032274585.1	372372	2023-10-02	516733	1240	632	578605867	Tyrannus vociferans	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_032274605.1	141835	2023-10-02	429980	828	551	352253218	Cacatua ophthalmica	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_032274645.1	1549141	2023-10-02	381502	3845	1191	999419389	Enicognathus ferrugineus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_032274665.1	232642	2023-10-02	279312	7271	1557	1058398437	Psittacula columboides	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_032274685.1	372375	2023-10-02	261183	6057	1667	972723561	Tyrannus cubensis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_032274705.1	678588	2023-10-02	298120	5791	1468	1030132446	Trichoglossus johnstoniae	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_032274745.1	37600	2023-10-02	76856	35253	7050	1018659554	Carduelis carduelis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_032274845.1	371926	2023-10-02	767450	700	513	522700390	Tyrannus crassirostris	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_032275265.1	75847	2023-10-02	77406	28347	6888	1066159867	Anas georgica	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_032275445.1	458187	2023-10-02	225287	10523	1768	1000204497	Crypturellus soui	Sarcopterygii	Aves			Palaeognathae	Tinamiformes	missing
+GCA_032353075.1	204063	2023-10-04	380560	4201	1138	1000358942	Tyrannus caudifasciatus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_032353195.1	121427	2023-10-04	549369	1017	572	560223193	Tyrannus melancholicus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_032353205.1	372373	2023-10-04	87364	27406	6262	1034325205	Tyrannus verticalis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_032353375.1	1265754	2023-10-04	572493	2057	790	919880021	Forpus cyanopygius	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_032353435.1	151760	2023-10-04	491826	2636	928	962488887	Amazona farinosa	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_032353575.1	2338436	2023-10-04	839084	1540	644	1069051663	Pyrrhura devillei	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_032353615.1	2301374	2023-10-04	665114	1172	607	711926358	Micropsitta geelvinkiana	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_032353885.1	555279	2023-10-04	260658	10840	1431	1052258295	Nothura maculosa	Sarcopterygii	Aves			Palaeognathae	Tinamiformes	missing
+GCA_032354935.1	232641	2023-10-04	1701467	298	241	555789363	Psittacula roseata	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_032356925.1	311893	2023-10-04	511284	806	546	410057786	Pyrrhura rhodocephala	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_032357275.1	284148	2023-10-04	608083	1260	633	690180571	Micropsitta pusio	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_032357305.1	2259667	2023-10-04	295126	5843	1531	1038346274	Amazona mercenarius	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_032357605.1	658925	2023-10-04	82060	28238	6709	1068561344	Tachyeres brachypterus	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_032357685.1	8837	2023-10-04	184931	9484	2667	1042846131	Anas capensis	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_032357765.1	152277	2023-10-04	1690264	337	244	594852007	Amazona auropalliata	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_032357785.1	156567	2023-10-06	694	9092038	1402811	1124570061	Periparus ater	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_032360045.1	57393	2023-10-04	2895306	277	236	910692256	Amazona ventralis	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_032361245.1	163849	2023-10-04	63370	61231	7490	1032055833	Serinus canicollis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_032361345.1	176049	2023-10-04	887848	36538	278	1267904901	Trichoglossus haematodus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_032361365.1	2201931	2023-10-04	115581	30045	4384	1049916726	Spinus pinus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_032466295.1	69957	2023-10-10	615774	1569	691	818371812	Forpus passerinus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_032466355.1	303320	2023-10-10	1465696	639	260	765586910	Pionus fuscus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_032466415.1	345187	2023-10-10	518730	2304	856	919096718	Forpus xanthopterygius	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_032466535.1	1265749	2023-10-10	107553	25346	4576	1094243180	Forpus xanthops	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_032466555.1	30468	2023-10-10	91692	26478	5902	991077619	Tinamus major	Sarcopterygii	Aves			Palaeognathae	Tinamiformes	missing
+GCA_032466625.1	1238232	2023-10-10	554731	2004	786	886375664	Psittacara rubritorquis	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_032466675.1	870969	2023-10-10	387717	4123	1154	1028414576	Forpus modestus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_032466695.1	345188	2023-10-10	549133	1903	740	846472027	Forpus crassirostris	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_032468075.1	151758	2023-10-10	2410848	350	241	880820040	Amazona amazonica	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_033124195.1	1547490	2023-10-30	155300	21293	3239	1150148719	Coracias cyanogaster	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_033439825.1	1006542	2023-11-08	179163	26512	4296	1144299037	Todiramphus cinnamominus	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_033439845.1	2577023	2023-11-08	314146	10957	1710	978470398	Ispidina picta	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_033439865.1	325338	2023-11-08	281794	14399	2351	972481034	Alcedo quadribrachys	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_033439885.1	390728	2023-11-08	270294	15968	2245	962757634	Alcedo semitorquata	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_033439905.1	325335	2023-11-08	242390	19405	3357	1150718213	Ceryle rudis	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_033459285.1	78203	2023-11-09	3531	2269972	262943	1388371875	Clamator glandarius	Sarcopterygii	Aves	Neognathae			Cuculiformes	PacBio HiFi
+GCA_033556795.1	78212	2023-11-13	1340	8509748	1125632	1263641154	Tapera naevia	Sarcopterygii	Aves	Neognathae			Cuculiformes	PacBio HiFi
+GCA_033558105.1	357741	2023-11-13	2995	1622296	244391	1256652329	Coccyzus lansbergi	Sarcopterygii	Aves	Neognathae			Cuculiformes	PacBio HiFi
+GCA_033558185.1	3054325	2023-11-13	2932	1835311	257096	1249866067	Dromococcyx pavoninus	Sarcopterygii	Aves	Neognathae			Cuculiformes	PacBio HiFi
+GCA_033558235.1	78208	2023-11-13	526	23989336	4841642	1200843443	Neomorphus geoffroyi	Sarcopterygii	Aves	Neognathae			Cuculiformes	PacBio HiFi
+GCA_033558465.1	36245	2023-11-13	426303	15454	1131	1015532729	Alcedo atthis	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_033628365.1	328946	2023-11-14	95315	91126	11379	1164854868	Calidris temminckii	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_033628385.1	171273	2023-11-14	95534	79825	12212	1304517169	Pluvialis squatarola	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_033628425.1	670340	2023-11-14	184138	47115	3881	1185835516	Calidris minuta	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_033628465.1	8919	2023-11-14	107948	82697	9889	1190164641	Calidris alpina	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_033628505.1	240204	2023-11-14	191550	57493	3632	1236140388	Tringa tobata	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_033628625.1	371911	2023-11-14	78594	87634	16343	1278496420	Charadrius hiaticula	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_033816785.1	100825	2023-11-22	1435	19899906	5392577	1244798878	Picus viridis	Sarcopterygii	Aves	Neognathae			Piciformes	Oxford Nanopore
+GCA_034008185.1	887050	2023-12-01	724	18463888	3862322	1176285410	Gorsachius magnificus	Sarcopterygii	Aves	Neognathae			Pelecaniformes	PacBio RSII
+GCA_034336665.1	383689	2023-12-26	3819	13437235	477205	1098434582	Luscinia megarhynchos	Sarcopterygii	Aves	Neognathae			Passeriformes	Oxford Nanopore
+GCA_034336685.1	391696	2023-12-26	9965	18695389	466618	1102289131	Luscinia luscinia	Sarcopterygii	Aves	Neognathae			Passeriformes	Oxford Nanopore
+GCA_034509085.1	90714	2023-12-21	1463930	360	242	547230681	Spinus yarrellii	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_034509185.1	1105365	2023-12-21	101644	28943	4174	1022651160	Euphonia xanthogaster	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_034509425.1	44318	2023-12-21	12370	1675623	55257	1199137260	Eopsaltria australis	Sarcopterygii	Aves	Neognathae			Passeriformes	Oxford Nanopore
+GCA_034638445.1	52775	2023-12-27	429	35788150	7536214	1240549340	Ciconia boyciana	Sarcopterygii	Aves	Neognathae			Ciconiiformes	Oxford Nanopore
+GCA_034640395.1	54776	2023-12-26	503464	1803	746	742476620	Spinus spinescens	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_034768475.1	1548930	2023-12-28	641496	1131	610	669385013	Alipiopsitta xanthops	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_034779935.1	127974	2023-12-28	861764	2458	735	1448888563	Loxia pytyopsittacus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_034779955.1	1603565	2023-12-28	572011	5844	680	1221356593	Acanthis cabaret	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_034780215.1	632109	2023-12-28	772458	2685	630	1197978563	Carduelis corsicana	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_034780635.1	1042130	2023-12-28	1036865	296	237	332671254	Micrastur mirandollei	Sarcopterygii	Aves	Neognathae			Falconiformes	missing
+GCA_034780675.1	175928	2023-12-28	452465	2837	938	921347388	Spinus atriceps	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_034780795.1	160760	2023-12-28	2062941	349	243	747980554	Spinus spinus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_034780815.1	37602	2023-12-28	1301913	1073	585	1284110497	Serinus serinus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_034780855.1	658926	2023-12-28	173656	10008	2933	1055827361	Tachyeres leucocephalus	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_034780875.1	285242	2023-12-28	802184	1312	599	909713417	Spinus lawrencei	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_034781195.1	321106	2023-12-28	623983	1826	728	920550869	Circaetus spectabilis	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_034781315.1	993370	2023-12-28	71556	42479	8957	1178117515	Accipiter madagascariensis	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_034781455.1	3050083	2023-12-28	2414333	381	245	940852024	Serinus nigriceps	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_034781495.1	993371	2023-12-28	96303	31915	6067	1171086377	Accipiter minullus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_034781615.1	495938	2023-12-28	685505	962	575	632268894	Falco ardosiaceus	Sarcopterygii	Aves	Neognathae			Falconiformes	missing
+GCA_034781655.1	1548953	2023-12-28	2872251	346	243	1047416770	Eupsittula astec	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_034781795.1	57238	2023-12-28	82798	36824	7400	992169601	Crypturellus tataupa	Sarcopterygii	Aves			Palaeognathae	Tinamiformes	missing
+GCA_034781875.1	495941	2023-12-28	1433828	1510	658	1824255975	Falco chicquera	Sarcopterygii	Aves	Neognathae			Falconiformes	missing
+GCA_034781895.1	867388	2023-12-28	3241406	442	248	1375267268	Psittacara finschi	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_034782035.1	56350	2023-12-28	507420	2866	983	1060647641	Falco sparverius	Sarcopterygii	Aves	Neognathae			Falconiformes	missing
+GCA_034782095.1	345163	2023-12-28	638460	1654	712	881143821	Falco jugger	Sarcopterygii	Aves	Neognathae			Falconiformes	missing
+GCA_034782155.1	495940	2023-12-28	1615731	643	267	860841536	Falco zoniventris	Sarcopterygii	Aves	Neognathae			Falconiformes	missing
+GCA_034782235.1	495939	2023-12-28	716118	1291	638	824891584	Falco dickinsoni	Sarcopterygii	Aves	Neognathae			Falconiformes	missing
+GCA_034782255.1	387787	2023-12-28	78719	37595	7461	1173684188	Accipiter badius	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_034782355.1	244077	2023-12-28	103562	18924	5053	1078231823	Amazona kawalli	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_034782435.1	321970	2023-12-28	292589	6571	1714	1141759489	Clanga hastata	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_034782455.1	387795	2023-12-28	80381	38879	7677	1173585174	Accipiter francesiae	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_034782475.1	1209394	2023-12-28	1561056	647	270	841921454	Amazona xantholora	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_034782535.1	2911133	2023-12-28	478163	3412	1018	1082727155	Accipiter rhodogaster	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_034782555.1	321111	2023-12-28	688658	1728	719	975614398	Lophaetus occipitalis	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_034782575.1	671078	2023-12-28	83465	27095	6962	1087621326	Brotogeris tirica	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_034782595.1	252781	2023-12-28	543578	2562	879	1024699671	Aquila rapax	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_034782615.1	223773	2023-12-28	175886	11079	3218	1158993505	Geranoaetus melanoleucus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_034782635.1	223853	2023-12-28	105336	27344	5227	1168347850	Buteo brachyurus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_034782655.1	1042132	2023-12-28	106275	26865	5296	1172817495	Micrastur ruficollis	Sarcopterygii	Aves	Neognathae			Falconiformes	missing
+GCA_034782675.1	52649	2023-12-28	130242	16087	4415	1162591481	Haliaeetus vocifer	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_034782695.1	321090	2023-12-28	110873	18576	5238	1169859778	Aquila gurneyi	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_034782715.1	321093	2023-12-28	72254	40182	8334	1170794585	Pseudastur albicollis	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_034782735.1	56258	2023-12-28	85900	33703	7001	1179493483	Sagittarius serpentarius	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_034782775.1	344233	2023-12-28	73385	46041	9269	1168782655	Falco subbuteo	Sarcopterygii	Aves	Neognathae			Falconiformes	missing
+GCA_034782895.1	60463	2023-12-28	323298	5383	1349	1029714169	Agapornis fischeri	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_034782915.1	309844	2023-12-28	522362	2287	862	919847551	Forpus coelestis	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_034782935.1	381026	2023-12-28	586105	1694	719	827405935	Micropsitta keiensis	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_034782995.1	241584	2023-12-28	569114	997	554	563925534	Amazona versicolor	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_034783095.1	2797237	2023-12-28	971829	2164	667	1465177838	Forpus spengeli	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_034783155.1	60466	2023-12-28	147808	15843	3016	1055918420	Agapornis personatus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_034783165.1	45633	2023-12-28	105880	26022	5526	1081519253	Spatula rhynchotis	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_034783195.1	60469	2023-12-28	549206	2191	855	945602691	Agapornis taranta	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_034783215.1	75858	2023-12-28	96597	28065	6328	1082712798	Mareca sibilatrix	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_034783435.1	1002726	2023-12-28	385166	4228	1224	1048707326	Agapornis swindernianus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_034783455.1	57423	2023-12-28	324576	4986	1347	1007652362	Micropsitta finschii	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_034783755.1	321085	2023-12-28	1965414	381	248	743265546	Circaetus cinereus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_034783915.1	60467	2023-12-28	3591281	366	242	1367541280	Agapornis pullarius	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_035040975.1	328439	2024-01-03	88514	43951	5849	1060886385	Myioborus melanocephalus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035040995.1	329506	2024-01-03	69282	41705	8348	1062143342	Premnoplex brunnescens	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035041115.1	60465	2024-01-03	56178	66169	11099	1040431461	Agapornis nigrigenis	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_035041135.1	377289	2024-01-03	79786	32692	7260	1057024093	Platyrinchus mystaceus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035041215.1	468485	2024-01-03	83414	36236	6329	1060816005	Gymnopithys bicolor	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035041235.1	873197	2024-01-03	90980	41210	5562	1057987751	Myiothlypis chrysogaster	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035041345.1	2767975	2024-01-03	122491	23660	3966	1071020208	Poliocrania exsul	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035041385.1	1851190	2024-01-03	284720	55125	3343	1105645503	Myiothlypis coronata	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035041425.1	430701	2024-01-03	101118	25697	5289	1040914668	Mionectes olivaceus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035046945.1	96539	2024-01-03	111347	23535	4455	1039110916	Loxia leucoptera	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035047045.1	34948	2024-01-03	212727	13651	1989	1087496643	Vireo griseus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035047285.1	280046	2024-01-03	145597	21363	4402	1097320841	Serinus syriacus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035047745.1	194941	2024-01-03	79317	42282	5498	1043144908	Catamblyrhynchus diadema	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035047845.1	183179	2024-01-03	84882	37006	6167	1059105393	Dendrocincla fuliginosa	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035047865.1	261817	2024-01-03	74147	50691	6740	1055636461	Dendrocincla tyrannina	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035047885.1	166060	2024-01-03	124136	24998	3386	1054108817	Chlorospingus flavigularis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035047985.1	182906	2024-01-03	71341	42247	6855	1039777335	Basileuterus tristriatus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035048045.1	166066	2024-01-03	71031	38964	6862	1038224917	Chlorospingus semifuscus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035048125.1	330682	2024-01-03	108916	29739	3836	1044487723	Diglossa cyanea	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035048155.1	1314640	2024-01-03	108486	27961	4220	1032396423	Cinnycerthia olivascens	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035048185.1	1851192	2024-01-03	90643	36222	5269	1033696610	Cinnycerthia unirufa	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035221315.1	56304	2024-01-08	279765	8909	1750	1192959397	Tauraco hartlaubi	Sarcopterygii	Aves	Neognathae			Musophagiformes	missing
+GCA_035221435.1	3050619	2024-01-08	64386	61071	7454	1052200365	Sphenopsis melanotis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035221455.1	255386	2024-01-08	46498	68513	12681	1042758011	Xenops minutus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035221675.1	3046608	2024-01-08	249620	39281	5734	1127304179	Spatula smithii	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_035221975.1	303875	2024-01-08	2159476	407	249	859878688	Serinus flavivertex	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035222195.1	182939	2024-01-08	79096	50323	6839	1049835025	Myioborus miniatus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035222235.1	183167	2024-01-08	49498	78573	13290	1063522065	Margarornis squamiger	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035222285.1	60464	2024-01-08	167037	15795	2795	1077563471	Agapornis lilianae	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_035582745.1	3150946	2024-01-11	60137	72016	7997	1045918411	Loriotus luctuosus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035582775.1	54020	2024-01-11	30631	81335	21323	1198203808	Phoebastria immutabilis	Sarcopterygii	Aves	Neognathae			Procellariiformes	missing
+GCA_035582795.1	33587	2024-01-12	361	36845572	5074288	1348553167	Mycteria americana	Sarcopterygii	Aves	Neognathae			Ciconiiformes	PacBio HiFi
+GCA_035582835.1	54021	2024-01-11	29051	86335	22635	1199030586	Phoebastria nigripes	Sarcopterygii	Aves	Neognathae			Procellariiformes	missing
+GCA_035582855.1	54022	2024-01-11	38646	62947	16194	1195283510	Phoebastria irrorata	Sarcopterygii	Aves	Neognathae			Procellariiformes	missing
+GCA_035582865.1	54023	2024-01-11	42893	56627	14377	1188150971	Phoebastria albatrus	Sarcopterygii	Aves	Neognathae			Procellariiformes	missing
+GCA_035582875.1	46550	2024-01-11	55522	42767	10704	1184775458	Diomedea exulans	Sarcopterygii	Aves	Neognathae			Procellariiformes	missing
+GCA_035583095.1	141274	2024-01-11	127714	22944	3848	1088746887	Cacatua galerita	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_035583115.1	548493	2024-01-11	112722	24598	4422	1057382166	Anisognathus igniventris	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035583135.1	360214	2024-01-11	63122	47228	9872	1038099324	Lophotriccus pileatus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035583155.1	589933	2024-01-11	66064	51496	8583	1067151519	Acropternis orthonyx	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035583185.1	586367	2024-01-11	54702	70277	10509	1055102317	Anabacerthia variegaticeps	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035583215.1	65378	2024-01-11	85126	47508	6007	1065668493	Arremon brunneinucha	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035583235.1	2767836	2024-01-11	88602	37407	5747	1067336114	Hafferia zeledoni	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035583915.1	75861	2024-01-11	83211	25955	6577	1071674797	Mareca strepera	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_035583995.1	241750	2024-01-11	73868	57751	6360	1057286184	Arremon aurantiirostris	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035584035.1	75976	2024-01-11	57063	69122	10689	1051693259	Lepidocolaptes lacrymiger	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035584715.1	190292	2024-01-11	89284	34059	6082	1050969100	Xiphorhynchus erythropygius	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035584735.1	2765847	2024-01-11	46349	78573	11716	1036929817	Pseudotriccus pelzelni	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035584755.1	644990	2024-01-11	58748	49649	10801	1049294509	Thripadectes ignobilis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035584835.1	256431	2024-01-11	62813	64194	7524	1051694190	Tangara arthus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035584875.1	1094534	2024-01-11	53317	56960	12366	1049582190	Syndactyla subalaris	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_035588595.1	75832	2024-01-11	229895	13456	1776	1096910227	Mareca americana	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_035590135.1	321084	2024-01-11	60756	43591	11577	1177253928	Circaetus pectoralis	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_035590175.1	2868386	2024-01-11	235038	9601	2099	1147034644	Aviceda leuphotes	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_035590195.1	258819	2024-01-11	73541	30657	8234	1154424072	Aviceda cuculoides	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_035590215.1	263164	2024-01-11	141320	22875	3755	1170142166	Microhierax caerulescens	Sarcopterygii	Aves	Neognathae			Falconiformes	missing
+GCA_035590275.1	56347	2024-01-11	68049	44827	9271	1168369854	Ibycter americanus	Sarcopterygii	Aves	Neognathae			Falconiformes	missing
+GCA_035590315.1	252787	2024-01-11	59444	41895	11436	1173115591	Hieraaetus wahlbergi	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_035590425.1	1562128	2024-01-11	279560	6226	1932	1132469849	Falco rupicolus	Sarcopterygii	Aves	Neognathae			Falconiformes	missing
+GCA_035590455.1	1562126	2024-01-11	95669	34155	6003	1167594552	Microhierax latifrons	Sarcopterygii	Aves	Neognathae			Falconiformes	missing
+GCA_035590535.1	495947	2024-01-11	229029	9530	2173	1142433846	Falco concolor	Sarcopterygii	Aves	Neognathae			Falconiformes	missing
+GCA_035592055.1	321058	2024-01-11	612454	1827	752	913552921	Phalcoboenus megalopterus	Sarcopterygii	Aves	Neognathae			Falconiformes	missing
+GCA_035592155.1	2869452	2024-01-11	86408	35038	7089	1178600333	Milvus aegyptius	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_035592195.1	329121	2024-01-11	351308	5144	1411	1126256925	Milvus lineatus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_035593285.1	458119	2024-01-11	1700296	691	258	914800443	Micropsitta bruijnii	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_035594005.1	2861860	2024-01-11	209677	9639	2375	1043256133	Hypotaenidia philippensis	Sarcopterygii	Aves	Neognathae			Gruiformes	missing
+GCA_035610455.1	9125	2024-01-12	92286	42069	6488	1126203322	Gallirallus australis	Sarcopterygii	Aves	Neognathae			Gruiformes	missing
+GCA_035610475.1	72013	2024-01-12	159197	16509	3417	1089585703	Porphyrio melanotus	Sarcopterygii	Aves	Neognathae			Gruiformes	missing
+GCA_035666275.1	9078	2024-01-17	3115	1069603	152474	1034639186	Alectoris chukar	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	PacBio CLR
+GCA_035772895.1	573593	2024-01-17	14516	132711	34137	956397266	Perdix hodgsoniae	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	missing
+GCA_036010785.1	3111550	2024-01-24	866	8735889	1152142	1395800460	Ammospiza maritima maritima	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_036023395.1	360220	2024-01-25	69849	38359	8681	1049278362	Myiotriccus ornatus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_036026055.1	54777	2024-01-25	79813	39997	5831	1035176499	Spinus crassirostris	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_036026075.1	357701	2024-01-25	118848	24036	3601	1019155830	Linurgus olivaceus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_036026295.1	285239	2024-01-25	92402	34884	5603	1042424550	Spinus olivaceus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_036026335.1	8838	2024-01-25	319562	15922	2872	1135358737	Mareca penelope	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_036026575.1	458107	2024-01-25	513361	6266	1026	1117225020	Pionus tumultuosus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_036169615.1	472823	2024-01-26	568	8413062	1178071	1049565314	Heliangelus exortis	Sarcopterygii	Aves	Neognathae			Apodiformes	PacBio HiFi
+GCA_036346035.1	30408	2024-02-02	643	29586366	4623397	1022487562	Crossoptilon crossoptilon	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	missing
+GCA_036583965.1	1351675	2024-02-13	2839	8724871	219931	1054929661	Prunella strophiata	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_036630365.1	117193	2024-02-15	1000	20125189	918647	1246689746	Acanthiza pusilla	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_036784685.1	9088	2024-02-23	1342	3726849	663708	998249019	Chrysolophus amherstiae	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	Oxford Nanopore
+GCA_036785705.1	720576	2024-02-22	1515	7715064	520789	1482437399	Acanthornis magna	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_036851205.1	372374	2024-02-23	113127	21154	4858	1051084393	Tyrannus forficatus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_036872935.1	163852	2024-02-26	877976	841	551	732834361	Serinus pusillus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_036872955.1	632108	2024-02-26	373581	3730	1114	938529067	Serinus citrinella	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_036873005.1	54773	2024-02-26	204538	13690	1556	929058575	Spinus tristis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_036873025.1	57660	2024-02-26	2344350	1117	344	1857419354	Papasula abbotti	Sarcopterygii	Aves	Neognathae			Suliformes	missing
+GCA_036873505.1	54769	2024-02-26	94808	36217	4928	1042091815	Acanthis flammea	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_036873585.1	54559	2024-02-26	1614711	652	256	847058484	Spinus psaltria	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_036873605.1	75839	2024-02-26	80352	31875	7401	1078656325	Anas crecca	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_036873685.1	60462	2024-02-26	139406	13623	3473	1028193883	Agapornis canus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_036873835.1	1162387	2024-02-26	2174555	920	286	1445452828	Crypturellus boucardi	Sarcopterygii	Aves			Palaeognathae	Tinamiformes	missing
+GCA_036873955.1	1570318	2024-02-26	896	10800487	930710	1245734246	Mergus octosetaceus	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	PacBio HiFi
+GCA_036925125.1	9029	2024-03-01	716	10592639	1140368	1062314554	Oreortyx pictus	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	PacBio HiFi
+GCA_037013685.1	279927	2024-03-06	1456	8052326	1739255	1040502241	Acridotheres tristis	Sarcopterygii	Aves	Neognathae			Passeriformes	Oxford Nanopore
+GCA_037014315.1	228326	2024-03-05	60532	40615	8053	979716266	Malurus leucopterus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_037014365.1	222595	2024-03-05	49207	52939	10224	980040830	Malurus splendens	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_037305975.1	9089	2024-03-20	198	37751291	7334248	1061001268	Chrysolophus pictus	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	PacBio HiFi
+GCA_037834095.1	1156349	2024-03-29	160114	47969	3050	1118231725	Argya squamiceps	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_037837765.1	317145	2024-03-29	576	20730791	1562445	1155681717	Delichon dasypus	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_037951015.1	223441	2024-04-03	231	35970857	8743417	1295022542	Buteo regalis	Sarcopterygii	Aves	Neognathae			Accipitriformes	PacBio HiFi
+GCA_037953605.1	30399	2024-04-03	679	25204291	6713967	1283266191	Necrosyrtes monachus	Sarcopterygii	Aves	Neognathae			Accipitriformes	Oxford Nanopore
+GCA_037962945.1	43583	2024-04-04	278	40899883	5081793	1543919930	Sarcoramphus papa	Sarcopterygii	Aves	Neognathae			Accipitriformes	PacBio HiFi
+GCA_037975005.1	259913	2024-04-05	1460	8684000	1290511	1239302613	Platalea minor	Sarcopterygii	Aves	Neognathae			Pelecaniformes	PacBio HiFi
+GCA_038090715.1	689215	2024-04-12	54580	75320	11130	1071395916	Florisuga fusca	Sarcopterygii	Aves	Neognathae			Apodiformes	missing
+GCA_038380795.1	1853061	2024-04-18	268	17811915	4626274	1072485197	Pyrocephalus nanus	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_038381655.1	658927	2024-04-18	117763	40130	8497	1086284661	Tachyeres patachonicus	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_038381715.1	75834	2024-04-18	343463	9272	1764	1101897252	Anas bahamensis	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_038381815.1	178882	2024-04-18	1010879	1659	363	994107752	Anodorhynchus leari	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_038381965.1	75867	2024-04-18	125061	38004	8131	1081876876	Amazonetta brasiliensis	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_038382005.1	75863	2024-04-18	149177	42830	8350	1095265952	Spatula versicolor	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_038382085.1	75844	2024-04-18	674794	7851	477	1230520560	Mareca falcata	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_038406055.1	75845	2024-04-22	287793	30532	3024	1140198421	Anas flavirostris	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_038406075.1	75833	2024-04-22	672286	3929	686	1115998345	Anas aucklandica	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_038406095.1	75838	2024-04-22	663687	8540	487	1222394188	Spatula clypeata	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_038406135.1	34950	2024-04-22	966767	2635	323	1095348099	Vireo solitarius	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_038406155.1	311891	2024-04-22	675075	13810	358	1235922408	Pyrrhura leucotis	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_038406215.1	56278	2024-04-22	566343	8701	599	1202038819	Sibirionetta formosa	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_038406475.1	75836	2024-04-22	1672404	5903	285	1612954320	Anas carolinensis	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_038407235.1	57663	2024-04-22	1845419	590	260	925281321	Sula variegata	Sarcopterygii	Aves	Neognathae			Suliformes	missing
+GCA_038429875.1	48895	2024-04-24	526	16277000	1858000	1223495793	Poecile montanus	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_038442595.1	387808	2024-04-24	85207	36070	7195	1175178889	Accipiter tachiro	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_038442615.1	56348	2024-04-24	79255	41398	7721	1168263988	Daptrius ater	Sarcopterygii	Aves	Neognathae			Falconiformes	missing
+GCA_038994595.1	9079	2024-05-01	116	74759052	10103736	1039067912	Alectoris rufa	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	Oxford Nanopore
+GCA_039654585.1	458125	2024-05-16	1806004	317	241	616735529	Touit purpuratus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_039654605.1	2797188	2024-05-16	2535883	360	244	936321083	Anodorhynchus glaucus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_039654755.1	135424	2024-05-17	1489	1995792	427527	1154576601	Calcarius lapponicus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_039700855.1	8924	2024-05-21	103335	35784	9349	1176340470	Vultur gryphus	Sarcopterygii	Aves	Neognathae			Accipitriformes	Oxford Nanopore
+GCA_039720435.1	151761	2024-05-24	1877	14879228	754740	1361880138	Amazona ochrocephala	Sarcopterygii	Aves	Neognathae			Psittaciformes	PacBio HiFi
+GCA_039877175.1	126827	2024-05-28	408572	25306	2261	1258610224	Otus scops	Sarcopterygii	Aves	Neognathae			Strigiformes	missing
+GCA_039877255.1	703980	2024-05-28	549386	10287	844	1147364266	Loriculus beryllinus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_039877515.1	57658	2024-05-28	2346742	316	239	797077707	Morus serrator	Sarcopterygii	Aves	Neognathae			Suliformes	missing
+GCA_039877535.1	504089	2024-05-28	1732415	279	237	542854499	Touit batavicus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_039878825.1	46218	2024-05-31	521	7816141	1221632	966783983	Excalfactoria chinensis	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	PacBio HiFi
+GCA_039906565.1	48277	2024-05-31	1031	9620782	1220952	1167409219	Aegotheles albertisi	Sarcopterygii	Aves	Neognathae			Caprimulgiformes	PacBio HiFi
+GCA_040207595.1	111818	2024-06-17	1157699	5156	281	1376573952	Phodilus badius	Sarcopterygii	Aves	Neognathae			Strigiformes	missing
+GCA_040365975.1	266365	2024-06-27	48686	78934	13546	1037739721	Melilestes megarhynchus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_040365995.1	175137	2024-06-27	58465	70229	9951	1017994526	Toxorhamphus novaeguineae	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_040366035.1	393709	2024-06-27	108043	28881	3860	1011302469	Ficedula hyperythra	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_040366075.1	2022818	2024-06-27	57435	56794	8895	1020307899	Thapsinillas affinis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_040366095.1	325320	2024-06-27	39736	70316	12783	923000522	Ceyx lepidus	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCA_040366115.1	254574	2024-06-27	92725	32931	4764	1021734165	Paramythia montium	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_040366135.1	667181	2024-06-27	83750	39941	5288	1009894271	Rhipidura albolimbata	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_040366155.1	665150	2024-06-27	58304	76943	9496	1112738562	Peneothello sigillata	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_040366175.1	266330	2024-06-27	45031	95575	16002	1037827943	Ptiloprora guisei	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_040366195.1	2479990	2024-06-27	56864	78908	10691	1044197240	Origma robusta	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_040366215.1	156163	2024-06-27	55617	72326	9530	1077946065	Pachycephala schlegelii	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_040366235.1	1931065	2024-06-27	37025	93607	17319	1024189092	Melipotes ater	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_040366255.1	722684	2024-06-27	56434	77146	12231	1133605400	Sericornis nouhuysi	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_040496095.1	283162	2024-07-03	328473	6458	1396	1150306003	Ramphastos culminatus	Sarcopterygii	Aves	Neognathae			Piciformes	missing
+GCA_040496115.1	240741	2024-07-03	218754	10865	1942	1129820831	Ramphastos ariel	Sarcopterygii	Aves	Neognathae			Piciformes	missing
+GCA_040798065.1	238855	2024-07-21	99166	29636	5065	1035990142	Garrulax canorus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_040869245.1	43579	2024-07-25	260	28731705	6420291	1288223488	Sarcogyps calvus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_040966375.1	315430	2024-07-30	1264273	1643	284	1116791239	Lorius hypoinochrous	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_040966455.1	75855	2024-07-30	180675	32316	6426	1101356518	Anas puna	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_040966495.1	75854	2024-07-30	380887	3981	1270	1031301923	Anas poecilorhyncha	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCA_040966715.1	57661	2024-07-30	2845422	300	237	907024544	Sula leucogaster	Sarcopterygii	Aves	Neognathae			Suliformes	missing
+GCA_040966935.1	91781	2024-07-30	249693	10484	1746	1144858867	Ramphastos cuvieri	Sarcopterygii	Aves	Neognathae			Piciformes	missing
+GCA_040966975.1	322580	2024-07-30	256984	10059	1718	1161538925	Ramphastos dicolorus	Sarcopterygii	Aves	Neognathae			Piciformes	missing
+GCA_040966995.1	2598673	2024-07-30	2003585	1187	254	1327989126	Touit huetii	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_040967015.1	322581	2024-07-30	244561	10459	1780	1153224373	Ramphastos brevis	Sarcopterygii	Aves	Neognathae			Piciformes	missing
+GCA_040967055.1	207748	2024-07-30	210051	11206	2003	1126393867	Ramphastos swainsonii	Sarcopterygii	Aves	Neognathae			Piciformes	missing
+GCA_040967075.1	95723	2024-07-30	255874	10082	1712	1163534271	Ramphastos toco	Sarcopterygii	Aves	Neognathae			Piciformes	missing
+GCA_040967095.1	182883	2024-07-30	142379	17182	3610	1054482524	Criniger calurus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_040967475.1	81905	2024-07-30	167476	17356	3140	1177981921	Megascops asio	Sarcopterygii	Aves	Neognathae			Strigiformes	missing
+GCA_040967535.1	126860	2024-07-30	161885	13360	3578	1160963386	Otus lempiji	Sarcopterygii	Aves	Neognathae			Strigiformes	missing
+GCA_040967575.1	3045875	2024-07-30	770304	977	580	719717580	Otus icterorhynchus	Sarcopterygii	Aves	Neognathae			Strigiformes	missing
+GCA_040967585.1	2778878	2024-07-30	206467	10576	2117	1058862523	Cyanoramphus saisseti	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_040967635.1	671080	2024-07-30	232008	8214	2187	1090899895	Brotogeris sanctithomae	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_040967655.1	209070	2024-07-30	271374	7616	1785	1137455384	Otus lettia	Sarcopterygii	Aves	Neognathae			Strigiformes	missing
+GCA_040967675.1	543873	2024-07-30	407715	4156	1212	1111232791	Glaucidium cuculoides	Sarcopterygii	Aves	Neognathae			Strigiformes	missing
+GCA_040967695.1	507958	2024-07-30	407920	4890	1175	1160834720	Megascops choliba	Sarcopterygii	Aves	Neognathae			Strigiformes	missing
+GCA_040967715.1	543872	2024-07-30	136386	20349	4566	1177130632	Otus senegalensis	Sarcopterygii	Aves	Neognathae			Strigiformes	missing
+GCA_040967735.1	438837	2024-07-30	84009	41919	8303	1194140873	Otus rutilus	Sarcopterygii	Aves	Neognathae			Strigiformes	missing
+GCA_040967755.1	125240	2024-07-30	327770	6511	1388	1149248326	Ramphastos tucanus	Sarcopterygii	Aves	Neognathae			Piciformes	missing
+GCA_040967765.1	447926	2024-07-30	615553	1405	640	723009283	Bleda ugandae	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_040967795.1	91793	2024-07-30	319601	6885	1440	1163601121	Ramphastos vitellinus	Sarcopterygii	Aves	Neognathae			Piciformes	missing
+GCA_040967815.1	1540926	2024-07-30	142360	19364	3534	1056824667	Vireo osburni	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_040967835.1	1160851	2024-07-30	57349	53053	9738	1045341481	Platysteira castanea	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_040967855.1	570459	2024-07-30	78580	39529	7057	1053605284	Terpsiphone rufiventer	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_040967875.1	570454	2024-07-30	72464	44259	6971	1029782013	Muscicapa olivascens	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_040967895.1	142472	2024-07-30	1697151	560	334	913895419	Vireo huttoni	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_040967915.1	381870	2024-07-30	860064	13475	334	1320642773	Indicator exilis	Sarcopterygii	Aves	Neognathae			Piciformes	missing
+GCA_040967935.1	182880	2024-07-30	690862	7435	434	1181677018	Bleda syndactylus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_041043685.1	335483	2024-08-05	160416	34726	7682	1193558179	Eudocimus ruber	Sarcopterygii	Aves	Neognathae			Pelecaniformes	missing
+GCA_041043765.1	100859	2024-08-05	419999	12035	1754	1222684339	Vanellus vanellus	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_041044985.1	182894	2024-08-05	373231	23950	1771	1116910850	Phyllastrephus albigularis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_041045045.1	107234	2024-08-05	515438	32228	405	1144501851	Elminia nigromitrata	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_041045085.1	119416	2024-08-05	1857292	811	275	1142568822	Tauraco leucotis	Sarcopterygii	Aves	Neognathae			Musophagiformes	missing
+GCA_041045105.1	1911501	2024-08-05	915921	8200	317	1244521173	Malimbus malimbicus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_041045125.1	670350	2024-08-05	1011270	7134	305	1264093008	Muscicapa griseisticta	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_041053205.1	81886	2024-08-05	37654	106628	18608	1061503552	Furnarius rufus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_041053225.1	1549204	2024-08-05	36056	95614	18768	1147939226	Trichoglossus moluccanus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_041053245.1	266418	2024-08-05	27063	132129	28280	1016411085	Phylidonyris novaehollandiae	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_041107575.1	1118853	2024-08-08	439161	3339	900	945883845	Vireo carmioli	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_041107595.1	123383	2024-08-08	388422	768	532	313870918	Vireo latimeri	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_041107735.1	34954	2024-08-08	848516	667	521	580097784	Vireo bellii	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_041107775.1	245683	2024-08-08	1571615	735	273	907987582	Otus elegans	Sarcopterygii	Aves	Neognathae			Strigiformes	missing
+GCA_041107795.1	2696508	2024-08-08	1428204	440	252	596993822	Anastomus lamelligerus	Sarcopterygii	Aves	Neognathae			Ciconiiformes	missing
+GCA_041107815.1	374622	2024-08-08	68087	52716	7449	1040405348	Criniger chloronotus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_041107835.1	3149759	2024-08-08	133084	17306	3693	1033031740	Deleornis axillaris	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_041107855.1	450164	2024-08-08	77492	32118	7228	1045104490	Dicrurus atripennis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_041107895.1	94620	2024-08-08	47473	69498	11724	1015042601	Stiphrornis xanthogaster	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_041107915.1	208082	2024-08-08	71366	40040	7814	1018908483	Parmoptila jamesoni	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_041107955.1	57662	2024-08-08	599874	17042	622	1324487969	Sula sula	Sarcopterygii	Aves	Neognathae			Suliformes	missing
+GCA_041107975.1	240724	2024-08-08	580969	12077	497	1179288761	Pogoniulus atroflavus	Sarcopterygii	Aves	Neognathae			Piciformes	missing
+GCA_041107995.1	91775	2024-08-08	757467	5531	499	1242248319	Pogoniulus bilineatus	Sarcopterygii	Aves	Neognathae			Piciformes	missing
+GCA_041108035.1	107235	2024-08-08	287889	35041	4274	1101516767	Trochocercus nitens	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_041108055.1	176018	2024-08-08	1760020	1059	263	1179113385	Brotogeris pyrrhoptera	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_041108075.1	1540925	2024-08-08	1836211	281	237	579762153	Vireo magister	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_041108095.1	208073	2024-08-08	642833	12380	432	1238864435	Hylia prasina	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_041108115.1	570436	2024-08-08	910697	6241	341	1242751662	Cyanomitra cyanolaema	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_041108155.1	98116	2024-08-08	1071801	3240	346	1342301526	Cisticola cherina	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_041108175.1	3150999	2024-08-08	1176850	4684	297	1367884037	Pardipicus nivosus	Sarcopterygii	Aves	Neognathae			Piciformes	missing
+GCA_041108195.1	178886	2024-08-08	1799872	1107	256	1198192497	Brotogeris versicolurus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_041108215.1	52785	2024-08-08	1538035	304	239	509513232	Ephippiorhynchus senegalensis	Sarcopterygii	Aves	Neognathae			Ciconiiformes	missing
+GCA_041108235.1	126814	2024-08-08	2373381	886	269	1484494536	Otus brucei	Sarcopterygii	Aves	Neognathae			Strigiformes	missing
+GCA_041108275.1	240733	2024-08-08	1106897	6959	297	1409637340	Buccanodon duchaillui	Sarcopterygii	Aves	Neognathae			Piciformes	missing
+GCA_041108295.1	57657	2024-08-08	636505	4794	845	1220950078	Morus capensis	Sarcopterygii	Aves	Neognathae			Suliformes	missing
+GCA_041108315.1	237433	2024-08-08	633392	16101	379	1203021998	Nicator chloris	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_041108335.1	374616	2024-08-08	818549	6356	396	1244312873	Eurillas ansorgei	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_041108355.1	56277	2024-08-08	525151	16979	1002	1288309494	Otus mirus	Sarcopterygii	Aves	Neognathae			Strigiformes	missing
+GCA_041108375.1	1162391	2024-08-08	179740	33674	4166	1085354438	Vireo hypochryseus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_041108395.1	1002898	2024-08-08	431791	28721	1517	1152375991	Terpsiphone rufocinerea	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_041108415.1	59950	2024-08-08	910499	4706	381	1245316612	Eurillas latirostris	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_041108435.1	1118744	2024-08-08	1836521	368	244	684243389	Megascops watsonii	Sarcopterygii	Aves	Neognathae			Strigiformes	missing
+GCA_041108455.1	60471	2024-08-08	1325407	364	243	491485542	Loriculus galgulus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_041108475.1	34953	2024-08-08	1456409	3104	263	1327770263	Vireo vicinior	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_041108845.1	345193	2024-08-08	2646890	312	238	892295421	Brotogeris chiriri	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_041146555.1	43490	2024-08-08	504	27807382	6529520	1242022056	Gyps africanus	Sarcopterygii	Aves	Neognathae			Accipitriformes	Oxford Nanopore
+GCA_041221765.1	257819	2024-08-12	1017181	1949	450	1152692858	Otus semitorques	Sarcopterygii	Aves	Neognathae			Strigiformes	missing
+GCA_041221775.1	1743266	2024-08-12	456798	20371	884	1144368619	Eurillas virens	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_041221805.1	137762	2024-08-12	601322	22071	418	1220209167	Smithornis rufolateralis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_041221825.1	1809701	2024-08-12	827809	9000	334	1228384905	Spermophaga poliogenys	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_041221845.1	34945	2024-08-12	606764	15121	465	1182953130	Vireo gilvus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_041221865.1	3121594	2024-08-12	2181546	711	258	1197269234	Otus manadensis	Sarcopterygii	Aves	Neognathae			Strigiformes	missing
+GCA_041296055.1	33604	2024-08-15	1078621	2772	284	1148212109	Coccyzus erythropthalmus	Sarcopterygii	Aves	Neognathae			Cuculiformes	missing
+GCA_041296105.1	3121595	2024-08-15	347056	17326	2829	1224767632	Otus nigrorum	Sarcopterygii	Aves	Neognathae			Strigiformes	missing
+GCA_041296155.1	127934	2024-08-15	1085406	6487	297	1283713260	Neocossyphus poensis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_041296175.1	345736	2024-08-15	968552	4776	921	2006910581	Campethera caroli	Sarcopterygii	Aves	Neognathae			Piciformes	missing
+GCA_041296385.2	39617	2024-10-21	798	17285536	1604999	1330850977	Aphelocoma coerulescens	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_041442495.1	3150064	2024-08-23	1931913	1813	405	2069043295	Leptoptilos crumenifer	Sarcopterygii	Aves	Neognathae			Ciconiiformes	missing
+GCA_041475435.1	555261	2024-08-26	517	26459013	4931526	1175224650	Gubernatrix cristata	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_041723705.1	2267890	2024-09-02	2085409	369	246	778961091	Trichoglossus rubiginosus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_041731235.1	671079	2024-09-03	552714	6744	885	1132899271	Brotogeris cyanoptera	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_041731255.1	1108006	2024-09-03	1124346	5474	278	1314543311	Anthus novaeseelandiae	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_041731315.1	3133247	2024-09-03	1781825	1230	261	1227113670	Euphonia sclateri	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_041731355.1	274063	2024-09-03	1404735	389	241	551011110	Loriculus pusillus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_041731375.1	127944	2024-09-03	1029999	7798	297	1274171597	Stizorhina fraseri	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_041731435.1	56272	2024-09-03	3024998	564	245	1428610286	Otus longicornis	Sarcopterygii	Aves	Neognathae			Strigiformes	missing
+GCA_041731455.1	322579	2024-09-03	2632966	275	235	780481098	Ramphastos ambiguus	Sarcopterygii	Aves	Neognathae			Piciformes	missing
+GCA_042477295.1	204793	2024-10-02	667	18795193	1757833	1208292158	Fulvetta ruficapilla	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_042477495.1	155086	2024-10-03	8061	393532	66910	1127816014	Bucorvus leadbeateri	Sarcopterygii	Aves	Neognathae			Bucerotiformes	missing
+GCA_042478095.1	219593	2024-10-03	161	31429927	8604727	1130781195	Aythya ferina	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	Oxford Nanopore
+GCA_042902745.1	768471	2024-10-10	700242	269	235	204053841	Vireo pallens	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_042902855.1	678571	2024-10-10	1190162	1757	322	1132538470	Loriculus philippensis	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_042985785.1	245851	2024-10-15	26369	74264	19338	992661870	Mimus melanotis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_043109885.1	302529	2024-10-14	1284900	3052	269	1295467425	Zanda funerea	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_043110175.1	1107400	2024-10-14	1149342	3351	291	1344273831	Loriculus vernalis	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_043110845.1	111816	2024-10-14	2559925	763	261	1469297672	Megascops kennicottii	Sarcopterygii	Aves	Neognathae			Strigiformes	missing
+GCA_043110865.1	281914	2024-10-14	1695577	312	257	595194615	Coracopsis nigra	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_043381225.1	2020318	2024-10-18	2061	2095577	263673	1131005130	Anthochaera phrygia	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_043388435.1	258530	2024-10-21	23371	120487	27267	1184777218	Accipiter gularis	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCA_043658175.1	81621	2024-10-23	601721	12156	576	1184729490	Vireo flavifrons	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_043658195.1	345734	2024-10-23	747912	8253	399	1257131711	Sasia africana	Sarcopterygii	Aves	Neognathae			Piciformes	missing
+GCA_043658215.1	34949	2024-10-23	568321	15229	439	1167351431	Vireo philadelphicus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_043658255.1	768464	2024-10-23	801995	6652	343	1208024246	Vireo crassirostris	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_043660495.1	9066	2024-10-23	2366706	487	247	1105657883	Syrmaticus reevesii	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	missing
+GCA_043774175.1	371924	2024-10-24	494	13046376	1397001	1076460160	Selasphorus sasin	Sarcopterygii	Aves	Neognathae			Apodiformes	PacBio HiFi
+GCA_043789995.1	985688	2024-10-24	1359	26317920	1509731	1349314026	Charadrius nivosus	Sarcopterygii	Aves	Neognathae			Charadriiformes	PacBio HiFi
+GCA_043882375.1	1233216	2024-10-25	40113	146113	28414	995374830	Lyrurus tetrix	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	missing
+GCA_044007635.1	36268	2024-10-28	143030	36759	5520	1071310005	Paradisaea raggiana	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_044474985.1	349400	2024-11-05	1619295	2277	259	1333893752	Megascops trichopsis	Sarcopterygii	Aves	Neognathae			Strigiformes	missing
+GCA_044758155.1	56268	2024-11-10	421706	4415	1350	1129764755	Bubo virginianus	Sarcopterygii	Aves	Neognathae			Strigiformes	missing
+GCA_044758235.1	1740169	2024-11-10	875805	10709	293	1377586424	Megascops ingens	Sarcopterygii	Aves	Neognathae			Strigiformes	missing
+GCA_044758255.1	714938	2024-11-10	472801	12762	1919	1253204287	Megascops albogularis	Sarcopterygii	Aves	Neognathae			Strigiformes	missing
+GCA_044758585.1	543285	2024-11-10	507602	10899	654	1154969949	Cyanomitra olivacea	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_900205225.1	1187130	2017-09-28	2206648	767	219	975657901	Saxicola maurus maurus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_901699155.2	177155	2021-05-17	1251	3730413	478082	1174936278	Streptopelia turtur	Sarcopterygii	Aves	Neognathae			Columbiformes	PacBio CLR
+GCA_902168055.1	176015	2019-11-14	18638	180065	41469	1133976780	Aratinga solstitialis	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_902810485.1	88112	2020-03-13	38371	71455	15876	999899717	Alauda arvensis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_903797595.2	37610	2021-05-03	2109	5585877	284086	1086450774	Erithacus rubecula	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio CLR
+GCA_907165065.1	111811	2021-05-17	274	30622946	4371865	1177765377	Caprimulgus europaeus	Sarcopterygii	Aves	Neognathae			Caprimulgiformes	PacBio CLR
+GCA_910950805.1	126889	2021-08-16	1081	12742779	426011	1074866097	Acrocephalus scirpaceus scirpaceus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCA_917880015.2	467030	2022-01-30	264	46382249	5851391	1161924353	Ara rubrogenys	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCA_929443795.2	8957	2022-10-27	638	17712854	2011408	1397993542	Accipiter gentilis	Sarcopterygii	Aves	Neognathae			Accipitriformes	PacBio HiFi
+GCA_947846985.1	28701	2023-02-03	758	16421795	2864112	1214852633	Fratercula arctica	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCA_949628215.1	126867	2023-04-08	575	11420000	2100000	1279090533	Phalacrocorax aristotelis	Sarcopterygii	Aves	Neognathae			Suliformes	PacBio HiFi
+GCA_951394365.1	100830	2023-06-15	1291	1909808	508090	1012989429	Tetrao urogallus	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	PacBio HiFi
+GCA_951411735.1	76058	2023-06-27	740	7862886	1097000	1205369005	Somateria mollissima	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	PacBio HiFi
+GCA_963082525.1	187126	2023-08-09	652	4840756	1128424	1183170150	Nesoenas mayeri	Sarcopterygii	Aves	Neognathae			Columbiformes	PacBio HiFi
+GCA_963210335.1	148596	2023-08-19	723	4755657	1120568	1279196244	Falco punctatus	Sarcopterygii	Aves	Neognathae			Falconiformes	PacBio HiFi
+GCA_963264785.1	232653	2023-08-20	530	5922112	1474281	1203760487	Psittacula echo	Sarcopterygii	Aves	Neognathae			Psittaciformes	PacBio HiFi
+GCA_963513975.1	37598	2023-09-28	1033	3733973	774182	1209129161	Fringilla coelebs	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCA_963932225.1	8915	2024-02-07	1904	3570916	421206	1324179125	Larus fuscus	Sarcopterygii	Aves	Neognathae			Charadriiformes	PacBio HiFi
+GCA_963989345.1	197941	2024-03-14	816	3738964	1094110	1205995423	Clangula hyemalis	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	PacBio HiFi
+GCA_964034855.1	132585	2024-04-27	1852	2049950	362205	1287110319	Anser brachyrhynchus	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	PacBio HiFi
+GCA_964035555.1	30387	2024-04-29	855	3347974	788558	1166835822	Netta rufina	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	PacBio HiFi
+GCA_964059595.1	107022	2024-06-06	992	4272793	1007342	1190848172	Bucephala clangula	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	PacBio HiFi
+GCA_964106855.1	40816	2024-06-06	1347	3365458	705019	1352163954	Grus grus	Sarcopterygii	Aves	Neognathae			Gruiformes	PacBio HiFi
+GCA_964106895.1	31919	2024-06-06	2604	2605715	274390	1348719333	Numenius arquata	Sarcopterygii	Aves	Neognathae			Charadriiformes	PacBio HiFi
+GCA_964188355.1	30397	2024-06-21	1015	4249591	985953	1303606721	Buteo buteo	Sarcopterygii	Aves	Neognathae			Accipitriformes	PacBio HiFi
+GCA_964196065.2	1323832	2024-07-23	759	4109000	1127778	1211374509	Calonectris borealis	Sarcopterygii	Aves	Neognathae			Procellariiformes	PacBio HiFi
+GCA_964199755.1	119627	2024-07-14	1118	4216312	901152	1405481498	Larus michahellis	Sarcopterygii	Aves	Neognathae			Charadriiformes	PacBio HiFi
+GCA_964211835.1	8843	2024-07-31	1749	2674135	467728	1313269045	Anser anser	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	PacBio HiFi
+GCA_964237585.1	9123	2024-08-31	1421	3673000	615402	1282290933	Gallinula chloropus	Sarcopterygii	Aves	Neognathae			Gruiformes	PacBio HiFi
+GCA_964273445.1	177147	2024-10-04	3147	2425281	267000	1290818408	Streptopelia decaocto	Sarcopterygii	Aves	Neognathae			Columbiformes	PacBio HiFi
+GCA_964289735.1	37045	2024-10-28	1926	2122569	386238	1320773943	Phaethon aethereus	Sarcopterygii	Aves	Neognathae			Phaethontiformes	PacBio HiFi
+GCF_000146605.3	9103	2019-10-21	250220	27076	1635	1080180254	Meleagris gallopavo	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	missing
+GCF_000247815.1	59894	2013-06-27	32831	351202	71632	1102323882	Ficedula albicollis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCF_000277835.1	48883	2012-07-25	95828	30521	6592	1041286029	Geospiza fortis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCF_000331425.1	181119	2013-01-11	27052	165265	36811	1030030436	Pseudopodoces humilis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCF_000385455.1	44394	2013-04-30	47478	104087	11672	1006293510	Zonotrichia albicollis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCF_000687185.1	188379	2014-05-09	100662	29019	6884	1157806531	Egretta garzetta	Sarcopterygii	Aves	Neognathae			Pelecaniformes	missing
+GCF_000687285.1	97097	2014-05-08	132071	22941	5315	1147080466	Phaethon lepturus	Sarcopterygii	Aves	Neognathae			Phaethontiformes	missing
+GCF_000687375.1	36300	2014-05-09	121562	21679	5750	1156708760	Pelecanus crispus	Sarcopterygii	Aves	Neognathae			Pelecaniformes	missing
+GCF_000690535.1	54380	2014-05-12	112704	24645	6290	1127945763	Cariama cristata	Sarcopterygii	Aves	Neognathae			Cariamiformes	missing
+GCF_000690775.1	54383	2014-05-13	115170	24402	5743	1083028646	Eurypyga helias	Sarcopterygii	Aves	Neognathae			Eurypygiformes	missing
+GCF_000690835.1	30455	2014-05-13	112214	25926	6520	1135628672	Fulmarus glacialis	Sarcopterygii	Aves	Neognathae			Procellariiformes	missing
+GCF_000691405.1	8969	2014-05-15	111484	25143	6359	1128456298	Haliaeetus albicilla	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCF_000691785.1	188344	2014-05-23	113170	24735	6179	1133136126	Leptosomus discolor	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCF_000691845.1	57421	2014-05-16	104131	24675	5934	1058508606	Merops nubicus	Sarcopterygii	Aves	Neognathae			Coraciiformes	missing
+GCF_000691975.1	85066	2014-06-02	89646	29093	6830	1051781861	Corvus brachyrhynchos	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCF_000692075.1	30419	2014-05-19	109627	28179	6064	1142165867	Opisthocomus hoazin	Sarcopterygii	Aves	Neognathae			Opisthocomiformes	missing
+GCF_000695195.1	187382	2014-06-02	115823	21641	5653	1082961347	Chlamydotis macqueenii	Sarcopterygii	Aves	Neognathae			Otidiformes	missing
+GCF_000695765.1	54374	2014-06-02	119122	22740	5509	1083478027	Mesitornis unicolor	Sarcopterygii	Aves	Neognathae			Mesitornithiformes	missing
+GCF_000695815.1	57068	2014-05-27	120312	20602	5060	1031098396	Acanthisitta chloris	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCF_000696875.1	176057	2014-06-05	93561	26546	6959	1049180626	Nestor notabilis	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCF_000699105.1	9238	2014-06-06	114374	22195	6168	1162459924	Pygoscelis adeliae	Sarcopterygii	Aves	Neognathae			Sphenisciformes	missing
+GCF_000699145.1	9233	2014-06-06	83173	31730	8632	1182540656	Aptenodytes forsteri	Sarcopterygii	Aves	Neognathae			Sphenisciformes	missing
+GCF_000699245.1	240206	2014-06-09	107160	26448	6336	1065718737	Pterocles gutturalis	Sarcopterygii	Aves	Neognathae			Pterocliformes	missing
+GCF_000700745.2	279965	2014-06-10	125214	22170	5383	1114480085	Antrostomus carolinensis	Sarcopterygii	Aves	Neognathae			Caprimulgiformes	missing
+GCF_000703405.1	57397	2014-06-16	105649	28882	6637	1066296614	Apaloderma vittatum	Sarcopterygii	Aves	Neognathae			Trogoniformes	missing
+GCF_000705375.1	94827	2014-08-05	142367	29773	4734	1024813426	Tinamus guttatus	Sarcopterygii	Aves			Palaeognathae	Tinamiformes	missing
+GCF_000708025.1	50402	2014-08-05	79162	39278	9311	1185946782	Charadrius vociferus	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCF_000708225.1	128390	2014-06-16	130030	29116	7668	1189447576	Nipponia nippon	Sarcopterygii	Aves	Neognathae			Pelecaniformes	missing
+GCF_000709365.1	121530	2014-06-25	134672	22885	5386	1148734661	Tauraco erythrolophus	Sarcopterygii	Aves	Neognathae			Musophagiformes	missing
+GCF_000709895.1	100784	2014-06-25	111850	23331	6082	1123527699	Balearica regulorum gibbericeps	Sarcopterygii	Aves	Neognathae			Gruiformes	missing
+GCF_000710305.1	175836	2014-06-25	180800	14587	3430	1048779794	Buceros rhinoceros silvestris	Sarcopterygii	Aves	Neognathae			Bucerotiformes	missing
+GCF_000737465.1	52644	2014-08-04	31885	105235	26147	1159246344	Haliaeetus leucocephalus	Sarcopterygii	Aves	Neognathae			Accipitriformes	missing
+GCF_000738735.6	932674	2022-04-01	472	8553235	1601833	1027624828	Corvus cornix cornix	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio CLR
+GCF_000747805.2	8897	2014-09-04	84174	30767	7696	1073765470	Chaetura pelagica	Sarcopterygii	Aves	Neognathae			Apodiformes	missing
+GCF_001431845.1	198806	2015-11-04	34157	109237	23416	1182953763	Calidris pugnax	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing
+GCF_001447265.1	9172	2015-11-20	25753	123681	25040	1012816466	Sturnus vulgaris	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCF_001522545.3	9157	2019-01-15	26289	132905	22982	1002308590	Parus major	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCF_001577835.2	93934	2016-03-01	13613	259559	55577	917259253	Coturnix japonica	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	missing
+GCF_001604755.1	321398	2016-03-31	27068	112150	25932	1057192781	Lepidothrix coronata	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCF_001715985.3	328815	2019-07-03	22481	284982	35250	1044816396	Manacus vitellinus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCF_002078875.1	8996	2017-06-01	18064	198287	44822	1023141721	Numida meleagris	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	missing
+GCF_002901205.1	156563	2018-01-26	54094	85699	10930	1098912778	Cyanistes caeruleus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCF_003031625.1	164674	2018-04-03	47110	82850	12363	1070896368	Empidonax traillii	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCF_003259725.1	194338	2018-06-21	34182	64091	16603	1144426484	Athene cunicularia	Sarcopterygii	Aves	Neognathae			Strigiformes	missing
+GCF_003342845.1	30464	2018-07-26	27566	74712	19483	953680076	Nothoprocta perdicaria	Sarcopterygii	Aves			Palaeognathae	Tinamiformes	missing
+GCF_003343035.1	308060	2018-07-26	26306	118304	28109	1210307227	Apteryx rowi	Sarcopterygii	Aves			Palaeognathae	Apterygiformes	missing
+GCF_003945595.2	649802	2020-12-01	2526	1657705	321804	1079077281	Pipra filicauda	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCF_003945725.1	415028	2018-12-14	22595	262501	41210	1087378626	Corapipo altera	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCF_003957555.1	9244	2019-05-16	588	14522327	1243174	1043590471	Calypte anna	Sarcopterygii	Aves	Neognathae			Apodiformes	PacBio CLR
+GCF_003957565.2	59729	2021-05-04	551	8964551	1525821	1052636474	Taeniopygia guttata	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio CLR
+GCF_003984885.1	114329	2018-12-28	57469	237029	29205	1131512169	Neopelma chrysocephalum	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCF_004027225.2	2489341	2020-03-04	462	9454087	2164878	1138053464	Strigops habroptila	Sarcopterygii	Aves	Neognathae			Psittaciformes	PacBio CLR
+GCF_004143745.1	9054	2019-02-06	59673	180068	36726	1009579609	Phasianus colchicus	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	missing
+GCF_005870125.1	40157	2019-06-05	39877	75189	15087	1029009566	Lonchura striata	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCF_009650955.1	1196302	2019-11-14	394	11524098	2427983	1083863899	Corvus moneduloides	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio CLR
+GCF_009769625.2	8869	2021-03-31	622	8308965	1167164	1124263917	Cygnus olor	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	PacBio CLR
+GCF_009819655.1	48155	2019-12-31	603	7345957	1266452	1054879170	Sylvia atricapilla	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio CLR
+GCF_009819795.1	219594	2019-12-31	268	17816505	4225905	1117587328	Aythya fuligula	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	PacBio CLR
+GCF_009819885.2	91951	2020-12-22	589	4908935	1547592	1118712835	Catharus ustulatus	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio CLR
+GCF_009829145.1	296741	2020-01-03	299	18496167	3681383	1086328087	Chiroxiphia lanceolata	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio CLR
+GCF_011077185.1	8884	2020-03-10	28026	128592	23812	1116231236	Oxyura jamaicensis	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	missing
+GCF_012275295.1	13146	2020-04-13	1148	16636420	1476206	1168381322	Melopsittacus undulatus	Sarcopterygii	Aves	Neognathae			Psittaciformes	PacBio CLR
+GCF_012460135.2	84834	2022-10-11	692	13273966	1433041	1087173343	Molothrus ater	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCF_013368605.1	48427	2020-06-23	433	23231768	5069166	1250254334	Nyctibius grandis	Sarcopterygii	Aves	Neognathae			Caprimulgiformes	PacBio CLR
+GCF_013377495.2	8868	2022-08-03	698	28995010	4903282	1124168768	Cygnus atratus	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	PacBio CLR
+GCF_014805655.1	9160	2020-09-30	23740	760552	144645	1038077379	Passer montanus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCF_014839835.1	118200	2020-10-02	367	19150283	3662357	1183936564	Dryobates pubescens	Sarcopterygii	Aves	Neognathae			Piciformes	PacBio CLR
+GCF_015220075.1	120794	2020-11-03	768	15323486	931494	1190501682	Falco rusticolus	Sarcopterygii	Aves	Neognathae			Falconiformes	PacBio CLR
+GCF_015220805.1	488313	2020-11-03	559	16792259	2442898	1266326211	Pogoniulus pusillus	Sarcopterygii	Aves	Neognathae			Piciformes	PacBio CLR
+GCF_015227805.2	43150	2021-11-30	1719	2794774	410547	1080421139	Hirundo rustica	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio CLR
+GCF_015476345.1	8839	2020-11-23	1661	5679408	528888	1184302851	Anas platyrhynchos	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	PacBio CLR
+GCF_015832195.1	1094192	2020-12-08	1525	8515530	551183	1071767228	Motacilla alba alba	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCF_016699485.2	9031	2021-01-19	677	18834961	2576407	1049948333	Gallus gallus	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	PacBio CLR
+GCF_017590055.1	356909	2021-03-26	16445	664597	146294	1031763293	Onychostruthus taczanowskii	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCF_017590135.1	221976	2021-03-26	29579	519674	97773	1043872756	Pyrgilauda ruficollis	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCF_017639235.1	68294	2021-03-30	12022	211131	47382	1046255066	Corvus kubaryi	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCF_017639655.2	148594	2021-03-30	589	13754753	2886939	1211642374	Falco naumanni	Sarcopterygii	Aves	Neognathae			Falconiformes	PacBio CLR
+GCF_017976375.1	55661	2021-04-15	446	20797936	4165766	1175214260	Cuculus canorus	Sarcopterygii	Aves	Neognathae			Cuculiformes	PacBio CLR
+GCF_018139145.2	33616	2022-09-01	1174	17075888	1090926	1239932578	Gymnogyps californianus	Sarcopterygii	Aves	Neognathae			Accipitriformes	PacBio CLR
+GCF_018691265.1	56313	2021-06-03	329	17955177	4024913	1198448565	Tyto alba	Sarcopterygii	Aves	Neognathae			Strigiformes	PacBio CLR
+GCF_019232065.1	9002	2021-07-15	11396	177390	45507	973669787	Centrocercus urophasianus	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	missing
+GCF_019238085.1	30410	2021-07-15	17844	214153	46907	991871408	Lagopus leucura	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	missing
+GCF_020740725.1	134902	2021-11-04	482	23064755	2484873	1149798152	Corvus hawaiiensis	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCF_020740795.1	8895	2021-11-04	366	25561769	4539366	1098630732	Apus apus	Sarcopterygii	Aves	Neognathae			Apodiformes	PacBio CLR
+GCF_020745825.1	39638	2023-03-15	516	22833505	2253914	1188495579	Agelaius phoeniceus	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio RSII
+GCF_021018805.1	208062	2024-01-26	916	7918915	965621	1119872063	Prinia subflava	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCF_022539315.1	9135	2022-08-25	1740	12206373	785412	1049825877	Serinus canaria	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCF_022539395.1	478635	2022-03-10	1873	12993567	1368921	1074257782	Myiozetetes cayanensis	Sarcopterygii	Aves	Neognathae			Passeriformes	Oxford Nanopore
+GCF_023343835.1	64668	2022-05-12	375	17905263	2850979	1026699873	Lagopus muta	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	PacBio HiFi
+GCF_023634085.1	345164	2022-06-02	541	21245687	1255442	1305423368	Falco cherrug	Sarcopterygii	Aves	Neognathae			Falconiformes	PacBio HiFi
+GCF_023634155.1	8954	2022-06-02	357	15744644	2170749	1307584474	Falco peregrinus	Sarcopterygii	Aves	Neognathae			Falconiformes	PacBio HiFi
+GCF_023638135.1	345155	2022-06-02	555	24892811	1720170	1283339475	Falco biarmicus	Sarcopterygii	Aves	Neognathae			Falconiformes	PacBio HiFi
+GCF_024509145.1	187451	2022-08-03	484	7488902	1660224	1123235835	Vidua macroura	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio RSII
+GCF_025592945.1	415023	2022-10-05	643	15991245	2995056	1121284527	Manacus candei	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCF_026119805.1	109042	2022-11-10	264	19124196	4655076	994346774	Tympanuchus pallidicinctus	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	PacBio RSII
+GCF_026170545.1	211600	2022-11-14	4489	1471937	96690	1323396484	Melanerpes formicivorus	Sarcopterygii	Aves	Neognathae			Piciformes	PacBio HiFi
+GCF_026419915.1	202280	2022-11-27	664	16799191	1602706	1348795677	Harpia harpyja	Sarcopterygii	Aves	Neognathae			Accipitriformes	PacBio HiFi
+GCF_026979565.1	81927	2022-12-21	635	15819291	1185864	1080275046	Vidua chalybeata	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCF_027477595.1	30427	2022-12-29	480	16787335	2557272	1137025872	Haemorhous mexicanus	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCF_027579445.1	2857394	2023-01-09	292	12036358	1822036	1180370373	Ammospiza nelsoni	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCF_027791375.1	1002788	2023-01-13	1452	8710530	707106	1147270488	Indicator indicator	Sarcopterygii	Aves	Neognathae			Piciformes	PacBio CLR
+GCF_027887145.1	2857398	2023-01-18	645	8252193	1186437	1238290578	Ammospiza caudacuta	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCF_028018845.1	44398	2023-01-31	276	10446106	2056409	1160782308	Melospiza georgiana	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCF_028389875.1	8795	2023-02-06	308	19335416	3425216	1267565101	Rhea pennata	Sarcopterygii	Aves			Palaeognathae	Rheiformes	PacBio HiFi
+GCF_028500815.1	75485	2023-02-09	999	15653959	887559	1352834728	Rissa tridactyla	Sarcopterygii	Aves	Neognathae			Charadriiformes	PacBio HiFi
+GCF_028551555.1	40204	2023-02-08	627	22266903	1620055	1412182309	Melozone crissalis	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCF_028554395.1	35540	2023-02-08	8090	3815874	525670	1141458063	Pezoporus wallicus	Sarcopterygii	Aves	Neognathae			Psittaciformes	missing
+GCF_028769735.1	257770	2023-12-27	4131	14729340	538462	1123969642	Zonotrichia leucophrys gambelii	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCF_028858705.1	9117	2023-02-24	1192	28324902	2349821	1253161797	Grus americana	Sarcopterygii	Aves	Neognathae			Gruiformes	PacBio CLR
+GCF_028858725.1	57412	2023-02-24	352	21931325	2639154	1206634424	Colius striatus	Sarcopterygii	Aves	Neognathae			Coliiformes	PacBio HiFi
+GCF_029207755.1	190680	2023-03-14	1694	4583527	503495	1194493261	Chamaea fasciata	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCF_029582105.1	2939378	2023-04-06	1169	7795761	1273595	1036198595	Oenanthe melanoleuca	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio CLR
+GCF_030028575.1	175006	2023-05-17	58923	47227	8684	989335202	Malurus melanocephalus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCF_030490865.1	48891	2023-07-18	710	8462732	1537067	1250174694	Poecile atricapillus	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCF_030936135.1	37040	2023-08-30	1434	13765203	948525	1321220370	Gavia stellata	Sarcopterygii	Aves	Neognathae			Gaviiformes	PacBio HiFi
+GCF_031753505.1	187417	2023-09-22	1801	12312023	609712	1198157867	Anomalospiza imberbis	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCF_033783945.1	309878	2023-11-17	1864	4340454	605002	1122587153	Neopsephotus bourkii	Sarcopterygii	Aves	Neognathae			Psittaciformes	Oxford Nanopore
+GCF_033815535.1	889875	2023-11-20	993	20284492	1041497	1263767824	Pezoporus flaviventris	Sarcopterygii	Aves	Neognathae			Psittaciformes	PacBio HiFi
+GCF_034315485.1	407982	2023-12-12	3593	5079322	910472	1132638025	Pezoporus occidentalis	Sarcopterygii	Aves	Neognathae			Psittaciformes	Oxford Nanopore
+GCF_035770615.1	1914991	2024-01-24	652	19453098	1927921	1540166094	Melospiza melodia melodia	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCF_036013445.1	187106	2024-01-26	923	25101800	1482890	1285814179	Caloenas nicobarica	Sarcopterygii	Aves	Neognathae			Columbiformes	PacBio HiFi
+GCF_036013475.1	8932	2024-04-08	1118	14042120	866176	1325519126	Columba livia	Sarcopterygii	Aves	Neognathae			Columbiformes	PacBio HiFi
+GCF_036250125.1	415032	2024-01-31	1019	10447158	1278064	1165137347	Pseudopipra pipra	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCF_036370855.1	8790	2024-02-26	400	24239989	4089372	1468680310	Dromaius novaehollandiae	Sarcopterygii	Aves			Palaeognathae	Casuariiformes	PacBio HiFi
+GCF_036417665.1	48849	2024-02-07	538	20590000	2695374	1310090653	Passer domesticus	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCF_036417845.1	2696672	2024-02-06	578	19797665	2783287	1504362159	Apteryx mantelli	Sarcopterygii	Aves			Palaeognathae	Apterygiformes	PacBio HiFi
+GCF_036971685.1	372321	2024-03-06	671	17514312	1462969	1401671881	Patagioenas fasciata	Sarcopterygii	Aves	Neognathae			Columbiformes	PacBio HiFi
+GCF_037042795.1	84833	2024-03-07	595	25845000	2587000	1177175143	Molothrus aeneus	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCF_037157495.1	678569	2024-03-15	553	19972387	2493275	1238793660	Lathamus discolor	Sarcopterygii	Aves	Neognathae			Psittaciformes	PacBio HiFi
+GCF_038088225.1	9017	2024-04-12	521	8147501	1382545	1011835181	Cyrtonyx montezumae	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	PacBio HiFi
+GCF_040182565.1	8845	2024-06-14	117	39655246	6720584	1215347815	Anser cygnoides	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	PacBio HiFi
+GCF_040807025.1	8801	2024-07-22	378	28829471	4721291	1451995729	Struthio camelus	Sarcopterygii	Aves			Palaeognathae	Struthioniformes	PacBio HiFi
+GCF_041296385.1	39617	2024-08-16	800	17285536	1604999	1330867883	Aphelocoma coerulescens	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCF_900496995.4	223781	2021-03-26	372	21924221	5065314	1228503570	Aquila chrysaetos chrysaetos	Sarcopterygii	Aves	Neognathae			Accipitriformes	PacBio CLR
+GCF_901933205.1	87175	2019-09-06	1530	16035651	2014964	1051517328	Camarhynchus parvulus	Sarcopterygii	Aves	Neognathae			Passeriformes	missing
+GCF_929443795.1	8957	2022-02-09	637	17712854	2011408	1397974797	Accipiter gentilis	Sarcopterygii	Aves	Neognathae			Accipitriformes	PacBio HiFi
+GCF_963662255.1	127875	2023-12-11	935	3563180	833553	1170705427	Cinclus cinclus	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi
+GCF_963921805.1	9209	2024-02-09	843	4631399	1105955	1283525359	Phalacrocorax carbo	Sarcopterygii	Aves	Neognathae			Suliformes	PacBio HiFi
+GCF_963924245.1	1192867	2024-01-20	1190	4003687	799646	1417461907	Chroicocephalus ridibundus	Sarcopterygii	Aves	Neognathae			Charadriiformes	PacBio HiFi
+GCF_963932015.1	28680	2024-02-07	1025	3416933	656382	1189171107	Anas acuta	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	PacBio HiFi

@@ -1,0 +1,213 @@
+Accession	Complete_compleasm	Single_compleasm	Duplicated_compleasm	Fragmented_compleasm	Missing_compleasm	Frameshift_compleasm	Tax_ID	Submission_Date	Species_name	Super_class	Class	Infra_class	Sub_class	Super_order	Order	Sequencing_type	Submitter
+GCA_000516915.1	2943	2940	3	293	116	188	8665	2013-12-11	Ophiophagus hannah	Sarcopterygii	Lepidosauria				Squamata	Illumina	Naturalis Biodiversity Center
+GCA_000737285.1	1010	1006	4	1521	786	49	384069	2014-08-01								Illumina	Reed College
+GCA_001625485.2	3306	3250	56	20	27	89	35024	2024-11-01								Oxford Nanopore	Timber Rattlesnake Genome
+GCA_003113815.1	3291	3278	13	30	31	104	8508	2018-05-10								Illumina	University of Otago
+GCA_003118565.2	3101	3089	12	185	67	211	143630	2021-09-14	Paroedura picta	Sarcopterygii	Lepidosauria				Squamata	Illumina	Phyloinformatics Unit, Center for Life Science Technologies (CLST), RIKEN
+GCA_003400415.2	3015	3010	5	186	151	155	8742	2019-01-08	Crotalus viridis viridis	Sarcopterygii	Lepidosauria				Squamata	Illumina	University of Texas at Arlington
+GCA_003402635.1	3175	3172	3	116	63	124	88087	2018-08-02	Protobothrops flavoviridis	Sarcopterygii	Lepidosauria				Squamata	Illumina	Division of Genomics, Medical Institute of Bioregulation, Kyushu University
+GCA_003457575.1	3289	3281	8	33	32	90	527827	2018-09-05	Thermophis baileyi	Sarcopterygii	Lepidosauria				Squamata	Illumina	Chengdu Institute of Biology, Chinese Academy of Sciences
+GCA_003586115.2	3340	3334	6	6	8	77	96440	2018-12-11	Salvator merianae	Sarcopterygii	Lepidosauria				Squamata	PacBio RSII	Center for Systems Biology Dresden
+GCA_004319985.1	2271	2262	9	816	250	71	34996	2019-01-09	Emydocephalus ijimae	Sarcopterygii	Lepidosauria				Squamata	Illumina	Kyoto University
+GCA_004320005.1	2732	2729	3	422	193	186	34990	2019-02-13	Hydrophis melanocephalus	Sarcopterygii	Lepidosauria				Squamata	Illumina	Kyoto University
+GCA_004320025.1	2638	2633	5	536	171	94	8630	2019-01-09	Laticauda laticaudata	Sarcopterygii	Lepidosauria				Squamata	Illumina	Kyoto University
+GCA_009733165.1	3242	3222	20	34	78	311	35670	2019-12-11	Naja naja	Sarcopterygii	Lepidosauria				Squamata	Oxford Nanopore	Genentech Inc.,
+GCA_012654045.1	3233	3204	29	70	50	86	31142	2020-04-22	Ptyas mucosa	Sarcopterygii	Lepidosauria				Squamata	Illumina	University of Geneva
+GCA_012654085.1	3160	3131	29	125	68	118	39099	2020-04-22	Pantherophis obsoletus	Sarcopterygii	Lepidosauria				Squamata	Illumina	University of Geneva
+GCA_014337955.1	3340	3338	2	7	7	93	403789	2020-08-31	Aspidoscelis marmoratus	Sarcopterygii	Lepidosauria				Squamata	Illumina	Stowers Institute For Medical Research
+GCA_015471245.1	3243	3241	2	63	48	114	8628	2020-11-04	Laticauda colubrina	Sarcopterygii	Lepidosauria				Squamata	Illumina	Kyoto University
+GCA_016801065.1	3291	3249	42	39	23	88	190870	2021-02-04	Sceloporus tristichus	Sarcopterygii	Lepidosauria				Squamata	Illumina	Univeristy of Washington
+GCA_017656035.1	1323	1318	5	1401	596	59	2777982	2021-04-01	Myanophis thanlyinensis	Sarcopterygii	Lepidosauria				Squamata	Illumina	LOEWE Centre for Translational Biodiversity Genomics (LOEWE-TBG)
+GCA_018340635.1	2899	2734	165	256	189	505	8724	2021-05-11	Bothrops jararaca	Sarcopterygii	Lepidosauria				Squamata	PacBio RSII	Instituto Butantan
+GCA_019457695.2	423	422	1	1397	1480	51	1296673	2023-08-10	Chrysopelea ornata	Sarcopterygii	Lepidosauria				Squamata	Illumina	CENTRAL FORENSIC SCIENCE LABORATORY
+GCA_019473425.1	3313	3252	61	10	31	310	8686	2021-08-09	Hydrophis cyanocinctus	Sarcopterygii	Lepidosauria				Squamata	PacBio CLR	Shanghai University
+GCA_020142125.1	3163	3160	3	125	65	144	52577	2021-09-27	Phrynosoma platyrhinos	Sarcopterygii	Lepidosauria				Squamata	Illumina	Miami University
+GCA_020711275.1	202	197	5	1193	1934	36	48253	2021-11-02	Calotes versicolor	Sarcopterygii	Lepidosauria				Squamata	Illumina	University of Oregon
+GCA_021292165.1	3338	3104	234	6	10	278	52224	2021-12-28	Shinisaurus crocodilurus	Sarcopterygii	Lepidosauria				Squamata	PacBio CLR	Institute of Zoology, Chinese Academy of Sciences
+GCA_022379055.1	557	555	2	1565	1174	45	261707	2022-02-23	Anilios bituberculatus	Sarcopterygii	Lepidosauria				Squamata	Illumina	Leiden University
+GCA_022410635.1	3294	3280	14	42	16	78	88860	2022-02-28	Tretioscincus oriximinensis	Sarcopterygii	Lepidosauria				Squamata	Illumina	Center for Systems Biology Dresden
+GCA_022412395.1	3205	3194	11	98	50	149	174780	2022-02-28	Calyptommatus sinebrachiatus	Sarcopterygii	Lepidosauria				Squamata	Illumina	Center for Systems Biology Dresden
+GCA_022577455.1	3320	3305	15	2	32	79	94893	2022-03-15	Arizona elegans	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	UCLA
+GCA_023053685.1	3274	3254	20	12	68	95	158812	2022-04-19	Diadophis punctatus similis	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	UCLA
+GCA_023333525.1	2811	2801	10	12	531	75	2917703	2022-05-11	Aspidoscelis tigris stejnegeri	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	UCLA
+GCA_023333645.1	3353	1832	1521	0	1	101	8519	2022-05-11	Sceloporus occidentalis	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	UCLA
+GCA_023362775.1	3326	3308	18	5	23	83	51858	2022-05-13	Charina bottae	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	UCLA
+GCA_023646645.1	3287	3023	264	14	53	116	1275487	2022-06-02	Varanus salvator macromaculatus	Sarcopterygii	Lepidosauria				Squamata	Illumina	Chulalongkorn University
+GCA_023653725.1	3280	3254	26	12	62	124	8616	2022-06-07	Bungarus multicinctus	Sarcopterygii	Lepidosauria				Squamata	missing	China Academy of Chinese Medical Sciences
+GCA_023846285.1	3178	3143	35	85	91	156	171651	2022-06-22	Phrynocephalus versicolor	Sarcopterygii	Lepidosauria				Squamata	missing	University of California Berkeley
+GCA_023970755.1	3264	3222	42	46	44	85	8773	2022-06-22	Azemiops feae	Sarcopterygii	Lepidosauria				Squamata	Illumina	Clemson University
+GCA_024294585.1	3322	3307	15	5	27	90	246179	2022-07-20	Vipera latastei	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	Vertebrate Genomes Project
+GCA_024449315.1	3076	2971	105	194	78	129	343250	2022-07-26	Daboia siamensis	Sarcopterygii	Lepidosauria				Squamata	missing	Kasetsart University
+GCA_024509115.1	3153	3131	22	17	184	96	8741	2022-08-04	Crotalus helleri	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	UCLA
+GCA_025802295.1	2815	2801	14	331	203	327	186598	2022-10-23	Psammodynastes pulverulentus	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_026122225.1	3242	3195	47	43	68	74	2940292	2022-11-10	Heloderma charlesbogerti	Sarcopterygii	Lepidosauria				Squamata	missing	Georgia Institute of Technology
+GCA_026167975.1	3038	3025	13	18	298	75	372482	2022-11-14	Phrynosoma blainvillii	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	UCLA
+GCA_026170595.1	3346	3334	12	4	4	69	245608	2022-11-14	Plestiodon gilberti rubricaudatus	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	UCLA
+GCA_026541955.2	2045	2039	6	738	568	663	129328	2023-06-01	Simalia boeleni	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_026931265.2	594	591	3	1603	1119	44	2879190	2023-06-01	Tropidonophis doriae	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_027559625.1	2958	2952	6	299	91	143	129333	2023-01-03	Morelia viridis	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_027560375.1	2297	2290	7	632	416	375	121343	2023-01-03	Imantodes cenchoa	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_027560395.1	2282	2272	10	666	399	288	39328	2023-01-03	Boaedon fuliginosus	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_029204185.1	3237	3135	102	90	24	150	470340	2023-03-14	Lerista edwardsae	Sarcopterygii	Lepidosauria				Squamata	Illumina	Harvard University
+GCA_029215685.1	3096	3081	15	7	251	86	94852	2023-03-14	Pituophis catenifer annectens	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	UCLA
+GCA_029215795.1	3338	3329	9	3	13	69	2202111	2023-03-14	Anniella stebbinsi	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	UCLA
+GCA_029233225.1	3348	3315	33	3	3	68	747221	2023-03-20	Lepidodactylus listeri	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	Threatened Species Initiative
+GCA_029282475.1	3316	3305	11	4	34	275	171643	2023-03-20	Phrynocephalus forsythii	Sarcopterygii	Lepidosauria				Squamata	Illumina	Lanzhou University
+GCA_029375565.1	3345	3320	25	5	4	120	36310	2023-03-23	Gekko gecko	Sarcopterygii	Lepidosauria				Squamata	Oxford Nanopore	Faculty of Biology Universitas Gadjah Mada
+GCA_029891615.1	3266	3235	31	49	38	134	2563697	2023-04-28	Natrix natrix natrix	Sarcopterygii	Lepidosauria				Squamata	Illumina	Senckenberg Nature Research Society
+GCA_030015325.1	3347	3327	20	3	4	70	2509230	2023-05-16	Cryptoblepharus egeriae	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	Threatened Species Initiative
+GCA_030052795.1	3209	3180	29	89	56	113	648196	2023-05-19	Pantherophis alleghaniensis	Sarcopterygii	Lepidosauria				Squamata	Illumina	American Museum of Naural History
+GCA_030412105.1	3336	3322	14	6	12	68	118683	2023-07-07	Cyclura pinguis	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	Vertebrate Genomes Project
+GCA_030440675.1	3339	3337	2	4	11	88	187939	2023-07-12	Furcifer pardalis	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	Institute of Zoology, Chinese Academy of Sciences
+GCA_030556195.1	3299	3277	22	20	35	153	2032994	2023-07-31	Anolis apletophallus	Sarcopterygii	Lepidosauria				Squamata	missing	University of Nevada Reno
+GCA_030761175.1	3149	3137	12	3	202	80	1651146	2023-08-16	Masticophis lateralis	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	UCLA
+GCA_030847615.1	3337	3327	10	7	10	72	43593	2023-08-21	Gambelia wislizenii	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	UCLA
+GCA_030867105.1	3335	3330	5	2	17	74	283338	2023-08-24	Liasis olivaceus	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	Vertebrate Genomes Project
+GCA_031001705.1	3072	3068	4	199	80	121	129332	2023-08-30	Simalia tracyae	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_031021105.1	3269	3207	62	15	70	114	121349	2023-08-31	Erythrolamprus reginae	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	Vertebrate Genomes Project
+GCA_032467955.1	2428	2415	13	619	299	253	1082482	2023-10-10	Pseudoxenodon macrops	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_032467975.1	2464	2457	7	589	293	279	8765	2023-10-10	Trimeresurus albolabris	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_032468015.1	2421	2415	6	619	303	295	143666	2023-10-10	Mimophis mahfalensis	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_032468035.1	2184	2178	6	664	498	360	46264	2023-10-10	Aparallactus werneri	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_032468055.1	2940	2937	3	304	107	208	46287	2023-10-10	Acrochordus granulatus	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_032468095.1	2466	2454	12	602	277	241	211648	2023-10-10	Pareas carinatus	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_032468115.1	2392	2384	8	581	372	297	292832	2023-10-10	Grayia smithii	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_032468135.1	2141	2133	8	679	519	308	2905135	2023-10-10	Calamaria suluensis	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_032468155.1	2671	2666	5	480	193	204	186594	2023-10-10	Oxyrhabdium leporinum	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_032468175.1	2544	2540	4	550	251	238	2725382	2023-10-10	Toxicocalamus goodenoughensis	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_032468195.1	2287	2280	7	647	412	356	46267	2023-10-10	Cerberus rynchops	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_032468215.1	2567	2560	7	533	248	229	2200754	2023-10-10	Stegonotus admiraltiensis	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_032468235.1	2419	2415	4	588	340	312	1175435	2023-10-10	Pseudoxyrhopus heterurus	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_032766585.1	3289	3268	21	4	61	78	254669	2023-10-17	Darevskia unisexualis	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	Institute of Gene Biology Russian Academy of Sciences
+GCA_033807585.1	3321	3298	23	4	29	92	355693	2023-11-21	Hydrophis major	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	Australian Amphibian and Reptile Genomics Initiative
+GCA_033807725.1	3302	3284	18	7	45	86	355681	2023-11-20	Hydrophis elegans	Sarcopterygii	Lepidosauria				Squamata	Oxford Nanopore	Australian Amphibian and Reptile Genomics Initiative
+GCA_034064705.1	3313	3088	225	12	29	120	64174	2023-12-04	Bothrops alternatus	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	Instituto Butantan
+GCA_034509955.1	3335	3321	14	10	9	75	3148767	2023-12-21	Urosaurus nigricauda	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	Arizona State University
+GCA_034641385.1	3350	3267	83	1	3	100	122392	2023-12-26	Darevskia mixta	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	Institute of Gene Biology Russian Academy of Sciences
+GCA_034641395.1	3334	2116	1218	10	10	125	307438	2023-12-26	Darevskia armeniaca	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	Institute of Gene Biology Russian Academy of Sciences
+GCA_034642065.1	3334	2624	710	0	20	104	307440	2023-12-26	Darevskia nairensis	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	Institute of Gene Biology Russian Academy of Sciences
+GCA_034642135.1	3322	2855	467	17	15	207	122353	2023-12-26	Darevskia valentini	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	Institute of Gene Biology Russian Academy of Sciences
+GCA_035047305.1	3335	3324	11	5	14	73	179887	2024-01-03	Bradypodion pumilum	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	South African National Biodiversity Institute
+GCA_035047345.1	3332	3311	21	8	14	84	179890	2024-01-03	Bradypodion ventrale	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	South African National Biodiversity Institute
+GCA_036250565.1	2376	2373	3	597	374	296	1070323	2024-01-29	Sibynophis collaris	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_037013535.1	3347	3334	13	4	3	172	103694	2024-03-05	Intellagama lesueurii	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	University of Queensland
+GCA_037043045.1	3321	3301	20	4	29	99	355685	2024-03-06	Hydrophis curtus	Sarcopterygii	Lepidosauria				Squamata	Oxford Nanopore	Garvan Institution
+GCA_037055225.1	3323	3308	15	2	29	97	8685	2024-03-07	Hydrophis ornatus	Sarcopterygii	Lepidosauria				Squamata	Oxford Nanopore	Garvan Institution
+GCA_037215915.1	3318	3284	34	7	29	75	94886	2024-03-19	Pantherophis vulpinus	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	Canadas Genomic Enterprise
+GCA_037367245.1	3281	3186	95	10	63	239	740940	2024-03-20	Phrynocephalus guinanensis	Sarcopterygii	Lepidosauria				Squamata	PacBio CLR	Chengdu Institute of Biology, CAS
+GCA_037367255.1	3271	3243	28	20	63	151	516951	2024-03-19	Phrynocephalus putjatai	Sarcopterygii	Lepidosauria				Squamata	missing	Chengdu Institute of Biology, CAS
+GCA_037367305.1	3274	3253	21	20	60	83	171652	2024-03-19	Phrynocephalus vlangalii	Sarcopterygii	Lepidosauria				Squamata	missing	Chengdu Institute of Biology, CAS
+GCA_037575465.1	3304	3282	22	10	40	92	648198	2024-03-27	Pantherophis spiloides	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	Canadas Genomic Enterprise
+GCA_038048745.1	3324	3069	255	2	28	101	3052055	2024-04-17	Coluber constrictor foxii	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	Canadas Genomic Enterprise
+GCA_039707465.1	3321	3297	24	3	30	83	126483	2024-05-20	Rhabdophis nuchalis	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	Sichuan Agricultural University
+GCA_039797435.1	3323	3302	21	6	25	96	8729	2024-05-24	Crotalus adamanteus	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	Florida State University
+GCA_039880765.1	3252	3239	13	23	79	120	8756	2024-05-29	Sistrurus catenatus	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	Canadas national platform for genome sequencing and analysis
+GCA_040207535.1	3343	3333	10	5	6	74	143539	2024-06-17	Correlophus ciliatus	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	University of Southern California
+GCA_040207615.1	3317	3302	15	6	31	93	8678	2024-06-17	Aipysurus laevis	Sarcopterygii	Lepidosauria				Squamata	Oxford Nanopore	The University of Adelaide
+GCA_040285375.1	3347	3334	13	3	4	77	1816318	2024-06-25	Laudakia wui	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	Institute of Plateau Biology of Xizang
+GCA_041107755.1	2910	2904	6	279	163	303	2202412	2024-08-08	Leptophis mexicanus	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_041108255.1	24	23	1	476	2848	10	1159290	2024-08-08	Xenodon rabdocephalus	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_041295975.1	1230	1226	4	1446	643	186	1476580	2024-08-15	Laemanctus serratus	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_041380405.1	3346	3340	6	2	6	67	3095121	2024-08-21	Spondylurus nitidus	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	North Carolina State University
+GCA_041722995.2	3344	3312	32	6	4	76	316450	2024-11-06	Acritoscincus duperreyi	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	AusArg
+GCA_041731335.1	2373	2369	4	605	375	493	911496	2024-09-03	Gonatodes alexandermendesi	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_041893435.1	3312	3304	8	13	29	147	8735	2024-09-10	Crotalus ruber	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	University of South Florida
+GCA_042257475.1	3319	3315	4	5	30	75	886391	2024-09-27	Asaccus caudivolvulus	Sarcopterygii	Lepidosauria				Squamata	Oxford Nanopore	Institute of Evolutionary Biology
+GCA_042478105.1	3332	3325	7	15	7	102	39310	2024-10-02	Gallotia galloti	Sarcopterygii	Lepidosauria				Squamata	Illumina	CIBIO - Centro de Investigacao em Biodiversidade e Recursos Geneticos
+GCA_042902775.1	1459	1455	4	1334	524	134	8692	2024-10-10	Bitis arietans	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_042902795.1	1442	1438	4	1337	543	125	8654	2024-10-10	Naja nigricollis	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_042902815.1	1440	1436	4	1328	548	134	44735	2024-10-10	Causus rhombeatus	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_042902835.1	997	995	2	1443	876	163	153723	2024-10-10	Hemidactylus brookii	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_042902875.1	1389	1385	4	1373	551	136	39023	2024-10-10	Micrurus diastema	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_042902895.1	807	804	3	1465	1044	201	617161	2024-10-10	Trioceros balebicornutus	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_043090225.1	2911	2903	8	276	164	381	1720241	2024-10-12	Anolis rodriguezii	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_043090385.1	1851	1847	4	1114	370	148	2516550	2024-10-12	Acanthocercus minutus	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_043090425.1	1733	1730	3	1158	444	183	91908	2024-10-12	Chamaeleo dilepis	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_043090505.1	599	598	1	1517	1189	154	8639	2024-10-12	Naja haje	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_043090545.1	903	901	2	1485	930	125	427726	2024-10-12	Leptodeira frenata	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_043090665.1	2866	2859	7	331	154	398	323608	2024-10-12	Anolis tropidonotus	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_043090695.1	1254	1246	8	1399	658	149	8722	2024-10-12	Bothrops asper	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_043090765.1	1897	1896	1	1080	351	177	2202509	2024-10-12	Xenagama zonura	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_043090785.1	2291	2282	9	784	263	107	1433128	2024-10-12	Aspidoscelis angusticeps	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_043090795.1	1752	1743	9	1172	392	145	449387	2024-10-12	Coleonyx elegans	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_043090905.1	2081	2070	11	943	307	125	3102984	2024-10-12	Panaspis annettesabinae	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_043090945.1	2587	2583	4	605	157	253	43620	2024-10-12	Sceloporus chrysostictus	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_043090965.1	2220	2214	6	877	239	135	323738	2024-10-12	Trachylepis brevicollis	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_043090985.1	2177	2171	6	891	268	152	1247901	2024-10-12	Acanthocercus cyanogaster	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_043091005.1	1013	1012	1	1431	865	138	382754	2024-10-12	Psammophis punctulatus	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_043091225.1	1426	1422	4	1308	584	133	186583	2024-10-12	Drymarchon corais	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_043091265.1	1123	1120	3	1481	721	119	190824	2024-10-12	Crotaphopeltis hotamboeia	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_043110025.1	1094	1090	4	1475	738	167	42165	2024-10-14	Atractaspis microlepidota	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_043110085.1	1151	1146	5	1449	710	128	338837	2024-10-14	Telescopus dhara	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_043110945.1	810	810	0	1424	1080	218	617237	2024-10-14	Trioceros harennae	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_043111055.1	290	289	1	1294	1750	172	690286	2024-10-14	Agama finchi	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_043111265.1	738	735	3	1465	1112	221	617160	2024-10-14	Trioceros affinis	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_043111325.1	1224	1220	4	1406	693	139	1401211	2024-10-14	Phrynonax poecilonotus	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_043380585.1	3309	3076	233	14	30	106	8727	2024-10-18	Bothrops cotiara	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	Instituto Butantan
+GCA_043380785.1	3317	3072	245	11	26	104	157549	2024-10-18	Bothrops fonsecai	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	Instituto Butantan
+GCA_043643385.1	3220	3216	4	16	118	614	179908	2024-10-24	Chamaeleo calyptratus	Sarcopterygii	Lepidosauria				Squamata	missing	Stowers Institute for Medical Research
+GCA_043656425.1	1966	1955	11	1058	315	189	8558	2024-10-23	Varanus albigularis	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_043656535.1	2254	2247	7	843	246	137	355654	2024-10-23	Trachylepis striata	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_043656835.1	935	930	5	1422	959	152	1328047	2024-10-23	Philothamnus battersbyi	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_043656995.1	1372	1366	6	1358	585	170	681533	2024-10-23	Mochlus sundevallii	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_043658275.1	1451	1449	2	1318	544	152	8643	2024-10-23	Naja melanoleuca	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_044008395.1	1069	1063	6	1410	844	179	290508	2024-10-28	Thecadactylus rapicauda	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_044335405.1	1568	1565	3	1257	501	190	373863	2024-11-03	Chamaeleo laevigatus	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_044335425.1	1256	1252	4	1397	668	120	1043007	2024-11-03	Crotalus simus	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_044335435.1	1943	1940	3	1056	334	152	175455	2024-11-03	Agama doriae	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_044335465.1	1094	1091	3	1388	823	135	434258	2024-11-03	Psammophis sibilans	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_044335485.1	752	750	2	1468	1096	140	2202176	2024-11-03	Coniophanes imperialis	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_044335585.1	985	980	5	1436	893	140	427721	2024-11-03	Imantodes gemmistratus	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_044473165.1	2499	2490	9	686	155	139	864816	2024-11-05	Trachylepis maculilabris	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_044474425.1	1006	1002	4	1430	877	148	1159292	2024-11-05	Drymobius margaritiferus	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_044628595.1	2202	2196	6	870	266	184	62046	2024-11-06	Varanus niloticus	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_044758705.1	1663	1661	2	1249	414	162	51844	2024-11-10	Anilius scytale	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_044758725.1	1389	1383	6	1344	587	206	91909	2024-11-10	Chamaeleo gracilis	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_044758745.1	925	921	4	1502	887	137	186588	2024-11-10	Natriciteres olivacea	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_044758865.1	1015	1010	5	1525	773	144	933631	2024-11-10	Sphaerodactylus glaucus	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_044758885.1	681	679	2	1424	1211	172	174777	2024-11-10	Bachia flavescens	Sarcopterygii	Lepidosauria				Squamata	Illumina	Iridian Genomes
+GCA_900245895.1	3222	3196	26	94	37	102	95620	2018-04-26	Lacerta bilineata	Sarcopterygii	Lepidosauria				Squamata	missing	German Centre for Integrative Biodiversity Research (iDiv)
+GCA_900245905.1	3287	3240	47	52	13	92	65476	2018-04-26	Lacerta viridis	Sarcopterygii	Lepidosauria				Squamata	missing	German Centre for Integrative Biodiversity Research (iDiv)
+GCA_947247035.1	3294	3276	18	19	40	112	103942	2022-10-30	Vipera ursinii	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_947686815.1	3348	3330	18	3	3	92	74358	2023-08-09	Podarcis lilfordi	Sarcopterygii	Lepidosauria				Squamata	Oxford Nanopore	UB (Universitat de Barcelona)
+GCA_948472985.1	3088	3080	8	130	136	297	51191	2023-02-03	Iguana delicatissima	Sarcopterygii	Lepidosauria				Squamata	Oxford Nanopore	university of leeds
+GCA_948474755.1	3018	3010	8	152	180	196	500334	2023-02-03	Ctenosaura bakeri	Sarcopterygii	Lepidosauria				Squamata	Oxford Nanopore	university of leeds
+GCA_951804945.1	3349	3337	12	2	3	83	1330250	2023-06-02	Podarcis cretensis	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_964106635.2	3262	3251	11	9	83	81	74359	2024-07-05	Podarcis pityusensis	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_964106915.2	3349	3333	16	2	3	68	90521	2024-09-17	Podarcis gaigeae	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_964188175.1	3349	3334	15	2	3	66	65484	2024-06-21	Podarcis siculus	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_964188305.1	3291	3271	20	2	61	66	90520	2024-06-21	Podarcis bocagei	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_964194415.1	3313	3264	49	7	34	100	31155	2024-06-28	Vipera berus	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_964234825.1	3264	3254	10	11	79	81	65482	2024-08-31	Podarcis melisellensis	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_964252035.1	3255	3239	16	11	88	68	140042	2024-08-31	Podarcis erhardii	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_964265115.1	3323	3314	9	4	27	79	184164	2024-09-25	Malpolon monspessulanus	Sarcopterygii	Lepidosauria				Squamata	Oxford Nanopore	Centro Nacional de Análisis Genómico
+GCA_964270895.1	3348	3322	26	2	4	76	65481	2024-09-29	Podarcis filfolensis	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_964273705.1	3300	3271	29	12	42	85	2025560	2024-10-05	Natrix helvetica	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCF_000186305.1	3073	3070	3	210	70	67	176946	2013-09-15	Python bivittatus	Sarcopterygii	Lepidosauria				Squamata	Illumina	The Consortium for Comparative Genomics, UC Denver
+GCF_001077635.1	2412	2403	9	533	401	256	35019	2015-06-26	Thamnophis sirtalis	Sarcopterygii	Lepidosauria				Squamata	Illumina	The Genome Institute at Washington University School of Medicine (WUGSC)
+GCF_001447785.1	3188	3178	10	136	28	137	146911	2015-11-25	Gekko japonicus	Sarcopterygii	Lepidosauria				Squamata	Illumina	Nantong University
+GCF_001527695.2	3227	3206	21	84	43	108	103944	2016-01-22	Protobothrops mucrosquamatus	Sarcopterygii	Lepidosauria				Squamata	Illumina	Okinawa Institute of Science and Technology
+GCF_004329235.1	3308	3261	47	17	29	164	64176	2019-03-07	Podarcis muralis	Sarcopterygii	Lepidosauria				Squamata	PacBio CLR	CIBIO-InBIO
+GCF_004798865.1	3304	3293	11	18	31	93	61221	2019-04-17	Varanus komodoensis	Sarcopterygii	Lepidosauria				Squamata	Oxford Nanopore	Gladstone Institutes
+GCF_009769535.1	3260	3198	62	22	72	254	35005	2019-12-23	Thamnophis elegans	Sarcopterygii	Lepidosauria				Squamata	PacBio CLR	Vertebrate Genomes Project
+GCF_009819535.1	3340	3303	37	3	11	143	80427	2019-12-31	Lacerta agilis	Sarcopterygii	Lepidosauria				Squamata	PacBio CLR	Vertebrate Genomes Project
+GCF_016545835.1	3313	3275	38	11	30	95	88082	2021-01-06	Crotalus tigris	Sarcopterygii	Lepidosauria				Squamata	Illumina	Clemson University
+GCF_019175285.1	3274	3228	46	52	27	205	8520	2021-07-08	Sceloporus undulatus	Sarcopterygii	Lepidosauria				Squamata	Illumina	Auburn University
+GCF_021028975.2	3189	3175	14	76	89	180	933632	2022-04-08	Sphaerodactylus townsendi	Sarcopterygii	Lepidosauria				Squamata	Illumina	Marquette University
+GCF_023053635.1	3341	3333	8	2	11	75	159646	2024-01-04	Elgaria multicarinata webbii	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	UCLA
+GCF_027172205.1	3350	3332	18	2	2	68	65483	2022-12-27	Podarcis raffonei	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	Vertebrate Genomes Project
+GCF_027244095.1	3346	3321	25	5	3	69	884348	2022-12-28	Hemicordylus capensis	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	University of Antwerp
+GCF_028583425.1	3350	3328	22	1	3	58	481883	2023-02-10	Eublepharis macularius	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	Milwaukee Public Museum
+GCF_028640845.1	3233	3228	5	10	111	79	499056	2023-02-22	Ahaetulla prasina	Sarcopterygii	Lepidosauria				Squamata	Oxford Nanopore	Chinese Academy of Sciences
+GCF_029531705.1	3283	3168	115	20	51	105	94885	2023-03-31	Pantherophis guttatus	Sarcopterygii	Lepidosauria				Squamata	missing	Columbia University
+GCF_029931775.1	3345	3329	16	3	6	80	460621	2023-05-15	Euleptes europaea	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	Vertebrate Genomes Project
+GCF_030035675.1	3339	3312	27	4	11	61	261503	2023-05-22	Rhineura floridana	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	Vertebrate Genomes Project
+GCF_032191835.1	3334	3260	74	12	8	104	13085	2023-09-29	Heteronotia binoei	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	CSIRO Applied Genomics Initiative
+GCF_035046505.1	3237	3222	15	7	110	63	71010	2024-01-04	Tiliqua scincoides	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	Vertebrate Genomes Project
+GCF_035149785.1	3332	3325	7	1	21	71	51853	2024-01-18	Candoia aspera	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	Vertebrate Genomes Project
+GCF_035594765.1	3330	3308	22	12	12	98	28377	2024-01-12	Anolis carolinensis	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	Louisiana State University
+GCF_037176765.1	3332	3227	105	9	13	96	38937	2024-03-15	Anolis sagrei	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	Vertebrate Genomes Project
+GCF_900067755.1	3307	3299	8	35	11	114	103695	2017-02-28	Pogona vitticeps	Sarcopterygii	Lepidosauria				Squamata	missing	BRAEMBL
+GCF_900518725.1	3143	3090	53	120	88	133	8663	2018-09-24	Notechis scutatus	Sarcopterygii	Lepidosauria				Squamata	missing	UNIVERSITY OF NEW SOUTH WALES
+GCF_900518735.1	3244	3188	56	61	49	130	8673	2018-09-24	Pseudonaja textilis	Sarcopterygii	Lepidosauria				Squamata	missing	UNIVERSITY OF NEW SOUTH WALES
+GCF_963506605.1	3348	3323	25	2	4	79	8524	2023-09-20	Zootoca vivipara	Sarcopterygii	Lepidosauria				Squamata	PacBio HiFi	WELLCOME SANGER INSTITUTE

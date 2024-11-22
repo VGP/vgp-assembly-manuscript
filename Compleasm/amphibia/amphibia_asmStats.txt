@@ -1,0 +1,152 @@
+Accession	Tax_ID	Submission_Date	Number_Contigs	Contig_N50	Contig_N90	Assembly_Size	Species_name	Super_class	Class	Infra_class	Sub_class	Super_order	Order	Sequencing_type
+GCA_004786255.1	30357	2019-04-17	126872	27660	4914	1398954963	Pyxicephalus adspersus	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_009364415.1	30317	2019-10-28	74867	30692	6180	1073446181	Spea multiplicata	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_009364435.1	85089	2019-10-28	1378914	362	225	484148449	Scaphiopus couchii	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_009364455.1	8435	2019-10-28	1509291	514	273	710848751	Scaphiopus holbrookii	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_009667805.1	445787	2019-11-19	8584	1946319	224576	3548732264	Leptobrachium leishanense	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio RSII
+GCA_009801035.1	51950	2019-12-27	637932	5833	1615	2234258219	Oophaga pumilio	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_011038615.1	104065	2020-02-28	749216	10168	1276	2136946809	Limnodynastes dumerilii	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_016617825.1	2741728	2021-01-12	1261386	1455	296	796365731	Platyplectrum ornatum	Sarcopterygii	Amphibia			Batrachia	Anura	Oxford Nanopore
+GCA_018402905.1	8410	2021-03-18	1440915	10997	1908	6799639903	Glandirana rugosa	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_018994145.1	428466	2021-06-24	15916	817892	152874	3530531029	Leptobrachium ailaonicum	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_019447015.1	247094	2021-08-05	42250	782036	47198	3206766425	Hymenochirus boettgeri	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_019650415.1	247091	2021-08-17	351451	6208	1823	1362719881	Pipa parva	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_021901965.1	191480	2022-02-03	830118	1968	622	1192124124	Pipa carvalhoi	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_022657655.1	2798809	2022-03-21	1446664	1468	653	1829122027	Phrynoglossus myanhessei	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_023970735.1	428384	2022-06-27	118630	126	100	15633533	Pseudis tocantins	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_024363595.1	8354	2022-07-22	256464	21213	3613	2195286711	Xenopus borealis	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_025379985.1	860369	2022-09-23	109372	78483	18778	4741016426	Phyllomedusa bahiana	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_027410445.1	8351	2022-12-28	4999	3043591	395499	3810206057	Discoglossus pictus	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio CLR
+GCA_027789725.1	150705	2023-01-13	3358	10560916	581184	2239463667	Dendropsophus ebraccatus	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio CLR
+GCA_027917425.1	8429	2023-01-18	2747	4962642	1117539	4335899441	Gastrophryne carolinensis	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCA_028564925.1	45438	2023-02-09	18284	2479127	144056	5144225848	Lithobates sylvaticus	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio CLR
+GCA_029206835.1	160500	2023-03-14	9672	4644276	713274	10159702839	Rana muscosa	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_029215755.1	228670	2023-03-14	541	14335781	1121360	1155520324	Spea hammondii	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCA_029574335.1	670907	2023-04-09	6555	1704296	370455	4830373361	Rana kukunoris	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_030180145.1	1346618	2023-06-06	1064485	801	535	852425241	Desmognathus organi	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_030264435.1	52101	2023-06-13	724025	829	540	612434910	Desmognathus imitator	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_030264455.1	503920	2023-06-13	1005091	824	534	824268263	Desmognathus abditus	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_030264475.1	52099	2023-06-13	1304087	847	537	1085073535	Desmognathus conanti	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_030264495.1	52107	2023-06-13	934400	838	538	788054648	Desmognathus welteri	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_030264635.1	52096	2023-06-13	1602814	858	536	1318010312	Desmognathus aeneus	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_030264875.1	2005549	2023-06-13	631047	817	535	525218664	Desmognathus valentinei	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_030264895.1	52097	2023-06-13	907426	810	532	733323393	Desmognathus auriculatus	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_030264915.1	179531	2023-06-13	866265	831	542	729169865	Desmognathus orestes	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_030264935.1	52104	2023-06-13	958825	818	533	777322436	Desmognathus ochrophaeus	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_030264955.1	43046	2023-06-13	1313068	847	538	1095148125	Desmognathus apalachicolae	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_030264975.1	2981334	2023-06-13	705509	821	534	584734443	Desmognathus pascagoula	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_030264995.1	179530	2023-06-13	1157653	835	536	955217774	Desmognathus ocoee	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_030265015.1	279537	2023-06-13	883913	833	542	744648207	Desmognathus folkertsi	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_030265035.1	52108	2023-06-13	1347156	838	542	1116951087	Desmognathus wrighti	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_030265095.1	52100	2023-06-13	1301563	849	536	1077595073	Desmognathus fuscus	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_031753635.1	179529	2023-09-20	606625	806	538	502456113	Desmognathus carolinensis	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_031753655.1	52106	2023-09-20	695356	818	540	582255290	Desmognathus santeetlah	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_031753675.1	52103	2023-09-20	1386658	838	526	1113000524	Desmognathus monticola	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_031753695.1	52102	2023-09-20	1631306	863	533	1350792951	Desmognathus marmoratus	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_031769625.1	3041213	2023-09-22	4086	8853472	741045	5507820553	Taudactylus pleione	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCA_031893025.1	238119	2023-09-26	3239	5565655	379246	2296339607	Leptodactylus fuscus	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCA_032274985.1	3018287	2023-10-02	723921	798	530	582950800	Desmognathus aureatus	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_032275005.1	3018285	2023-10-02	867536	811	531	699992925	Desmognathus adatsihi	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_032275285.1	3018294	2023-10-02	870742	809	530	701025473	Desmognathus perlapsus	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_032275315.1	3018291	2023-10-02	915946	816	531	742314441	Desmognathus intermedius	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_032353675.1	3018288	2023-10-04	630968	799	531	506944357	Desmognathus balsameus	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_032353775.1	3018290	2023-10-04	650829	805	532	531188686	Desmognathus gvnigeusgwotli	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_032353815.1	3018289	2023-10-04	690700	815	534	569845976	Desmognathus cheaha	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_032353855.1	3018292	2023-10-04	592883	812	535	490478288	Desmognathus kanawha	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_032353935.1	407057	2023-10-04	791752	819	534	652231906	Desmognathus planiceps	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_032354855.1	3018293	2023-10-04	785011	814	533	644533947	Desmognathus mavrokoilius	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_032357565.1	3018295	2023-10-04	487768	803	531	397478404	Desmognathus valtos	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_032360725.1	3018286	2023-10-04	4787867	375	244	1865145392	Desmognathus amphileucus	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_033118305.1	3064033	2023-10-30	1081147	816	532	870429055	Desmognathus campi	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_033119125.1	3064031	2023-10-30	1472731	845	531	1197824239	Desmognathus anicetus	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_033119425.1	30338	2023-11-02	18492	1872430	183386	3776090645	Bufotes viridis	Sarcopterygii	Amphibia			Batrachia	Anura	Oxford Nanopore
+GCA_033557465.1	8453	2023-11-14	6475	5700647	1185358	12352376438	Ichthyophis bannanicus	Sarcopterygii	Amphibia				Gymnophiona	missing
+GCA_033576535.1	92733	2023-11-13	28356	879094	83884	5322278325	Allobates femoralis	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_033576555.1	152496	2023-11-13	71942	97802	37917	5180946406	Oophaga sylvatica	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_034782015.1	3064036	2023-12-28	3035719	677	385	1961779239	Desmognathus tilleyi	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_034783875.1	3064032	2023-12-28	1192633	832	534	978321264	Desmognathus bairdi	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_034783935.1	3064034	2023-12-28	1618407	858	536	1343511844	Desmognathus catahoula	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_035044885.1	307978	2024-01-03	5008238	302	237	1639370250	Pseudobranchus striatus	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_035047425.1	147899	2024-01-03	5808595	371	243	2242834502	Eurycea quadridigitata	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_035048385.1	43042	2024-01-03	4939736	352	241	1859817181	Plethodon glutinosus	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_035048675.1	2978768	2024-01-03	3750090	289	237	1196429975	Siren sphagnicola	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_035049765.1	3064035	2024-01-03	5482353	403	245	2229881637	Desmognathus lycos	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_035582665.1	2495638	2024-01-11	390487	792	533	315904503	Siren reticulata	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_035582685.1	8312	2024-01-11	731433	785	538	585687667	Amphiuma means	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_035582705.1	154577	2024-01-11	573991	848	542	488606960	Aneides aeneus	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_035582915.1	324346	2024-01-11	251838	1039	553	250175049	Necturus beyeri	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_035583015.1	315413	2024-01-11	888558	859	542	763879646	Plethodon ventralis	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_035583035.1	332575	2024-01-11	813929	839	539	689496962	Eurycea cirrigera	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_035583075.1	332576	2024-01-11	883772	849	539	753583948	Eurycea guttolineata	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_035583255.1	134762	2024-01-11	905545	872	544	792695337	Pseudotriton ruber	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_035591995.1	291263	2024-01-11	986302	832	529	805141263	Stereochilus marginatus	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_035593325.1	324349	2024-01-11	6700737	382	244	2662943774	Pseudotriton montanus	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_035593885.1	2081930	2024-01-11	7340485	388	244	2931856735	Eurycea paludicola	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_036172795.1	233781	2024-01-26	361	19137354	2864461	2077607399	Pelodytes ibericus	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCA_036250195.1	3058680	2024-01-31	1300	10748000	1920265	3127779414	Mixophyes australis	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCA_036250615.1	2829185	2024-01-31	239577	12384	2880	1571240444	Ptychadena robeensis	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_037306005.1	43566	2024-03-20	2496	12994863	1011643	4745162916	Rhinophrynus dorsalis	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCA_037367395.1	8404	2024-03-19	3166	5395217	1023596	5897899108	Lithobates pipiens	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCA_037952835.1	190274	2024-04-03	6078	3139341	659557	7098362355	Lithobates septentrionalis	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCA_037952925.1	145282	2024-04-04	3946	4403197	918367	6355633012	Lithobates clamitans	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCA_038048845.1	3061075	2024-04-17	4227	4050021	551481	2965826130	Mixophyes fleayi	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCA_038406705.1	134758	2024-04-22	5418484	376	242	2128839128	Eurycea bislineata	Sarcopterygii	Amphibia			Batrachia	Caudata	missing
+GCA_038501925.1	288555	2024-04-29	1388	15294995	2445771	2883696191	Xenopus petersii	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCA_039654945.1	92724	2024-05-16	830	32538637	6177152	6355763190	Dendrobates tinctorius	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCA_040206685.1	8439	2024-06-17	9569	981472	175080	3721412824	Ascaphus truei	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCA_040894005.1	76066	2024-07-30	1372	21805561	1489181	2158116123	Engystomops pustulosus	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCA_041080635.1	2776728	2024-08-07	1487	31028324	2702485	3506202348	Atelopus laetissimus	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCA_041430395.1	30325	2024-08-22	6809	2844713	459216	5278547071	Anaxyrus boreas	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCA_042186555.1	8400	2024-09-24	5032	3396515	700503	6375233452	Aquarana catesbeiana	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio CLR
+GCA_043774495.1	47562	2024-10-24	2617	7148760	985162	3600184320	Pseudacris regilla	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCA_044007775.1	127645	2024-10-28	795094	6110	1333	1905171162	Hoplobatrachus occipitalis	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_044007875.1	349990	2024-10-28	734670	10412	496	1471163249	Leptodactylus fragilis	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_044008015.1	467733	2024-10-28	791308	4169	1011	1480024130	Phrynobatrachus minutus	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_044008435.1	318396	2024-10-28	1256345	2120	382	1450035900	Scinax staufferi	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_044008735.1	8388	2024-10-28	1599507	2982	336	1941133609	Incilius valliceps	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_044009215.1	317403	2024-10-28	1658754	2263	342	1764404257	Triprion petasatus	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_044628515.1	323527	2024-11-06	463911	11305	2100	1393956558	Leptodactylus mystaceus	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_044629035.1	213803	2024-11-06	1150062	2582	427	1485923912	Trachycephalus venulosus	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_044758215.1	2790342	2024-11-10	880901	4073	1105	1754776682	Conraua beccarii	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_044758425.1	248862	2024-11-10	1518723	2696	350	1840694925	Osteocephalus taurinus	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_044758445.1	1978132	2024-11-10	1246312	3087	475	1762664647	Sclerophrys asmarae	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_044758465.1	1342833	2024-11-10	970556	3308	871	1522297328	Ptychadena erlangeri	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_044758485.1	1133662	2024-11-10	1943170	1689	322	1867586543	Adenomera lutzi	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_044758525.1	279982	2024-11-10	874314	2761	888	1452998379	Smilisca baudinii	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_044758545.1	2668082	2024-11-10	2392659	1438	281	1951139610	Boana sibleszi	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_044758605.1	1978144	2024-11-10	1646407	2232	320	1758268912	Sclerophrys regularis	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_044758645.1	143418	2024-11-10	2208292	2593	472	2837533043	Hyperolius nasutus	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_044758665.1	228420	2024-11-10	652397	10504	1143	1444093374	Leptodactylus melanonotus	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_044758825.1	327965	2024-11-10	1619464	2635	387	2027110351	Phrynobatrachus natalensis	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_044758895.1	317335	2024-11-10	1390026	2701	393	1739299401	Tlalocohyla loquax	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_900303285.2	8386	2024-06-11	13196	860097	161599	3464741672	Rhinella marina	Sarcopterygii	Amphibia			Batrachia	Anura	Oxford Nanopore
+GCA_901001135.2	194408	2021-04-24	4903	3216284	638120	5285283346	Rhinatrema bivittatum	Sarcopterygii	Amphibia				Gymnophiona	PacBio CLR
+GCA_901765095.2	1415580	2021-04-24	3533	3650988	810693	4638502143	Microcaecilia unicolor	Sarcopterygii	Amphibia				Gymnophiona	PacBio CLR
+GCA_902459505.2	260995	2021-04-24	597	20656571	4964142	3773927304	Geotrypetes seraphini	Sarcopterygii	Amphibia				Gymnophiona	PacBio CLR
+GCA_933207985.1	61616	2023-06-09	68502	130439	24500	3088447659	Pelobates cultripes	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_947044405.1	375434	2022-10-08	3569	4630249	649118	2510270752	Leptodactylus fallax	Sarcopterygii	Amphibia			Batrachia	Anura	Oxford Nanopore
+GCA_951230385.1	386267	2023-05-08	22402	611229	114491	3982189551	Staurois parvus	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCA_963921515.1	342570	2024-02-07	47990	1599425	399878	22893899130	Calotriton arnoldi	Sarcopterygii	Amphibia			Batrachia	Caudata	Oxford Nanopore
+GCA_964204655.1	8323	2024-07-31	6002	8497210	2469068	22323693492	Triturus cristatus	Sarcopterygii	Amphibia			Batrachia	Caudata	PacBio HiFi
+GCA_964205295.1	8348	2024-07-29	11428	1741680	464651	9368457116	Bombina variegata	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCA_964261635.1	256425	2024-10-17	5693	7795245	2253257	23168979842	Lissotriton helveticus	Sarcopterygii	Amphibia			Batrachia	Caudata	PacBio HiFi
+GCA_964263255.1	8324	2024-10-17	19295	6568731	1059530	24225418039	Lissotriton vulgaris	Sarcopterygii	Amphibia			Batrachia	Caudata	PacBio HiFi
+GCF_000004195.4	8364	2019-11-14	851	14634335	1924154	1448461978	Xenopus tropicalis	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCF_000935625.1	125878	2015-03-17	147513	32798	8098	1977789221	Nanorana parkeri	Sarcopterygii	Amphibia			Batrachia	Anura	missing
+GCF_014858855.1	30331	2020-10-21	4622	1733295	481607	4464028350	Bufo gargarizans	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio CLR
+GCF_017654675.1	8355	2021-04-12	722	22451507	3939946	2740794628	Xenopus laevis	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio RSII
+GCF_027358695.1	233779	2022-12-27	119	21170366	4012385	983832516	Spea bombifrons	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCF_027579735.1	8345	2023-01-09	9476	3712229	576225	9820765614	Bombina bombina	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio CLR
+GCF_028390025.1	495146	2023-02-06	5826	6819095	894392	8851546336	Pseudophryne corroboree	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCF_029499605.1	327740	2023-04-07	5771	3809262	354428	4141700132	Hyla sarda	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCF_031143425.1	8319	2024-03-19	2445	20474000	5097257	19767082697	Pleurodeles waltl	Sarcopterygii	Amphibia			Batrachia	Caudata	PacBio HiFi
+GCF_032444005.1	111125	2023-10-16	2437	13907627	2765815	5956530405	Ranitomeya imitator	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCF_035609145.1	57060	2024-01-12	1615	10388966	1716711	3371165728	Eleutherodactylus coqui	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCF_036172605.1	191477	2024-01-26	508	29412599	5038155	3606387103	Pelobates fuscus	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCF_040937935.1	752182	2024-07-30	3516	2674826	785659	4915328756	Hyperolius riggenbachi	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio HiFi
+GCF_040938575.1	8296	2024-07-30	2316	23068610	6799578	29117447339	Ambystoma mexicanum	Sarcopterygii	Amphibia			Batrachia	Caudata	PacBio HiFi
+GCF_901001135.1	194408	2019-06-02	4903	3216284	638120	5285283361	Rhinatrema bivittatum	Sarcopterygii	Amphibia				Gymnophiona	PacBio CLR
+GCF_901765095.1	1415580	2019-06-22	3533	3650988	810693	4638502142	Microcaecilia unicolor	Sarcopterygii	Amphibia				Gymnophiona	PacBio CLR
+GCF_902459505.1	260995	2019-08-18	597	20656571	4964142	3773927306	Geotrypetes seraphini	Sarcopterygii	Amphibia				Gymnophiona	PacBio CLR
+GCF_905171765.1	8384	2021-01-28	5505	3941737	702201	5034865936	Bufo bufo	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio CLR
+GCF_905171775.1	8407	2021-01-28	2414	6262427	1141917	4085228562	Rana temporaria	Sarcopterygii	Amphibia			Batrachia	Anura	PacBio CLR

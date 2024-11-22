@@ -1,0 +1,7 @@
+Accession	Complete_compleasm	Single_compleasm	Duplicated_compleasm	Fragmented_compleasm	Missing_compleasm	Frameshift_compleasm	Tax_ID	Submission_Date	Species_name	Super_class	Class	Infra_class	Sub_class	Super_order	Order	Sequencing_type	Submitter
+GCA_030014935.1	3326	3319	7	19	8	78	8499	2023-05-15	Caiman crocodilus	Sarcopterygii					Crocodylia	Illumina	University of Saint Thomas
+GCA_038503035.1	3180	3138	42	140	33	82	184239	2024-04-26	Crocodylus rhombifer	Sarcopterygii					Crocodylia	Illumina	Montclair State University
+GCF_000455745.1	3209	3201	8	108	36	158	38654	2013-08-29	Alligator sinensis	Sarcopterygii					Crocodylia	Illumina	BGI-shenzhen
+GCF_001723895.1	3148	3143	5	38	168	76	8502	2016-09-13	Crocodylus porosus	Sarcopterygii					Crocodylia	Illumina	Mississippi State University
+GCF_001723915.1	3101	3092	9	41	212	71	94835	2016-09-13	Gavialis gangeticus	Sarcopterygii					Crocodylia	Illumina	The International Crocodilian Genomes Working Group
+GCF_030867095.1	3328	3317	11	2	24	77	8496	2023-08-24	Alligator mississippiensis	Sarcopterygii					Crocodylia	PacBio HiFi	Vertebrate Genomes Project
