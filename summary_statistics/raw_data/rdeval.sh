@@ -19,14 +19,9 @@ do
   cat accessions.ls >> all_accessions.ls
   printf "Found records:\n"
   cat accessions.ls
+  printf "downloading...\n"
 
-  while read -r -u 4 EXPERIMENT SRR SRX INSTR LIB_STR
-    do
-        if [ ! -f $SRR.fastq ]; then
-          printf "downloading: %s\t%s\t%s\n" "$EXPERIMENT" "$SRR" "$SRX"
-          fasterq-dump $SRR
-        fi
-    done 4< <(grep SMRT accessions.ls | awk '{if ($6!=0) print}')
+  grep SMRT accessions.ls | awk '{if ($6!=0) print}' | parallel -j 32 --colsep '\t' fasterq-dump {2}
 
   printf "Computing summary statistics...\n"
   printf "%s\t" "$SRA" >> rdeval.tsv
