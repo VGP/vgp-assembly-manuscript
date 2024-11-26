@@ -28,11 +28,11 @@ do
         fi
     done 4< <(grep SMRT accessions.ls | awk '{if ($6!=0) print}')
 
-  printf "Computing summary statistics:\n"
+  printf "Computing summary statistics...\n"
   printf "%s\t" "$SRA" >> rdeval.tsv
   rdeval -r *.fastq | awk -F': ' '{print $2}' | sed 1d | sed -z 's/\n/\t/g; s/.$//' >> rdeval.tsv
 
-  printf "Computing Cumulative inverse distribution:\n"
+  printf "Computing Cumulative inverse distribution...\n"
   printf "%s\t" "$SRA" >> rdevalCumInv.tsv
   rdeval *.fastq -s c | sed -z 's/\n/;/g' >> rdevalCumInv.tsv
 
