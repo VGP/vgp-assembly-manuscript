@@ -2,7 +2,6 @@
 set -e
 
 SEED=42
-rm -f rdeval.tsv rdevalCumInv.tsv all_accessions.ls
 printf 'SRS\t# reads\tTotal read length\tAverage read length\tRead N50\tSmallest read length\tLargest read length\tCoverage\tGC content\tBase composition (A:C:T:G)\tAverage read quality\n' >> rdeval.tsv
 while IFS="," read -r -u 3 accession tolid SRA
 do
@@ -14,6 +13,10 @@ do
 		printf "Skipping for subsampling.\n"
     continue
   fi
+if grep -q "$SRA" all_accessions.ls; then
+		printf "Already done. Skipping.\n"
+    continue
+  fi
   printf "Searching: %s\n" "$SRA"
   esearch -db sra -query $SRA | esummary | xtract -pattern DocumentSummary -element Sample@acc Run@acc Experiment@acc Platform instrument_model LIBRARY_STRATEGY Summary -element Statistics@total_bases > accessions.ls
   cat accessions.ls >> all_accessions.ls
@@ -21,15 +24,17 @@ do
   cat accessions.ls
   printf "downloading...\n"
 
-  grep SMRT accessions.ls | awk '{if ($6!=0) print}' | parallel -j 32 --colsep '\t' fasterq-dump {2}
+  grep SMRT accessions.ls | grep WGS accessions.ls | awk '{if ($6!=0) print}' | parallel -j 32 --colsep '\t' fasterq-dump {2}
 
   printf "Computing summary statistics...\n"
   printf "%s\t" "$SRA" >> rdeval.tsv
   rdeval -r *.fastq | awk -F': ' '{print $2}' | sed 1d | sed -z 's/\n/\t/g; s/.$//' >> rdeval.tsv
+  printf "\n" >> rdeval.tsv
 
   printf "Computing Cumulative inverse distribution...\n"
   printf "%s\t" "$SRA" >> rdevalCumInv.tsv
   rdeval *.fastq -s c | sed -z 's/\n/;/g' >> rdevalCumInv.tsv
+  printf "\n" >> rdevalCumInv.tsv
 
 	rm -f *.fastq
-done 3< <(grep 'ERS\|SRS' raw_data_metadata.ls)
+done 3< <(grep 'ERS\|SRS' raw_data_metadata.ls | grep -v alt)
