@@ -46,6 +46,7 @@ openSession("chromosomes.cys")
 
 setVisualStyle('default')
 setEdgeLineWidthDefault(0.01)
+setEdgeColorDefault('#f0f0f0')
 
 network <- getNetworkSuid()
 #getVisualPropertyNames() # handy to find node properties
@@ -81,7 +82,6 @@ for (i in 1:community_count) {
   
   createGroupByColumn(as.character(community_list[[i]]), column = 'community_leuvain', value = community_list[[i]])
   group <- collapseGroup(groups = as.character(community_list[[i]]))
-  print(group)
 
   angle_deg <- (start_angle_deg + ((i-1) * degrees_per_iter)) %% 360
   x <- 5000 * cos(angle_deg * pi/180)
@@ -100,6 +100,8 @@ community_list <- small_communities$community_leuvain
 community_count <- length(community_list)
 degrees_per_iter <- 360 / community_count
 start_angle_deg <- 270
+e <- 0
+y <- 6000
 
 for (i in 1:community_count) {
   
@@ -107,8 +109,13 @@ for (i in 1:community_count) {
   group <- collapseGroup(groups = as.character(community_list[[i]]))
   print(group)
   
-  x <- 5000 + i * 200
-  y <- 5000
+  x <- 3000 + e * 200
+
+  if (i > community_count/2) {
+    e <- 0
+    y = 6500
+  }
+  e <- e + 1
   
   setNodePropertyBypass(community_list[[i]], x, "NODE_X_LOCATION", bypass = TRUE)
   setNodePropertyBypass(community_list[[i]], y, "NODE_Y_LOCATION", bypass = TRUE)
