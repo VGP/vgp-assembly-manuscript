@@ -13,7 +13,7 @@ do
 		printf "Skipping for subsampling.\n"
     continue
   fi
-if grep -q "$SRA" all_accessions.ls; then
+  if grep -q "$SRA" all_accessions.ls; then
 		printf "Already done. Skipping.\n"
     continue
   fi
