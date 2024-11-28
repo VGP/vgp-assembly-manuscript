@@ -1,5 +1,8 @@
-# VGP assembly mash graph
-## Download VGP metadata from NCBI
+# VGP assembly taxonomy
+## Option 1: use https://tree.opentreeoflife.org/ taxonomy (preferred)
+We can do everything in R using [VGP_ordinal.R](VGP_ordinal.R).
+
+## Option 2: Download VGP metadata from NCBI
 NCBI's dataset utility can be downloaded from [here](https://www.ncbi.nlm.nih.gov/datasets/docs/v2/download-and-install/).
 Download VGP Bioproject metadata:
 ```
