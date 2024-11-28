@@ -56,7 +56,7 @@ setCurrentNetwork('louvain_(none)_outliers.csv')
 communities <- getTableColumns(columns = 'CD_MemberList') 
 communities <- sapply(strsplit(as.character(communities$CD_MemberList), " "), function(x) x)
 
-communities <- Filter(function(x){length(x)<1000},communities) # remove very large communities
+communities <- Filter(function(x){length(x)<1000 && length(x)>10},communities) # remove very large communities and too small
 
 len = lengths(communities)
 community_assignments <- data.frame(name = unlist(communities), community_leuvain = rep(seq_along(len), len), id = sequence(len))
@@ -70,21 +70,23 @@ loadTableData(
 )
 
 # clock coordinates
-community_list <- unique(community_assignments$community_leuvain)
+community_list <- names(sort(table(community_assignments$community_leuvain), decreasing=TRUE))
 community_count <- length(community_list)
 degrees_per_iter <- 360 / community_count
-start_angle_deg <- 90
+start_angle_deg <- 270
 
 for (i in 1:community_count) {
   
-  filter <- createColumnFilter(filter.name=as.character(community_list[[i]]), column='community_leuvain', community_list[[i]], 'IS')
-  #getSelectedNodes() # handy handle to selected nodes
-  positions <- getNodePosition(filter$nodes)
-  
+  createGroupByColumn(as.character(community_list[[i]]), column = 'community_leuvain', value = community_list[[i]])
+  group <- collapseGroup(groups = as.character(community_list[[i]]))
+  print(group)
+
   angle_deg <- (start_angle_deg + ((i-1) * degrees_per_iter)) %% 360
+  x <- 5000 * cos(angle_deg * pi/180)
+  y <- 5000 * sin(angle_deg * pi/180)
   
-  x <- 100 * cos(angle_deg * pi/180)
-  y <- 100 * sin(angle_deg * pi/180)
+  setNodePropertyBypass(community_list[[i]], x, "NODE_X_LOCATION", bypass = TRUE)
+  setNodePropertyBypass(community_list[[i]], y, "NODE_Y_LOCATION", bypass = TRUE)
   
-  positions %>% by_row(place, mean(positions$x_location), mean(positions$y_location), x, y)
+  expandGroup(groups = community_list[[i]])
 }
