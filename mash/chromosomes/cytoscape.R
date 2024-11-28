@@ -45,7 +45,7 @@ place <- function(row, centroid_x, centroid_y, x, y){
 openSession("chromosomes.cys")
 
 setVisualStyle('default')
-setEdgeLineWidthDefault(0.5)
+setEdgeLineWidthDefault(1)
 setEdgeColorDefault('#f0f0f0')
 
 network <- getNetworkSuid()
@@ -102,6 +102,7 @@ degrees_per_iter <- 360 / community_count
 start_angle_deg <- 270
 e <- 0
 y <- 6000
+nextline <- TRUE
 
 for (i in 1:community_count) {
   
@@ -111,9 +112,10 @@ for (i in 1:community_count) {
   
   x <- -5000 + e * 200
 
-  if (i > community_count/2) {
+  if (i > community_count/2 && nextline) {
     e <- 0
     y = 6500
+    nextline <- FALSE
   }
   e <- e + 1
   
