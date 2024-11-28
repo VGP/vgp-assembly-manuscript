@@ -45,7 +45,7 @@ place <- function(row, centroid_x, centroid_y, x, y){
 openSession("chromosomes.cys")
 
 setVisualStyle('default')
-setEdgeLineWidthDefault(0.01)
+setEdgeLineWidthDefault(0.5)
 setEdgeColorDefault('#f0f0f0')
 
 network <- getNetworkSuid()
@@ -109,7 +109,7 @@ for (i in 1:community_count) {
   group <- collapseGroup(groups = as.character(community_list[[i]]))
   print(group)
   
-  x <- 3000 + e * 200
+  x <- -5000 + e * 200
 
   if (i > community_count/2) {
     e <- 0
