@@ -9,7 +9,7 @@ function parallel_download() {
   fasterq-dump $accession
 }
 export -f parallel_download
-
+rm -f all_accessions.ls
 SEED=42
 if [ ! -s rdeval.tsv ]; then # add header
   printf 'SRS\t# reads\tTotal read length\tAverage read length\tRead N50\tSmallest read length\tLargest read length\tCoverage\tGC content\tBase composition (A:C:T:G)\tAverage read quality\n' >> rdeval.tsv
