@@ -33,9 +33,8 @@ do
     continue
   fi
 
-grep SMRT accessions.ls | grep WGS accessions.ls | awk '{if ($6!=0) print $2}'
-  echo "${job_list[@]}"
-  parallel -j 32 parallel_download ::: "${job_list[@]}"
+  readarray -t job_list <(grep SMRT accessions.ls | grep WGS accessions.ls | awk '{if ($6!=0) print $2}')
+  env_parallel -j 32 parallel_download ::: "${job_list[@]}"
 
   printf "Computing summary statistics...\n"
   printf "%s\t" "$SRA" >> rdeval.tsv
