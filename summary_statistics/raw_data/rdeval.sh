@@ -33,7 +33,7 @@ do
     continue
   fi
 
-  grep SMRT accessions.ls | grep WGS accessions.ls | awk '{if ($6!=0) print}' | parallel -j 32 --colsep '\t' {2} parallel_download
+  grep SMRT accessions.ls | grep WGS accessions.ls | awk '{if ($6!=0) print}' | parallel -j 32 parallel_download ::: --colsep '\t' {2} 
 
   printf "Computing summary statistics...\n"
   printf "%s\t" "$SRA" >> rdeval.tsv
