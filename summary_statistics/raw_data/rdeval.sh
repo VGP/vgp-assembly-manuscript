@@ -3,7 +3,7 @@ set -e
 
 function parallel_download() {
   accession="$1"
-   printf "downloading accession $accession\n"
+  printf "downloading accession $accession\n"
   prefetch $accession --max-size u
   fasterq-dump $accession
 }
@@ -33,8 +33,9 @@ do
     continue
   fi
 
-  grep SMRT accessions.ls | grep WGS accessions.ls | awk '{if ($6!=0) print}' | parallel -j 32 --colsep '\t' parallel_download {2}
-
+  readarray -t job_list <(grep SMRT accessions.ls | grep WGS accessions.ls | awk '{if ($6!=0) print $2}')
+  parallel -j 32 parallel_download  "${job_list[@]}"
+ 
   printf "Computing summary statistics...\n"
   printf "%s\t" "$SRA" >> rdeval.tsv
   rdeval -r *.fastq | awk -F': ' '{print $2}' | sed 1d | sed -z 's/\n/\t/g; s/.$//' >> rdeval.tsv
