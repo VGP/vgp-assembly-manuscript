@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-function parallel_download {
+function parallel_download() {
   accession="$1"
   prefetch $accession --max-size u
   fasterq-dump $accession
