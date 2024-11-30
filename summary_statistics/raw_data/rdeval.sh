@@ -1,6 +1,12 @@
 #!/bin/bash
 set -e
 
+function parallel_download {
+  accession="$1"
+  prefetch $accession --max-size u
+  fasterq-dump $accession
+}
+
 SEED=42
 printf 'SRS\t# reads\tTotal read length\tAverage read length\tRead N50\tSmallest read length\tLargest read length\tCoverage\tGC content\tBase composition (A:C:T:G)\tAverage read quality\n' >> rdeval.tsv
 while IFS="," read -r -u 3 accession tolid SRA
@@ -24,7 +30,7 @@ do
   cat accessions.ls
   printf "downloading...\n"
 
-  grep SMRT accessions.ls | grep WGS accessions.ls | awk '{if ($6!=0) print}' | parallel -j 32 --colsep '\t' fasterq-dump {2}
+  grep SMRT accessions.ls | grep WGS accessions.ls | awk '{if ($6!=0) print}' | parallel -j 32 --colsep '\t' parallel_download ::: {2}
 
   printf "Computing summary statistics...\n"
   printf "%s\t" "$SRA" >> rdeval.tsv
