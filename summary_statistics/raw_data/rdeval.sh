@@ -3,6 +3,7 @@ set -e
 
 function parallel_download() {
   accession="$1"
+   printf "downloading accession $accession\n"
   prefetch $accession --max-size u
   fasterq-dump $accession
 }
@@ -31,7 +32,6 @@ do
 		printf "Already done. Skipping.\n"
     continue
   fi
-  printf "downloading...\n"
 
   grep SMRT accessions.ls | grep WGS accessions.ls | awk '{if ($6!=0) print}' | parallel -j 32 --colsep '\t' parallel_download ::: {2}
 
