@@ -34,8 +34,9 @@ do
   fi
 
   readarray -t job_list <(grep SMRT accessions.ls | grep WGS accessions.ls | awk '{if ($6!=0) print $2}')
+  echo ${job_list[@]}
   parallel -j 32 parallel_download  "${job_list[@]}"
- 
+
   printf "Computing summary statistics...\n"
   printf "%s\t" "$SRA" >> rdeval.tsv
   rdeval -r *.fastq | awk -F': ' '{print $2}' | sed 1d | sed -z 's/\n/\t/g; s/.$//' >> rdeval.tsv
