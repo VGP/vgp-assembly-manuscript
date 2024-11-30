@@ -19,15 +19,15 @@ do
 		printf "Skipping for subsampling.\n"
     continue
   fi
-  if grep -q "$SRA" all_accessions.ls; then
-		printf "Already done. Skipping.\n"
-    continue
-  fi
   printf "Searching: %s\n" "$SRA"
   esearch -db sra -query $SRA | esummary | xtract -pattern DocumentSummary -element Sample@acc Run@acc Experiment@acc Platform instrument_model LIBRARY_STRATEGY Summary -element Statistics@total_bases > accessions.ls
   cat accessions.ls >> all_accessions.ls
   printf "Found records:\n"
   cat accessions.ls
+  if grep -q "$SRA" rdeval.tsv; then
+		printf "Already done. Skipping.\n"
+    continue
+  fi
   printf "downloading...\n"
 
   grep SMRT accessions.ls | grep WGS accessions.ls | awk '{if ($6!=0) print}' | parallel -j 32 --colsep '\t' parallel_download ::: {2}
