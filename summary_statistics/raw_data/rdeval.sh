@@ -8,7 +8,9 @@ function parallel_download {
 }
 
 SEED=42
-printf 'SRS\t# reads\tTotal read length\tAverage read length\tRead N50\tSmallest read length\tLargest read length\tCoverage\tGC content\tBase composition (A:C:T:G)\tAverage read quality\n' >> rdeval.tsv
+if [ ! -s rdeval.tsv ]; then # add header
+  printf 'SRS\t# reads\tTotal read length\tAverage read length\tRead N50\tSmallest read length\tLargest read length\tCoverage\tGC content\tBase composition (A:C:T:G)\tAverage read quality\n' >> rdeval.tsv
+fi
 while IFS="," read -r -u 3 accession tolid SRA
 do
 	RANDOM=$SEED
