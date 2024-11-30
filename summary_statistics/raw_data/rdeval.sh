@@ -25,7 +25,7 @@ do
     continue
   fi
   printf "Searching: %s\n" "$SRA"
-  eval "esearch -db sra -query $SRA | esummary | xtract -pattern DocumentSummary -element Sample@acc Run@acc Experiment@acc Platform instrument_model LIBRARY_STRATEGY Summary -element Statistics@total_bases > accessions.ls"
+  esearch -db sra -query $SRA | esummary | xtract -pattern DocumentSummary -element Sample@acc Run@acc Experiment@acc Platform instrument_model LIBRARY_STRATEGY Summary -element Statistics@total_bases > accessions.ls
   cat accessions.ls >> all_accessions.ls
   printf "Found records:\n"
   cat accessions.ls
