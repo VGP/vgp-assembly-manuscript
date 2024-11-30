@@ -26,7 +26,7 @@ do
   fi
   printf "Searching: %s\n" "$SRA"
   esearch -db sra -query $SRA | esummary | xtract -pattern DocumentSummary -element Sample@acc Run@acc Experiment@acc Platform instrument_model LIBRARY_STRATEGY Summary -element Statistics@total_bases > accessions.ls
-  cat accessions.ls >> all_accessions.ls
+  grep SMRT accessions.ls | grep WGS | awk '{if ($6!=0) print}' >> all_accessions.ls
   printf "Found records:\n"
   cat accessions.ls
   if grep -q "$SRA" rdeval.tsv; then
@@ -34,7 +34,7 @@ do
     continue
   fi
 
-  grep SMRT accessions.ls | grep WGS | awk '{if ($6!=0) print}' | env_parallel -j 32 --colsep '\t' parallel_download {2}
+  cat accession.ls | env_parallel -j 32 --colsep '\t' parallel_download {2}
 
   printf "Computing summary statistics...\n"
   printf "%s\t" "$SRA" >> rdeval.tsv
