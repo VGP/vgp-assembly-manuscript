@@ -7,7 +7,6 @@ function parallel_download() {
   prefetch $accession --max-size u
   fasterq-dump $accession
 }
-export -f parallel_download
 
 SEED=42
 if [ ! -s rdeval.tsv ]; then # add header
@@ -33,6 +32,7 @@ do
     continue
   fi
 
+  export -f parallel_download
   readarray -t job_list <(grep SMRT accessions.ls | grep WGS accessions.ls | awk '{if ($6!=0) print $2}')
   parallel -j 32 parallel_download ::: "${job_list[@]}"
 
