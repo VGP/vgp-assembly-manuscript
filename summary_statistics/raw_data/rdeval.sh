@@ -1,5 +1,6 @@
 #!/bin/bash
 set -e
+. env_parallel.bash
 
 function parallel_download() {
   accession="$1"
