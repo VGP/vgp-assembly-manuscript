@@ -6,6 +6,7 @@ function parallel_download() {
   prefetch $accession --max-size u
   fasterq-dump $accession
 }
+export -f parallel_download
 
 SEED=42
 if [ ! -s rdeval.tsv ]; then # add header
@@ -32,7 +33,7 @@ do
   fi
   printf "downloading...\n"
 
-  grep SMRT accessions.ls | grep WGS accessions.ls | awk '{if ($6!=0) print}' | parallel -j 32 --colsep '\t' parallel_download ::: {2}
+  grep SMRT accessions.ls | grep WGS accessions.ls | awk '{if ($6!=0) print}' | parallel -j 32 --colsep '\t' parallel_download ::: 2
 
   printf "Computing summary statistics...\n"
   printf "%s\t" "$SRA" >> rdeval.tsv
