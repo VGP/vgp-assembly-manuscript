@@ -2,11 +2,9 @@ import pandas as pd
 import sys
 
 def compute_outliers(x):
-    D_avg = x.mean()
-    D_min = x.min()
-    zscore = -(x - x.mean()) / x.std()
-    is_outlier = zscore > 3.29 # 1/1000 in normal distribution
-    return D_avg, D_min, zscore, is_outlier
+    z_score= -(x - x.mean()) / x.std()
+    is_outlier = z_score > 3.29 # 1/1000 in normal distribution
+    return pd.concat([z_score, is_outlier], ignore_index=True, axis=1)
 
 pd.set_option('display.max_columns', None)
 pd.set_option('display.max_rows', None)
@@ -19,8 +17,8 @@ df = pd.read_csv(sys.argv[1], header=None, sep="\t", names=['Accession', 'Chr 1'
 df = df[df['D'] < 0.5]
 
 # detect outliers using Z-score
-df[['D_avg_value', 'D_min_value', 'Z_score', 'is_outlier']] = df.groupby(['Chr 2'], sort=False)['D'].transform(compute_outliers).tolist()
-
+result = df.groupby(['Chr 2'], sort=False)['D'].apply(compute_outliers)
+df[['z_score','is_outlier']]  = result.droplevel(0)
 df = df.loc[df["is_outlier"] == True]
 df.drop('is_outlier', axis=1, inplace=True)
 
