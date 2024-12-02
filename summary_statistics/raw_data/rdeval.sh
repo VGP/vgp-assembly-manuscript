@@ -34,7 +34,7 @@ do
     continue
   fi
 
-  cat accession.ls | env_parallel -j 32 --colsep '\t' parallel_download {2}
+  cat accessions.ls | env_parallel -j 32 --colsep '\t' parallel_download {2}
 
   printf "Computing summary statistics...\n"
   printf "%s\t" "$SRA" >> rdeval.tsv
