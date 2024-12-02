@@ -2,7 +2,7 @@ import pandas as pd
 import sys
 
 def compute_outliers(x):
-    D_avg = x.avg()
+    D_avg = x.mean()
     D_min = x.min()
     zscore = -(x - x.mean()) / x.std()
     is_outlier = zscore > 3.29 # 1/1000 in normal distribution
@@ -22,5 +22,6 @@ df = df[df['D'] < 0.5]
 df[['D_avg_value', 'D_min_value', 'Z_score', 'is_outlier']] = df.groupby(['Chr 2'], sort=False)['D'].transform(compute_outliers).tolist()
 
 df = df.loc[df["is_outlier"] == True]
+df.drop('is_outlier', axis=1, inplace=True)
 
 df.to_csv('human_outliers.csv', index=False)
