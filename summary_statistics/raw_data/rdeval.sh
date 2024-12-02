@@ -4,8 +4,15 @@ set -e
 
 function parallel_download() {
   accession="$1"
-  printf "downloading accession $accession\n"
-  prefetch $accession --max-size u
+  printf "prefetch accession $accession\n"
+  counter=1
+  while [[ $counter -le 10 ]] ; do
+    printf "attempt $counter\n"
+    prefetch $accession --max-size u && break
+    ((counter++))
+  done
+
+  printf "sra to fastq for accession $accession\n"
   fasterq-dump $accession
 }
 export -f parallel_download
