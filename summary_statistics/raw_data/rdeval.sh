@@ -13,7 +13,12 @@ function parallel_download() {
   done
 
   printf "sra to fastq for accession $accession\n"
-  fasterq-dump $accession
+  counter=1
+  while [[ $counter -le 10 ]] ; do
+    printf "attempt $counter\n"
+    fasterq-dump $accession && break
+    ((counter++))
+  done
 }
 export -f parallel_download
 rm -f all_accessions.ls
@@ -32,7 +37,7 @@ do
     continue
   fi
   printf "Searching: %s\n" "$SRA"
-  esearch -db sra -query $SRA | esummary | xtract -pattern DocumentSummary -element Sample@acc Run@acc Experiment@acc Platform instrument_model LIBRARY_STRATEGY Summary -element Statistics@total_bases | grep SMRT | grep WGS | awk '{if ($6!=0) print}' > accessions.ls
+  esearch -db sra -query $SRA | esummary | xtract -pattern DocumentSummary -element Sample@acc Run@acc Experiment@acc Platform instrument_model LIBRARY_STRATEGY Summary -element Statistics@total_bases | grep SMRT | grep 'WGS\|WGA' | awk '{if ($6!=0) print}' > accessions.ls
   cat accessions.ls >> all_accessions.ls
   printf "Found records:\n"
   cat accessions.ls
