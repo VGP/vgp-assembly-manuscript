@@ -1,0 +1,828 @@
+Accession	Complete_compleasm	Single_compleasm	Duplicated_compleasm	Fragmented_compleasm	Missing_compleasm	Frameshift_compleasm	Tax_ID	Submission_Date	Species_name	Super_class	Class	Infra_class	Sub_class	Super_order	Order	Sequencing_type	Submitter
+GCF_027475565.1	3354	3348	6	0	0	98	32536	2022-12-28	Acinonyx jubatus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing	University of Veterinary Medicine
+GCA_029890205.1	3351	3317	34	0	3	96	10068	2023-05-01	Acomys cahirinus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Oxford Nanopore	lanzhou university
+GCA_907164435.1	3297	3217	80	42	15	95	60744	2021-07-06	Acomys dimidiatus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing	WELLCOME TRUST SANGER INSTITUTE
+GCA_907164505.1	3271	3249	22	21	62	121	83762	2021-07-06	Acomys kempi	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing	WELLCOME TRUST SANGER INSTITUTE
+GCA_964271855.1	3347	3312	35	1	6	87	83528	2024-10-03	Acomys minous	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi	Genoscope CEA
+GCA_907169655.1	3325	3274	51	18	10	147	83527	2021-07-06	Acomys percivali	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing	WELLCOME TRUST SANGER INSTITUTE
+GCF_903995435.1	3344	3315	29	5	5	118	60746	2020-08-21	Acomys russatus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio CLR	SC
+GCA_044231825.1	3339	3209	130	3	12	128	59515	2024-11-01	Addax nasomaculatus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Oxford Nanopore	Northwestern Polytechnical University
+GCA_011751065.3	3253	3154	99	45	55	144	257879	2024-10-08	Aeorestes cinereus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing	United States Geological Survey
+GCA_006408695.1	2961	2913	48	317	71	1143	9897	2019-06-24	Aepyceros melampus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Northwestern Polytechnical University
+GCF_002007445.2	3322	3307	15	24	8	137	9646	2020-04-20	Ailuropoda melanoleuca	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	Institute of Zoology, Chinese Academy of Sciences
+GCA_002007465.1	3310	3276	34	35	8	125	424585	2017-02-28	Ailurus styani	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	Institute of Zoology, Chinese Academy of Sciences
+GCA_006408545.1	310	304	6	1206	1807	252	59517	2019-06-24	Alcelaphus buselaphus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Northwestern Polytechnical University
+GCA_964270355.1	3353	3235	118	1	0	257	9852	2024-09-28	Alces alces	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Oxford Nanopore	Norwegian University of Life Sciences
+GCF_014885135.2	3318	3246	72	13	23	124	100897	2020-10-13	Alexandromys fortis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Shanghai Institute for Biological Sciences, Chinese Academy of Sciences
+GCA_963919705.1	3350	3275	75	0	4	126	2162900	2023-12-20	Alexandromys oeconomus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing	NORWEGIAN UNIVERSITY OF LIFE SCIENCES
+GCA_963574245.1	2054	2007	47	1005	269	227	54135	2023-11-03	Allenopithecus nigroviridis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574325.1	2124	2072	52	988	219	206	100224	2023-11-02	Allochrocebus lhoesti	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574925.1	2049	2000	49	1036	250	192	147649	2023-11-03	Allochrocebus preussi	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963575195.1	1977	1927	50	1077	278	219	147650	2023-11-03	Allochrocebus solatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574145.1	1941	1876	65	1091	292	251	30590	2023-11-02	Alouatta belzebul	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963575295.1	1902	1835	67	1122	302	243	9502	2023-11-02	Alouatta caraya	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963575205.1	1937	1884	53	1066	323	227	2905217	2023-11-02	Alouatta discolor	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574365.1	1905	1842	63	1107	318	245	2946512	2023-11-02	Alouatta juara	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963573945.1	1854	1789	65	1167	311	261	198115	2023-11-02	Alouatta macconnelli	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_004027835.1	2582	2454	128	626	132	207	30589	2019-01-16	Alouatta palliata	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	Broad Institute
+GCA_963574235.1	1897	1828	69	1116	317	263	1347729	2023-11-02	Alouatta seniculus puruensis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_004027475.1	3066	3042	24	246	39	123	27642	2019-01-16	Anoura caudifer	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Illumina	Broad Institute
+GCF_016432865.1	3290	3249	41	8	56	117	38775	2021-01-06	Antechinus flavipes	Sarcopterygii	Mammalia				Dasyuromorphia	missing	Nanjing Normal University
+GCA_016696395.1	3316	3255	61	22	16	133	9283	2021-01-15	Antechinus stuartii	Sarcopterygii	Mammalia				Dasyuromorphia	Illumina	University of Sydney
+GCA_006408585.1	3002	2939	63	286	63	203	59523	2019-06-24	Antidorcas marsupialis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Northwestern Polytechnical University
+GCA_007570785.1	3338	3191	147	12	4	125	9891	2019-07-12	Antilocapra americana	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Canadas Genomic Enterprise
+GCA_027563665.1	3341	3227	114	1	12	149	9440	2023-01-09	Antrozous pallidus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio CLR	Bat1K
+GCA_963573465.1	2041	1984	57	1026	269	264	30591	2023-11-01	Aotus azarai	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574505.1	2055	2006	49	1017	257	258	292213	2023-11-01	Aotus griseimembra	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCF_030222135.1	3353	3247	106	0	1	114	37293	2023-06-07	Aotus nancymaae	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio HiFi	University of Washington
+GCA_963574785.1	2057	1992	65	1013	258	267	9505	2023-11-01	Aotus trivirgatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963573775.1	2035	1984	51	1027	262	277	57176	2023-11-01	Aotus vociferans	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_004027875.1	2529	2488	41	659	153	140	51342	2019-01-16	Aplodontia rufa	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Broad Institute
+GCA_964023405.1	3350	3321	29	1	3	84	39030	2024-04-12	Apodemus agrarius	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Oxford Nanopore	Centro Nacional de Análisis Genómico
+GCA_002335545.1	1846	1827	19	953	544	457	105296	2017-09-12	Apodemus speciosus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	University of the Ryukyus
+GCF_947179515.1	3348	3318	30	2	4	106	10129	2022-10-28	Apodemus sylvaticus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_963573935.1	1903	1796	107	1076	348	426	261739	2023-11-02	Arctocebus calabarensis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_040869175.1	3354	3250	104	0	0	112	37190	2024-07-25	Arctocephalus gazella	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi	Univeristy Bielefeld
+GCA_028646355.1	3288	3196	92	49	16	162	161921	2023-02-16	Arctocephalus townsendi	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	DNA Zoo
+GCA_038363225.1	3252	3218	34	10	92	120	51014	2024-04-22	Artibeus intermedius	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi	Bat1K Project
+GCF_021234435.1	3341	3329	12	9	4	102	9417	2021-12-20	Artibeus jamaicensis	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Oxford Nanopore	CSHL
+GCA_038363175.2	3251	3230	21	10	93	118	27634	2024-05-17	Artibeus lituratus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi	Bat1K Project
+GCF_011762505.1	3343	3282	61	3	8	103	61156	2020-03-27	Arvicanthis niloticus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio CLR	Vertebrate Genomes Project
+GCA_011762505.2	3343	3282	61	3	8	103	61156	2024-10-22	Arvicanthis niloticus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio CLR	Vertebrate Genomes Project
+GCF_903992535.2	3345	3284	61	3	6	205	1047088	2021-05-15	Arvicola amphibius	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio CLR	Wellcome Sanger Institute
+GCA_043727835.1	3351	3292	59	1	2	107	188568	2024-10-24	Aselliscus stoliczkanus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi	Bat1K
+GCA_963573605.1	2397	2357	40	780	161	202	9507	2023-10-31	Ateles belzebuth	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574935.1	2414	2361	53	786	137	194	118643	2023-10-31	Ateles chamek	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_036589455.1	3267	3144	123	21	66	1430	9508	2024-02-13	Ateles fusciceps	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore	Iridian Genomes
+GCA_023783555.1	3340	3281	59	9	5	240	9509	2022-06-17	Ateles geoffroyi	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio RSII	BGI-Shenzhen
+GCA_916098195.1	3350	3293	57	3	1	1526	129801	2021-09-22	Ateles hybridus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing	IBE (Institut de Biologia Evolutiva))
+GCA_963573555.1	2434	2386	48	739	166	187	1529884	2023-11-02	Ateles marginatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963573985.1	2468	2424	44	717	150	185	9510	2023-10-31	Ateles paniscus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963575035.1	2045	2020	25	1036	256	166	122246	2023-10-31	Avahi laniger	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963573525.1	1734	1714	20	1168	411	184	1313323	2023-10-30	Avahi peyrierasi	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_003798545.1	3342	3226	116	6	6	104	57737	2018-11-20	Axis porcinus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Novogene Bioinformatics Technology Corporation
+GCA_028533215.1	3095	3072	23	198	61	177	1303000	2023-02-09	Babyrousa celebensis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	DNA Zoo
+GCF_949987535.1	3345	3280	65	5	4	119	9767	2023-05-01	Balaenoptera acutorostrata	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_000978805.1	1855	1819	36	1137	335	243	33556	2015-03-18	Balaenoptera bonaerensis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Division of Biological Science, Graduate School of Science, Kyoto University
+GCF_009873245.2	3350	3276	74	1	3	160	9771	2020-10-02	Balaenoptera musculus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio CLR	G10K
+GCA_023338255.1	3292	3228	64	47	13	135	9770	2022-05-11	Balaenoptera physalus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing	Senckenberg BiK-F
+GCF_028023285.1	3350	3280	70	1	3	92	2746895	2023-01-30	Balaenoptera ricei	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi	Vertebrate Genomes Project
+GCA_004027495.1	2698	2669	29	520	125	121	59527	2019-01-16	Beatragus hunteri	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Broad Institute
+GCA_023548195.1	3340	3285	55	5	9	93	881300	2022-05-25	Bettongia penicillata ogilbyi	Sarcopterygii	Mammalia				Diprotodontia	missing	The University of Sydney
+GCF_000754665.1	3253	3200	53	82	19	242	43346	2014-10-08	Bison bison bison	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	University of Maryland
+GCA_963879515.1	3351	3286	65	1	2	99	9902	2023-12-17	Bison bonasus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi	ETH ZURICH
+GCA_043643345.1	3319	3262	57	2	33	172	30520	2024-10-24	Bos frontalis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio RSII	yunnan university
+GCA_014182915.2	3350	3297	53	2	2	298	9904	2020-08-14	Bos gaurus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing	USDA, ARS, USMARC
+GCA_946052875.1	3353	3293	60	1	0	104	1705790	2022-09-11	Bos gaurus x Bos taurus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing	ETH ZURICH
+GCA_005887515.3	3266	3222	44	13	75	301	30521	2019-06-10	Bos grunniens	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Oxford Nanopore	Lanzhou University
+GCA_009493645.1	3352	3294	58	2	0	150	331036	2019-11-04	Bos grunniens x Bos taurus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	University of Nebraska - Lincoln
+GCF_000247795.1	3206	3136	70	39	109	170	9915	2014-11-25	Bos indicus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing	Genoa Biotecnologia SA   
+GCF_003369695.1	3342	3285	57	3	9	122	30522	2018-11-30	Bos indicus x Bos taurus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio RSII	University of Adelaide
+GCF_032452875.1	3353	3300	53	1	0	105	9906	2023-10-11	Bos javanicus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Oxford Nanopore	Ruminant T2T Consortium
+GCF_000298355.1	3301	3273	28	44	9	247	72004	2013-01-09	Bos mutus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	BGI-shenzhen
+GCF_002263795.3	3353	3292	61	1	0	109	9913	2023-07-01	Bos taurus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio CLR	USDA ARS
+GCA_018282465.1	3353	3296	57	1	0	125	297284	2021-05-06	Bos taurus x Bison bison	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Oxford Nanopore	USDA ARS
+GCA_004027775.1	1284	1223	61	909	1150	448	9355	2019-01-16	Bradypus variegatus	Sarcopterygii	Mammalia			Xenarthra	Pilosa	Illumina	Broad Institute
+GCA_001685075.1	3046	3010	36	244	62	292	3370998	2016-07-14	Bramus lutescens	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Erasmus medical center (ErasmusMC)
+GCF_019923935.1	3341	3294	47	6	7	109	89462	2021-09-10	Bubalus bubalis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio CLR	National Dairy Development Board, India
+GCA_025584935.1	2512	2469	43	673	157	141	27596	2022-10-05	Bubalus depressicornis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Museum national dHistoire naturelle
+GCF_029407905.1	3353	3302	51	1	0	96	3119969	2023-03-31	Bubalus kerabau	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi	University of Adelaide
+GCF_023091745.1	3353	3262	91	1	0	97	37181	2022-04-22	Budorcas taxicolor	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi	Northwest A&F University
+GCA_029593785.1	1816	1688	128	1118	387	455	48852	2023-04-05	Cabassous unicinctus	Sarcopterygii	Mammalia			Xenarthra	Cingulata	Illumina	CNRS - Universite de Montpellier
+GCA_963573425.1	2609	2578	31	616	122	152	535896	2023-10-31	Cacajao ayresi	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963573955.1	2571	2542	29	636	136	150	30596	2023-10-31	Cacajao calvus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963573795.1	2582	2548	34	647	115	160	535897	2023-10-31	Cacajao hosomi	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963573385.1	2555	2534	21	658	131	150	70825	2023-11-01	Cacajao melanocephalus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963573925.1	1785	1733	52	1191	348	298	9495	2023-11-02	Callimico goeldii	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963573515.1	1480	1441	39	1335	507	337	52231	2023-10-31	Callithrix geoffroyi	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCF_011100555.1	3347	3254	93	4	3	124	9483	2021-04-28	Callithrix jacchus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio CLR	Vertebrate Genomes Project
+GCA_963573495.1	1567	1519	48	1296	457	338	867363	2023-11-01	Callithrix kuhlii	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCF_003265705.1	3347	2875	472	4	3	122	34884	2018-06-26	Callorhinus ursinus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	Canadas Genomics Enterprise
+GCF_000767855.1	3306	3295	11	38	10	225	9837	2014-10-23	Camelus bactrianus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Inner Mongolia Agricultural University, P.R.China
+GCF_036321535.1	3313	3293	20	3	38	96	9838	2024-01-31	Camelus dromedarius	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi	Vertebrate Genomes Project
+GCF_009834535.1	3338	3327	11	13	3	187	419612	2020-01-08	Camelus ferus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio CLR	The Bactrian Camels Genome Sequencing and Analysis Consortium
+GCA_034620425.1	3340	3284	56	1	13	289	9614	2023-12-27	Canis latrans	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing	Texas A&M University
+GCF_003254725.2	3352	3295	57	1	1	121	286419	2020-09-11	Canis lupus dingo	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio CLR	James Cook University
+GCF_011100685.1	3351	3285	66	1	2	126	9615	2020-03-10	Canis lupus familiaris	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio CLR	Uppsala University
+GCA_029224305.1	2474	2402	72	689	178	347	27604	2023-03-16	Caperea marginata	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing	Senckenberg BiK-F, LOEWE-TBG
+GCA_000978405.1	3184	3134	50	129	41	212	9923	2015-04-24	Capra aegagrus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	BGI
+GCA_038502695.1	1641	1623	18	1254	437	159	48167	2024-04-26	Capra falconeri	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Hazara university Mansehra
+GCF_001704415.2	3345	3286	59	8	1	112	9925	2016-08-24	Capra hircus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing	USDA ARS
+GCA_006410555.1	1965	1935	30	55	1334	158	72542	2019-06-24	Capra ibex	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Northwestern Polytechnical University
+GCA_003182615.2	3347	3285	62	7	0	99	72544	2018-10-30	Capra sibirica	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Northwest A&F University
+GCA_951849835.1	3351	3227	124	1	2	139	9858	2023-07-15	Capreolus capreolus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi	ETH ZURICH
+GCA_012922965.1	3320	3227	93	26	7	128	48560	2020-04-28	Capreolus pygargus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Northwestern Polytechnical University
+GCF_032405125.1	3353	3277	76	1	0	87	34865	2024-03-13	Capricornis sumatraensis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi	Northwest A&F University
+GCA_004027915.1	1785	1692	93	990	549	373	34842	2019-01-16	Capromys pilorides	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Broad Institute
+GCA_016801355.1	3303	3293	10	41	9	125	61394	2021-02-02	Caracal caracal	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	Felidae consortium
+GCF_000164805.1	3128	3088	40	172	49	166	1868482	2013-09-18	Carlito syrichta	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	Washington University (WashU)
+GCA_004027735.1	1756	1727	29	1167	394	176	40233	2019-01-16	Carollia perspicillata	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Illumina	Broad Institute
+GCF_001984765.1	3059	3001	58	232	60	300	51338	2017-02-04	Castor canadensis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Hospital for Sick Children
+GCA_004024745.2	3342	3330	12	7	5	108	51154	2019-07-15	Catagonus wagneri	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Broad Institute
+GCA_000688575.1	2758	2734	24	357	239	483	37548	2014-01-21	Cavia aperea	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Leibniz Institute for Zoo and Wildlife research
+GCF_034190915.1	3350	3318	32	1	3	92	10141	2023-12-07	Cavia porcellus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi	University of Maryland
+GCA_004027695.1	2962	2940	22	328	59	118	143287	2019-01-16	Cavia tschudii	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Broad Institute
+GCA_963575025.1	2086	2017	69	994	257	258	2826950	2023-11-02	Cebuella niveiventris	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963575105.1	2083	2011	72	1003	244	271	9493	2023-11-02	Cebuella pygmaea	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_023783575.1	3316	3235	81	14	24	222	9514	2022-06-17	Cebus albifrons	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore	BGI-Shenzhen
+GCF_001604975.1	3326	3259	67	26	2	150	2715852	2016-04-04	Cebus imitator	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	McDonnell Genome Institute - Washington University School of Medicine
+GCA_963574745.1	1850	1798	52	1133	348	279	37295	2023-11-02	Cebus olivaceus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574255.1	1846	1795	51	1139	344	299	1985288	2023-11-02	Cebus unicolor	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_027257055.1	3294	3259	35	32	26	204	9477	2022-12-23	Cephalopachus bancanus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing	BGI
+GCA_006410635.1	3102	3045	57	207	42	150	129224	2019-06-24	Cephalophus harveyi	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Northwestern Polytechnical University
+GCF_000283155.1	3348	3327	21	5	1	91	73337	2012-07-31	Ceratotherium simum simum	Sarcopterygii	Mammalia			Laurasiatheria	Perissodactyla	Illumina	Broad Institute
+GCF_000955945.1	3338	3299	39	10	6	140	9531	2015-03-19	Cercocebus atys	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	Human Genome Sequencing Center - BCM
+GCA_963574065.1	1930	1892	38	1115	283	225	75569	2023-11-03	Cercocebus chrysogaster	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574135.1	1917	1886	31	1131	285	232	9530	2023-11-03	Cercocebus torquatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_023783535.1	3320	3246	74	10	24	202	867370	2022-06-17	Cercopithecus albogularis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio RSII	BGI-Shenzhen
+GCA_963574115.1	1753	1714	39	1254	327	228	36223	2023-11-02	Cercopithecus ascanius	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574615.1	1836	1796	40	1166	324	233	304410	2023-11-03	Cercopithecus campbelli lowei	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963575225.1	1725	1688	37	1244	354	239	9535	2023-11-02	Cercopithecus cephus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574765.1	1889	1852	37	1142	297	236	36224	2023-11-03	Cercopithecus diana	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574815.1	1906	1862	44	1113	311	234	9536	2023-11-02	Cercopithecus hamlyni	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_028627265.1	2885	2835	50	346	110	236	36225	2023-02-16	Cercopithecus mitis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	DNA Zoo
+GCA_014849445.1	3298	3231	67	8	48	126	36226	2020-10-05	Cercopithecus mona	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore	Kunming Institute of Zoology, Chinese Academy of Sciences
+GCA_963574685.1	2112	2058	54	982	234	207	36227	2023-11-02	Cercopithecus neglectus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963575045.1	1926	1871	55	1117	285	230	36228	2023-11-02	Cercopithecus nictitans	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963575065.1	1908	1864	44	1117	303	243	100487	2023-11-02	Cercopithecus petaurista	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963575055.1	2017	1971	46	1059	255	230	102108	2023-11-02	Cercopithecus pogonias	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963573595.1	1956	1919	37	1102	270	231	1137049	2023-11-02	Cercopithecus roloway	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_006408465.1	3282	3185	97	56	16	171	1088058	2019-06-24	Cervus albirostris	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Northwestern Polytechnical University
+GCF_019320065.1	3321	3191	130	10	23	115	1574408	2021-07-26	Cervus canadensis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio RSII	Iowa State University
+GCF_910594005.1	3352	3216	136	1	1	106	9860	2021-07-07	Cervus elaphus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_010411085.1	3339	3167	172	13	2	108	84702	2020-02-12	Cervus hanglu yarkandensis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Institute of Special Wild Economic Animals and Plants, Chinese Academy of Agricultural Sciences
+GCA_040085125.1	3352	3202	150	1	1	149	9863	2024-06-07	Cervus nippon	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi	Northeast Forestry University
+GCA_004027955.1	1095	1016	79	1415	804	477	340076	2019-01-16	Chaetophractus vellerosus	Sarcopterygii	Mammalia			Xenarthra	Cingulata	Illumina	Broad Institute
+GCA_963574435.1	1848	1828	20	1152	324	174	47177	2023-10-31	Cheirogaleus major	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_008086735.1	3169	3136	33	102	82	175	9460	2019-08-26	Cheirogaleus medius	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	Duke University
+GCA_963573755.1	2299	2262	37	849	195	222	2487712	2023-11-01	Cheracebus lucifer	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574535.1	2429	2386	43	753	158	198	210166	2023-11-01	Cheracebus lugens	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574635.1	2387	2342	45	775	175	223	1812110	2023-11-01	Cheracebus regulus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574645.1	2324	2283	41	823	195	220	30592	2023-11-01	Cheracebus torquatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCF_000276665.1	3320	3303	17	25	9	97	34839	2012-08-28	Chinchilla lanigera	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Broad Institute
+GCF_950005125.1	3350	3265	85	0	4	95	269649	2023-05-01	Chionomys nivalis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_963573965.1	2488	2448	40	711	146	196	280163	2023-11-01	Chiropotes israelita	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574175.1	2389	2345	44	791	165	191	3134011	2023-11-01	Chiropotes sagulatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_023783515.1	3322	3259	63	9	23	152	9534	2022-06-17	Chlorocebus aethiops	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio RSII	BGI-Shenzhen
+GCA_963575115.1	1941	1900	41	1081	306	228	60710	2023-11-03	Chlorocebus pygerythrus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCF_015252025.1	3336	3270	66	5	13	116	60711	2020-11-06	Chlorocebus sabaeus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	Viral Vectors and Vaccines Bioprocessing Group, McGill University
+GCF_015220235.1	3338	3121	217	8	8	173	27675	2020-11-03	Choloepus didactylus	Sarcopterygii	Mammalia			Xenarthra	Pilosa	PacBio CLR	Vertebrate Genomes Project
+GCA_000164785.2	3051	2882	169	246	54	219	9358	2014-09-30	Choloepus hoffmanni	Sarcopterygii	Mammalia			Xenarthra	Pilosa	Illumina	The Genome Institute, Washington University School of Medicine
+GCF_000296735.1	3334	3285	49	16	4	123	185453	2012-09-19	Chrysochloris asiatica	Sarcopterygii	Mammalia			Afrotheria		Illumina	Broad Institute
+GCA_028533335.1	3319	3281	38	26	9	105	68728	2023-02-09	Chrysocyon brachyurus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	DNA Zoo
+GCA_040207285.1	3299	3232	67	5	50	99	537920	2024-06-17	Clethrionomys rutilus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi	Canadas national platform for genome sequencing and analysis
+GCA_028534165.1	3049	3027	22	226	73	202	187985	2023-02-09	Coendou prehensilis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	DNA Zoo
+GCF_000951035.1	3304	3247	57	42	8	175	336983	2015-03-12	Colobus angolensis palliatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	Baylor College of Medicine
+GCA_030247045.1	3328	3246	82	13	13	218	33548	2023-06-12	Colobus guereza	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore	BGI-Shenzhen
+GCA_963574725.1	1720	1677	43	1235	372	250	9572	2023-11-03	Colobus polykomos	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCF_000260355.1	3123	3112	11	94	136	165	143302	2012-05-01	Condylura cristata	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	Illumina	Broad Institute
+GCA_006408615.1	3198	3172	26	125	31	154	9927	2019-06-24	Connochaetes taurinus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Northwestern Polytechnical University
+GCA_026230045.1	3304	3209	95	3	47	122	124745	2022-11-18	Corynorhinus townsendii	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi	UCLA
+GCA_004027555.1	2343	2310	33	765	222	122	208972	2019-01-16	Craseonycteris thonglongyai	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Illumina	Broad Institute
+GCA_026225945.1	3351	3061	290	1	2	169	1157628	2022-11-17	Cricetomys ansorgei	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing	Cornell University, Psychology, Ophir
+GCA_004027575.1	3002	2989	13	290	58	94	10085	2019-01-16	Cricetomys gambianus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Broad Institute
+GCF_003668045.3	3348	3327	21	4	2	107	10029	2020-06-11	Cricetulus griseus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	CHO Genome Community
+GCA_964304595.1	3351	3308	43	1	2	95	10034	2024-11-06	Cricetus cricetus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Oxford Nanopore	Centro Nacional de Análisis Genómico
+GCA_004027635.1	995	962	33	1485	841	228	876679	2019-01-16	Crocidura indochinensis	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	Illumina	Broad Institute
+GCA_008692635.1	3305	3290	15	43	6	191	9678	2019-10-07	Crocuta crocuta	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	BGI
+GCA_028646485.1	3297	3256	41	47	10	108	94188	2023-02-16	Cryptoprocta ferox	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	DNA Zoo
+GCA_021461705.1	2110	2075	35	528	708	1731	183661	2022-01-13	Cryptotis parvus	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	Oxford Nanopore	National Institutes of Health
+GCA_004027205.1	3218	3195	23	110	24	89	10166	2019-01-16	Ctenodactylus gundi	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Broad Institute
+GCA_004027165.1	2664	2505	159	550	136	263	43321	2019-01-16	Ctenomys sociabilis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Broad Institute
+GCA_004365215.1	1192	1164	28	1464	653	262	108852	2019-03-22	Cuniculus paca	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Broad Institute
+GCF_027409185.1	3351	3286	65	0	3	105	110931	2022-12-28	Cynocephalus volans	Sarcopterygii	Mammalia			Euarchontoglires	Dermoptera	PacBio HiFi	Vertebrate Genomes Project
+GCA_009793145.1	2815	2803	12	351	183	165	58060	2019-12-23	Cynopterus brachyotis	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Illumina	National University of Singapore
+GCA_030015415.1	3345	3325	20	5	4	85	9400	2023-05-16	Cynopterus sphinx	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Oxford Nanopore	Wuhan University
+GCF_033118175.1	3352	3218	134	1	1	108	30532	2023-11-02	Dama dama	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi	University of Central Lancashire
+GCA_033118175.2	3352	3218	134	1	1	108	30532	2024-10-18	Dama dama	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi	University of Central Lancashire
+GCA_006408505.1	3284	3231	53	66	3	125	9929	2019-06-24	Damaliscus lunatus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Northwestern Polytechnical University
+GCA_004363535.1	2471	2430	41	701	161	186	34846	2019-03-22	Dasyprocta punctata	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Broad Institute
+GCF_030445035.1	3333	3251	82	4	17	150	9361	2023-07-13	Dasypus novemcinctus	Sarcopterygii	Mammalia			Xenarthra	Cingulata	PacBio HiFi	Vertebrate Genomes Project
+GCA_030445035.2	3333	3251	82	4	17	150	9361	2023-07-13	Dasypus novemcinctus	Sarcopterygii	Mammalia			Xenarthra	Cingulata	PacBio HiFi	Vertebrate Genomes Project
+GCA_020854095.1	3341	3310	31	5	8	93	9279	2021-11-12	Dasyurus viverrinus	Sarcopterygii	Mammalia				Dasyuromorphia	PacBio HiFi	The University of Melbourne
+GCA_044048945.1	3354	3332	22	0	0	192	31869	2024-10-29	Daubentonia madagascariensis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore	Arizona State University
+GCF_002288925.2	3344	3306	38	4	5	115	9749	2019-08-29	Delphinapterus leucas	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	BC Cancer Agency
+GCF_949987515.2	3348	3308	40	1	5	102	9728	2024-09-07	Delphinus delphis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCF_022682495.1	3331	3312	19	5	18	101	9430	2022-03-24	Desmodus rotundus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi	Bat1K
+GCA_022682495.2	3331	3310	21	5	18	101	9430	2022-03-24	Desmodus rotundus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi	Bat1K
+GCA_014189135.1	3338	3328	10	9	7	101	310711	2020-08-14	Dicerorhinus sumatrensis harrissoni	Sarcopterygii	Mammalia			Laurasiatheria	Perissodactyla	Illumina	Swedish Museum of Natural History
+GCF_020826845.1	3354	3335	19	0	0	85	77932	2021-11-10	Diceros bicornis minor	Sarcopterygii	Mammalia			Laurasiatheria	Perissodactyla	PacBio HiFi	Vertebrate Genomes Project
+GCA_028555095.1	3215	3196	19	69	70	190	85952	2023-02-08	Dicrostonyx torquatus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	University of Alaska Fairbanks
+GCA_004027595.1	2860	2822	38	399	91	121	108858	2019-01-16	Dinomys branickii	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Broad Institute
+GCA_024711535.1	3342	2724	618	2	10	91	94247	2022-08-18	Dipodomys merriami	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi	UCLA
+GCF_000151885.1	3246	3216	30	78	30	187	10020	2014-12-12	Dipodomys ordii	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Baylor College of Medicine
+GCF_019054845.1	3343	3292	51	3	8	92	105255	2021-06-29	Dipodomys spectabilis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi	Auburn University
+GCA_004024685.1	2407	2359	48	769	162	103	323379	2019-01-15	Dipodomys stephensi	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Broad Institute
+GCA_036346955.1	3343	3247	96	5	6	221	73863	2024-02-05	Dipus sagitta	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	INSTITUTE OF ZOOLOGY, CHINESE ACADEMY OF SCIENCES
+GCA_004027295.1	2575	2546	29	606	157	145	29091	2019-01-16	Dolichotis patagonum	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Broad Institute
+GCA_043880285.1	3347	3296	51	3	4	91	249021	2024-10-28	Doryrhina cyclops	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Illumina	Bat1K
+GCF_019393635.1	3347	3257	90	2	5	228	33562	2021-08-03	Dromiciops gliroides	Sarcopterygii	Mammalia				Microbiotheria	PacBio CLR	Vertebrate Genomes Project
+GCA_030035585.1	3354	3340	14	0	0	82	29137	2023-05-18	Dugong dugon	Sarcopterygii	Mammalia			Afrotheria	Sirenia	PacBio HiFi	Vertebrate Genomes Project
+GCF_000313985.2	3260	3216	44	61	32	173	9371	2019-07-15	Echinops telfairi	Sarcopterygii	Mammalia			Afrotheria		Illumina	Broad Institute
+GCA_028627145.1	3102	3087	15	183	67	157	58063	2023-02-16	Eidolon dupreanum	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Illumina	DNA Zoo
+GCA_000465285.1	2168	2160	8	880	283	238	77214	2013-09-13	Eidolon helvum	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Illumina	School of Biological & Chemical Sciences, Queen Mary University of London
+GCA_020311275.1	3347	3316	31	4	3	108	204263	2021-10-05	Eira barbara	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	Leibniz Institute for Zoo and Wildlife Research (IZW)
+GCA_021018665.1	3190	3132	58	117	46	298	43332	2021-12-01	Elaphurus davidianus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Northwestern Polytechnical University
+GCF_000299155.1	3319	3105	214	21	14	158	28737	2012-10-10	Elephantulus edwardii	Sarcopterygii	Mammalia			Afrotheria	Macroscelidea	Illumina	Broad Institute
+GCF_024166365.1	3352	3330	22	0	2	76	99487	2022-07-06	Elephas maximus indicus	Sarcopterygii	Mammalia			Afrotheria	Proboscidea	PacBio HiFi	Vertebrate Genomes Project
+GCA_001685095.1	1889	1870	19	1124	326	136	329620	2016-07-14	Ellobius talpinus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Erasmus medical center (ErasmusMC)
+GCF_002288905.1	3354	3321	33	0	0	108	391180	2017-09-11	Enhydra lutris kenyoni	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	BC Cancer Agency
+GCA_003508835.1	3338	3322	16	9	7	1115	58065	2018-09-07	Eonycteris spelaea	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio CLR	Duke-NUS Medical School
+GCA_035773235.1	3350	3331	19	0	4	95	146134	2024-01-24	Eospalax fontanierii	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing	Lanzhou University
+GCF_027574615.1	3353	3320	33	0	1	116	29078	2023-01-09	Eptesicus fuscus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio CLR	Bat1K
+GCA_030846915.1	3327	3295	32	4	23	744	59451	2023-08-21	Eptesicus nilssonii	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing	Finnish museum of Natural history
+GCF_016077325.2	3349	3331	18	2	3	167	9793	2021-10-14	Equus asinus	Sarcopterygii	Mammalia			Laurasiatheria	Perissodactyla	Illumina	Dairy Cattle Research Center, Shandong Academy of Agricultural Sciences
+GCF_002863925.1	3353	3319	34	1	0	106	9796	2018-01-05	Equus caballus	Sarcopterygii	Mammalia			Laurasiatheria	Perissodactyla	Illumina	University of Louisville
+GCF_000696695.1	3146	3134	12	164	38	234	9798	2014-06-05	Equus przewalskii	Sarcopterygii	Mammalia			Laurasiatheria	Perissodactyla	Illumina	College of Animal Science, Inner Mongolian Agricultural University, China
+GCF_021613505.1	3336	3229	107	12	6	99	89248	2022-01-31	Equus quagga	Sarcopterygii	Mammalia			Laurasiatheria	Perissodactyla	Illumina	University of California Los Angeles
+GCA_028451465.1	3352	3285	67	2	0	101	34844	2023-02-06	Erethizon dorsatum	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio CLR	Vertebrate Genomes Project
+GCF_950295315.1	3314	3287	27	26	14	109	9365	2023-05-01	Erinaceus europaeus	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_023783455.1	3320	3261	59	10	24	212	9538	2022-06-17	Erythrocebus patas	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore	BGI-Shenzhen
+GCF_028021215.1	3352	3292	60	0	2	103	9764	2023-01-31	Eschrichtius robustus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi	Vertebrate Genomes Project
+GCF_028564815.1	3352	3263	89	1	1	117	27606	2023-02-09	Eubalaena glacialis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi	Vertebrate Genomes Project
+GCA_004363455.1	2577	2504	73	621	140	181	302098	2019-03-22	Eubalaena japonica	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Broad Institute
+GCA_006408755.1	3304	3243	61	37	12	125	69308	2019-06-24	Eudorcas thomsonii	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Northwestern Polytechnical University
+GCA_963573435.1	1863	1845	18	1168	300	150	1215604	2023-10-30	Eulemur albifrons	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574965.1	2078	2056	22	1026	224	135	13514	2023-10-30	Eulemur coronatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_001262665.1	3186	3175	11	125	40	135	87288	2015-08-06	Eulemur flavifrons	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	University of Chicago
+GCA_963575015.1	1970	1954	16	1074	289	140	47178	2023-10-30	Eulemur fulvus collaris	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_001262655.1	3203	3190	13	126	22	134	30602	2015-08-06	Eulemur macaco	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	University of Chicago
+GCA_028534055.1	3031	2986	45	243	80	220	34828	2023-02-09	Eulemur mongoz	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	DNA Zoo
+GCA_963574895.1	1897	1883	14	1146	289	139	34829	2023-10-31	Eulemur rubriventer	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCF_041146395.1	3344	3301	43	0	10	88	859984	2024-08-16	Eulemur rufifrons	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio HiFi	Oregon State University
+GCA_963574465.1	1863	1845	18	1154	303	150	859983	2023-10-30	Eulemur rufus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963573705.1	1871	1849	22	1144	307	144	122225	2023-10-30	Eulemur sanfordi	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCF_004028035.1	3333	3212	121	17	3	136	34886	2019-01-15	Eumetopias jubatus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	Canadas Genomic Enterprise
+GCF_018350175.1	3354	3343	11	0	0	110	9685	2021-05-13	Felis catus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing	Texas A&M University
+GCA_019924945.1	3353	3344	9	1	0	93	61376	2021-09-14	Felis chaus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing	Texas A&M University
+GCA_032458615.1	3347	3338	9	1	6	94	61379	2023-10-11	Felis nigripes	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing	Shaanxi Normal University
+GCF_012274545.1	3295	3275	20	47	12	145	885580	2020-04-13	Fukomys damarensis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	DNA Zoo Consortium
+GCA_023783435.1	3216	3122	94	115	21	240	30609	2022-06-17	Galago moholi	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio RSII	BGI-Shenzhen
+GCA_963575145.1	1777	1713	64	1178	367	326	9465	2023-10-31	Galago senegalensis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574575.1	1726	1661	65	1210	384	320	89672	2023-10-31	Galagoides demidoff	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_019455555.1	3332	3301	31	16	6	95	202257	2021-08-05	Galemys pyrenaicus	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	Illumina	Institute of Evolutionary Biology (CSIC-UPF)
+GCF_000696425.1	3128	3078	50	185	40	198	482537	2014-06-05	Galeopterus variegatus	Sarcopterygii	Mammalia			Euarchontoglires	Dermoptera	Illumina	Washington University (WashU)
+GCA_040207655.1	3331	3241	90	9	14	100	27682	2024-06-17	Geomys bursarius	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Texas Tech University
+GCA_017591445.1	3344	3235	109	6	4	268	2740528	2021-03-30	Giraffa camelopardalis rothschildi	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Oxford Nanopore	Northwestern Polytechnical University
+GCA_013496395.1	3338	3296	42	14	2	203	439328	2020-07-24	Giraffa tippelskirchi	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	University of California Davis
+GCA_020662805.1	3218	3158	60	108	26	118	64683	2021-10-28	Glaucomys volans	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Wildlife Research and Monitoring Section
+GCA_004027185.1	1974	1933	41	1059	293	195	41261	2019-01-16	Glis glis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Broad Institute
+GCF_963455315.1	3343	3287	56	1	10	108	9731	2023-09-21	Globicephala melas	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_963455315.2	3343	3287	56	1	10	108	9731	2024-09-07	Globicephala melas	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_039655065.1	3349	3319	30	2	3	110	2994998	2024-05-17	Glossophaga mutica	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi	Bat1K Project
+GCA_963575185.1	2317	2283	34	847	168	194	499232	2023-11-02	Gorilla beringei	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCF_029281585.2	3354	3304	50	0	0	92	9595	2024-01-08	Gorilla gorilla gorilla	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore	National Human Genome Research Institute, National Institutes of Health
+GCA_029281585.3	3354	3304	50	0	0	92	9595	2024-08-01	Gorilla gorilla gorilla	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore	National Human Genome Research Institute, National Institutes of Health
+GCF_016433145.1	3237	3159	78	81	34	121	191870	2021-01-06	Gracilinanus agilis	Sarcopterygii	Mammalia				Didelphimorphia	missing	Nanjing Normal University
+GCA_019843835.1	963	918	45	1491	841	256	491754	2021-09-01	Grammomys dolichurus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	University of Pennsylvania
+GCF_004785775.1	3328	3222	106	20	6	102	491861	2019-04-12	Grammomys surdaster	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	NIH Sequencing Center
+GCA_028646425.1	3264	3221	43	71	18	179	83653	2023-02-16	Grampus griseus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	DNA Zoo
+GCA_004027655.1	2031	1976	55	1006	300	196	51346	2019-01-16	Graphiurus murinus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Broad Institute
+GCA_024510155.1	3352	3332	20	2	0	95	2888765	2022-08-04	Gulo gulo luscus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	The Hospital for Sick Children
+GCA_011680675.1	3203	2931	272	122	26	115	38618	2020-03-23	Gymnobelideus leadbeateri	Sarcopterygii	Mammalia				Diprotodontia	Oxford Nanopore	Deakin University
+GCF_012393455.1	3257	3208	49	74	21	161	9711	2020-04-15	Halichoerus grypus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Oxford Nanopore	Cummings School of Veterinary Medicine at Tufts University
+GCA_963574485.1	1940	1920	20	1093	299	148	122220	2023-10-30	Hapalemur griseus alaotrensis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963575175.1	1986	1965	21	1067	277	138	3043112	2023-10-30	Hapalemur meridionalis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963575155.1	1828	1801	27	1180	322	154	867377	2023-10-30	Hapalemur occidentalis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_028533245.1	3261	3252	9	75	17	133	9634	2023-02-09	Helarctos malayanus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	DNA Zoo
+GCA_004023845.1	2948	2909	39	334	66	87	210647	2019-01-15	Helogale parvula	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	Broad Institute
+GCF_000247695.1	3337	3266	71	12	5	127	10181	2012-02-17	Heterocephalus glaber	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Broad Institute
+GCA_028571685.1	3352	3338	14	2	0	74	77598	2023-02-10	Heterohyrax brucei	Sarcopterygii	Mammalia			Afrotheria	Hyracoidea	PacBio HiFi	Vertebrate Genomes Project
+GCA_023065765.1	3323	3183	140	3	28	125	56798	2022-04-22	Hexaprotodon liberiensis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing	northwestern polytechnology university
+GCF_030028045.1	3351	3231	120	0	3	117	575201	2023-05-18	Hippopotamus amphibius kiboko	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi	Vertebrate Genomes Project
+GCF_001890085.2	3205	3174	31	107	41	238	186990	2016-12-06	Hipposideros armiger	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Illumina	SKLEC & IECR
+GCA_031876335.1	3352	3298	54	1	1	108	175524	2023-09-25	Hipposideros larvatus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi	Vertebrate Genomes Project
+GCA_021464545.1	3321	3282	39	24	9	132	867831	2022-01-14	Hipposideros pendleburyi	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing	National Science and Technology Development Agency
+GCA_006942125.1	3342	3282	60	11	1	104	82127	2019-07-12	Hippotragus niger niger	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Saint-Petersburg State University
+GCF_000001405.40	3354	3171	183	0	0	106	9606	2022-02-03	Homo sapiens	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing	Genome Reference Consortium
+GCA_023748175.1	3305	3261	44	17	32	416	593543	2022-06-16	Hoolock leuconedys	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore	BGI-Shenzhen
+GCF_003009895.1	3341	3315	26	10	3	105	95912	2018-03-19	Hyaena hyaena	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	Potsdam University
+GCA_004027455.1	3111	3092	19	196	42	112	10149	2019-01-16	Hydrochoerus hydrochaeris	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Broad Institute
+GCA_020226075.1	3339	3266	73	11	4	138	9883	2021-10-05	Hydropotes inermis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Northwestern Polytechnical University
+GCA_963574095.1	1818	1773	45	1162	340	261	9579	2023-11-02	Hylobates agilis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574335.1	1917	1877	40	1106	305	241	9587	2023-11-02	Hylobates klossii	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCF_009828535.3	3323	3234	89	28	3	132	81572	2021-11-10	Hylobates moloch	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore	University of California, Santa Cruz
+GCA_963573745.1	1799	1755	44	1175	343	268	9588	2023-11-02	Hylobates muelleri	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_021498465.1	3291	3235	56	10	52	135	9589	2022-01-19	Hylobates pileatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore	BGI-Shenzhen
+GCA_019843855.1	887	866	21	1477	954	258	34858	2021-09-01	Hylomyscus alleni	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	University of Pennsylvania
+GCA_949752795.1	3342	3273	69	4	8	114	48744	2023-04-08	Hyperoodon ampullatus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_016801275.1	3323	3299	24	21	10	129	143286	2021-02-02	Hystrix brachyura	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	DNA Stories Bioinformatics Center
+GCA_004026905.1	2794	2756	38	446	104	149	10137	2019-01-16	Hystrix cristata	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Broad Institute
+GCA_025583905.1	3350	3311	39	2	2	231	360967	2022-10-05	Ia io	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Illumina	Northeast Normal University
+GCF_016881025.1	3300	3272	28	40	14	156	43179	2021-02-17	Ictidomys tridecemlineatus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Stanford University School of Medicine
+GCA_004363605.1	2348	2300	48	781	207	154	34827	2019-03-22	Indri indri	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	Broad Institute
+GCA_036417435.1	3350	3310	40	0	4	96	9725	2024-02-06	Inia geoffrensis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi	Cetaceans Genome Project
+GCF_020740685.1	3333	3195	138	10	11	108	51337	2021-11-04	Jaculus jaculus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio CLR	Vertebrate Genomes Project
+GCA_006410655.1	3222	3171	51	111	19	143	9962	2019-06-24	Kobus ellipsiprymnus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Northwestern Polytechnical University
+GCA_014926565.1	3292	3220	72	47	14	179	91880	2020-10-23	Kobus leche leche	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Kunming Institute of Zoology
+GCF_026419965.1	3345	3308	37	2	7	109	27615	2022-11-27	Kogia breviceps	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi	Vertebrate Genomes Project
+GCA_964270905.1	3349	3297	52	0	5	113	90246	2024-09-29	Lagenorhynchus acutus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCF_949774975.1	3345	3291	54	3	6	116	27610	2023-04-08	Lagenorhynchus albirostris	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCF_003676395.1	3349	3313	36	2	3	117	90247	2018-10-23	Lagenorhynchus obliquidens	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Canadas Genomic Enterprise
+GCA_028533205.1	3234	3161	73	82	37	135	65632	2023-02-09	Lagorchestes hirsutus	Sarcopterygii	Mammalia				Diprotodontia	Illumina	DNA Zoo
+GCA_963574225.1	2576	2525	51	633	131	180	9519	2023-10-31	Lagothrix lagotricha	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_013239585.1	3322	3308	14	23	8	110	273914	2020-06-02	Lama glama chaku	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Shanxi Agricultural University
+GCA_013239625.1	3349	3336	13	4	1	107	273908	2020-06-02	Lama guanicoe cacsilensis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Shanxi Agricultural University
+GCA_004026805.1	2385	1801	584	780	174	195	258930	2019-01-16	Lasiurus borealis	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Illumina	Broad Institute
+GCF_020740605.2	3341	3300	41	1	12	98	9447	2021-11-04	Lemur catta	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio HiFi	Vertebrate Genomes Project
+GCA_963575285.1	1924	1851	73	1083	314	310	9487	2023-11-03	Leontocebus fuscicollis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963575265.1	1968	1907	61	1060	299	322	9489	2023-11-03	Leontocebus nigricollis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574395.1	1945	1886	59	1106	287	288	57374	2023-11-02	Leontopithecus chrysomelas	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_028533165.1	3214	3142	72	114	26	178	30588	2023-02-09	Leontopithecus rosalia	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	DNA Zoo
+GCF_018350155.1	3354	3344	10	0	0	104	46844	2021-05-13	Leopardus geoffroyi	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing	Texas A&M University
+GCA_963573785.1	1885	1864	21	1159	286	151	342401	2023-10-30	Lepilemur ankaranensis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574875.1	2025	2002	23	1036	261	140	78583	2023-10-30	Lepilemur dorsalis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574885.1	2031	2009	22	1039	257	144	78866	2023-10-30	Lepilemur ruficaudatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963573855.1	1879	1859	20	1148	295	164	78584	2023-10-30	Lepilemur septentrionalis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCF_000349705.1	2948	2889	59	317	86	287	9713	2013-03-29	Leptonychotes weddellii	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	Broad Institute
+GCA_004026855.1	1808	1754	54	1153	368	238	48086	2019-01-16	Lepus americanus	Sarcopterygii	Mammalia			Euarchontoglires	Lagomorpha	Illumina	Broad Institute
+GCA_042027585.1	3346	3260	86	2	6	118	9981	2024-09-19	Lepus capensis	Sarcopterygii	Mammalia			Euarchontoglires	Lagomorpha	PacBio HiFi	Northwest A & F University
+GCF_033115175.1	3345	3260	85	3	6	134	9983	2023-10-31	Lepus europaeus	Sarcopterygii	Mammalia			Euarchontoglires	Lagomorpha	PacBio HiFi	University of Eastern Finland
+GCA_036325905.1	3344	3262	82	3	7	157	112018	2024-02-05	Lepus oiostolus	Sarcopterygii	Mammalia			Euarchontoglires	Lagomorpha	Illumina	Qinghai University
+GCA_040893245.2	3317	3232	85	9	28	162	62621	2024-07-26	Lepus timidus	Sarcopterygii	Mammalia			Euarchontoglires	Lagomorpha	PacBio HiFi	University of Eastern Finland
+GCA_029532125.1	3251	3154	97	75	26	141	63225	2023-03-31	Lepus townsendii	Sarcopterygii	Mammalia			Euarchontoglires	Lagomorpha	Illumina	CIBIO, University of Porto
+GCF_000442215.2	3325	3294	31	21	8	187	118797	2013-07-24	Lipotes vexillifer	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	BGI
+GCA_006410535.1	3307	3223	84	39	8	151	69311	2019-06-24	Litocranius walleri	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Northwestern Polytechnical University
+GCF_010015895.1	3336	3262	74	14	4	103	76717	2020-01-27	Lontra canadensis	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	Canadas Genomic Enterprise
+GCA_907164525.1	3274	3230	44	62	18	196	248799	2021-06-03	Lophiomys imhausi	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing	WELLCOME TRUST SANGER INSTITUTE
+GCA_023783235.1	3326	3266	60	20	8	219	75566	2022-06-17	Lophocebus aterrimus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio RSII	BGI-Shenzhen
+GCA_963574355.1	2267	2190	77	851	211	295	300163	2023-11-01	Loris lydekkerianus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_023783135.1	3340	3251	89	9	5	206	9468	2022-06-17	Loris tardigradus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio RSII	BGI-Shenzhen
+GCF_030014295.1	3352	3334	18	0	2	82	9785	2023-05-16	Loxodonta africana	Sarcopterygii	Mammalia			Afrotheria	Proboscidea	PacBio HiFi	Vertebrate Genomes Project
+GCF_902655055.1	3350	3268	82	0	4	160	9657	2020-07-31	Lutra lutra	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio CLR	SC
+GCA_040955705.1	3352	3283	69	1	1	100	9622	2024-08-01	Lycaon pictus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi	University of Copenhagen
+GCF_007474595.2	3338	3327	11	8	8	211	61383	2020-07-14	Lynx canadensis	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio CLR	Vertebrate Genomes Project
+GCA_900661375.1	3238	3227	11	64	52	159	191816	2019-03-28	Lynx pardinus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing	CNAG
+GCF_022079265.1	3354	3336	18	0	0	107	61384	2022-02-08	Lynx rufus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi	UCLA
+GCA_021188215.1	3296	3254	42	50	8	122	9540	2021-12-15	Macaca arctoides	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	Sichuan University
+GCA_023783095.1	3331	3281	50	5	18	246	9551	2022-06-17	Macaca assamensis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio RSII	BGI-Shenzhen
+GCA_026956025.1	3350	3297	53	2	2	90	78449	2022-12-19	Macaca cyclopis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore	Academia Sinica
+GCF_037993035.1	3354	3299	55	0	0	101	9541	2024-04-05	Macaca fascicularis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore	Shanghai Jiao Tong University
+GCA_003118495.1	2556	2437	119	658	132	161	9543	2018-04-04	Macaca fuscata fuscata	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	National Institutes of Natural Sciences
+GCA_963573825.1	1791	1755	36	1183	359	264	90387	2023-11-03	Macaca leonina	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574855.1	1741	1708	33	1215	368	277	90383	2023-11-03	Macaca maura	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCF_003339765.1	3351	3286	65	3	0	112	9544	2019-02-13	Macaca mulatta	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing	The Genome Institute at Washington University School of Medicine
+GCF_000956065.1	3347	3298	49	6	1	172	9545	2015-03-19	Macaca nemestrina	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio RSII	Baylor College of Medicine
+GCA_928851695.1	3353	3306	47	1	0	400	54600	2022-02-09	Macaca nigra	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing	IBE (Institut de Biologia Evolutiva)
+GCA_963573735.1	1763	1723	40	1216	349	253	9548	2023-11-03	Macaca radiata	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574275.1	1780	1745	35	1185	355	260	244255	2023-11-03	Macaca siberu	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_023807365.1	3337	3282	55	8	9	112	54601	2022-06-20	Macaca silenus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore	BGI-Shenzhen
+GCF_024542745.1	3350	3293	57	4	0	102	257877	2022-08-09	Macaca thibetana thibetana	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing	Sichuan university
+GCA_963573625.1	1783	1748	35	1161	378	267	40843	2023-11-03	Macaca tonkeana	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_004027375.1	3203	3199	4	123	26	108	326083	2019-01-16	Macroglossus sobrinus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Illumina	Broad Institute
+GCA_028583105.1	3080	3042	38	204	69	169	9316	2023-02-10	Macropus fuliginosus	Sarcopterygii	Mammalia				Diprotodontia	missing	DNA Zoo
+GCA_028627215.1	3204	3162	42	110	39	139	9317	2023-02-16	Macropus giganteus	Sarcopterygii	Mammalia				Diprotodontia	missing	DNA Zoo
+GCA_037893015.1	3327	3205	122	11	16	115	92651	2024-04-04	Macrotis lagotis	Sarcopterygii	Mammalia				Peramelemorphia	PacBio HiFi	The University of Sydney
+GCA_007922815.1	2398	2355	43	672	268	177	9419	2019-08-08	Macrotus californicus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Illumina	Broad Institute
+GCA_006408675.1	2129	2100	29	939	273	850	66434	2019-06-24	Madoqua kirkii	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Northwestern Polytechnical University
+GCF_000951045.1	3282	3234	48	62	10	162	9568	2015-03-12	Mandrillus leucophaeus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	Baylor College of Medicine
+GCA_023783085.1	3305	3266	39	7	42	318	9561	2022-06-17	Mandrillus sphinx	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore	BGI-Shenzhen
+GCA_016801295.1	1822	1804	18	1092	407	186	1496684	2021-02-02	Manis crassicaudata	Sarcopterygii	Mammalia			Laurasiatheria	Pholidota	Illumina	DNA Stories Bioinformatics Center
+GCA_032206105.1	203	200	3	1265	1835	91	1836949	2023-09-29	Manis culionensis	Sarcopterygii	Mammalia			Laurasiatheria	Pholidota	Illumina	Universite Toulouse III - Paul Sabatier
+GCF_014570535.1	3312	3282	30	33	9	162	9974	2020-09-15	Manis javanica	Sarcopterygii	Mammalia			Laurasiatheria	Pholidota	Illumina	Yunnan University
+GCF_030020395.1	3351	3300	51	0	3	105	143292	2023-05-23	Manis pentadactyla	Sarcopterygii	Mammalia			Laurasiatheria	Pholidota	PacBio HiFi	Vertebrate Genomes Project
+GCF_003676075.3	3339	3254	85	12	3	111	93162	2019-05-24	Marmota flaviventris	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Canadas Genomic Enterprise
+GCA_005280165.1	3228	3163	65	52	74	120	93163	2019-05-10	Marmota himalayana	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Xian Jiaotong University Health Science Center
+GCF_001458135.2	3311	3250	61	31	12	131	9994	2019-12-18	Marmota marmota marmota	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing	MRC NATIONAL INSTITUTE FOR MEDICAL RESEARCH
+GCF_021218885.2	3348	3240	108	4	2	108	9995	2022-08-11	Marmota monax	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Hospital for Sick Children
+GCA_040207255.1	3144	3035	109	15	195	110	93167	2024-06-17	Marmota vancouverensis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi	Canadas national platform for genome sequencing and analysis
+GCA_029410595.1	3354	3327	27	0	0	86	74864	2023-03-27	Martes flavigula	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Oxford Nanopore	Qufu Normal University
+GCA_040938555.1	3342	3328	14	10	2	129	9659	2024-07-30	Martes foina	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	Institute for Molecular and Cellular biology
+GCA_963455335.1	3343	3325	18	9	1	86	29065	2023-09-20	Martes martes	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_040938815.1	3343	3333	10	10	1	112	36722	2024-07-30	Martes zibellina	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	Institute for Molecular and Cellular biology
+GCF_008632895.1	3315	3281	34	20	19	118	35658	2019-09-24	Mastomys coucha	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	University of California, San Francisco
+GCA_021653895.1	3295	3226	69	42	17	1010	10112	2022-01-27	Mastomys natalensis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio RSII	University of Florida
+GCA_004026885.1	3118	3098	20	194	40	92	9413	2019-01-16	Megaderma lyra	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Illumina	Broad Institute
+GCA_043880595.1	3351	3320	31	1	2	118	9414	2024-10-28	Megaderma spasma	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Oxford Nanopore	Bat1K
+GCA_041834305.1	3351	3281	70	1	2	100	9773	2024-09-09	Megaptera novaeangliae	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi	University of Colorado - Boulder
+GCF_922984935.1	3353	3297	56	1	0	102	9662	2021-12-19	Meles meles	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_922984935.2	3353	3297	56	1	0	102	9662	2022-03-23	Meles meles	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_004024625.1	2790	2759	31	470	83	103	9664	2019-01-15	Mellivora capensis	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	Broad Institute
+GCA_036365155.1	3301	3278	23	8	45	220	2800508	2024-02-05	Meriones psammophilus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Oxford Nanopore	INSTITUTE OF ZOOLOGY, CHINESE ACADEMY OF SCIENCES
+GCF_030254825.1	3347	3311	36	1	6	90	10047	2023-06-12	Meriones unguiculatus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi	Bangor University
+GCF_017639785.1	3350	3315	35	2	2	126	10036	2021-03-30	Mesocricetus auratus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Oxford Nanopore	Baylor College of Medicine Human Genome Sequencing Center
+GCA_964148845.1	3298	3213	85	3	53	113	48745	2024-06-06	Mesoplodon bidens	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCF_025265405.1	3347	3257	90	0	7	103	48708	2022-09-19	Mesoplodon densirostris	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi	Vertebrate Genomes Project
+GCA_963573565.1	1957	1879	78	1077	283	291	9482	2023-11-02	Mico argentatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574605.1	1925	1860	65	1114	288	300	52232	2023-11-02	Mico humeralifer	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574545.1	1895	1827	68	1144	295	300	666519	2023-11-02	Mico humilis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_008750995.1	1916	1828	88	1095	314	197	143354	2019-09-30	Microcebus griseorufus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	Duke University
+GCA_008750955.1	1942	1799	143	1093	288	217	236274	2019-09-30	Microcebus mittermeieri	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	Duke University
+GCF_000165445.2	3342	3251	91	11	1	172	30608	2017-02-06	Microcebus murinus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio RSII	Baylor College of Medicine
+GCA_008750975.1	1769	1722	47	1178	374	228	122231	2019-09-30	Microcebus ravelobensis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	Duke University
+GCA_008750915.1	2278	2193	85	895	168	169	2508170	2019-09-30	Microcebus sp. 3 GT-2019	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	Duke University
+GCA_008750935.1	2154	2050	104	941	234	186	143351	2019-09-30	Microcebus tavaratra	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	Duke University
+GCA_963924665.1	3274	3194	80	7	73	110	13151	2024-01-29	Micromys minutus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_004026765.1	2744	2708	36	494	105	157	148065	2019-01-16	Micronycteris hirsuta	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Illumina	Broad Institute
+GCA_902806775.1	3334	3212	122	14	6	145	29092	2020-02-28	Microtus agrestis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing	LIV
+GCA_963919715.1	3348	3219	129	2	4	132	47230	2023-12-20	Microtus arvalis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing	NORWEGIAN UNIVERSITY OF LIFE SCIENCES
+GCA_028537955.1	3347	3231	116	3	4	94	100895	2023-02-07	Microtus californicus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi	UCLA
+GCA_020392405.1	2756	2729	27	374	220	413	88450	2021-10-08	Microtus montanus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	The Ohio State University
+GCF_000317375.1	3323	3263	60	16	15	109	79684	2012-12-07	Microtus ochrogaster	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Broad Institute
+GCF_018167655.1	3348	2942	406	3	3	89	111838	2021-04-26	Microtus oregoni	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi	Oklahoma State Universtiy
+GCA_037038515.1	3348	3285	63	3	3	89	10058	2024-03-06	Microtus pennsylvanicus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi	Vertebrate Genomes Project
+GCA_019206885.2	2959	2805	154	230	164	294	111840	2023-02-09	Microtus richardsoni	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	IRIDIAN GENOMES
+GCF_001595765.1	3314	3298	16	32	8	126	291302	2016-03-22	Miniopterus natalensis	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Illumina	University of California, San Francisco
+GCA_964146895.1	3348	3327	21	3	3	107	9433	2024-06-06	Miniopterus schreibersii	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_963573445.1	2028	1983	45	1050	255	214	100488	2023-11-02	Miopithecus ogouensis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_028551445.1	3277	3228	49	63	14	143	36231	2023-02-09	Miopithecus talapoin	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	DNA Zoo
+GCF_029215605.1	3348	3301	47	2	4	103	9716	2023-03-14	Mirounga angustirostris	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi	UCLA
+GCF_011800145.1	3343	3227	116	8	3	113	9715	2020-03-31	Mirounga leonina	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	Earth Biogenome Project
+GCA_004024645.1	2473	2421	52	700	164	155	47180	2019-01-15	Mirza coquereli	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	Broad Institute
+GCA_008750895.1	2607	2543	64	621	120	146	339999	2019-09-30	Mirza zaza	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	Duke University
+GCA_037176705.1	3349	3302	47	3	2	109	1552295	2024-03-15	Molossus alvarezi	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi	Bat1K Project
+GCF_014108415.1	3349	3327	22	2	3	102	27622	2020-08-07	Molossus molossus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio CLR	Bat1K
+GCA_039880945.1	3347	3314	33	4	3	110	2997257	2024-05-29	Molossus nigricans	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi	Bat1K Project
+GCF_027887165.1	3315	3251	64	11	28	92	13616	2023-01-18	Monodelphis domestica	Sarcopterygii	Mammalia				Didelphimorphia	PacBio HiFi	Vertebrate Genomes Project
+GCF_005190385.1	3342	3305	37	4	8	116	40151	2019-05-06	Monodon monoceros	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing	The Narwhal Genome Initiative
+GCA_005190385.3	3346	3309	37	0	8	194	40151	2022-11-09	Monodon monoceros	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio CLR	The Narwhal Genome Initiative
+GCA_043748645.1	3313	3261	52	4	37	97	258863	2024-10-24	Mops condylurus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi	Bat1K
+GCA_004026545.1	3070	3061	9	242	41	92	118852	2019-01-16	Mormoops blainvillei	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Illumina	Broad Institute
+GCF_022376915.1	3310	3222	88	18	26	124	68408	2022-02-23	Moschus berezovskii	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Northwestern Polytechnical University
+GCA_006461725.1	1821	1718	103	1002	508	427	68412	2019-06-25	Moschus chrysogaster	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Northwestern Polytechnical University
+GCA_004024705.2	3339	3260	79	14	1	104	68415	2019-07-15	Moschus moschiferus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Broad Institute
+GCA_004023785.1	3054	3023	31	246	49	111	210652	2019-01-15	Mungos mungo	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	Broad Institute
+GCA_020276665.1	3339	3262	77	7	8	114	71854	2021-10-05	Muntiacus crinifrons	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Oxford Nanopore	Northwestern Polytechnical University
+GCA_020226025.1	3250	3178	72	21	83	151	145526	2021-10-04	Muntiacus gongshanensis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Oxford Nanopore	Northwestern Polytechnical University
+GCA_008782695.1	3337	3266	71	13	3	100	9888	2019-10-07	Muntiacus muntjak	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	University of California, Berkeley
+GCF_963930625.1	3351	3282	69	1	2	103	9886	2024-01-31	Muntiacus reevesi	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_039877825.1	3342	3268	74	3	9	103	9887	2024-05-29	Muntiacus vaginalis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi	Hainan University
+GCA_004026665.1	2259	2209	50	871	208	175	1453894	2019-01-16	Murina aurata feae	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Illumina	Broad Institute
+GCF_900094665.2	3326	3265	61	15	13	123	10089	2017-04-28	Mus caroli	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing	European Bioinformatics Institute
+GCA_902729485.2	3182	3121	61	133	36	110	10105	2020-09-25	Mus minutoides	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing	INSTITUT DES SCIENCES DE LEVOLUTION DE MONTPELLIER, UNIVERSITE DE MONTPELLIER, CNRS-EPHE-IRD-UM
+GCF_000001635.27	3350	3257	93	2	2	106	10090	2020-06-24	Mus musculus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing	Genome Reference Consortium
+GCF_900095145.1	3331	3289	42	12	11	114	10093	2017-04-28	Mus pahari	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing	EBI
+GCA_003336285.2	3319	3250	69	24	11	110	10103	2023-04-14	Mus spicilegus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing	Max Planck Institute for Evolutionary Biology
+GCA_921997135.2	3347	3274	73	4	3	93	10096	2022-06-30	Mus spretus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing	EMBL-EBI, WELLCOME TRUST GENOME CAMPUS, CAMBRIDGE
+GCA_963383645.1	3350	3299	51	1	2	93	39082	2023-08-26	Muscardinus avellanarius	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCF_009829155.1	3337	3299	38	1	16	95	36723	2020-01-03	Mustela erminea	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio CLR	Vertebrate Genomes Project
+GCA_963422785.1	3340	3284	56	12	2	144	77149	2023-09-13	Mustela eversmannii	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	the earlham insitute
+GCF_030435805.1	3353	3297	56	1	0	84	9666	2023-07-13	Mustela lutreola	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi	Vertebrate Genomes Project
+GCF_022355385.1	3337	3267	70	13	4	93	77151	2022-02-24	Mustela nigripes	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing	Smithsonian Institution
+GCA_019141155.1	3340	3279	61	12	2	93	36239	2021-07-06	Mustela nivalis	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	CIBIO-InBIO
+GCF_011764305.1	3350	3302	48	2	2	86	9669	2020-03-27	Mustela putorius furo	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	JCVI
+GCA_004027025.1	2345	2231	114	776	221	297	10157	2019-01-16	Myocastor coypus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Broad Institute
+GCF_902806735.1	3263	3209	54	23	68	121	447135	2020-02-22	Myodes glareolus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing	LIV
+GCF_000412655.1	3238	3172	66	89	27	234	109478	2013-06-28	Myotis brandtii	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Illumina	BGI
+GCF_963259705.1	3349	3270	79	0	5	115	98922	2023-08-20	Myotis daubentonii	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCF_000327345.1	3212	3176	36	105	37	289	225400	2012-12-20	Myotis davidii	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Illumina	BGI
+GCA_038630795.1	3277	3200	77	51	26	165	3085897	2024-04-29	Myotis findleyi	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Illumina	INSTITUTO POLITECNICO NACIONAL
+GCF_000147115.1	3169	3052	117	95	90	304	59463	2010-09-14	Myotis lucifugus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing	Broad Institute
+GCF_014108235.1	3352	3264	88	1	1	118	51298	2020-08-07	Myotis myotis	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio CLR	Bat1K
+GCA_964094495.2	3344	3232	112	3	7	124	109479	2024-06-12	Myotis mystacinus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_964212035.1	3349	3292	57	3	2	115	109481	2024-08-02	Myotis nattereri	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_036250175.1	2400	2336	64	472	479	374	1209081	2024-01-29	Myotis planiceps	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Illumina	INSTITUTO POLITECNICO NACIONAL
+GCA_036010255.1	3351	3296	55	0	3	111	203696	2024-01-23	Myotis ricketti	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Oxford Nanopore	Chinese Academy of Sciences
+GCA_035771395.1	3299	3171	128	43	10	136	233766	2024-01-17	Myotis vivesi	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Illumina	INSTITUTO POLITECNICO NACIONAL
+GCA_028538775.1	3306	3201	105	6	42	147	159337	2023-02-10	Myotis yumanensis	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi	UCLA
+GCA_023553655.1	2932	2753	179	303	109	127	55782	2022-05-25	Myrmecobius fasciatus	Sarcopterygii	Mammalia				Dasyuromorphia	Illumina	The University of Sydney
+GCA_004026745.1	2390	2335	55	759	190	268	71006	2019-01-16	Myrmecophaga tridactyla	Sarcopterygii	Mammalia			Xenarthra	Pilosa	Illumina	Broad Institute
+GCA_917880005.1	3348	3289	59	4	1	1507	67940	2021-11-18	Nanger dama	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing	IBE (Institut de Biologia Evolutiva)
+GCA_006408635.1	2939	2884	55	264	142	294	27591	2019-06-24	Nanger granti	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Northwestern Polytechnical University
+GCF_000622305.1	3303	3281	22	36	15	121	1026970	2014-06-05	Nannospalax galili	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	BGI
+GCA_000772465.1	2435	2401	34	605	307	524	43780	2014-11-10	Nasalis larvatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	Proboscis Monkey Functional Genome Consortium
+GCA_028533885.1	3146	3115	31	153	51	148	352831	2023-02-09	Nasua narica	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	DNA Zoo
+GCA_025134845.1	3295	3175	120	46	13	139	2613871	2022-09-02	Neodon shergylaensis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	BGI
+GCA_027422475.1	3305	3281	24	35	13	106	427616	2022-12-27	Neofelis diardi	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	Smithsonian Institution
+GCF_028018385.1	3351	3319	32	2	1	101	61452	2023-01-31	Neofelis nebulosa	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi	Vertebrate Genomes Project
+GCF_020171115.1	3352	3290	62	1	1	80	452646	2021-09-29	Neogale vison	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi	Dalhousie University
+GCF_002201575.2	3339	3270	69	14	1	142	29088	2021-10-20	Neomonachus schauinslandi	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Oxford Nanopore	Johns Hopkins University
+GCF_003031525.2	3325	3300	25	17	12	132	1706337	2018-04-03	Neophocaena asiaeorientalis asiaeorientalis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Nanjing normal university
+GCA_001675575.1	2818	2796	22	356	173	225	56216	2016-06-23	Neotoma lepida	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	University of Utah
+GCA_006410615.1	2807	2772	35	410	135	288	66442	2019-06-24	Neotragus moschatus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Northwestern Polytechnical University
+GCA_006410875.1	2543	2483	60	610	191	333	1027985	2019-06-24	Neotragus pygmaeus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Northwestern Polytechnical University
+GCA_004026705.1	2294	2231	63	808	230	210	2583312	2019-01-16	Nesogale talazaci	Sarcopterygii	Mammalia			Afrotheria		Illumina	Broad Institute
+GCA_004026825.1	2876	2793	83	381	91	109	3349691	2019-01-16	Nilgiritragus hylocrius	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Broad Institute
+GCA_004026585.1	3035	2954	81	260	52	149	94963	2019-01-16	Noctilio leporinus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Illumina	Broad Institute
+GCA_963574525.1	1928	1884	44	1111	285	256	1616038	2023-11-02	Nomascus annamensis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574845.1	1459	1419	40	1345	516	315	29089	2023-11-02	Nomascus concolor	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574555.1	1878	1841	37	1161	297	240	61852	2023-11-02	Nomascus gabriellae	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCF_006542625.1	3345	3293	52	5	4	96	61853	2019-07-02	Nomascus leucogenys	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio CLR	University of Washington
+GCA_023783065.1	3311	3272	39	15	28	192	9586	2022-06-17	Nomascus siki	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore	BGI-Shenzhen
+GCA_028372415.1	3348	3271	77	3	3	76	9315	2023-02-06	Notamacropus eugenii	Sarcopterygii	Mammalia				Diprotodontia	PacBio HiFi	Vertebrate Genomes Project
+GCA_036971965.2	3350	3304	46	0	4	123	187010	2024-05-31	Nyctalus aviator	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio RSII	Northeast Normal University
+GCA_964264875.1	3343	3300	43	4	7	119	59465	2024-09-21	Nyctalus leisleri	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCF_905146905.1	3352	3256	96	1	1	162	34880	2021-02-14	Nyctereutes procyonoides	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Oxford Nanopore	Senckenber Biodiversity and Climate Research Centre Frankfurt
+GCA_023898255.1	3327	3188	139	11	16	424	261741	2022-06-27	Nycticebus bengalensis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio RSII	BGI-Shenzhen
+GCF_027406575.1	3353	3181	172	1	0	100	9470	2022-12-28	Nycticebus coucang	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio HiFi	Vertebrate Genomes Project
+GCA_007922795.1	1864	1752	112	1141	325	229	27670	2019-08-08	Nycticeius humeralis	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Illumina	Broad Institute
+GCF_017591425.1	3349	3126	223	1	4	97	130825	2021-03-26	Ochotona curzoniae	Sarcopterygii	Mammalia			Euarchontoglires	Lagomorpha	missing	National Institute of Biological Sciences, Beijing
+GCF_030435755.1	3342	3285	57	1	11	101	9978	2023-07-13	Ochotona princeps	Sarcopterygii	Mammalia			Euarchontoglires	Lagomorpha	PacBio HiFi	Vertebrate Genomes Project
+GCF_000260255.1	3312	3133	179	23	19	219	10160	2012-05-01	Octodon degus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Broad Institute
+GCA_002564305.1	1178	1107	71	1318	813	567	135583	2017-10-17	Octomys mimax	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	McMaster University
+GCF_000321225.1	3330	3230	100	18	6	138	9708	2013-01-16	Odobenus rosmarus divergens	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	Marine mammals
+GCA_020976825.1	3298	3175	123	4	52	190	9872	2021-11-30	Odocoileus hemionus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Brigham Young University
+GCF_002102435.1	3269	3201	68	72	13	160	9880	2017-04-20	Odocoileus virginianus texanus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Baylor College of Medicine
+GCA_024291935.2	3332	3299	33	9	13	217	86973	2022-07-16	Okapia johnstoni	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing	Senckenberg Nature Research Society
+GCA_004026605.1	2867	2823	44	404	80	91	10060	2019-01-16	Ondatra zibethicus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Broad Institute
+GCA_949786405.1	3322	3302	20	2	30	98	38679	2023-04-08	Onychomys arenicola	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi	EMBL-EBI, WELLCOME TRUST GENOME CAMPUS, CAMBRIDGE
+GCA_949786385.1	3314	3292	22	3	37	102	38668	2023-04-08	Onychomys leucogaster	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi	EMBL-EBI, WELLCOME TRUST GENOME CAMPUS, CAMBRIDGE
+GCF_903995425.1	3307	3286	21	25	22	136	38674	2020-08-21	Onychomys torridus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio CLR	SC
+GCF_937001465.1	3351	3303	48	0	3	116	9733	2022-05-03	Orcinus orca	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_009758055.1	3206	3173	33	103	44	154	34873	2019-12-16	Oreamnos americanus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Trent University
+GCA_006410675.1	2963	2875	88	301	85	205	66444	2019-06-24	Oreotragus oreotragus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Northwestern Polytechnical University
+GCA_004027895.1	2151	2112	39	923	258	208	1041416	2019-01-16	Orientallactaga bullata	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Broad Institute
+GCA_041429955.1	3352	3303	49	1	1	76	234626	2024-08-22	Orientallactaga sibirica	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Oxford Nanopore	Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou)
+GCF_004115215.2	3307	3294	13	16	31	161	9258	2020-11-06	Ornithorhynchus anatinus	Sarcopterygii	Mammalia				Monotremata	PacBio CLR	Vertebrate Genomes Project
+GCF_000298275.1	3299	3278	21	44	11	151	1230840	2012-09-20	Orycteropus afer afer	Sarcopterygii	Mammalia			Afrotheria	Tubulidentata	Illumina	Broad Institute
+GCF_009806435.1	3253	3098	155	29	71	134	9986	2021-02-04	Oryctolagus cuniculus	Sarcopterygii	Mammalia			Euarchontoglires	Lagomorpha	missing	Shanghai Institutes for Biological Sciences
+GCF_014754425.2	3347	3210	137	6	1	94	59534	2020-09-25	Oryx dammah	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Smithsonian Conservation Biology Institute
+GCA_003945745.1	3255	3221	34	51	46	227	9958	2018-12-14	Oryx gazella	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	University of California Davis
+GCA_028564725.2	3354	3334	20	0	0	164	61408	2023-11-27	Otocolobus manul	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Oxford Nanopore	University of Minnnesota
+GCA_017311455.1	3235	3183	52	93	23	129	2793302	2021-03-09	Otocyon megalotis megalotis	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Oxford Nanopore	CNRS
+GCA_963574585.1	1872	1822	50	1122	331	307	9463	2023-10-31	Otolemur crassicaudatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCF_000181295.1	3325	3264	61	22	7	154	30611	2011-03-16	Otolemur garnettii	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	Broad Institute of MIT and Harvard, USA, Cambridge
+GCA_006417275.1	523	517	6	1505	1277	201	59536	2019-06-24	Ourebia ourebi	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Northwestern Polytechnical University
+GCA_041156055.1	3353	3298	55	1	0	95	37176	2024-08-09	Ovibos moschatus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	The Hospital for Sick Children
+GCA_028583565.1	3352	3241	111	2	0	90	230172	2023-02-10	Ovis ammon polii	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio CLR	China Agricultural University
+GCA_023701675.1	3353	3254	99	1	0	86	2918886	2022-06-10	Ovis ammon polii x Ovis aries	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi	China Agricultural University
+GCF_016772045.2	3353	3265	88	1	0	94	9940	2023-07-20	Ovis aries	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing	University of Idaho
+GCF_042477335.1	3310	3212	98	3	41	104	37174	2024-10-03	Ovis canadensis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Oxford Nanopore	Sheep Pangenome
+GCA_903231385.1	3326	3243	83	19	9	434	1867112	2020-06-16	Ovis nivicola lydekkeri	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing	LMU Munich
+GCA_014523465.1	3352	3246	106	2	0	112	469796	2020-09-11	Ovis orientalis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	INSTITUTE OF ZOOLOGY, CHINESE ACADEMY OF SCIENCES
+GCA_028658305.1	3265	3207	58	53	35	121	298894	2023-02-17	Pachyuromys duprasi	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	DNA Zoo
+GCA_030068075.1	3353	3301	52	1	0	208	9675	2023-06-05	Paguma larvata	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio CLR	Institute of Zoology, Guangdong Academy of Sciences
+GCF_029289425.2	3354	3309	45	0	0	103	9597	2024-01-08	Pan paniscus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore	National Human Genome Research Institute, National Institutes of Health
+GCA_029289425.3	3354	3309	45	0	0	103	9597	2024-08-13	Pan paniscus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore	National Human Genome Research Institute, National Institutes of Health
+GCF_028858775.2	3354	3305	49	0	0	97	9598	2024-01-08	Pan troglodytes	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore	National Human Genome Research Institute, National Institutes of Health
+GCF_018350215.1	3308	3295	13	3	43	106	9689	2021-05-13	Panthera leo	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing	Texas A&M University
+GCF_028533385.1	3200	3188	12	126	27	144	9690	2023-02-09	Panthera onca	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	DNA Zoo
+GCF_024362965.1	3353	3332	21	1	0	135	9691	2022-07-21	Panthera pardus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi	Stanford University
+GCF_018350195.1	3354	3340	14	0	0	109	9694	2021-05-13	Panthera tigris	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing	Texas A&M University
+GCF_023721935.1	3321	3267	54	19	13	123	29064	2022-06-16	Panthera uncia	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	Stanford University
+GCA_040182635.1	3350	3146	204	2	2	113	59538	2024-06-17	Pantholops hodgsonii	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi	Northwest Institute of Plateau Biology, Chinese Academy of Sciences
+GCF_008728515.1	3316	3221	95	15	23	133	9555	2019-10-02	Papio anubis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing	University of California, San Francisco
+GCA_008728515.2	3290	3194	96	16	48	135	9555	2022-04-27	Papio anubis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore	University of California, San Francisco
+GCA_963574715.1	1836	1800	36	1184	313	258	9556	2023-11-03	Papio cynocephalus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_023781915.1	3330	3271	59	8	16	200	9557	2022-06-17	Papio hamadryas	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore	BGI-Shenzhen
+GCA_963573405.1	1739	1700	39	1232	348	265	208091	2023-11-03	Papio kindae	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_028645565.1	3055	2980	75	243	55	256	100937	2023-02-16	Papio papio	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	DNA Zoo
+GCA_963574515.1	1881	1843	38	1148	301	243	36229	2023-11-03	Papio ursinus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_004024585.1	2628	2609	19	597	120	117	71117	2019-01-15	Paradoxurus hermaphroditus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	Broad Institute
+GCA_007922755.1	2809	2775	34	438	98	98	10023	2019-08-08	Pedetes capensis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Broad Institute
+GCA_963574655.1	1968	1877	91	1036	324	359	9472	2023-10-31	Perodicticus potto	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCF_023159225.1	3330	3246	84	8	16	155	214514	2022-04-27	Perognathus longimembris pacificus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing	San Diego Zoo Wildlife Alliance
+GCA_902168425.1	2359	2246	113	774	204	144	97206	2019-08-20	Peromyscus attwateri	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing	UNIVERSITY OF NEW HAMPSHIRE
+GCA_902168405.1	2188	2054	134	882	269	137	57100	2019-08-22	Peromyscus aztecus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing	UNIVERSITY OF NEW HAMPSHIRE
+GCF_007827085.1	3343	3280	63	1	10	144	564181	2022-04-27	Peromyscus californicus insignis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi	University of Maryland
+GCF_949786415.1	3285	3246	39	37	31	120	42410	2023-04-08	Peromyscus eremicus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi	EMBL-EBI, WELLCOME TRUST GENOME CAMPUS, CAMBRIDGE
+GCF_004664715.2	3312	3212	100	9	33	206	10041	2020-10-02	Peromyscus leucopus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	University of California Irvine
+GCF_003704035.1	3329	3280	49	15	10	110	230844	2020-09-17	Peromyscus maniculatus bairdii	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Harvard University / Howard Hughes Medical Institute
+GCA_902168415.1	1999	1941	58	1020	313	144	246392	2019-08-20	Peromyscus melanophrys	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing	UNIVERSITY OF NEW HAMPSHIRE
+GCA_902168325.1	2207	2126	81	881	258	156	162314	2019-08-20	Peromyscus nudipes	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing	UNIVERSITY OF NEW HAMPSHIRE
+GCA_003704135.2	3326	3275	51	15	12	122	369710	2019-04-26	Peromyscus polionotus subgriseus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Harvard University / Howard Hughes Medical Institute
+GCF_028583685.1	3315	3156	159	15	24	88	3040969	2023-02-10	Petaurus breviceps papuanus	Sarcopterygii	Mammalia				Diprotodontia	Illumina	Princeton University
+GCA_004026965.1	2351	2318	33	770	204	120	10183	2019-01-16	Petromus typicus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Broad Institute
+GCF_016906955.1	3353	3345	8	1	0	134	41426	2021-02-19	Phacochoerus africanus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio CLR	The Roslin Institute
+GCA_028646595.1	3057	2999	58	217	77	219	65615	2023-02-16	Phalanger gymnotis	Sarcopterygii	Mammalia				Diprotodontia	missing	DNA Zoo
+GCF_002099425.1	3347	3325	22	2	5	235	38626	2017-04-18	Phascolarctos cinereus	Sarcopterygii	Mammalia				Diprotodontia	PacBio CLR	The Earlham Institute
+GCA_032200785.1	1902	1890	12	1104	325	176	73815	2023-09-29	Phataginus tetradactyla	Sarcopterygii	Mammalia			Laurasiatheria	Pholidota	Illumina	Universite Toulouse III - Paul Sabatier
+GCA_029783875.1	3276	3229	47	59	19	157	358128	2023-04-17	Phataginus tricuspis	Sarcopterygii	Mammalia			Laurasiatheria	Pholidota	Illumina	DNA Zoo
+GCA_006410695.1	2672	2605	67	497	181	330	907741	2019-06-24	Philantomba maxwellii	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Northwestern Polytechnical University
+GCF_004348235.1	3340	3289	51	13	1	118	9720	2019-02-11	Phoca vitulina	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	Canadas Genome Enterprise (CGEN)
+GCF_963924675.1	3346	3320	26	1	7	107	9742	2024-01-29	Phocoena phocoena	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCF_008692025.1	3349	3320	29	0	5	160	42100	2019-09-26	Phocoena sinus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio CLR	Vertebrate Genomes Project
+GCF_943737965.1	3344	3262	82	4	6	103	109678	2022-07-01	Phodopus roborovskii	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing	FREIE UNIVERSITAET BERLIN
+GCA_030556225.1	3349	3338	11	2	3	101	10044	2023-07-31	Phodopus sungorus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Oxford Nanopore	UiT: The Arctic University of Norway
+GCF_004126475.2	3330	3306	24	7	17	197	89673	2020-05-12	Phyllostomus discolor	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio CLR	Vertebrate Genomes Project
+GCF_019186645.2	3348	3334	14	3	3	106	9423	2021-07-09	Phyllostomus hastatus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Oxford Nanopore	Texas Tech University
+GCA_033318265.1	3340	3330	10	2	12	91	2804059	2023-11-03	Phyllotis vaccarum	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi	University of Montana
+GCF_002837175.3	3271	3224	47	69	12	134	9755	2023-02-28	Physeter catodon	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing	BGI
+GCA_963574265.1	1803	1753	50	1186	337	248	164648	2023-11-03	Piliocolobus badius	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574285.1	1896	1853	43	1126	304	260	591933	2023-11-03	Piliocolobus gordonorum	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574805.1	1896	1852	44	1117	308	236	591937	2023-11-03	Piliocolobus kirkii	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCF_002776525.5	3310	3206	104	34	10	116	591936	2019-12-12	Piliocolobus tephrosceles	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	University of Oregon
+GCA_964339955.1	3336	3295	41	2	16	121	412090	2024-11-14	Pipistrellus hanaki	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi	Genoscope CEA
+GCF_014108245.1	3345	3296	49	4	5	119	59472	2020-08-07	Pipistrellus kuhlii	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio CLR	Bat1K
+GCA_963693515.1	3350	3314	36	1	3	103	59473	2024-02-07	Pipistrellus nathusii	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi	Leibniz Institute for Zoo and Wildlife Research
+GCA_903992545.1	3177	3126	51	32	145	221	59474	2020-08-06	Pipistrellus pipistrellus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio CLR	SC
+GCA_949987585.1	3348	3316	32	2	4	113	246814	2023-05-01	Pipistrellus pygmaeus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_963573695.1	2236	2195	41	879	215	232	2946514	2023-11-02	Pithecia albicans	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574905.1	2217	2171	46	911	204	221	2946515	2023-11-02	Pithecia chrysocephala	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963573645.1	2250	2210	40	868	216	245	2946516	2023-11-02	Pithecia hirsuta	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574975.1	2297	2247	50	851	194	229	2946517	2023-11-02	Pithecia mittermeieri	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963575305.1	2219	2179	40	896	224	223	2946518	2023-11-02	Pithecia pissinatti	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_023779675.1	3346	3264	82	5	3	657	43777	2022-06-17	Pithecia pithecia	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore	BGI-Shenzhen
+GCA_963574005.1	2281	2232	49	854	205	231	2946519	2023-11-01	Pithecia vanzolinii	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_017311385.1	903	879	24	1491	923	303	118798	2021-03-09	Platanista gangetica	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Chittagong Veterinary and Animal Sciences University; University of Chittagong (HRRL)
+GCA_004363435.1	2028	1954	74	1057	247	235	48752	2019-03-22	Platanista minor	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Broad Institute
+GCA_963455305.1	3351	3299	52	2	1	124	61862	2023-09-20	Plecotus auritus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_963574705.1	2284	2254	30	862	192	191	1812036	2023-11-02	Plecturocebus bernhardi	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963573885.1	2325	2289	36	833	181	218	1812042	2023-11-02	Plecturocebus brunneus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963575255.1	2342	2300	42	803	191	210	867332	2023-11-01	Plecturocebus caligatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963573415.1	2284	2253	31	852	202	211	1812037	2023-11-01	Plecturocebus cinerascens	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_040437455.1	3353	3289	64	1	0	111	202457	2024-07-02	Plecturocebus cupreus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore	Arizona State University
+GCA_004027715.1	2333	2278	55	801	196	184	230833	2019-01-16	Plecturocebus donacophilus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	Broad Institute
+GCA_963575235.1	2329	2293	36	817	194	193	2946520	2023-11-01	Plecturocebus dubius	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574625.1	2386	2346	40	775	173	198	2488670	2023-11-01	Plecturocebus grovesi	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963575245.1	2322	2284	38	815	203	211	78255	2023-11-01	Plecturocebus hoffmannsi	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963575275.1	2356	2321	35	807	173	192	1812038	2023-11-01	Plecturocebus miltoni	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574105.1	2423	2390	33	751	162	193	9523	2023-11-01	Plecturocebus moloch	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCF_028885655.2	3354	3312	42	0	0	96	9601	2024-01-05	Pongo abelii	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore	National Human Genome Research Institute, National Institutes of Health
+GCF_028885625.2	3354	3309	45	0	0	94	9600	2024-01-08	Pongo pygmaeus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore	National Human Genome Research Institute, National Institutes of Health
+GCA_011754075.1	1056	1039	17	1520	729	286	48723	2020-03-25	Pontoporia blainvillei	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Universidade do Vale do Itajai (UNIVALI)
+GCA_028658325.1	3076	2743	333	210	65	152	173936	2023-02-17	Potorous gilbertii	Sarcopterygii	Mammalia				Diprotodontia	Illumina	DNA Zoo
+GCA_028534135.1	3182	3166	16	138	32	153	29067	2023-02-09	Potos flavus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	DNA Zoo
+GCA_019843815.1	2003	1916	87	1011	312	204	119565	2021-09-01	Praomys delectorum	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	University of Pennsylvania
+GCA_963573905.1	1706	1656	50	1261	365	251	78452	2023-11-03	Presbytis comata	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963575215.1	1737	1694	43	1223	361	263	272115	2023-11-03	Presbytis melalophos mitrata	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCF_016509475.1	3353	3340	13	0	1	129	37029	2021-01-06	Prionailurus bengalensis	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing	Texas A&M University
+GCA_018403415.1	2682	2677	5	555	108	110	37030	2021-03-31	Prionailurus iriomotensis	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	Environmental Genomics Office Center for Environmetal Biology and Ecosystem Studies, National Institute for Environmental Studies
+GCF_022837055.1	3354	3341	13	0	0	105	61388	2022-04-08	Prionailurus viverrinus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi	University of Missouri
+GCA_006410515.1	3252	3215	37	79	23	201	157668	2019-06-24	Procapra przewalskii	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Northwestern Polytechnical University
+GCA_000152225.2	3277	3269	8	63	13	138	9813	2014-12-16	Procavia capensis	Sarcopterygii	Mammalia			Afrotheria	Hyracoidea	Illumina	Baylor College of Medicine
+GCA_028646535.1	2927	2890	37	332	89	206	9654	2023-02-16	Procyon lotor	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing	DNA Zoo
+GCA_003258685.1	3310	3280	30	36	8	107	1328070	2018-06-20	Prolemur simus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	Henry Doorly Zoo & Aquarium
+GCF_000956105.1	3255	3205	50	63	35	245	379532	2015-03-23	Propithecus coquereli	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	Baylor College of Medicine
+GCA_963574665.1	1946	1916	30	1074	307	168	475619	2023-10-31	Propithecus deckenii coronatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963575075.1	1896	1868	28	1136	295	165	83281	2023-10-31	Propithecus diadema	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963575085.1	1996	1959	37	1069	271	178	543559	2023-10-31	Propithecus edwardsi	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574695.1	1934	1902	32	1117	280	171	989338	2023-10-31	Propithecus perrieri	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574315.1	2049	2021	28	1025	259	163	30601	2023-10-31	Propithecus tattersalli	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963575125.1	1868	1841	27	1130	327	180	34825	2023-10-31	Propithecus verreauxi	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_017311185.1	3220	3193	27	76	58	127	2793304	2021-03-09	Proteles cristata cristata	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Oxford Nanopore	CNRS
+GCF_907164565.1	3288	3258	30	49	17	120	48139	2021-06-02	Psammomys obesus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing	WELLCOME TRUST SANGER INSTITUTE
+GCA_028646575.1	2816	2704	112	391	144	218	656515	2023-02-16	Pseudocheirus occidentalis	Sarcopterygii	Mammalia				Diprotodontia	Illumina	DNA Zoo
+GCA_028646515.1	2891	2742	149	334	122	228	65629	2023-02-16	Pseudochirops corinnae	Sarcopterygii	Mammalia				Diprotodontia	Illumina	DNA Zoo
+GCA_028627135.1	3007	2937	70	259	86	202	37702	2023-02-16	Pseudochirops cupreus	Sarcopterygii	Mammalia				Diprotodontia	Illumina	DNA Zoo
+GCA_003182575.1	2177	2126	51	889	265	143	59542	2018-05-31	Pseudois nayaur	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Northwest A&F University
+GCF_039906515.1	3351	3307	44	0	3	116	82174	2024-05-31	Pseudorca crassidens	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi	Vertebrate Genomes Project
+GCF_021234165.1	3347	3318	29	1	5	94	1884717	2021-12-20	Pteronotus mesoamericanus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Oxford Nanopore	CSHL
+GCA_036768555.1	3065	3054	11	158	130	501	1884721	2024-02-22	Pteronotus parnellii mexicanus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Illumina	INSTITUTO POLITECNICO NACIONAL
+GCA_004024605.1	2923	2894	29	369	51	107	9672	2019-01-15	Pteronura brasiliensis	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	Broad Institute
+GCF_000325575.1	3332	3324	8	16	6	186	9402	2013-12-04	Pteropus alecto	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Illumina	BGI
+GCF_902729225.1	3331	3324	7	11	12	120	143291	2020-04-15	Pteropus giganteus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing	CIRI-Inserm-U1111
+GCA_014363405.1	3284	3279	5	56	13	89	1496133	2020-08-23	Pteropus pselaphon	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Illumina	Environmental Genomics Office, Center for Enviromental Biology and Ecosystem Studies, National Institute for Environmental Studies
+GCA_028533765.1	3280	3269	11	50	24	109	196297	2023-02-10	Pteropus rufus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Illumina	DNA Zoo
+GCF_000151845.1	3270	3258	12	65	19	190	132908	2014-12-05	Pteropus vampyrus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Illumina	Baylor College of Medicine
+GCF_003327715.1	3179	3171	8	113	62	196	9696	2018-07-19	Puma concolor	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Oxford Nanopore	Broad Institute
+GCF_014898765.1	3323	3309	14	23	8	123	1608482	2020-10-20	Puma yagouaroundi	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	Felidae consortium
+GCA_947044825.1	3342	3286	56	12	0	119	248495	2023-02-03	Pusa hispida saimensis	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio CLR	Institute of Biotechnology, University of Helsinki
+GCA_028975605.1	3246	3209	37	78	29	198	9719	2023-03-08	Pusa sibirica	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	Institute for Molecular and Cellular biology
+GCA_963574085.1	1761	1705	56	1201	362	252	693712	2023-11-03	Pygathrix cinerea	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_004024825.1	2647	2560	87	571	120	169	54133	2019-01-15	Pygathrix nemaeus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	Broad Institute
+GCA_023764695.1	3306	3227	79	20	28	435	310352	2022-06-17	Pygathrix nigripes	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio RSII	BGI-Shenzhen
+GCA_949782905.1	3352	3220	132	0	2	112	3082113	2023-04-20	Rangifer tarandus platyrhynchus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi	EBP Norway
+GCA_006410735.1	2584	2518	66	526	240	357	59544	2019-06-24	Raphicerus campestris	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Northwestern Polytechnical University
+GCF_036323735.1	3350	3280	70	1	3	95	10116	2024-01-31	Rattus norvegicus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing	Genome Reference Consortium
+GCF_011064425.1	3275	3230	45	15	64	171	10117	2020-03-04	Rattus rattus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Oxford Nanopore	CSIRO
+GCA_006410935.1	2702	2654	48	499	141	187	59556	2019-06-24	Redunca redunca	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Northwestern Polytechnical University
+GCA_043882965.1	3340	3286	54	2	12	91	3079464	2024-10-25	Reithrodontomys megalotis longicaudus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi	University of California, Santa Cruz
+GCA_019844195.1	3118	3083	35	79	156	114	996586	2021-09-01	Rhabdomys dilectus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	University of Pennsylvania
+GCA_030674055.1	3323	3254	69	20	11	105	121573	2023-08-07	Rhabdomys pumilio	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Princeton University
+GCA_028646465.1	3269	3070	199	74	10	115	9809	2023-02-16	Rhinoceros unicornis	Sarcopterygii	Mammalia			Laurasiatheria	Perissodactyla	Illumina	DNA Zoo
+GCA_043728065.1	3352	3322	30	2	0	107	59477	2024-10-24	Rhinolophus affinis	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi	Bat1K
+GCF_004115265.2	3351	3288	63	1	2	128	59479	2019-05-16	Rhinolophus ferrumequinum	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio CLR	Vertebrate Genomes Project
+GCA_964194185.1	3349	3282	67	4	1	113	77218	2024-06-28	Rhinolophus hipposideros	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_043748575.1	3349	3291	58	3	2	108	3030661	2024-10-24	Rhinolophus perniger lanosus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi	Bat1K
+GCA_041825415.1	3353	3327	26	1	0	106	188572	2024-09-09	Rhinolophus rex	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Oxford Nanopore	East China Normal University
+GCA_036562045.1	3293	3262	31	10	51	128	89399	2024-06-26	Rhinolophus sinicus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Oxford Nanopore	Kunming Institute of Zoology, Chinese Academy of Sciences
+GCA_043728145.1	3331	3264	67	3	20	111	430492	2024-10-24	Rhinolophus trifoliatus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi	Bat1K
+GCA_043880425.1	3350	3310	40	2	2	107	2952509	2024-10-28	Rhinolophus yonghoiseni	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi	Bat1K
+GCF_001698545.2	3279	3212	67	55	18	310	61621	2016-08-03	Rhinopithecus bieti	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	Laboratory for conservation and utilization of Bio-resource
+GCF_007565055.1	3347	3249	98	4	3	139	61622	2019-07-29	Rhinopithecus roxellana	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio CLR	Northwest University
+GCA_023764705.1	3296	3222	74	19	39	319	1194336	2022-06-17	Rhinopithecus strykeri	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore	BGI-Shenzhen
+GCA_043880545.1	3353	3336	17	1	0	99	173903	2024-10-28	Rhinopoma microphyllum	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi	Bat1K
+GCA_009823505.1	3261	3154	107	65	27	207	53275	2019-12-31	Rhizomys pruinosus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio RSII	Chinese Academy of Sciences
+GCA_010120015.1	3319	3294	25	22	13	131	186474	2020-02-04	Rhombomys opimus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	University of Oslo
+GCA_043290065.1	3305	3244	61	3	46	99	320637	2024-10-17	Rhynchocyon petersi	Sarcopterygii	Mammalia			Afrotheria	Macroscelidea	PacBio HiFi	Vertebrate Genomes Project
+GCA_019843965.1	3191	3148	43	29	134	112	1217597	2021-09-01	Rhynchomys soricoides	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	University of Pennsylvania
+GCA_037038555.1	3300	3259	41	6	48	97	249017	2024-03-06	Rhynchonycteris naso	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi	Bat1K Project
+GCF_014176215.1	3345	3337	8	3	6	90	9407	2020-08-07	Rousettus aegyptiacus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio CLR	Bat1K
+GCA_015472975.1	3347	3340	7	3	4	76	9408	2020-10-30	Rousettus leschenaultii	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Illumina	Comparative Genomics Laboratory, Center for Information Biology, National Institute of Genetics
+GCA_028533395.1	3074	3063	11	207	70	175	77223	2023-02-09	Rousettus madagascariensis	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Illumina	DNA Zoo
+GCA_034233915.1	3340	3225	115	4	10	151	141656	2023-12-08	Rucervus eldii siamensis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing	Chulalongkorn University
+GCA_963981305.1	3352	3240	112	2	0	96	34869	2024-03-10	Rupicapra rupicapra	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Oxford Nanopore	Centro Nacional de Análisis Genómico
+GCA_038501445.1	3340	3240	100	10	4	127	1088129	2024-04-26	Rusa alfredi	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Philippine Genome Center Visayas
+GCF_036850765.1	3348	3284	64	4	2	97	59482	2024-02-26	Saccopteryx bilineata	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio CLR	Bat1K
+GCF_036850995.1	3348	3295	53	3	3	99	249018	2024-02-26	Saccopteryx leptura	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio CLR	Bat1K
+GCA_963574455.1	1993	1925	68	1062	279	315	37588	2023-11-03	Saguinus bicolor	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574215.1	1952	1885	67	1091	289	311	43778	2023-11-03	Saguinus geoffroyi	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_004024885.1	2763	2635	128	486	99	199	9491	2019-01-15	Saguinus imperator	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	Broad Institute
+GCA_963574735.1	2007	1920	87	1040	284	313	1079039	2023-11-03	Saguinus inustus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963575005.1	1964	1895	69	1072	296	319	78454	2023-11-03	Saguinus labiatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_021498475.1	3306	3177	129	18	30	248	30586	2022-01-19	Saguinus midas	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore	BGI-Shenzhen
+GCA_963574345.1	2004	1920	84	1036	291	322	9488	2023-11-02	Saguinus mystax	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_031835075.1	3349	3195	154	1	4	119	9490	2023-09-25	Saguinus oedipus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio HiFi	The Ohio State University
+GCA_004024985.1	1112	1081	31	1525	669	199	34875	2019-01-15	Saiga tatarica	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Broad Institute
+GCF_016699345.2	3349	3269	80	2	3	127	39432	2021-01-12	Saimiri boliviensis boliviensis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing	Baylor College of Medicine Human Genome Sequencing Center
+GCA_963573395.1	1605	1571	34	1263	456	300	2946521	2023-10-31	Saimiri cassiquiarensis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963573505.1	1607	1567	40	1272	449	296	2946522	2023-10-31	Saimiri macrodon	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574195.1	1585	1545	40	1294	442	296	70928	2023-11-01	Saimiri oerstedii	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963573345.1	1635	1590	45	1264	437	298	9521	2023-11-01	Saimiri sciureus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574015.1	1581	1541	40	1301	444	310	66265	2023-10-31	Saimiri ustus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_040869305.1	3318	3225	93	19	16	171	1385376	2024-07-25	Salpingotus crassicauda	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Oxford Nanopore	INSTITUTE OF ZOOLOGY, CHINESE ACADEMY OF SCIENCES
+GCF_009761245.1	3324	3235	89	25	4	126	9515	2019-12-17	Sapajus apella	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	Canadas Genomic Enterprise
+GCF_902635505.1	3298	3270	28	16	40	102	9305	2019-11-07	Sarcophilus harrisii	Sarcopterygii	Mammalia				Dasyuromorphia	Oxford Nanopore	SC
+GCA_004024925.1	2920	2906	14	357	70	109	71119	2019-01-15	Scalopus aquaticus	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	Illumina	Broad Institute
+GCA_042919465.1	3350	3295	55	0	4	97	446353	2024-10-15	Scaptochirus moschatus	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	missing	Qufu Normal University
+GCF_902686445.1	3353	3279	74	1	0	226	30640	2020-07-31	Sciurus carolinensis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio CLR	SC
+GCA_020740815.1	3028	2928	100	240	83	159	34861	2021-11-04	Sciurus niger	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Oxford Nanopore	Edward Via College of Osteopathic Medicine
+GCA_902686455.2	3351	3170	181	3	0	220	55149	2020-07-31	Sciurus vulgaris	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio CLR	SC
+GCA_004025065.1	2039	1980	59	1010	275	220	88029	2019-01-15	Semnopithecus entellus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	Broad Institute
+GCA_963573665.1	1693	1648	45	1231	399	253	1208734	2023-11-02	Semnopithecus hypoleucos	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574295.1	1654	1619	35	1253	409	263	1208733	2023-11-02	Semnopithecus priam	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574385.1	1688	1645	43	1253	387	264	2804203	2023-11-02	Semnopithecus schistaceus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_041721565.1	3338	3167	171	10	5	110	42415	2024-09-03	Sigmodon hispidus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	The Ohio State University
+GCA_032199065.1	2860	2823	37	369	117	119	1559511	2023-09-29	Smutsia gigantea	Sarcopterygii	Mammalia			Laurasiatheria	Pholidota	Oxford Nanopore	Universite Toulouse III - Paul Sabatier
+GCA_032201145.1	1546	1532	14	1297	476	177	302418	2023-09-29	Smutsia temminckii	Sarcopterygii	Mammalia			Laurasiatheria	Pholidota	Illumina	Universite Toulouse III - Paul Sabatier
+GCA_004363575.1	3197	3192	5	124	31	104	79805	2019-03-22	Solenodon paradoxus	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	Illumina	Broad Institute
+GCF_027595985.1	3332	3284	48	8	13	129	42254	2023-01-09	Sorex araneus	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	PacBio HiFi	Vertebrate Genomes Project
+GCF_029834395.1	3342	3306	36	3	9	122	62283	2023-04-17	Sorex fumeus	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	PacBio HiFi	Trent University
+GCA_030324115.1	2517	2427	90	412	419	135	395025	2023-06-22	Sorex maritimensis	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	Illumina	Trent University
+GCA_041430695.1	3332	3175	157	7	15	116	126318	2024-08-23	Sorex ornatus	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	PacBio HiFi	UCLA
+GCA_028565675.1	2205	2191	14	807	333	419	46219	2023-02-09	Sorex palustris	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	Illumina	IRIDIAN GENOMES
+GCA_007760645.1	3344	3290	54	5	5	126	103600	2019-07-31	Sousa chinensis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	BGI-SZ
+GCA_023170115.1	2800	2756	44	475	77	157	68741	2022-04-01	Speothos venaticus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	Center for Research and Education of Wildlife, Kyoto City Zoo
+GCA_964194105.1	3350	3248	102	4	0	101	9997	2024-06-28	Spermophilus citellus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_002406435.1	3244	3162	82	81	29	298	99837	2017-09-28	Spermophilus dauricus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	BGI-shenzhen
+GCA_004023965.1	2684	2662	22	548	112	125	30551	2019-01-15	Spilogale gracilis	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	Broad Institute
+GCA_023159085.1	3349	3325	24	4	1	157	2340998	2022-04-27	Spilogale interrupta	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing	University of Wyoming
+GCA_951394435.1	3343	3309	34	0	11	110	9737	2023-06-16	Stenella coeruleoalba	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCA_028646385.1	3286	3246	40	52	15	152	46167	2023-02-16	Steno bredanensis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	DNA Zoo
+GCF_014824575.3	3283	3266	17	13	57	123	192404	2020-09-30	Sturnira hondurensis	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Illumina	College of Life Sciences at Wuhan University
+GCA_014824575.3	3283	3266	17	13	57	123	192404	2022-12-28	Sturnira hondurensis	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Illumina	College of Life Sciences at Wuhan University
+GCF_024139225.1	3329	3243	86	10	15	213	109475	2022-07-06	Suncus etruscus	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	PacBio CLR	Vertebrate Genomes Project
+GCF_006229205.1	3307	3258	49	39	8	136	37032	2019-07-03	Suricata suricatta	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	DNA Zoo
+GCA_905335845.1	3348	3334	14	5	1	122	315377	2022-09-22	Sus cebifrons	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing	WAGENINGEN UR
+GCF_000003025.6	3353	3339	14	1	0	200	9823	2017-02-07	Sus scrofa	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Oxford Nanopore	The Swine Genome Sequencing Consortium (SGSC)
+GCA_006408735.1	3021	2943	78	254	76	289	119562	2019-06-24	Sylvicapra grimmia	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Northwestern Polytechnical University
+GCA_015711505.1	3239	3160	79	88	25	168	365149	2020-12-04	Sylvilagus bachmani	Sarcopterygii	Mammalia			Euarchontoglires	Lagomorpha	Illumina	DNA Zoo
+GCA_949820135.1	3347	3313	34	3	4	119	9988	2023-04-19	Sylvilagus floridanus	Sarcopterygii	Mammalia			Euarchontoglires	Lagomorpha	PacBio HiFi	Wellcome Sanger Institute
+GCF_028878055.3	3353	3300	53	1	0	92	9590	2024-01-05	Symphalangus syndactylus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore	National Human Genome Research Institute, National Institutes of Health
+GCA_902825105.1	3348	3300	48	3	2	304	9970	2020-04-02	Syncerus caffer	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing	UNIVERSITY OF EDINBURGH
+GCF_015852505.1	3297	3290	7	13	44	158	9261	2020-12-09	Tachyglossus aculeatus	Sarcopterygii	Mammalia				Monotremata	PacBio CLR	Vertebrate Genomes Project
+GCA_030848825.1	3350	3305	45	2	2	109	9438	2023-08-22	Tadarida brasiliensis	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi	Bat1K
+GCA_964194135.1	3343	3306	37	3	8	80	9375	2024-06-28	Talpa europaea	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCF_014898055.3	3348	3268	80	3	3	128	50954	2020-10-19	Talpa occidentalis	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	Illumina	Max Planck Institute for Molecular Genetics
+GCA_023851605.1	3346	3176	170	5	3	124	48850	2022-06-22	Tamandua tetradactyla	Sarcopterygii	Mammalia			Xenarthra	Pilosa	PacBio CLR	Vertebrate Genomes Project
+GCA_025594165.1	3289	3247	42	16	49	451	64680	2022-10-06	Tamias sibiricus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio RSII	Qufu Normal University
+GCA_044509165.1	3340	3318	22	12	2	137	187003	2024-11-05	Taphozous melanopogon	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Oxford Nanopore	Wuhan University, College of Life Sciences
+GCA_031878705.1	3349	3333	16	0	5	92	9802	2023-09-25	Tapirus indicus	Sarcopterygii	Mammalia			Laurasiatheria	Perissodactyla	PacBio HiFi	Vertebrate Genomes Project
+GCA_004025025.1	2895	2886	9	391	63	105	9801	2019-01-15	Tapirus terrestris	Sarcopterygii	Mammalia			Laurasiatheria	Perissodactyla	Illumina	Broad Institute
+GCA_963574405.1	1517	1484	33	1265	532	258	630277	2023-11-03	Tarsius lariang	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574415.1	1391	1360	31	1320	601	272	981131	2023-11-03	Tarsius wallacei	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_003697995.1	2189	2163	26	909	240	133	2282171	2018-10-30	Taxidea taxus jeffersonii	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	Canadas Genomic Enterprise
+GCF_003255815.1	3333	3260	73	17	4	114	9565	2018-06-19	Theropithecus gelada	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	Kenneth Chious shared submissions
+GCA_040207635.1	3231	3178	53	6	117	102	2983910	2024-06-17	Thomomys bottae limpiae	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Texas Tech University
+GCA_041154305.1	3340	3313	27	6	7	101	10169	2024-06-12	Thryonomys swinderianus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Ghana Grasscutter Project
+GCA_036184385.1	3351	3335	16	1	2	98	742503	2023-09-08	Tokudaia muenninki	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Hokkaido University, Graduate School of Life Science
+GCA_027943515.1	3344	3323	21	5	5	83	73109	2022-11-01	Tokudaia osimensis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Hokkaido University, Graduate School of Life Science
+GCA_036184795.1	3351	3325	26	1	2	99	742508	2023-09-08	Tokudaia tokunoshimensis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Hokkaido University, Graduate School of Life Science
+GCA_026826555.1	3322	3070	252	23	8	154	183749	2022-12-12	Tolypeutes matacus	Sarcopterygii	Mammalia			Xenarthra	Cingulata	Illumina	University of California, Davis
+GCA_004024845.1	3005	2981	24	297	48	124	2683044	2019-01-15	Tonatia bakeri	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Illumina	Broad Institute
+GCA_028533065.1	3116	3099	17	176	61	178	148073	2023-02-09	Trachops cirrhosus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Illumina	DNA Zoo
+GCA_963574155.1	1637	1594	43	1264	411	262	222416	2023-11-03	Trachypithecus auratus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574045.1	1606	1556	50	1290	418	267	122765	2023-11-03	Trachypithecus cristatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCF_009764315.1	3333	3253	80	5	16	132	54180	2019-12-18	Trachypithecus francoisi	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	INSTITUTE OF ZOOLOGY, CHINESE ACADEMY OF SCIENCES
+GCA_963573545.1	1680	1633	47	1246	395	268	164650	2023-11-03	Trachypithecus geei	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963573455.1	1617	1579	38	1297	410	275	271260	2023-11-03	Trachypithecus germaini	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963573355.1	1588	1554	34	1301	434	250	867383	2023-11-03	Trachypithecus hatinhensis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574185.1	1669	1625	44	1243	411	271	66063	2023-11-03	Trachypithecus johnii	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963573585.1	1627	1590	37	1279	410	243	465718	2023-11-03	Trachypithecus laotum	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574075.1	1626	1582	44	1269	425	267	54181	2023-11-03	Trachypithecus obscurus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_023762245.1	3299	3240	59	29	26	453	272121	2022-06-17	Trachypithecus phayrei crepuscula	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio CLR	BGI-Shenzhen
+GCA_963573805.1	1634	1591	43	1263	427	253	164651	2023-11-03	Trachypithecus pileatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963573475.1	1515	1477	38	1323	482	289	465719	2023-11-03	Trachypithecus poliocephalus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_963574985.1	1665	1622	43	1251	407	259	54137	2023-11-03	Trachypithecus vetulus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_006411685.1	1293	1280	13	1407	616	205	69296	2019-06-24	Tragelaphus buxtoni	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Northwestern Polytechnical University
+GCA_935064755.1	3348	3248	100	4	2	329	69297	2022-03-28	Tragelaphus eurycerus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing	IBE (Institut de Biologia Evolutiva))
+GCA_006410775.1	2694	2611	83	498	155	283	9947	2019-06-24	Tragelaphus imberbis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Northwestern Polytechnical University
+GCA_006416875.1	593	585	8	1488	1228	198	9945	2019-06-24	Tragelaphus oryx	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Northwestern Polytechnical University
+GCA_006410495.1	2946	2852	94	315	91	258	66440	2019-06-24	Tragelaphus scriptus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Northwestern Polytechnical University
+GCA_006410795.1	3100	3024	76	192	59	200	9946	2019-06-24	Tragelaphus strepsiceros	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Northwestern Polytechnical University
+GCA_004024965.2	3326	3241	85	19	9	116	9849	2019-07-15	Tragulus javanicus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Broad Institute
+GCA_022376925.1	3284	3200	84	19	51	237	1088131	2022-02-23	Tragulus kanchil	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Northwestern Polytechnical University
+GCA_028551375.1	3313	3292	21	33	8	118	9638	2023-02-09	Tremarctos ornatus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing	DNA Zoo
+GCF_000243295.1	3309	3291	18	21	24	134	127582	2012-01-23	Trichechus manatus latirostris	Sarcopterygii	Mammalia			Afrotheria	Sirenia	Illumina	Broad Institute
+GCF_011100635.1	3329	3222	107	13	12	89	9337	2020-03-10	Trichosurus vulpecula	Sarcopterygii	Mammalia				Diprotodontia	PacBio CLR	Vertebrate Genomes Project
+GCA_000181375.1	737	661	76	1296	1298	610	37347	2006-06-08	Tupaia belangeri	Sarcopterygii	Mammalia			Euarchontoglires	Scandentia	missing	Broad Institute
+GCF_000334495.1	3315	3272	43	37	2	241	246437	2013-01-31	Tupaia chinensis	Sarcopterygii	Mammalia			Euarchontoglires	Scandentia	Illumina	BGI
+GCA_026018925.1	3349	3224	125	4	1	175	70687	2022-11-07	Tupaia tana	Sarcopterygii	Mammalia			Euarchontoglires	Scandentia	PacBio CLR	University of California, Davis
+GCA_003227395.1	3319	3260	59	27	8	123	79784	2018-06-14	Tursiops aduncus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Ewha Womans University
+GCF_011762595.1	3347	3302	45	1	6	110	9739	2020-03-27	Tursiops truncatus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio CLR	Vertebrate Genomes Project
+GCA_002564285.1	1357	1275	82	1259	706	551	61882	2017-10-17	Tympanoctomys barrerae	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	McMaster University
+GCA_023101885.1	3330	3168	162	13	10	245	687455	2022-04-25	Typhlomys cinereus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Kunming Institute of Zoology
+GCF_003426925.1	3280	3253	27	49	25	124	9999	2018-08-24	Urocitellus parryii	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	UAF
+GCA_032313775.1	3350	3291	59	1	3	106	55040	2023-10-04	Urocyon cinereoargenteus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi	Washington State University
+GCA_028551405.1	3283	3231	52	52	19	143	36800	2023-02-09	Uromys caudimaculatus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	DNA Zoo
+GCA_004024945.1	2196	2185	11	832	310	96	182669	2019-01-15	Uropsilus gracilis	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	Illumina	Broad Institute
+GCF_020975775.1	3345	3334	11	5	4	128	9643	2021-11-24	Ursus americanus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing	Jackson Laboratory
+GCF_023065955.2	3315	3290	25	6	33	100	9644	2023-05-22	Ursus arctos	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi	Washington State University
+GCF_017311325.1	3350	3335	15	2	2	108	29073	2021-03-09	Ursus maritimus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Oxford Nanopore	University of California, Santa Cruz
+GCA_009660055.1	3346	3308	38	7	1	90	441215	2019-11-13	Ursus thibetanus thibetanus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	Northwestern Polytechnical University
+GCA_963573675.1	1986	1959	27	1064	270	177	554167	2023-10-30	Varecia rubra	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	IBE(CSIC-UNIVERSITAT POMPEU FABRA)
+GCA_028533085.1	3089	3028	61	204	56	201	9455	2023-02-10	Varecia variegata	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Illumina	DNA Zoo
+GCA_963924515.1	3347	3305	42	3	4	110	59485	2024-01-29	Vespertilio murinus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi	WELLCOME SANGER INSTITUTE
+GCF_000164845.4	3312	3296	16	34	8	193	30538	2019-07-15	Vicugna pacos	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio RSII	Deakin University
+GCA_013265495.1	3341	3335	6	10	3	95	273917	2020-06-02	Vicugna vicugna mensalis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Shanxi Agricultural University
+GCF_900497805.2	3327	3035	292	11	14	86	29139	2018-12-10	Vombatus ursinus	Sarcopterygii	Mammalia				Diprotodontia	missing	MRC Institute of Genetics and Molecular Medicine, University of Edinburgh
+GCA_030463245.1	3353	3291	62	0	1	107	9629	2023-07-18	Vulpes corsac	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Oxford Nanopore	Qufu normal university
+GCA_024500485.1	3352	3282	70	1	1	109	561074	2022-08-01	Vulpes ferrilata	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Oxford Nanopore	Qufu Normal University
+GCF_018345385.1	3346	3276	70	2	6	118	494514	2021-05-12	Vulpes lagopus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	Hebei Normal University of Science and Technology
+GCF_003160815.1	3328	3273	55	20	6	130	9627	2018-05-25	Vulpes vulpes	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Illumina	University of Illinois at Urbana-Champaign
+GCA_004024805.1	2674	2621	53	566	103	131	234690	2019-01-15	Xerus inauris	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Broad Institute
+GCA_028644305.1	3213	3174	39	109	30	150	226860	2023-02-16	Xerus rutilus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	DNA Zoo
+GCF_009762305.2	3352	3241	111	2	0	163	9704	2020-07-14	Zalophus californianus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio CLR	Vertebrate Genomes Project
+GCA_004024765.1	2364	2314	50	748	221	166	160400	2019-01-15	Zapus hudsonius	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Illumina	Broad Institute
+GCA_004364475.1	1375	1345	30	1339	611	239	9760	2019-03-22	Ziphius cavirostris	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Illumina	Broad Institute
