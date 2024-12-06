@@ -25,6 +25,9 @@ vgp_df <- data.frame(
   single = vgp_merge$Single_compleasm,
   proj = 'vgp',
   cn50 =vgp_merge$Contig_N50,
+  cn90 =vgp_merge$Contig_N90,
+  s50 =vgp_merge$Scaffold_N50,
+  s90 =vgp_merge$Scaffold_N90,
   asm_size=vgp_merge$Assembly_Size
 )
 
@@ -89,19 +92,53 @@ filtered_df$seq[filtered_df$seq=='T2T']="PacBio HiFi"
 #colors <- brewer.pal(8, "Set2")
 # Plot the vgp dataframe
 
-ggplot(data = filtered_df, aes(x = log10(cn50), y = 100*(complete/3350), 
-                               color = class,shape=seq,size=100*(missing/3350))) +
-  geom_point()+
-  scale_shape_manual(values = c(1, 16)) + 
+p<-ggplot(data = filtered_df, aes(x = log10(cn50), y = 100*(complete/3354), 
+                               color = class, shape = seq,size=100*(fragmented/3354))) +
+  geom_point(data = subset(filtered_df, seq %in% c('PacBio HiFi')),
+             alpha=0.7,shape=16) +  # Filled points
+  geom_point(data = subset(filtered_df, seq %in% c('PacBio HiFi')),
+             alpha=1,stroke=0.5,fill=NA,shape=21) +
+  geom_point(data = subset(filtered_df, seq %in% c('PacBio CLR')),
+             alpha=1,shape=1) +
+  #geom_point(shape = 1, color='gray',stroke = 0.5) +  # Circle outlines with adjustable size and stroke
   scale_color_manual(values = c("#009E73", "#E69F00", "#56B4E9", 
-                                "#000000","#F0E442", "#CC79A7")) +
+                                "#000000", "#F0E442", "#CC79A7")) +
   labs(color = "Class",  # Custom legend heading for 'color'
        shape = "Sequence Technology",  # Custom legend heading for 'shape'
-       size = "% Missing Compleasm Genes") +  # Custom legend heading for 'size'
-  theme_bw() +
+       size = "Fragmented (%)") +  # Custom legend heading for 'size'
+  theme_bw() +ylim(80,100)+xlim(5,8.5)+
+  scale_size_continuous(range = c(0, 8), 
+                        limits = c(0, 5),  # Map the size scale to a fixed max of 50
+                        breaks = c(1, 2, 5), 
+                        labels = c("1", "2", "5")) +
   ggtitle('') +
-  ylab('Compleasm Complete Genes (%)')+
+  ylab('Compleasm (%)') +
   xlab('Contig N50 (Log10)')
+
+ggsave(filename = 'vgp_compleasm20241206.svg',plot = p,device = 'svg')
+
+ggplot(data = filtered_df, aes(x = log10(cn90), y = 100*(complete/3354), 
+                               color = class, shape = seq,size=100*(fragmented/3354))) +
+  geom_point(data = subset(filtered_df, seq %in% c('PacBio HiFi')),
+             alpha=0.7,shape=16) +  # Filled points
+  geom_point(data = subset(filtered_df, seq %in% c('PacBio HiFi')),
+             alpha=1,stroke=0.5,fill=NA,shape=21) +
+  geom_point(data = subset(filtered_df, seq %in% c('PacBio CLR')),
+             alpha=1,shape=1) +
+  #geom_point(shape = 1, color='gray',stroke = 0.5) +  # Circle outlines with adjustable size and stroke
+  scale_color_manual(values = c("#009E73", "#E69F00", "#56B4E9", 
+                                "#000000", "#F0E442", "#CC79A7")) +
+  labs(color = "Class",  # Custom legend heading for 'color'
+       shape = "Sequence Technology",  # Custom legend heading for 'shape'
+       size = "Fragmented (%)") +  # Custom legend heading for 'size'
+  theme_bw() +ylim(80,100)+xlim(4,8.5)+
+  scale_size_continuous(range = c(0, 8), 
+                        limits = c(0, 5),  # Map the size scale to a fixed max of 50
+                        breaks = c(1, 2, 5), 
+                        labels = c("1", "2", "5")) +
+  ggtitle('') +
+  ylab('Compleasm Complete Genes (%)') +
+  xlab('Contig N90 (Log10)')
 
 ggplot(data = filtered_df, aes(x = class, y = frameshift, color = seq)) +
   geom_jitter(width = 0.2, height = 0) +
