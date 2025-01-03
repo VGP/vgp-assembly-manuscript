@@ -2,7 +2,7 @@
 set -e
 . env_parallel.bash
 
-function parallel_download() {
+function parallel_rdeval() {
   accession="$1"
   printf "prefetch accession $accession\n"
   counter=1
@@ -19,8 +19,18 @@ function parallel_download() {
     fasterq-dump $accession && break
     ((counter++))
   done
+
+  printf "Generating .rd file and summary statistics...\n"
+  printf "%s\t" "$accession" >> rdeval_$accession.tsv
+  rdeval $accession.fastq -o $accession.rd | awk -F': ' '{print $2}' | sed 1d | sed -z 's/\n/\t/g; s/.$//' >> rdeval_$accession.tsv
+  printf "\n" >> rdeval_$accession.tsv
+
+  printf "Computing Cumulative inverse distribution...\n"
+  printf "%s\t" "$accession" >> rdevalCumInv_$accession.tsv
+  rdeval $accession.rd -s c | sed -z 's/\n/;/g' >> rdevalCumInv_$accession.tsv
+  printf "\n" >> rdevalCumInv_$accession.tsv
 }
-export -f parallel_download
+export -f parallel_rdeval
 rm -f all_accessions.ls
 SEED=42
 if [ ! -s rdeval.tsv ]; then # add header
@@ -46,17 +56,20 @@ do
     continue
   fi
 
-  cat accessions.ls | env_parallel -j 32 --colsep '\t' parallel_download {2}
+  mkdir -p $SRA
+  cd $SRA
+  cat ../accessions.ls | env_parallel -j 8 --colsep '\t' parallel_rdeval {2}
+  cd ..
 
-  printf "Computing summary statistics...\n"
+  printf "Combining summary statistics...\n"
   printf "%s\t" "$SRA" >> rdeval.tsv
-  rdeval -r *.fastq | awk -F': ' '{print $2}' | sed 1d | sed -z 's/\n/\t/g; s/.$//' >> rdeval.tsv
+  rdeval $SRA/*.rd | awk -F': ' '{print $2}' | sed 1d | sed -z 's/\n/\t/g; s/.$//' >> rdeval.tsv
   printf "\n" >> rdeval.tsv
 
-  printf "Computing Cumulative inverse distribution...\n"
+  printf "Combining Cumulative inverse distribution...\n"
   printf "%s\t" "$SRA" >> rdevalCumInv.tsv
-  rdeval *.fastq -s c | sed -z 's/\n/;/g' >> rdevalCumInv.tsv
+  rdeval $SRA/*.rd -s c | sed -z 's/\n/;/g' >> rdevalCumInv.tsv
   printf "\n" >> rdevalCumInv.tsv
-
+  
 	rm -f *.fastq
 done 3< <(grep 'ERS\|SRS' raw_data_metadata.ls | grep -v alt)
