@@ -21,14 +21,17 @@ function parallel_rdeval() {
   done
 
   printf "Generating .rd file and summary statistics...\n"
-  printf "%s\t" "$accession" >> rdeval_$accession.tsv
-  rdeval $accession.fastq -o $accession.rd | awk -F': ' '{print $2}' | sed 1d | sed -z 's/\n/\t/g; s/.$//' >> rdeval_$accession.tsv
-  printf "\n" >> rdeval_$accession.tsv
-
-  printf "Computing Cumulative inverse distribution...\n"
-  printf "%s\t" "$accession" >> rdevalCumInv_$accession.tsv
-  rdeval $accession.rd -s c | sed -z 's/\n/;/g' >> rdevalCumInv_$accession.tsv
-  printf "\n" >> rdevalCumInv_$accession.tsv
+  if [ -s $accession.fastq ]; then # check if file exists
+    printf "%s\t" "$accession" >> rdeval_$accession.tsv
+    rdeval $accession.fastq -o $accession.rd | awk -F': ' '{print $2}' | sed 1d | sed -z 's/\n/\t/g; s/.$//' >> rdeval_$accession.tsv
+    printf "\n" >> rdeval_$accession.tsv
+    printf "Computing Cumulative inverse distribution...\n"
+    printf "%s\t" "$accession" >> rdevalCumInv_$accession.tsv
+    rdeval $accession.rd -s c | sed -z 's/\n/;/g' >> rdevalCumInv_$accession.tsv
+    printf "\n" >> rdevalCumInv_$accession.tsv
+  else # record accessions with no records
+    printf "%s\t" "$accession" >> missing_$accession
+  fi
 }
 export -f parallel_rdeval
 rm -f all_accessions.ls
@@ -70,6 +73,6 @@ do
   printf "%s\t" "$SRA" >> rdevalCumInv.tsv
   rdeval $SRA/*.rd -s c | sed -z 's/\n/;/g' >> rdevalCumInv.tsv
   printf "\n" >> rdevalCumInv.tsv
-  
-	rm -f *.fastq
+
+	rm -f $SRA/*.fastq
 done 3< <(grep 'ERS\|SRS' raw_data_metadata.ls | grep -v alt)
