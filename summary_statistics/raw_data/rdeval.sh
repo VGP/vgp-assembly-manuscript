@@ -45,7 +45,7 @@ do
 	VAL=$RANDOM
 	SEED=$RANDOM
 	printf "Processing: %s\t%s\t%s\n" "$accession" "$tolid" "$SRA"
-	if (( $(echo "scale=4; ${VAL}/32767 > 0.05" |bc -l) )); then
+	if (( $(echo "scale=4; ${VAL}/32767 > 0.25" |bc -l) )); then
 		printf "Skipping for subsampling.\n"
     continue
   fi
