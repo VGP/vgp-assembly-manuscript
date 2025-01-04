@@ -20,8 +20,8 @@ function parallel_rdeval() {
     ((counter++))
   done
 
-  printf "Generating .rd file and summary statistics...\n"
   if [ -s $accession.fastq ]; then # check if file exists
+    printf "Generating .rd file and summary statistics...\n"
     printf "%s\t" "$accession" >> rdeval_$accession.tsv
     rdeval $accession.fastq -o $accession.rd | awk -F': ' '{print $2}' | sed 1d | sed -z 's/\n/\t/g; s/.$//' >> rdeval_$accession.tsv
     printf "\n" >> rdeval_$accession.tsv
