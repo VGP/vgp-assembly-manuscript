@@ -2,6 +2,8 @@
 set -e
 . env_parallel.bash
 
+SUBSAMPLE=$1 # subsbampling fraction
+
 function parallel_rdeval() {
   accession="$1"
   printf "prefetch accession $accession\n"
@@ -45,7 +47,7 @@ do
 	VAL=$RANDOM
 	SEED=$RANDOM
 	printf "Processing: %s\t%s\t%s\n" "$accession" "$tolid" "$SRA"
-	if (( $(echo "scale=4; ${VAL}/32767 > 0.25" |bc -l) )); then
+	if (( $(echo "scale=4; ${VAL}/32767 > ${SUBSAMPLE}" |bc -l) )); then
 		printf "Skipping for subsampling.\n"
     continue
   fi
