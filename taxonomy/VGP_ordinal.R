@@ -11,14 +11,14 @@ install_load <- function(packages){
   }
 }
 
-required_packages <- c("readxl", "data.table", "tidyverse", "ape", "ggplot2", "TreeTools", "ape", "devtools", "stringr", "ggnewscale", "BiocManager")
+required_packages <- c("readxl", "data.table", "tidyverse", "ape", "ggplot2", "TreeTools", "ape", "devtools", "stringr", "ggnewscale", "BiocManager", "RColorBrewer")
 
 install_load(required_packages)
 lapply(required_packages, packageVersion)
 
 BiocManager_packages <- c("treeio", "ggtree", "ggtreeExtra", "tidytree")
 for (p in BiocManager_packages) {
-  if(!require(p, quietly=TRUE)){
+  if(require(p, quietly=TRUE)){
     BiocManager::install(p)
   }
 }
@@ -51,14 +51,14 @@ as.data.frame(table(ordinal_list$order))
 
 # representation of ordinal species
 ordinal_species <- ordinal_list %>% 
-  mutate(complete_status = Status == 4) %>%
+  mutate(complete_status = Status >= 4) %>%
   group_by(Order, complete_status) %>% 
   slice_head(n = 1) %>%
   ungroup %>%
   group_by(Order) %>% 
   mutate(count_complete_status = n()) %>%
   ungroup %>%
-  filter((count_complete_status > 1 & complete_status) | count_complete_status == 1)
+  filter((count_complete_status > 1 & complete_status) | count_complete_status == 1 | (count_complete_status > 1 & !complete_status))
 
 # completeness stats
 frequency <- as.data.frame(table(ordinal_species$complete_status))
@@ -100,7 +100,7 @@ completeness_grp <- list(missing   = sub("_", " ", rotl::strip_ott_ids(unlist(VG
 # remove underscore from tip labels
 VGP_ordinal_subtree$tip.label <- sub("_", " ", rotl::strip_ott_ids(VGP_ordinal_subtree$tip.label))
 
-# build metadata table
+# build metadata table for lineage
 l <- VGP_ordinal_resolved_names_with_status[lengths(VGP_ordinal_resolved_names_with_status$tip)>0,] %>% select(`ordinal_species$Lineage`)
 row.names(l) <- sub("_", " ", rotl::strip_ott_ids(VGP_ordinal_resolved_names_with_status[lengths(VGP_ordinal_resolved_names_with_status$tip)>0,]$tip))
 
@@ -140,7 +140,7 @@ p_ordinal2 <- p_ordinal1 + new_scale_fill() +
     values=c(1:6),
     guide=guide_legend(keywidth=0.3, keyheight=0.3, ncol=2, order=2)
   )+
-  theme(plot.margin = margin(40,0,40,0))
+  theme(plot.margin = margin(40,0,40,20))
 ggsave(dpi=600, filename='ordinal_tree.png', width = 12, height = 8)
 
 ###### Full vertebrate tree
@@ -186,13 +186,19 @@ length(families$Vertebrata[families$Vertebrata$rank == 'family',]$ott_id)
 # plot tree
 if (!file.exists("vertebrate_tree_plot.rds")) {
   p<-ggtree(vertebrate_tree, layout="fan")
-  saveRDS(vertebrate_tree, file = "vertebrate_tree_plot.rds")
+  saveRDS(p, file = "vertebrate_tree_plot.rds")
 }else{
-  readRDS("vertebrate_tree_plot.rds")
+  p<-readRDS("vertebrate_tree_plot.rds")
 }
 
-# add VGP metadata
-p <- p %<+% metadata
+# build metadata table for lineage
+row_idx <- lapply(VGP_orders_resolved_names$unique_name, function(x) grep(x, vertebrate_tree$node.label))
+internal_order_nodes <- as.list(vertebrate_tree$node.label[unlist(row_idx)])
+subtrees <- sapply(internal_order_nodes, function(x) {extract.clade(vertebrate_tree, x)})
+internal_order_nodes_grp <- as.list(subtrees['tip.label',])
+
+# add order names to lists
+names(internal_order_nodes_grp) <- internal_order_nodes
 
 p1 <- groupOTU(p, completed_grp, 'status') + aes(color=status) +
   theme(legend.position="right",
@@ -200,7 +206,9 @@ p1 <- groupOTU(p, completed_grp, 'status') + aes(color=status) +
         legend.box.spacing = margin(4)) + 
   scale_color_manual(values = c("black","green"))
 
-p2 <- p1 + new_scale_fill() +
+order_colors <- colorRampPalette(brewer.pal(8, "Set2"))(length(internal_order_nodes)+1)
+
+p2 <- groupOTU(p1, internal_order_nodes_grp, 'lineage') + new_scale_fill() +
   geom_fruit(
     geom=geom_tile,
     mapping=aes(fill=lineage),
@@ -208,13 +216,9 @@ p2 <- p1 + new_scale_fill() +
     offset=0
   ) +
   scale_fill_manual(
-    name="Lineage",
-    values=c(1:6),
+    name="lineage",
+    values = order_colors,
     guide=guide_legend(keywidth=0.3, keyheight=0.3, ncol=2, order=2)
   )+
   theme(plot.margin = margin(40,0,40,0))
-ggsave(dpi=600, filename='ordinal_tree.png', width = 12, height = 8)
-
-
-ggtree(vertebrate_tree, layout="fan") + 
-  theme_tree2()
+ggsave(dpi=600, filename='full_tree.png', width = 12, height = 8)
