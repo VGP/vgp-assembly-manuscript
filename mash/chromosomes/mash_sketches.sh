@@ -7,19 +7,24 @@ printf "Using subsbampling fraction: ${SUBSAMPLE}\n"
 
 SEED=42
 mkdir -p sketches
-rm -f genome_list.tsv mash_distances.tsv
+rm -f genome_list.tsv
 while IFS="," read -r accession tolid latin_name
 do
 	RANDOM=$SEED
 	VAL=$RANDOM
 	SEED=$RANDOM
 	if (( $(echo "scale=4; ${VAL}/32767 > ${SUBSAMPLE}" |bc -l) )); then
-		printf "Skipping: $accession\t$tolid\t$latin_name\n"
-        continue
-    fi
+		printf "Skipping for subsbampling: $accession\t$tolid\t$latin_name\n"
+    continue
+  fi
+  printf "$accession\t$tolid\t$latin_name\n" >> genome_list.tsv
+
+  if [ -f sketches/${accession}.chr.fa.msh ]; then
+    printf "Skipping because already available: $accession\t$tolid\t$latin_name\n"
+    continue
+  fi
 	datasets download genome accession $accession --filename $accession.zip
 	unzip -o $accession.zip -d $accession
-	printf "$accession\t$tolid\t$latin_name\n" >> genome_list.tsv
 
 	genome=$accession/ncbi_dataset/data/$accession/*.fna
 	if ! cmp -s <(md5sum $genome | cut -f1 -d' ') <(grep fna $accession/md5sum.txt | cut -f1 -d' '); then
