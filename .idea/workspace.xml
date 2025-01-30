@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="471a5adb-12af-49b6-b20a-729c84067d6f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/mash/chromosomes/mash_sketches.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vgp-assembly-manuscript.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vgp-assembly-manuscript.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mash/chromosomes/vgp-assembly-mash-chromosomes.md" beforeDir="false" afterPath="$PROJECT_DIR$/mash/chromosomes/vgp-assembly-mash-chromosomes.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +70,7 @@
       <workItem from="1737748981729" duration="900000" />
       <workItem from="1737829850102" duration="1960000" />
       <workItem from="1738164180928" duration="682000" />
-      <workItem from="1738198991711" duration="726000" />
+      <workItem from="1738198991711" duration="904000" />
     </task>
     <servers />
   </component>
