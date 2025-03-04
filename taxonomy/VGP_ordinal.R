@@ -42,7 +42,7 @@ ordinal_list <- read_excel("VGP Ordinal List.xlsx", sheet = 1)
 setDT(ordinal_list)
 setnames(ordinal_list, c("Orders Scientific Name (inferred >50 MYA divergence times)"), c("order_50MYA"))
 ordinal_list <- ordinal_list %>% mutate(order_50MYA = gsub(")", "", order_50MYA))
-ordinal_list[, c("order", "suborder1", "suborder2", "suborder3", "suborder4") := tstrsplit(order_50MYA, "\\ \\(|\\ > |\\|", fixed=FALSE)]
+ordinal_list[, c("order", "suborder1", "suborder2", "suborder3") := tstrsplit(order_50MYA, "\\ \\(|\\ > |\\|", fixed=FALSE)]
 
 #List all superorders:
 as.data.frame(table(ordinal_list$Superorder))
