@@ -4,7 +4,7 @@ Files in this folder:
 - [vgp-assembly-raw-data.md](vgp-assembly-raw-data.md) showcases how to access raw data associated with individual genomes and generate summary statistics
 - [vgp-assembly-genomes.py](vgp-assembly-genomes.py) generates analyses and figures using the summary statistics on genomes
 
-Handy commands to extract all non-VGP genomes:
+Handy commands to extract all non-VGP genomes with certain metrics:
 
 ```
 datasets summary genome taxon 7742 > all_vertebrates.07032025.json
