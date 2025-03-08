@@ -8,5 +8,5 @@ Handy commands to extract all non-VGP genomes with certain metrics:
 
 ```
 datasets summary genome taxon 7742 > all_vertebrates.07032025.json
-cat all_vertebrates.07032025.json | jq -r '.reports[] | select(all(.assembly_info.bioproject_lineage[].bioprojects[].parent_accessions[]?; . != "PRJNA489243") and .assembly_info.assembly_level == "Chromosome" and .assembly_stats.contig_n50 > 1000000 and .assembly_stats.scaffold_n50 > 10000000 and (.assembly_info.assembly_method | index("hifiasm"))) | [.accession, .assembly_info.assembly_name, .assembly_info.assembly_level, (.assembly_stats.contig_n50|tostring), (.assembly_stats.scaffold_n50|tostring), .assembly_info.assembly_method] | join(",")'
+cat all_vertebrates.07032025.json | jq -r '.reports[] | select(all(.assembly_info.bioproject_lineage[].bioprojects[].parent_accessions[]?; . != "PRJNA489243") and .assembly_info.assembly_level == "Chromosome" and .assembly_stats.contig_n50 > 1000000 and .assembly_stats.scaffold_n50 > 10000000 and (.assembly_info.assembly_method | index("hifiasm"))) | [.accession, .assembly_info.assembly_name, .organism.organism_name, .organism.common_name, .assembly_info.assembly_level, (.assembly_stats.contig_n50|tostring), (.assembly_stats.scaffold_n50|tostring), .assembly_info.assembly_method] | join(",")'
 ```
