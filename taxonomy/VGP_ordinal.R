@@ -207,8 +207,8 @@ completed_grp <- list(completed = sub("_", " ", rotl::strip_ott_ids(unlist(VGP_o
 
 # Statistics:
 length(vertebrate_tree$tip.label)
-length(orders$Vertebrata[orders$Vertebrata$rank == 'order',]$ott_id)
-length(families$Vertebrata[families$Vertebrata$rank == 'family',]$ott_id)
+length(orders$ott_id)
+length(families$ott_id)
 
 # plot tree
 if (!file.exists("vertebrate_tree_plot.rds")) {
@@ -233,7 +233,14 @@ p1 <- groupOTU(p, completed_grp, 'status') + aes(color=status) +
         legend.box.spacing = margin(4)) + 
   scale_color_manual(values = c("black","green"))
 
-order_colors <- colorRampPalette(brewer.pal(8, "Set2"))(length(internal_order_nodes)+1)
+# Original levels (e.g. "Notacanthiformes ott925748", etc.)
+lineage_levels <- internal_order_nodes
+
+# Pretty labels for the legend only
+legend_labels <- gsub(" ott\\d+$", "", lineage_levels)
+
+# Name the colors with the full lineage values used in the data
+names(order_colors) <- lineage_levels
 
 p2 <- groupOTU(p1, internal_order_nodes_grp, 'lineage') + new_scale_fill() +
   geom_fruit(
@@ -243,9 +250,10 @@ p2 <- groupOTU(p1, internal_order_nodes_grp, 'lineage') + new_scale_fill() +
     offset=0
   ) +
   scale_fill_manual(
-    name="lineage",
+    name = "Lineage",
     values = order_colors,
-    guide=guide_legend(keywidth=0.3, keyheight=0.3, ncol=2, order=2)
+    labels = legend_labels,
+    guide = guide_legend(keywidth = 0.3, keyheight = 0.3, ncol = 2, order = 2)
   )+
   theme(plot.margin = margin(40,0,40,0))
 ggsave(dpi=600, filename='full_tree.png', width = 12, height = 8)
