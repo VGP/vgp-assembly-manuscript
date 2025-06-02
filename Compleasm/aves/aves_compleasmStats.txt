@@ -46,7 +46,7 @@ GCA_004320165.1	2027	2022	5	962	345	88	1517798	2019-02-16	Dendrocopos noguchii	S
 GCA_004320225.1	2890	2884	6	379	80	86	1564486	2019-02-16	Bubo blakistoni	Sarcopterygii	Aves	Neognathae			Strigiformes	Illumina	Environmental Genomics Office, Center for Environmental Biology and Ecosystem Studies, National Institute for Environmental Studies
 GCA_004360235.1	3308	3299	9	13	33	142	40817	2019-03-22	Grus nigricollis	Sarcopterygii	Aves	Neognathae			Gruiformes	Oxford Nanopore	Sichuan University
 GCA_005890655.1	3265	3259	6	35	54	1654	211967	2019-06-14	Centrocercus minimus	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	PacBio RSII	U.S. Geological Survey
-GCA_006130075.1	3261	3246	15	49	44	118	8853	2019-06-05	Branta canadensis	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	Illumina	Canada's Genomic Enterprise
+GCA_006130075.1	3261	3246	15	49	44	118	8853	2019-06-05	Branta canadensis	Sarcopterygii	Aves	Neognathae		Galloanserae	Anseriformes	Illumina	Canadas Genomic Enterprise
 GCA_006937325.1	3057	3054	3	180	117	418	8811	2019-07-12	Anomalopteryx didiformis	Sarcopterygii	Aves			Palaeognathae	Dinornithiformes	Illumina	Harvard University
 GCA_007252995.1	3293	3281	12	38	22	127	364589	2019-07-22	Zosterops borbonicus	Sarcopterygii	Aves	Neognathae			Passeriformes	Illumina	University of Montpellier
 GCA_007556475.1	3171	3161	10	133	50	136	43580	2019-07-26	Zosterops pallidus	Sarcopterygii	Aves	Neognathae			Passeriformes	Illumina	University of Montpellier
@@ -355,8 +355,8 @@ GCA_015883425.2	3275	3267	8	28	51	122	245042	2022-03-24	Lamprotornis superbus	Sa
 GCA_016545565.2	2360	2353	7	791	182	102	311901	2022-12-29	Pyrrhura cruentata	Sarcopterygii	Aves	Neognathae			Psittaciformes	Illumina	IRIDIAN GENOMES
 GCA_016584745.2	3308	3260	48	8	38	113	209781	2022-11-18	Phylloscopus trochilus trochilus	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi	Lund University
 GCA_016647715.1	3244	3229	15	61	49	108	9050	2021-01-15	Pavo muticus	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	Illumina	Kunming Institute of Zoology, Chinese Academy of Sciences
-GCA_017310255.1	3135	3109	26	143	73	107	110671	2021-03-09	Butorides virescens	Sarcopterygii	Aves	Neognathae			Pelecaniformes	missing	Canada's Genomic Enterprise
-GCA_017315185.1	3253	3232	21	61	40	121	371907	2021-03-09	Bubo scandiacus	Sarcopterygii	Aves	Neognathae			Strigiformes	missing	Canada's Genomic Enterprise
+GCA_017310255.1	3135	3109	26	143	73	107	110671	2021-03-09	Butorides virescens	Sarcopterygii	Aves	Neognathae			Pelecaniformes	missing	Canadas Genomic Enterprise
+GCA_017315185.1	3253	3232	21	61	40	121	371907	2021-03-09	Bubo scandiacus	Sarcopterygii	Aves	Neognathae			Strigiformes	missing	Canadas Genomic Enterprise
 GCA_017589585.1	3297	3211	86	12	45	200	274622	2021-03-26	Phylloscopus whistleri	Sarcopterygii	Aves	Neognathae			Passeriformes	missing	Institute of Zoology, Chinese Academy of Sciences
 GCA_017590115.1	3294	3285	9	29	31	114	356906	2021-03-26	Montifringilla adamsi	Sarcopterygii	Aves	Neognathae			Passeriformes	Illumina	Institute of Zoology, Chinese Academy of Sciences
 GCA_017612475.1	3002	2979	23	178	172	157	36299	2021-03-29	Zosterops japonicus	Sarcopterygii	Aves	Neognathae			Passeriformes	Illumina	Smithsonian Institution
@@ -672,7 +672,7 @@ GCA_029814485.1	2368	2363	5	615	368	489	1458044	2023-04-18	Erythrotriorchis buer
 GCA_029814565.1	2439	2433	6	728	174	103	309866	2023-04-18	Pionites melanocephalus	Sarcopterygii	Aves	Neognathae			Psittaciformes	Illumina	Iridian Genomes
 GCA_029814625.1	2553	2548	5	640	149	105	57074	2023-04-18	Psittacula derbiana	Sarcopterygii	Aves	Neognathae			Psittaciformes	Illumina	Iridian Genomes
 GCA_029890015.1	2240	2235	5	688	420	574	345747	2023-04-27	Leucopternis lacernulatus	Sarcopterygii	Aves	Neognathae			Accipitriformes	Illumina	Iridian Genomes
-GCA_030060385.1	3303	3295	8	27	24	287	1471808	2023-05-22	Muscicapa striata striata	Sarcopterygii	Aves	Neognathae			Passeriformes	Oxford Nanopore	Museum national d'Histoire naturelle
+GCA_030060385.1	3303	3295	8	27	24	287	1471808	2023-05-22	Muscicapa striata striata	Sarcopterygii	Aves	Neognathae			Passeriformes	Oxford Nanopore	Museum national dHistoire naturelle
 GCA_030068125.2	56	55	1	184	3112	10	867394	2024-08-30	Conuropsis carolinensis	Sarcopterygii	Aves	Neognathae			Psittaciformes	Illumina	Iridian Genomes
 GCA_030264335.1	1114	1112	2	1379	832	235	345190	2023-06-13	Enicognathus leptorhynchus	Sarcopterygii	Aves	Neognathae			Psittaciformes	Illumina	Iridian Genomes
 GCA_030265165.1	1099	1098	1	1354	866	351	311888	2023-06-13	Pyrrhura pfrimeri	Sarcopterygii	Aves	Neognathae			Psittaciformes	Illumina	Iridian Genomes
@@ -784,7 +784,7 @@ GCA_033628425.1	2598	2557	41	554	198	113	670340	2023-11-14	Calidris minuta	Sarco
 GCA_033628465.1	2871	2766	105	348	129	105	8919	2023-11-14	Calidris alpina	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing	BGI-Shenzhen
 GCA_033628505.1	2734	2598	136	466	150	100	240204	2023-11-14	Tringa tobata	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing	BGI-Shenzhen
 GCA_033628625.1	3077	2914	163	201	73	121	371911	2023-11-14	Charadrius hiaticula	Sarcopterygii	Aves	Neognathae			Charadriiformes	missing	BGI-Shenzhen
-GCA_033816785.1	3277	3267	10	8	69	636	100825	2023-11-22	Picus viridis	Sarcopterygii	Aves	Neognathae			Piciformes	Oxford Nanopore	Museum national d'Histoire naturelle
+GCA_033816785.1	3277	3267	10	8	69	636	100825	2023-11-22	Picus viridis	Sarcopterygii	Aves	Neognathae			Piciformes	Oxford Nanopore	Museum national dHistoire naturelle
 GCA_034008185.1	3284	3278	6	15	55	339	887050	2023-12-01	Gorsachius magnificus	Sarcopterygii	Aves	Neognathae			Pelecaniformes	PacBio RSII	Sun Yat-sen University
 GCA_034336665.1	3321	3309	12	8	25	351	383689	2023-12-26	Luscinia megarhynchos	Sarcopterygii	Aves	Neognathae			Passeriformes	Oxford Nanopore	Institute of Molecular Genetics of the ASCR v.v.i.
 GCA_034336685.1	3313	3296	17	15	26	337	391696	2023-12-26	Luscinia luscinia	Sarcopterygii	Aves	Neognathae			Passeriformes	Oxford Nanopore	Institute of Molecular Genetics of the ASCR v.v.i.
@@ -947,7 +947,7 @@ GCA_037014365.1	3228	3218	10	50	76	118	222595	2024-03-05	Malurus splendens	Sarco
 GCA_037305975.1	3314	3304	10	12	28	100	9089	2024-03-20	Chrysolophus pictus	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	PacBio HiFi	Southwest University
 GCA_037834095.1	3194	3187	7	111	49	141	1156349	2024-03-29	Argya squamiceps	Sarcopterygii	Aves	Neognathae			Passeriformes	Illumina	Iridian Genomes
 GCA_037837765.1	3298	3279	19	10	46	113	317145	2024-03-29	Delichon dasypus	Sarcopterygii	Aves	Neognathae			Passeriformes	PacBio HiFi	Academia Sinica
-GCA_037951015.1	3347	3341	6	2	5	90	223441	2024-04-03	Buteo regalis	Sarcopterygii	Aves	Neognathae			Accipitriformes	PacBio HiFi	Canada's national platform for genome sequencing and analysis
+GCA_037951015.1	3347	3341	6	2	5	90	223441	2024-04-03	Buteo regalis	Sarcopterygii	Aves	Neognathae			Accipitriformes	PacBio HiFi	Canadas national platform for genome sequencing and analysis
 GCA_037953605.1	3351	3332	19	1	2	86	30399	2024-04-03	Necrosyrtes monachus	Sarcopterygii	Aves	Neognathae			Accipitriformes	Oxford Nanopore	Wageningen University and Research
 GCA_037962945.1	3325	3298	27	4	25	101	43583	2024-04-04	Sarcoramphus papa	Sarcopterygii	Aves	Neognathae			Accipitriformes	PacBio HiFi	Vertebrate Genomes Project
 GCA_037975005.1	3326	3320	6	6	22	130	259913	2024-04-05	Platalea minor	Sarcopterygii	Aves	Neognathae			Pelecaniformes	PacBio HiFi	The Chinese University of Hong Kong
@@ -1160,7 +1160,7 @@ GCF_000247815.1	3190	3183	7	90	74	175	59894	2013-06-27	Ficedula albicollis	Sarco
 GCF_000277835.1	3071	3062	9	165	118	217	48883	2012-07-25	Geospiza fortis	Sarcopterygii	Aves	Neognathae			Passeriformes	Illumina	Beijing Genomics Institute
 GCF_000331425.1	3318	3313	5	16	20	114	181119	2013-01-11	Pseudopodoces humilis	Sarcopterygii	Aves	Neognathae			Passeriformes	Illumina	Beijing Genomics Institute (BGI)-Shenzhen
 GCF_000385455.1	2952	2945	7	198	203	161	44394	2013-04-30	Zonotrichia albicollis	Sarcopterygii	Aves	Neognathae			Passeriformes	Illumina	White-throated sparrow consortium
-GCF_000687185.1	3052	3046	6	183	119	222	188379	2014-05-09	Egretta garzetta	Sarcopterygii	Aves	Neognathae			Pelecaniformes	Illumina	College of Medicine and Forensics, Xi'an Jiaotong University
+GCF_000687185.1	3052	3046	6	183	119	222	188379	2014-05-09	Egretta garzetta	Sarcopterygii	Aves	Neognathae			Pelecaniformes	Illumina	College of Medicine and Forensics, Xian Jiaotong University
 GCF_000687285.1	2635	2628	7	512	200	169	97097	2014-05-08	Phaethon lepturus	Sarcopterygii	Aves	Neognathae			Phaethontiformes	Illumina	BGI
 GCF_000687375.1	2487	2482	5	599	266	180	36300	2014-05-09	Pelecanus crispus	Sarcopterygii	Aves	Neognathae			Pelecaniformes	Illumina	BGI
 GCF_000690535.1	2593	2588	5	540	215	199	54380	2014-05-12	Cariama cristata	Sarcopterygii	Aves	Neognathae			Cariamiformes	Illumina	BGI
@@ -1182,7 +1182,7 @@ GCF_000700745.2	2338	2331	7	723	286	191	279965	2014-06-10	Antrostomus carolinens
 GCF_000703405.1	2464	2456	8	569	311	195	57397	2014-06-16	Apaloderma vittatum	Sarcopterygii	Aves	Neognathae			Trogoniformes	Illumina	BGI
 GCF_000705375.1	2787	2771	16	359	207	203	94827	2014-08-05	Tinamus guttatus	Sarcopterygii	Aves			Palaeognathae	Tinamiformes	Illumina	BGI
 GCF_000708025.1	3078	3072	6	162	114	188	50402	2014-08-05	Charadrius vociferus	Sarcopterygii	Aves	Neognathae			Charadriiformes	Illumina	BGI
-GCF_000708225.1	3153	3151	2	143	58	194	128390	2014-06-16	Nipponia nippon	Sarcopterygii	Aves	Neognathae			Pelecaniformes	Illumina	College of Medicine and Forensics, Xi'an Jiaotong University
+GCF_000708225.1	3153	3151	2	143	58	194	128390	2014-06-16	Nipponia nippon	Sarcopterygii	Aves	Neognathae			Pelecaniformes	Illumina	College of Medicine and Forensics, Xian Jiaotong University
 GCF_000709365.1	2555	2547	8	547	242	245	121530	2014-06-25	Tauraco erythrolophus	Sarcopterygii	Aves	Neognathae			Musophagiformes	Illumina	BGI
 GCF_000709895.1	2592	2585	7	504	246	169	100784	2014-06-25	Balearica regulorum gibbericeps	Sarcopterygii	Aves	Neognathae			Gruiformes	Illumina	BGI
 GCF_000710305.1	2535	2526	9	520	292	174	175836	2014-06-25	Buceros rhinoceros silvestris	Sarcopterygii	Aves	Neognathae			Bucerotiformes	Illumina	BGI
@@ -1198,7 +1198,7 @@ GCF_001715985.3	3098	3092	6	118	138	245	328815	2019-07-03	Manacus vitellinus	Sar
 GCF_002078875.1	3267	3264	3	35	52	82	8996	2017-06-01	Numida meleagris	Sarcopterygii	Aves	Neognathae		Galloanserae	Galliformes	Illumina	INRA
 GCF_002901205.1	3115	3104	11	126	112	130	156563	2018-01-26	Cyanistes caeruleus	Sarcopterygii	Aves	Neognathae			Passeriformes	Illumina	Dr. Bernd Tmmermann, NGS core facility, MPI Molecular Genetics
 GCF_003031625.1	3222	3212	10	66	65	117	164674	2018-04-03	Empidonax traillii	Sarcopterygii	Aves	Neognathae			Passeriformes	Illumina	UCLA
-GCF_003259725.1	3054	3051	3	118	182	130	194338	2018-06-21	Athene cunicularia	Sarcopterygii	Aves	Neognathae			Strigiformes	Illumina	Stefan Boerno's shared submissions
+GCF_003259725.1	3054	3051	3	118	182	130	194338	2018-06-21	Athene cunicularia	Sarcopterygii	Aves	Neognathae			Strigiformes	Illumina	Stefan Boernos shared submissions
 GCF_003342845.1	3215	3209	6	75	64	123	30464	2018-07-26	Nothoprocta perdicaria	Sarcopterygii	Aves			Palaeognathae	Tinamiformes	Illumina	Harvard University
 GCF_003343035.1	3266	3264	2	58	30	112	308060	2018-07-26	Apteryx rowi	Sarcopterygii	Aves			Palaeognathae	Apterygiformes	Illumina	Harvard University
 GCF_003945595.2	3243	3230	13	35	75	105	649802	2020-12-01	Pipra filicauda	Sarcopterygii	Aves	Neognathae			Passeriformes	Illumina	Smithsonian Institution

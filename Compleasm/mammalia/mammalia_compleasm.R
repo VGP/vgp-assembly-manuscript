@@ -7,40 +7,46 @@ library('svglite')
 
 vgp_gcas<-read.table(file = '../all_gcasVGP.txt',header = F,quote = "")
 
-chondrichthyes_compleasm<-read.delim(file = 'chondrichthyes_compleasmStats.txt',sep = '\t',header = T)
-chondrichthyes_asm<-read.table(file = 'chondrichthyes_asmStats.txt',sep='\t',header=T)
-chondrichthyes_cnStatsFiltered<-chondrichthyes_asm[,c(1,4,5,6)]
-chondrichthyes_merge<-merge(chondrichthyes_compleasm,chondrichthyes_cnStatsFiltered,by="Accession",all.x=TRUE)
+mammalia_compleasm<-read.delim(file = 'mammalia_compleasmStats.txt',sep = '\t',header = T)
+mammalia_asm<-read.table(file = 'mammalia_asmStats.txt',sep='\t',header=T)
+mammalia_cnStatsFiltered<-mammalia_asm[,c(1,4,5,6)]
+mammalia_merge<-merge(mammalia_compleasm,mammalia_cnStatsFiltered,by="Accession",all.x=TRUE)
 # Create the dataframe with proper column assignment
-chondrichthyes_df <- data.frame(
-  acc = chondrichthyes_merge$Accession,
-  seq = chondrichthyes_merge$Sequencing_type,
-  fragmented = chondrichthyes_merge$Fragmented_compleasm,
-  frameshift = chondrichthyes_merge$Frameshift_compleasm,
-  missing = chondrichthyes_merge$Missing_compleasm,
-  complete = chondrichthyes_merge$Complete_compleasm,
-  date = chondrichthyes_merge$Submission_Date,
-  class = chondrichthyes_merge$Class,
-  superclass = chondrichthyes_merge$Super_class,
-  superorder = chondrichthyes_merge$Super_order,
-  infraclass = chondrichthyes_merge$Infra_class,
-  order = chondrichthyes_merge$Order,
-  dup = chondrichthyes_merge$Duplicated_compleasm,
-  single = chondrichthyes_merge$Single_compleasm,
+mammalia_df <- data.frame(
+  acc = mammalia_merge$Accession,
+  seq = mammalia_merge$Sequencing_type,
+  fragmented = mammalia_merge$Fragmented_compleasm,
+  frameshift = mammalia_merge$Frameshift_compleasm,
+  missing = mammalia_merge$Missing_compleasm,
+  complete = mammalia_merge$Complete_compleasm,
+  date = mammalia_merge$Submission_Date,
+  class = mammalia_merge$Class,
+  superclass = mammalia_merge$Super_class,
+  superorder = mammalia_merge$Super_order,
+  infraclass = mammalia_merge$Infra_class,
+  order = mammalia_merge$Order,
+  dup = mammalia_merge$Duplicated_compleasm,
+  single = mammalia_merge$Single_compleasm,
   proj='Other',
-  cn50 =chondrichthyes_merge$Contig_N50,
-  cn90 =chondrichthyes_merge$Contig_N90,
-  Submitter=chondrichthyes_merge$Submitter
+  cn50 =mammalia_merge$Contig_N50,
+  cn90 =mammalia_merge$Contig_N90,
+  Submitter=mammalia_merge$Submitter
 )
-for (i in c(1:length(chondrichthyes_df$Submitter))){
-  if(sum(vgp_gcas==chondrichthyes_df$acc[i])>0){
-    chondrichthyes_df$proj[i]="VGP"
-  }else if (chondrichthyes_df$Submitter[i]=="CICHLID~X"){
-    chondrichthyes_df$proj[i]='Cichlid~X'
-  }else if(chondrichthyes_df$Submitter[i]=="Iridian Genomes"){
-    chondrichthyes_df$proj[i]='Iridian'
-  }else if(chondrichthyes_df$Submitter[i]=="IRIDIAN GENOMES"){
-    chondrichthyes_df$proj[i]='Iridian'
+for (i in c(1:length(mammalia_df$Submitter))){
+  if(sum(vgp_gcas==mammalia_df$acc[i])>0){
+    mammalia_df$proj[i]="VGP"
+  }else if (mammalia_df$Submitter[i]=="CICHLID~X"){
+    mammalia_df$proj[i]='Cichlid~X'
+  }else if (mammalia_df$Submitter[i]=="B10K Consortium"){
+    mammalia_df$proj[i]='B10K'
+  }else if (mammalia_df$Submitter[i]=="DNA Zoo"){
+    mammalia_df$proj[i]='DNAZoo'
+  }else if (mammalia_df$Submitter[i]=="Broad Institute"){
+    mammalia_df$proj[i]='Broad'
+  }else if(mammalia_df$Submitter[i]=="Iridian Genomes"){
+    mammalia_df$proj[i]='Iridian'
+  }else if(mammalia_df$Submitter[i]=="IRIDIAN GENOMES"){
+    mammalia_df$proj[i]='Iridian'
   }
 }
 
@@ -52,24 +58,24 @@ dark_palette <- c('Cichlid~X' = 'darkred',
                   'Broad' = 'blue',
                   'VGP' = 'purple'
 )
-#chondrichthyes_df$complete=100*chondrichthyes_df$complete/3354
-#chondrichthyes_df$fragmented=100*chondrichthyes_df$fragmented/3354
-p<-ggplot(data = chondrichthyes_df, 
+#mammalia_df$complete=100*mammalia_df$complete/3354
+#mammalia_df$fragmented=100*mammalia_df$fragmented/3354
+p<-ggplot(data = mammalia_df, 
        aes(x = log10(cn50), y = 100*(complete/3354), size = 100*(fragmented/3354))) +
   # Plot 'Other' and 'Iridian' first
-  geom_point(data = subset(chondrichthyes_df, proj %in% c('Other', 'Iridian')), 
+  geom_point(data = subset(mammalia_df, proj %in% c('Other', 'Iridian')), 
              aes(color = proj), 
              alpha = 0.5,stroke=0) +
   # Add circles around 'Other' and 'Iridian'
-  geom_point(data = subset(chondrichthyes_df, proj %in% c('Other', 'Iridian')), 
+  geom_point(data = subset(mammalia_df, proj %in% c('Other', 'Iridian')), 
              aes(color = proj), # Adjust the size for the outline
              shape = 21, fill = NA, stroke = 0.5) + # Create outline
   # Plot the other groups on top
-  geom_point(data = subset(chondrichthyes_df, !proj %in% c('Other', 'Iridian')), 
+  geom_point(data = subset(mammalia_df, !proj %in% c('Other', 'Iridian')), 
              aes(color = proj), 
              alpha = 0.5,stroke=0) +
   # Add circles around the other groups
-  geom_point(data = subset(chondrichthyes_df, !proj %in% c('Other', 'Iridian')), 
+  geom_point(data = subset(mammalia_df, !proj %in% c('Other', 'Iridian')), 
              aes(color = proj), # Adjust the size for the outline
              shape = 21, fill = NA, stroke = 0.5) + # Create outline
   annotate("rect", xmin = 5, xmax = 8.5, ymin = 80, ymax = 100, 
@@ -84,26 +90,26 @@ p<-ggplot(data = chondrichthyes_df,
   theme_bw() +xlim(2,9)+ylim(0,100)+
   xlab('Contig N50 (log10)') +
   ylab('Compleasm Complete (%)') +
-  ggtitle('Chondrichthyes Reference Genomes (N=41)')
-ggsave(filename = 'chondrichthyes_compleasm20241206.svg',plot = p,device = 'svg')
+  ggtitle('Mammalia Reference Genomes (N=1,296)')
+ggsave(filename = 'mammalia_compleasm20241206.svg',plot = p,device = 'svg')
 
 
-ggplot(data = chondrichthyes_df, 
+ggplot(data = mammalia_df, 
        aes(x = log10(cn90), y = 100*(complete/3354), size = 100*(fragmented/3354))) +
   # Plot 'Other' and 'Iridian' first
-  geom_point(data = subset(chondrichthyes_df, proj %in% c('Other', 'Iridian')), 
+  geom_point(data = subset(mammalia_df, proj %in% c('Other', 'Iridian')), 
              aes(color = proj), 
              alpha = 0.5) +
   # Add circles around 'Other' and 'Iridian'
-  geom_point(data = subset(chondrichthyes_df, proj %in% c('Other', 'Iridian')), 
+  geom_point(data = subset(mammalia_df, proj %in% c('Other', 'Iridian')), 
              aes(color = proj), # Adjust the size for the outline
              shape = 21, fill = NA, stroke = 0.5) + # Create outline
   # Plot the other groups on top
-  geom_point(data = subset(chondrichthyes_df, !proj %in% c('Other', 'Iridian')), 
+  geom_point(data = subset(mammalia_df, !proj %in% c('Other', 'Iridian')), 
              aes(color = proj), 
              alpha = 0.5) +
   # Add circles around the other groups
-  geom_point(data = subset(chondrichthyes_df, !proj %in% c('Other', 'Iridian')), 
+  geom_point(data = subset(mammalia_df, !proj %in% c('Other', 'Iridian')), 
              aes(color = proj), # Adjust the size for the outline
              shape = 21, fill = NA, stroke = 0.5) + # Create outline
   annotate("rect", xmin = 4, xmax = 8.5, ymin = 80, ymax = 100, 
@@ -113,6 +119,6 @@ ggplot(data = chondrichthyes_df,
        size = "Fragmented (%)") +  # Custom legend heading for 'size'
   theme_bw() +xlim(2,9)+ylim(0,100)+
   xlab('Contig N90 (log10)') +
-  ylab('Compleasm Complete') +
-  ggtitle('Chondrichthyes Reference Genomes (N=41)')
-#ggsave(filename = 'chondrichthyes_compleasm.svg',plot = p)
+  ylab('Compleasm Complete (%)') +
+  ggtitle('Mammalia Reference Genomes (N=1,296)')
+#ggsave(filename = 'mammalia_compleasm.svg',plot = p)
