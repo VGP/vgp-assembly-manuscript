@@ -1,0 +1,828 @@
+Accession	Tax_ID	Submission_Date	Number_Contigs	Contig_N50	Contig_N90	Assembly_Size	Species_name	Super_class	Class	Infra_class	Sub_class	Super_order	Order	Sequencing_type
+GCF_027475565.1	32536	2022-12-28	217	96827784	40647340	2377412951	Acinonyx jubatus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_029890205.1	10068	2023-05-01	123	55022522	18485260	2270837406	Acomys cahirinus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Oxford Nanopore
+GCA_907164435.1	60744	2021-07-06	127573	33040	9138	2258756971	Acomys dimidiatus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_907164505.1	83762	2021-07-06	109600	33625	10162	2123074979	Acomys kempi	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_964271855.1	83528	2024-10-03	297	29281624	4689856	2350217440	Acomys minous	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi
+GCA_907169655.1	83527	2021-07-06	160804	26477	7193	2235673741	Acomys percivali	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCF_903995435.1	60746	2020-08-21	1503	4450755	1138841	2293568115	Acomys russatus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio CLR
+GCA_044231825.1	59515	2024-11-01	2784	55418445	3021624	2846190944	Addax nasomaculatus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Oxford Nanopore
+GCA_011751065.3	257879	2024-10-08	37680	120503	30431	2106622620	Aeorestes cinereus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCA_006408695.1	9897	2019-06-24	115374	50987	12159	2599373761	Aepyceros melampus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCF_002007445.2	9646	2020-04-20	262791	45556	6285	2393442957	Ailuropoda melanoleuca	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_002007465.1	424585	2017-02-28	148922	43124	10513	2308901297	Ailurus styani	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_006408545.1	59517	2019-06-24	1260569	878	363	885615452	Alcelaphus buselaphus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_964270355.1	9852	2024-09-28	1737	43164142	8015899	2545526971	Alces alces	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Oxford Nanopore
+GCF_014885135.2	100897	2020-10-13	77578	60797	14861	2092940738	Alexandromys fortis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_963919705.1	2162900	2023-12-20	268	60754688	17620822	2189948272	Alexandromys oeconomus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_963574245.1	54135	2023-11-03	137500	45079	10630	2754534513	Allenopithecus nigroviridis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574325.1	100224	2023-11-02	141590	41249	10284	2731212703	Allochrocebus lhoesti	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574925.1	147649	2023-11-03	151224	39109	9504	2738205131	Allochrocebus preussi	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963575195.1	147650	2023-11-03	176271	32978	7805	2749374520	Allochrocebus solatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574145.1	30590	2023-11-02	173738	34358	7544	2633659799	Alouatta belzebul	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963575295.1	9502	2023-11-02	183461	32391	7019	2646370501	Alouatta caraya	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963575205.1	2905217	2023-11-02	184026	32228	7012	2631921805	Alouatta discolor	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574365.1	2946512	2023-11-02	174494	31292	7409	2620341107	Alouatta juara	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963573945.1	198115	2023-11-02	192579	29721	6535	2632242010	Alouatta macconnelli	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_004027835.1	30589	2019-01-16	1152695	51304	975	3032004595	Alouatta palliata	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574235.1	1347729	2023-11-02	174377	31884	7382	2627397219	Alouatta seniculus puruensis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_004027475.1	27642	2019-01-16	341895	143417	19350	2206125520	Anoura caudifer	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCF_016432865.1	38775	2021-01-06	1106	51843704	9845607	3192352297	Antechinus flavipes	Sarcopterygii	Mammalia				Dasyuromorphia	missing
+GCA_016696395.1	9283	2021-01-15	106199	77883	18656	3216561012	Antechinus stuartii	Sarcopterygii	Mammalia				Dasyuromorphia	missing
+GCA_006408585.1	59523	2019-06-24	585510	10305	2201	2807021431	Antidorcas marsupialis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_007570785.1	9891	2019-07-12	48446	220431	42369	2459503476	Antilocapra americana	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_027563665.1	9440	2023-01-09	327	41887785	6204840	2120575367	Antrozous pallidus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio CLR
+GCA_963573465.1	30591	2023-11-01	138906	37254	9563	2592844304	Aotus azarai	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574505.1	292213	2023-11-01	136304	37857	9788	2601207428	Aotus griseimembra	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCF_030222135.1	37293	2023-06-07	1279	55915596	5233848	3097902722	Aotus nancymaae	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio HiFi
+GCA_963574785.1	9505	2023-11-01	134862	38029	9879	2593668907	Aotus trivirgatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963573775.1	57176	2023-11-01	143395	36079	9223	2598133304	Aotus vociferans	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_004027875.1	51342	2019-01-16	1286779	33245	652	3004810237	Aplodontia rufa	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_964023405.1	39030	2024-04-12	243	35188814	6250691	2613502880	Apodemus agrarius	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Oxford Nanopore
+GCA_002335545.1	105296	2017-09-12	658662	3520	1590	2018517627	Apodemus speciosus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCF_947179515.1	10129	2022-10-28	1626	4449850	914114	2889559585	Apodemus sylvaticus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi
+GCA_963573935.1	261739	2023-11-02	213954	24464	6030	2674758288	Arctocebus calabarensis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_040869175.1	37190	2024-07-25	592	55559406	12461372	2527514139	Arctocephalus gazella	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi
+GCA_028646355.1	161921	2023-02-16	284102	61084	12590	2355573634	Arctocephalus townsendi	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_038363225.1	51014	2024-04-22	243	74638333	18458730	2080469359	Artibeus intermedius	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCF_021234435.1	9417	2021-12-20	871	22092642	3964699	2108405921	Artibeus jamaicensis	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Oxford Nanopore
+GCA_038363175.2	27634	2024-05-17	366	60386740	18438908	2096444501	Artibeus lituratus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCF_011762505.1	61156	2020-03-27	3219	11143170	473741	2476471911	Arvicanthis niloticus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio CLR
+GCA_011762505.2	61156	2024-10-22	3220	11143170	473741	2476488180	Arvicanthis niloticus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio CLR
+GCF_903992535.2	1047088	2021-05-15	1088	5308170	1391279	2291739337	Arvicola amphibius	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio CLR
+GCA_043727835.1	188568	2024-10-24	162	61181192	20396724	2268667635	Aselliscus stoliczkanus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_963573605.1	9507	2023-10-31	111213	51917	13023	2589162548	Ateles belzebuth	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574935.1	118643	2023-10-31	111051	51908	12928	2589553743	Ateles chamek	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_036589455.1	9508	2024-02-13	3711	9828695	2012030	3181160418	Ateles fusciceps	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore
+GCA_023783555.1	9509	2022-06-17	2723	29212752	5286085	2683028796	Ateles geoffroyi	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio RSII
+GCA_916098195.1	129801	2021-09-22	1351	50515269	15569212	2643274192	Ateles hybridus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963573555.1	1529884	2023-11-02	132644	53900	11672	2651793951	Ateles marginatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963573985.1	9510	2023-10-31	98384	58585	15050	2597315165	Ateles paniscus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963575035.1	122246	2023-10-31	129068	37805	8951	2197405675	Avahi laniger	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963573525.1	1313323	2023-10-30	229457	18692	3986	2162191689	Avahi peyrierasi	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_003798545.1	57737	2018-11-20	216630	67302	12205	2635793542	Axis porcinus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_028533215.1	1303000	2023-02-09	743099	52664	3271	2554163617	Babyrousa celebensis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCF_949987535.1	9767	2023-05-01	2551	3015723	538597	2772649958	Balaenoptera acutorostrata	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_000978805.1	33556	2015-03-18	720900	8410	1995	2220306123	Balaenoptera bonaerensis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCF_009873245.2	9771	2020-10-02	992	6274848	1427394	2348931801	Balaenoptera musculus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio CLR
+GCA_023338255.1	9770	2022-05-11	44036	146061	34693	2369666006	Balaenoptera physalus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCF_028023285.1	2746895	2023-01-30	1108	36541936	2068056	2675821169	Balaenoptera ricei	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_004027495.1	59527	2019-01-16	545176	57444	11392	2696327100	Beatragus hunteri	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_023548195.1	881300	2022-05-25	3022	1995245	555447	3379810759	Bettongia penicillata ogilbyi	Sarcopterygii	Mammalia				Diprotodontia	missing
+GCF_000754665.1	43346	2014-10-08	470415	19971	2660	2632263697	Bison bison bison	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_963879515.1	9902	2023-12-17	248	91242619	13410019	3071666736	Bison bonasus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_043643345.1	30520	2024-10-24	1988	20200000	1611900	2615000024	Bos frontalis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio RSII
+GCA_014182915.2	9904	2020-08-14	2829	13340585	2147105	2717130401	Bos gaurus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_946052875.1	1705790	2022-09-11	1055	66457535	2826205	3030538291	Bos gaurus x Bos taurus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_005887515.3	30521	2019-06-10	989	44716738	7430771	2831395971	Bos grunniens	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Oxford Nanopore
+GCA_009493645.1	331036	2019-11-04	596	72336424	21277577	2677129979	Bos grunniens x Bos taurus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCF_000247795.1	9915	2014-11-25	253770	28375	5882	2475828999	Bos indicus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCF_003369695.1	30522	2018-11-30	1552	26764281	5856886	2679316559	Bos indicus x Bos taurus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio RSII
+GCF_032452875.1	9906	2023-10-11	1602	47146240	1043918	2972803188	Bos javanicus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Oxford Nanopore
+GCF_000298355.1	72004	2013-01-09	233198	22822	6371	2525007273	Bos mutus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCF_002263795.3	9913	2023-07-01	2344	26402946	4464267	2770657958	Bos taurus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio CLR
+GCA_018282465.1	297284	2021-05-06	1374	70612029	6502320	2861673644	Bos taurus x Bison bison	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Oxford Nanopore
+GCA_004027775.1	9355	2019-01-16	1772267	1900	281	1502429099	Bradypus variegatus	Sarcopterygii	Mammalia			Xenarthra	Pilosa	missing
+GCA_001685075.1	3370998	2016-07-14	489105	8118	2176	2259920371	Bramus lutescens	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCF_019923935.1	89462	2021-09-10	685	9586610	2591162	2622394739	Bubalus bubalis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio CLR
+GCA_025584935.1	27596	2022-10-05	160667	34173	9419	2616962799	Bubalus depressicornis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCF_029407905.1	3119969	2023-03-31	136	91172394	21123281	2898488318	Bubalus kerabau	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCF_023091745.1	37181	2022-04-22	1515	68053581	6866776	2851579369	Budorcas taxicolor	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_029593785.1	48852	2023-04-05	4783794	7208	347	6052992629	Cabassous unicinctus	Sarcopterygii	Mammalia			Xenarthra	Cingulata	missing
+GCA_963573425.1	535896	2023-10-31	72915	76643	20404	2606245731	Cacajao ayresi	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963573955.1	30596	2023-10-31	80978	68772	18201	2609291619	Cacajao calvus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963573795.1	535897	2023-10-31	79040	71453	18739	2609871475	Cacajao hosomi	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963573385.1	70825	2023-11-01	79485	71276	18706	2613516872	Cacajao melanocephalus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963573925.1	9495	2023-11-02	198577	25257	6611	2684760153	Callimico goeldii	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963573515.1	52231	2023-10-31	323033	13434	3493	2538088166	Callithrix geoffroyi	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCF_011100555.1	9483	2021-04-28	2398	13222669	1575302	2861174012	Callithrix jacchus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio CLR
+GCA_963573495.1	867363	2023-11-01	293513	15062	4032	2585041894	Callithrix kuhlii	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCF_003265705.1	34884	2018-06-26	52955	133024	33548	2653028191	Callorhinus ursinus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCF_000767855.1	9837	2014-10-23	67435	139019	29656	1978996581	Camelus bactrianus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCF_036321535.1	9838	2024-01-31	366	31216184	2631906	2306564094	Camelus dromedarius	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCF_009834535.1	419612	2020-01-08	4388	5365398	466868	2086859476	Camelus ferus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio CLR
+GCA_034620425.1	9614	2023-12-27	213	42015997	11895604	2344462000	Canis latrans	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCF_003254725.2	286419	2020-09-11	228	40716615	12714643	2349829267	Canis lupus dingo	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio CLR
+GCF_011100685.1	9615	2020-03-10	2782	14840767	2771698	2481924852	Canis lupus familiaris	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio CLR
+GCA_029224305.1	27604	2023-03-16	227076	17897	5077	2286723972	Caperea marginata	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_000978405.1	9923	2015-04-24	368693	19347	4746	2593727656	Capra aegagrus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_038502695.1	48167	2024-04-26	397581	8941	2572	2302551935	Capra falconeri	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCF_001704415.2	9925	2016-08-24	30676	18204758	27733	2922577807	Capra hircus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_006410555.1	72542	2019-06-24	161183	76554	15916	2692946267	Capra ibex	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_003182615.2	72544	2018-10-30	219570	76954	16120	2719943604	Capra sibirica	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_951849835.1	9858	2023-07-15	212	69851389	9722324	3187251554	Capreolus capreolus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_012922965.1	48560	2020-04-28	144124	80310	18914	2545082775	Capreolus pygargus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCF_032405125.1	34865	2024-03-13	165	100934918	52004218	2828282078	Capricornis sumatraensis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_004027915.1	34842	2019-01-16	2355850	4080	366	3023501156	Capromys pilorides	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_016801355.1	61394	2021-02-02	149264	28968	7716	2288620516	Caracal caracal	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCF_000164805.1	1868482	2013-09-18	492903	38165	3596	3405755564	Carlito syrichta	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_004027735.1	40233	2019-01-16	1929203	10341	353	2689025505	Carollia perspicillata	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCF_001984765.1	51338	2017-02-04	24478	273954	40462	2517974654	Castor canadensis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_004024745.2	51154	2019-07-15	1240743	65965	399	2592535414	Catagonus wagneri	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_000688575.1	37548	2014-01-21	2568726	904	302	1749140834	Cavia aperea	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCF_034190915.1	10141	2023-12-07	672	48931253	4682831	3145503316	Cavia porcellus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi
+GCA_004027695.1	143287	2019-01-16	1379500	64807	528	3076220410	Cavia tschudii	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_963575025.1	2826950	2023-11-02	152091	35867	9029	2679299304	Cebuella niveiventris	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963575105.1	9493	2023-11-02	153451	35755	8903	2683470218	Cebuella pygmaea	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_023783575.1	9514	2022-06-17	2079	18502463	2619514	2874442237	Cebus albifrons	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore
+GCF_001604975.1	2715852	2016-04-04	159374	33936	7907	2610499605	Cebus imitator	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574745.1	37295	2023-11-02	157787	34701	8187	2631743541	Cebus olivaceus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574255.1	1985288	2023-11-02	157248	34722	8248	2635963157	Cebus unicolor	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_027257055.1	9477	2022-12-23	6942	5252243	488945	2940222822	Cephalopachus bancanus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_006410635.1	129224	2019-06-24	212596	39710	7649	2741487947	Cephalophus harveyi	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCF_000283155.1	73337	2012-07-31	57824	92960	24019	2366858012	Ceratotherium simum simum	Sarcopterygii	Mammalia			Laurasiatheria	Perissodactyla	missing
+GCF_000955945.1	9531	2015-03-19	76762	112931	24197	2787272842	Cercocebus atys	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574065.1	75569	2023-11-03	150902	38660	9300	2754616243	Cercocebus chrysogaster	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574135.1	9530	2023-11-03	156552	37166	8914	2766347607	Cercocebus torquatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_023783535.1	867370	2022-06-17	3544	13914891	2608588	2793074534	Cercopithecus albogularis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio RSII
+GCA_963574115.1	36223	2023-11-02	238529	23370	5336	2699187315	Cercopithecus ascanius	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574615.1	304410	2023-11-03	216517	26596	6159	2735679775	Cercopithecus campbelli lowei	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963575225.1	9535	2023-11-02	241871	22862	5267	2715709761	Cercopithecus cephus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574765.1	36224	2023-11-03	190261	29594	7158	2727675184	Cercopithecus diana	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574815.1	9536	2023-11-02	171707	32616	7947	2706197391	Cercopithecus hamlyni	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_028627265.1	36225	2023-02-16	1456707	28335	441	3080953465	Cercopithecus mitis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_014849445.1	36226	2020-10-05	1892	22791723	4142170	2902804605	Cercopithecus mona	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore
+GCA_963574685.1	36227	2023-11-02	134648	44010	10713	2732952501	Cercopithecus neglectus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963575045.1	36228	2023-11-02	185480	31127	7379	2725276338	Cercopithecus nictitans	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963575065.1	100487	2023-11-02	185077	30319	7219	2722786625	Cercopithecus petaurista	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963575055.1	102108	2023-11-02	175087	33545	7819	2723539884	Cercopithecus pogonias	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963573595.1	1137049	2023-11-02	180725	31273	7554	2712684425	Cercopithecus roloway	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_006408465.1	1088058	2019-06-24	440070	22538	3273	2641914894	Cervus albirostris	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCF_019320065.1	1574408	2021-07-26	6828	914577	203519	2524706785	Cervus canadensis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio RSII
+GCF_910594005.1	9860	2021-07-07	184	68741660	22815755	2886593124	Cervus elaphus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_010411085.1	84702	2020-02-12	39708	268660	59356	2560606433	Cervus hanglu yarkandensis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_040085125.1	9863	2024-06-07	51	89550226	55376770	2778006886	Cervus nippon	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_004027955.1	340076	2019-01-16	7680080	1606	247	5335322029	Chaetophractus vellerosus	Sarcopterygii	Mammalia			Xenarthra	Cingulata	missing
+GCA_963574435.1	47177	2023-10-31	149458	30011	7193	2207288573	Cheirogaleus major	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_008086735.1	9460	2019-08-26	130903	34905	7736	2108928330	Cheirogaleus medius	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963573755.1	2487712	2023-11-01	122093	46755	11472	2615708925	Cheracebus lucifer	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574535.1	210166	2023-11-01	100276	58812	14534	2621797712	Cheracebus lugens	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574635.1	1812110	2023-11-01	105442	56688	13847	2625963956	Cheracebus regulus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574645.1	30592	2023-11-01	114989	49680	12334	2614801328	Cheracebus torquatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCF_000276665.1	34839	2012-08-28	81656	61105	15094	2284292980	Chinchilla lanigera	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCF_950005125.1	269649	2023-05-01	357	30960136	4284756	2393351221	Chionomys nivalis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi
+GCA_963573965.1	280163	2023-11-01	88472	61605	16335	2606994926	Chiropotes israelita	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574175.1	3134011	2023-11-01	108322	53522	13906	2618072054	Chiropotes sagulatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_023783515.1	9534	2022-06-17	2565	9639656	1568341	2823242415	Chlorocebus aethiops	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio RSII
+GCA_963575115.1	60710	2023-11-03	161432	33929	8597	2743151598	Chlorocebus pygerythrus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCF_015252025.1	60711	2020-11-06	15291	839654	198886	2930550240	Chlorocebus sabaeus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCF_015220235.1	27675	2020-11-03	1386	20994632	1369508	3133710244	Choloepus didactylus	Sarcopterygii	Mammalia			Xenarthra	Pilosa	PacBio CLR
+GCA_000164785.2	9358	2014-09-30	370169	64490	6260	3223352430	Choloepus hoffmanni	Sarcopterygii	Mammalia			Xenarthra	Pilosa	missing
+GCF_000296735.1	185453	2012-09-19	391344	19631	4001	3363564316	Chrysochloris asiatica	Sarcopterygii	Mammalia			Afrotheria		missing
+GCA_028533335.1	68728	2023-02-09	157193	91425	21163	2328184969	Chrysocyon brachyurus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_040207285.1	537920	2024-06-17	253	42196457	5370437	2399581488	Clethrionomys rutilus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi
+GCA_028534165.1	187985	2023-02-09	1798555	32746	312	2830257246	Coendou prehensilis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCF_000951035.1	336983	2015-03-12	197125	38363	7156	2679973136	Colobus angolensis palliatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_030247045.1	33548	2023-06-12	4456	15612012	1550323	2975600867	Colobus guereza	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore
+GCA_963574725.1	9572	2023-11-03	183973	29403	7262	2739625085	Colobus polykomos	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCF_000260355.1	143302	2012-05-01	84597	46163	11166	1682547005	Condylura cristata	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	missing
+GCA_006408615.1	9927	2019-06-24	177079	46820	9779	2596304039	Connochaetes taurinus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_026230045.1	124745	2022-11-18	399	22150609	3835978	1961540449	Corynorhinus townsendii	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_004027555.1	208972	2019-01-16	1230480	23218	398	2271470677	Craseonycteris thonglongyai	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCA_026225945.1	1157628	2022-11-17	4331	12847143	116391	2527319442	Cricetomys ansorgei	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_004027575.1	10085	2019-01-16	1110425	80761	436	2396974302	Cricetomys gambianus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCF_003668045.3	10029	2020-06-11	4431	2489108	494581	2364208991	Cricetulus griseus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_964304595.1	10034	2024-11-06	179	47690202	15595476	2520152292	Cricetus cricetus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Oxford Nanopore
+GCA_004027635.1	876679	2019-01-16	2420679	4927	347	3081690626	Crocidura indochinensis	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	missing
+GCA_008692635.1	9678	2019-10-07	283945	21479	4652	2326732298	Crocuta crocuta	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_028646485.1	94188	2023-02-16	213093	124286	26021	2363042232	Cryptoprocta ferox	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_021461705.1	183661	2022-01-13	39388	112257	27149	2196365350	Cryptotis parvus	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	Oxford Nanopore
+GCA_004027205.1	10166	2019-01-16	865110	218543	768	2321968043	Ctenodactylus gundi	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_004027165.1	43321	2019-01-16	823762	37562	3468	2833195451	Ctenomys sociabilis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_004365215.1	108852	2019-03-22	3771510	3890	270	3399277187	Cuniculus paca	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCF_027409185.1	110931	2022-12-28	246	69195939	6843211	2814385620	Cynocephalus volans	Sarcopterygii	Mammalia			Euarchontoglires	Dermoptera	PacBio HiFi
+GCA_009793145.1	58060	2019-12-23	188055	16522	4221	1687160926	Cynopterus brachyotis	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCA_030015415.1	9400	2023-05-16	207	84235024	22018128	1857067459	Cynopterus sphinx	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Oxford Nanopore
+GCF_033118175.1	30532	2023-11-02	328	68791581	6651551	3104275828	Dama dama	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_033118175.2	30532	2024-10-18	329	68791581	6651551	3104292160	Dama dama	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_006408505.1	9929	2019-06-24	255599	25896	5931	2909729339	Damaliscus lunatus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_004363535.1	34846	2019-03-22	993123	38650	1758	3011452398	Dasyprocta punctata	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCF_030445035.1	9361	2023-07-13	1310	14295626	1814465	3559491023	Dasypus novemcinctus	Sarcopterygii	Mammalia			Xenarthra	Cingulata	PacBio HiFi
+GCA_030445035.2	9361	2023-07-13	1339	13963394	1789652	3598802131	Dasypus novemcinctus	Sarcopterygii	Mammalia			Xenarthra	Cingulata	PacBio HiFi
+GCA_020854095.1	9279	2021-11-12	507	13753271	3683121	3139179057	Dasyurus viverrinus	Sarcopterygii	Mammalia				Dasyuromorphia	PacBio HiFi
+GCA_044048945.1	31869	2024-10-29	930	80435237	11303963	2439979758	Daubentonia madagascariensis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore
+GCF_002288925.2	9749	2019-08-29	29444	196689	57252	2326910473	Delphinapterus leucas	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCF_949987515.2	9728	2024-09-07	1598	3627551	928000	2663323555	Delphinus delphis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCF_022682495.1	9430	2022-03-24	1184	6762714	1324706	2113234880	Desmodus rotundus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_022682495.2	9430	2022-03-24	1188	6739964	1285658	2119447770	Desmodus rotundus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_014189135.1	310711	2020-08-14	87708	57104	14611	2364205984	Dicerorhinus sumatrensis harrissoni	Sarcopterygii	Mammalia			Laurasiatheria	Perissodactyla	missing
+GCF_020826845.1	77932	2021-11-10	1291	28468213	1560275	3004166759	Diceros bicornis minor	Sarcopterygii	Mammalia			Laurasiatheria	Perissodactyla	PacBio HiFi
+GCA_028555095.1	85952	2023-02-08	215830	21612	4018	2077395654	Dicrostonyx torquatus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_004027595.1	108858	2019-01-16	1164830	64805	537	2687924519	Dinomys branickii	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_024711535.1	94247	2022-08-18	4536	7443915	483253	3365236402	Dipodomys merriami	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi
+GCF_000151885.1	10020	2014-12-12	148228	48087	5512	2065314044	Dipodomys ordii	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCF_019054845.1	105255	2021-06-29	2026	9612466	1442987	2844766008	Dipodomys spectabilis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi
+GCA_004024685.1	323379	2019-01-15	1278525	30710	399	2345529996	Dipodomys stephensi	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_036346955.1	73863	2024-02-05	1441	28651707	5377176	2814657852	Dipus sagitta	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_004027295.1	29091	2019-01-16	1911987	27983	399	3288992131	Dolichotis patagonum	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_043880285.1	249021	2024-10-28	400	14255823	3064574	2390465483	Doryrhina cyclops	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCF_019393635.1	33562	2021-08-03	277	38230856	9891997	3300269911	Dromiciops gliroides	Sarcopterygii	Mammalia				Microbiotheria	PacBio CLR
+GCA_030035585.1	29137	2023-05-18	294	57632671	18668298	3158468910	Dugong dugon	Sarcopterygii	Mammalia			Afrotheria	Sirenia	PacBio HiFi
+GCF_000313985.2	9371	2019-07-15	277896	20425	4090	2605196151	Echinops telfairi	Sarcopterygii	Mammalia			Afrotheria		missing
+GCA_028627145.1	58063	2023-02-16	1209684	109255	339	2286172677	Eidolon dupreanum	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCA_000465285.1	77214	2013-09-13	288446	12668	3194	1830434665	Eidolon helvum	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCA_020311275.1	204263	2021-10-05	31894	285064	67719	2441789362	Eira barbara	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_021018665.1	43332	2021-12-01	189059	32707	8530	2460101691	Elaphurus davidianus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCF_000299155.1	28737	2012-10-10	288162	24219	5786	3315871847	Elephantulus edwardii	Sarcopterygii	Mammalia			Afrotheria	Macroscelidea	missing
+GCF_024166365.1	99487	2022-07-06	190	87987108	17331029	3397913467	Elephas maximus indicus	Sarcopterygii	Mammalia			Afrotheria	Proboscidea	PacBio HiFi
+GCA_001685095.1	329620	2016-07-14	712290	7230	1769	2243679562	Ellobius talpinus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCF_002288905.1	391180	2017-09-11	29592	244529	59610	2425594289	Enhydra lutris kenyoni	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_003508835.1	58065	2018-09-07	4469	8002591	796524	1966861576	Eonycteris spelaea	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio CLR
+GCA_035773235.1	146134	2024-01-24	115	59200000	15863881	2699076650	Eospalax fontanierii	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCF_027574615.1	29078	2023-01-09	123	49033427	14456996	2008029309	Eptesicus fuscus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio CLR
+GCA_030846915.1	59451	2023-08-21	905	59608874	8691757	2001058014	Eptesicus nilssonii	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCF_016077325.2	9793	2021-10-14	1972	7920234	1319112	2428377921	Equus asinus	Sarcopterygii	Mammalia			Laurasiatheria	Perissodactyla	missing
+GCF_002863925.1	9796	2018-01-05	10995	1502753	332541	2497530654	Equus caballus	Sarcopterygii	Mammalia			Laurasiatheria	Perissodactyla	missing
+GCF_000696695.1	9798	2014-06-05	134060	57610	10083	2374818822	Equus przewalskii	Sarcopterygii	Mammalia			Laurasiatheria	Perissodactyla	missing
+GCF_021613505.1	89248	2022-01-31	27145	427941	79653	2476985086	Equus quagga	Sarcopterygii	Mammalia			Laurasiatheria	Perissodactyla	missing
+GCA_028451465.1	34844	2023-02-06	393	19239546	4735819	2432078928	Erethizon dorsatum	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio CLR
+GCF_950295315.1	9365	2023-05-01	4934	999919	276067	2719931831	Erinaceus europaeus	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	PacBio HiFi
+GCA_023783455.1	9538	2022-06-17	4898	18747272	957741	3096929461	Erythrocebus patas	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore
+GCF_028021215.1	9764	2023-01-31	982	39209000	1346193	2982362781	Eschrichtius robustus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCF_028564815.1	27606	2023-02-09	1156	37467374	1429147	2838733489	Eubalaena glacialis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_004363455.1	302098	2019-03-22	1361057	34866	399	2692865900	Eubalaena japonica	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_006408755.1	69308	2019-06-24	320395	48014	6357	2878957867	Eudorcas thomsonii	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_963573435.1	1215604	2023-10-30	152781	30116	6957	2148879339	Eulemur albifrons	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574965.1	13514	2023-10-30	108706	44663	10298	2142767025	Eulemur coronatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_001262665.1	87288	2015-08-06	292743	16303	4194	2094103518	Eulemur flavifrons	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963575015.1	47178	2023-10-30	111483	38956	9651	2123580313	Eulemur fulvus collaris	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_001262655.1	30602	2015-08-06	635422	7913	2049	2101039320	Eulemur macaco	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_028534055.1	34828	2023-02-09	1106606	38022	557	2460445262	Eulemur mongoz	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574895.1	34829	2023-10-31	116235	36835	9071	2130209887	Eulemur rubriventer	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCF_041146395.1	859984	2024-08-16	680	89959899	6498171	2415574146	Eulemur rufifrons	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio HiFi
+GCA_963574465.1	859983	2023-10-30	144902	31435	7462	2142741254	Eulemur rufus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963573705.1	122225	2023-10-30	146082	31336	7392	2147593812	Eulemur sanfordi	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCF_004028035.1	34886	2019-01-15	24747	242372	63752	2404049571	Eumetopias jubatus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCF_018350175.1	9685	2021-05-13	110	90731473	36606296	2425739938	Felis catus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_019924945.1	61376	2021-09-14	110	91188488	19806996	2428298665	Felis chaus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_032458615.1	61379	2023-10-11	655	31308424	8593870	2413502530	Felis nigripes	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCF_012274545.1	885580	2020-04-13	162869	44756	11927	2286001154	Fukomys damarensis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_023783435.1	30609	2022-06-17	11899	583552	127267	2543917194	Galago moholi	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio RSII
+GCA_963575145.1	9465	2023-10-31	165105	30883	7094	2506430769	Galago senegalensis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574575.1	89672	2023-10-31	198935	25380	5967	2511177570	Galagoides demidoff	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_019455555.1	202257	2021-08-05	74682	51027	13439	1801124260	Galemys pyrenaicus	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	missing
+GCF_000696425.1	482537	2014-06-05	592122	18952	1667	2802837430	Galeopterus variegatus	Sarcopterygii	Mammalia			Euarchontoglires	Dermoptera	missing
+GCA_040207655.1	27682	2024-06-17	2493	11757861	2289077	1833895512	Geomys bursarius	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_017591445.1	2740528	2021-03-30	50766	11323477	1249370	2438025394	Giraffa camelopardalis rothschildi	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Oxford Nanopore
+GCA_013496395.1	439328	2020-07-24	270992	22499	6171	2397983155	Giraffa tippelskirchi	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_020662805.1	64683	2021-10-28	115082	75533	12973	2538979272	Glaucomys volans	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_004027185.1	41261	2019-01-16	444115	26062	4941	2461018707	Glis glis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCF_963455315.1	9731	2023-09-21	2077	3290841	724061	2651075824	Globicephala melas	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_963455315.2	9731	2024-09-07	2077	3290841	724061	2651075824	Globicephala melas	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_039655065.1	2994998	2024-05-17	129	77027013	18094795	2159899785	Glossophaga mutica	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_963575185.1	499232	2023-11-02	109969	54617	13965	2738595670	Gorilla beringei	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCF_029281585.2	9595	2024-01-08	28	150804130	107915467	3543850636	Gorilla gorilla gorilla	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore
+GCA_029281585.3	9595	2024-08-01	28	150804130	107915467	3543850631	Gorilla gorilla gorilla	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore
+GCF_016433145.1	191870	2021-01-06	145856	56947	11306	3395578354	Gracilinanus agilis	Sarcopterygii	Mammalia				Didelphimorphia	missing
+GCA_019843835.1	491754	2021-09-01	572372	5404	1648	2080556935	Grammomys dolichurus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCF_004785775.1	491861	2019-04-12	100279	51731	13099	2378001958	Grammomys surdaster	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_028646425.1	83653	2023-02-16	813233	62041	1287	2521089325	Grampus griseus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_004027655.1	51346	2019-01-16	1283630	22138	727	2813445529	Graphiurus murinus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_024510155.1	2888765	2022-08-04	758	36583552	6560855	2388193049	Gulo gulo luscus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_011680675.1	38618	2020-03-23	12541	500778	146892	3469277498	Gymnobelideus leadbeateri	Sarcopterygii	Mammalia				Diprotodontia	Oxford Nanopore
+GCF_012393455.1	9711	2020-04-15	6997	1011981	194522	2338231810	Halichoerus grypus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Oxford Nanopore
+GCA_963574485.1	122220	2023-10-30	118227	36188	8902	2100121195	Hapalemur griseus alaotrensis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963575175.1	3043112	2023-10-30	102197	42001	10362	2099687169	Hapalemur meridionalis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963575155.1	867377	2023-10-30	147553	27218	6953	2098777755	Hapalemur occidentalis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_028533245.1	9634	2023-02-09	762462	73706	1568	2473195545	Helarctos malayanus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_004023845.1	210647	2019-01-15	200185	113567	21292	2391389890	Helogale parvula	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCF_000247695.1	10181	2012-02-17	114653	47778	10206	2314771103	Heterocephalus glaber	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_028571685.1	77598	2023-02-10	338	78495281	15246687	3487990716	Heterohyrax brucei	Sarcopterygii	Mammalia			Afrotheria	Hyracoidea	PacBio HiFi
+GCA_023065765.1	56798	2022-04-22	3607	1793253	462528	2374479426	Hexaprotodon liberiensis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCF_030028045.1	575201	2023-05-18	583	50348260	8899420	2538214062	Hippopotamus amphibius kiboko	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCF_001890085.2	186990	2016-12-06	180137	34032	3993	1954538067	Hipposideros armiger	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCA_031876335.1	175524	2023-09-25	188	34562834	8862568	2338890320	Hipposideros larvatus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_021464545.1	867831	2022-01-14	82594	72646	17631	2126995842	Hipposideros pendleburyi	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCA_006942125.1	82127	2019-07-12	135158	45501	11909	2561805748	Hippotragus niger niger	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCF_000001405.40	9606	2022-02-03	1826	51725668	2943603	3136819257	Homo sapiens	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_023748175.1	593543	2022-06-16	3022	22338800	2823044	2784981803	Hoolock leuconedys	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore
+GCF_003009895.1	95912	2018-03-19	28819	167386	46991	2357940253	Hyaena hyaena	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_004027455.1	10149	2019-01-16	661089	148451	8385	2734015388	Hydrochoerus hydrochaeris	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_020226075.1	9883	2021-10-05	56897	131414	33550	2484705625	Hydropotes inermis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_963574095.1	9579	2023-11-02	183098	28032	7275	2676684023	Hylobates agilis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574335.1	9587	2023-11-02	158421	33153	8551	2685947331	Hylobates klossii	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCF_009828535.3	81572	2021-11-10	43501	265822	47941	2785970589	Hylobates moloch	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore
+GCA_963573745.1	9588	2023-11-02	185364	28001	7177	2683629437	Hylobates muelleri	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_021498465.1	9589	2022-01-19	1567	17385161	2384244	2851318933	Hylobates pileatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore
+GCA_019843855.1	34858	2021-09-01	659537	4202	1512	2177999704	Hylomyscus alleni	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_949752795.1	48744	2023-04-08	1855	3126546	835131	2828541112	Hyperoodon ampullatus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_016801275.1	143286	2021-02-02	303244	27723	6278	2194787767	Hystrix brachyura	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_004026905.1	10137	2019-01-16	1140949	57102	459	2470482578	Hystrix cristata	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_025583905.1	360967	2022-10-05	2638	60617172	8092192	2099682538	Ia io	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCF_016881025.1	43179	2021-02-17	153544	44127	7536	2311073401	Ictidomys tridecemlineatus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_004363605.1	34827	2019-03-22	1248425	26447	611	2701360913	Indri indri	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_036417435.1	9725	2024-02-06	1187	40892022	1694451	2749306105	Inia geoffrensis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCF_020740685.1	51337	2021-11-04	721	21929955	3319964	2850162481	Jaculus jaculus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio CLR
+GCA_006410655.1	9962	2019-06-24	339551	20724	3860	2725198951	Kobus ellipsiprymnus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_014926565.1	91880	2020-10-23	154089	61383	9706	2747140373	Kobus leche leche	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCF_026419965.1	27615	2022-11-27	724	42780423	9444491	2551057477	Kogia breviceps	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_964270905.1	90246	2024-09-29	1933	3493168	848746	2676002614	Lagenorhynchus acutus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCF_949774975.1	27610	2023-04-08	1480	3398034	934848	2544621795	Lagenorhynchus albirostris	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCF_003676395.1	90247	2018-10-23	21793	255779	73552	2324171299	Lagenorhynchus obliquidens	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_028533205.1	65632	2023-02-09	631689	57452	8947	3355989172	Lagorchestes hirsutus	Sarcopterygii	Mammalia				Diprotodontia	missing
+GCA_963574225.1	9519	2023-10-31	82310	71029	18156	2582486803	Lagothrix lagotricha	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_013239585.1	273914	2020-06-02	93504	111519	28040	2011773649	Lama glama chaku	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_013239625.1	273908	2020-06-02	73776	343812	72987	2037226754	Lama guanicoe cacsilensis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_004026805.1	258930	2019-01-16	525280	35165	5455	2856952849	Lasiurus borealis	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCF_020740605.2	9447	2021-11-04	395	32529614	4841327	2241959928	Lemur catta	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio HiFi
+GCA_963575285.1	9487	2023-11-03	212478	28038	6252	2763023635	Leontocebus fuscicollis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963575265.1	9489	2023-11-03	223888	28282	5695	2788653756	Leontocebus nigricollis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574395.1	57374	2023-11-02	177556	30751	7575	2728977161	Leontopithecus chrysomelas	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_028533165.1	30588	2023-02-09	401755	55757	10492	2854605562	Leontopithecus rosalia	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCF_018350155.1	46844	2021-05-13	92	104474415	29077231	2426379054	Leopardus geoffroyi	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_963573785.1	342401	2023-10-30	131973	32324	8105	2138030793	Lepilemur ankaranensis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574875.1	78583	2023-10-30	107744	40718	10128	2134912742	Lepilemur dorsalis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574885.1	78866	2023-10-30	108638	41219	10133	2137048369	Lepilemur ruficaudatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963573855.1	78584	2023-10-30	133968	31775	8039	2142855022	Lepilemur septentrionalis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCF_000349705.1	9713	2013-03-29	169547	23664	6672	2223164129	Leptonychotes weddellii	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_004026855.1	48086	2019-01-16	1602982	15057	553	3122255964	Lepus americanus	Sarcopterygii	Mammalia			Euarchontoglires	Lagomorpha	missing
+GCA_042027585.1	9981	2024-09-19	1481	30546000	2754905	2960872309	Lepus capensis	Sarcopterygii	Mammalia			Euarchontoglires	Lagomorpha	PacBio HiFi
+GCF_033115175.1	9983	2023-10-31	1069	43409466	1940000	2930889363	Lepus europaeus	Sarcopterygii	Mammalia			Euarchontoglires	Lagomorpha	PacBio HiFi
+GCA_036325905.1	112018	2024-02-05	352	58464897	9019693	2855065205	Lepus oiostolus	Sarcopterygii	Mammalia			Euarchontoglires	Lagomorpha	missing
+GCA_040893245.2	62621	2024-07-26	1412	4885811	989945	2695157870	Lepus timidus	Sarcopterygii	Mammalia			Euarchontoglires	Lagomorpha	PacBio HiFi
+GCA_029532125.1	63225	2023-03-31	96094	98462	16058	2644695538	Lepus townsendii	Sarcopterygii	Mammalia			Euarchontoglires	Lagomorpha	missing
+GCF_000442215.2	118797	2013-07-24	148598	32029	9161	2387358314	Lipotes vexillifer	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_006410535.1	69311	2019-06-24	204448	47655	8469	2875187851	Litocranius walleri	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCF_010015895.1	76717	2020-01-27	13981	691969	158045	2395576457	Lontra canadensis	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_907164525.1	248799	2021-06-03	153791	35791	9249	2691165168	Lophiomys imhausi	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_023783235.1	75566	2022-06-17	4389	6802059	1058036	2903351443	Lophocebus aterrimus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio RSII
+GCA_963574355.1	300163	2023-11-01	172009	32936	7699	2583802287	Loris lydekkerianus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_023783135.1	9468	2022-06-17	3586	7727436	1366850	2737732475	Loris tardigradus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio RSII
+GCF_030014295.1	9785	2023-05-16	1110	82653632	4903835	3537187813	Loxodonta africana	Sarcopterygii	Mammalia			Afrotheria	Proboscidea	PacBio HiFi
+GCF_902655055.1	9657	2020-07-31	229	30403456	7484603	2438368607	Lutra lutra	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio CLR
+GCA_040955705.1	9622	2024-08-01	167	39426608	11726452	2384003008	Lycaon pictus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi
+GCF_007474595.2	61383	2020-07-14	896	7503561	1412021	2405030909	Lynx canadensis	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio CLR
+GCA_900661375.1	191816	2019-03-28	116586	67711	14885	2361206351	Lynx pardinus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCF_022079265.1	61384	2022-02-08	99	66217191	21906355	2439236969	Lynx rufus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi
+GCA_021188215.1	9540	2021-12-15	95815	63227	15288	2729596227	Macaca arctoides	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_023783095.1	9551	2022-06-17	1153	27348716	3862855	2759375986	Macaca assamensis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio RSII
+GCA_026956025.1	78449	2022-12-19	1123	6698838	1465309	2797219711	Macaca cyclopis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore
+GCF_037993035.1	9541	2024-04-05	21	162126771	89758255	3042914375	Macaca fascicularis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore
+GCA_003118495.1	9543	2018-04-04	90905	94905	17784	2930706173	Macaca fuscata fuscata	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963573825.1	90387	2023-11-03	172578	31402	7756	2758568579	Macaca leonina	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574855.1	90383	2023-11-03	188065	28586	7083	2760461364	Macaca maura	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCF_003339765.1	9544	2019-02-13	3186	46608966	5311739	2936892725	Macaca mulatta	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCF_000956065.1	9545	2015-03-19	94096	106822	18441	2838486480	Macaca nemestrina	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio RSII
+GCA_928851695.1	54600	2022-02-09	932	60712129	13773700	2821713295	Macaca nigra	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963573735.1	9548	2023-11-03	172618	30922	7701	2738095023	Macaca radiata	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574275.1	244255	2023-11-03	168646	32750	7982	2758257816	Macaca siberu	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_023807365.1	54601	2022-06-20	1809	25691658	2107936	2778791713	Macaca silenus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore
+GCF_024542745.1	257877	2022-08-09	989	48622411	10901363	2822200445	Macaca thibetana thibetana	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963573625.1	40843	2023-11-03	176645	30662	7554	2760125012	Macaca tonkeana	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_004027375.1	326083	2019-01-16	174041	338389	40269	1897439383	Macroglossus sobrinus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCA_028583105.1	9316	2023-02-10	1491687	30299	622	3609821819	Macropus fuliginosus	Sarcopterygii	Mammalia				Diprotodontia	missing
+GCA_028627215.1	9317	2023-02-16	1081779	41690	2019	3508341113	Macropus giganteus	Sarcopterygii	Mammalia				Diprotodontia	missing
+GCA_037893015.1	92651	2024-04-04	5040	1223998	326841	3643208723	Macrotis lagotis	Sarcopterygii	Mammalia				Peramelemorphia	PacBio HiFi
+GCA_007922815.1	9419	2019-08-08	1130929	16386	466	2161368426	Macrotus californicus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCA_006408675.1	66434	2019-06-24	222235	27722	6085	2647311897	Madoqua kirkii	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCF_000951045.1	9568	2015-03-12	246055	31346	4770	2721407538	Mandrillus leucophaeus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_023783085.1	9561	2022-06-17	2118	20999372	3337898	2836346068	Mandrillus sphinx	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore
+GCA_016801295.1	1496684	2021-02-02	1063366	6063	931	2085367781	Manis crassicaudata	Sarcopterygii	Mammalia			Laurasiatheria	Pholidota	missing
+GCA_032206105.1	1836949	2023-09-29	2751794	740	281	1612045961	Manis culionensis	Sarcopterygii	Mammalia			Laurasiatheria	Pholidota	missing
+GCF_014570535.1	9974	2020-09-15	75713	73807	18924	2238249616	Manis javanica	Sarcopterygii	Mammalia			Laurasiatheria	Pholidota	missing
+GCF_030020395.1	143292	2023-05-23	1044	25547713	2630075	2833601559	Manis pentadactyla	Sarcopterygii	Mammalia			Laurasiatheria	Pholidota	PacBio HiFi
+GCF_003676075.3	93162	2019-05-24	68412	143798	25606	2527024404	Marmota flaviventris	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_005280165.1	93163	2019-05-10	58520	80465	21096	2355877381	Marmota himalayana	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCF_001458135.2	9994	2019-12-18	102889	43968	11651	2409702330	Marmota marmota marmota	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCF_021218885.2	9995	2022-08-11	3380	10671126	954200	2638786345	Marmota monax	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_040207255.1	93167	2024-06-17	527	66661095	7416234	2499992434	Marmota vancouverensis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi
+GCA_029410595.1	74864	2023-03-27	213	68603938	16326414	2448695071	Martes flavigula	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Oxford Nanopore
+GCA_040938555.1	9659	2024-07-30	39701	324846	69148	2380657189	Martes foina	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_963455335.1	29065	2023-09-20	2727	1599794	488031	2484200161	Martes martes	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi
+GCA_040938815.1	36722	2024-07-30	33680	329342	74100	2364974491	Martes zibellina	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCF_008632895.1	35658	2019-09-24	146741	30483	8497	2303619362	Mastomys coucha	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_021653895.1	10112	2022-01-27	7311	1121141	225138	2307269173	Mastomys natalensis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio RSII
+GCA_004026885.1	9413	2019-01-16	1909067	71674	298	2620321849	Megaderma lyra	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCA_043880595.1	9414	2024-10-28	1285	22627155	1840217	2080266234	Megaderma spasma	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Oxford Nanopore
+GCA_041834305.1	9773	2024-09-09	1443	36344089	1303092	3146595456	Megaptera novaeangliae	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCF_922984935.1	9662	2021-12-19	639	75210923	8717463	2738670646	Meles meles	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi
+GCA_922984935.2	9662	2022-03-23	639	75210923	8717463	2738670774	Meles meles	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi
+GCA_004024625.1	9664	2019-01-15	2074823	50213	326	3090522280	Mellivora capensis	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_036365155.1	2800508	2024-02-05	4435	24084473	2793562	2433335833	Meriones psammophilus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Oxford Nanopore
+GCF_030254825.1	10047	2023-06-12	246	50173090	14883397	2702195747	Meriones unguiculatus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi
+GCF_017639785.1	10036	2021-03-30	7058	9471653	1659638	2383228883	Mesocricetus auratus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Oxford Nanopore
+GCA_964148845.1	48745	2024-06-06	2126	3262972	669135	2732575304	Mesoplodon bidens	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCF_025265405.1	48708	2022-09-19	171	48253041	10485891	2682691175	Mesoplodon densirostris	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_963573565.1	9482	2023-11-02	176111	29725	7637	2700126096	Mico argentatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574605.1	52232	2023-11-02	182135	28701	7338	2691573501	Mico humeralifer	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574545.1	666519	2023-11-02	199314	26055	6607	2693215933	Mico humilis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_008750995.1	143354	2019-09-30	496470	16342	2160	2838087078	Microcebus griseorufus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_008750955.1	236274	2019-09-30	519784	15314	2411	3012906532	Microcebus mittermeieri	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCF_000165445.2	30608	2017-02-06	51042	210702	36466	2386321897	Microcebus murinus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio RSII
+GCA_008750975.1	122231	2019-09-30	334832	21467	3674	2416141449	Microcebus ravelobensis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_008750915.1	2508170	2019-09-30	258843	36539	5690	2498904117	Microcebus sp. 3 GT-2019	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_008750935.1	143351	2019-09-30	367864	28414	3170	2583495259	Microcebus tavaratra	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963924665.1	13151	2024-01-29	2914	1835000	481189	2651383409	Micromys minutus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi
+GCA_004026765.1	148065	2019-01-16	553308	62961	2971	2314332605	Micronycteris hirsuta	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCA_902806775.1	29092	2020-02-28	6993	2938971	375816	2258814014	Microtus agrestis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_963919715.1	47230	2023-12-20	2543	19920595	3538555	2292888505	Microtus arvalis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_028537955.1	100895	2023-02-07	401	49752295	11744055	2299485494	Microtus californicus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi
+GCA_020392405.1	88450	2021-10-08	2070728	2896	304	2129738709	Microtus montanus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCF_000317375.1	79684	2012-12-07	187012	21250	5737	2104321675	Microtus ochrogaster	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCF_018167655.1	111838	2021-04-26	2147	34833828	1662614	3017107361	Microtus oregoni	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi
+GCA_037038515.1	10058	2024-03-06	241	47175454	15566417	2369124991	Microtus pennsylvanicus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi
+GCA_019206885.2	111840	2023-02-09	172749	14468	6369	2039584806	Microtus richardsoni	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCF_001595765.1	291302	2016-03-22	205885	18806	4777	1734831658	Miniopterus natalensis	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCA_964146895.1	9433	2024-06-06	1587	2292542	634222	1851863454	Miniopterus schreibersii	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_963573445.1	100488	2023-11-02	143608	39707	10078	2735187466	Miopithecus ogouensis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_028551445.1	36231	2023-02-09	696051	76031	6099	2953404606	Miopithecus talapoin	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCF_029215605.1	9716	2023-03-14	595	58074836	11897937	2430295388	Mirounga angustirostris	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi
+GCF_011800145.1	9715	2020-03-31	23965	197908	53080	2401735732	Mirounga leonina	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_004024645.1	47180	2019-01-15	451546	60596	7874	2339799262	Mirza coquereli	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_008750895.1	339999	2019-09-30	150551	70192	14175	2359148339	Mirza zaza	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_037176705.1	1552295	2024-03-15	362	69284146	12088982	2504794677	Molossus alvarezi	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCF_014108415.1	27622	2020-08-07	409	22174888	2975898	2268195607	Molossus molossus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio CLR
+GCA_039880945.1	2997257	2024-05-29	479	74731956	5976095	2567086048	Molossus nigricans	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCF_027887165.1	13616	2023-01-18	2268	3910714	702507	3554259256	Monodelphis domestica	Sarcopterygii	Mammalia				Didelphimorphia	PacBio HiFi
+GCF_005190385.1	40151	2019-05-06	25295	255327	66422	2344106029	Monodon monoceros	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_005190385.3	40151	2022-11-09	414	22031227	4259794	2341923308	Monodon monoceros	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio CLR
+GCA_043748645.1	258863	2024-10-24	126	56964224	11624340	2208984911	Mops condylurus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_004026545.1	118852	2019-01-16	207094	142682	20085	2111566809	Mormoops blainvillei	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCF_022376915.1	68408	2022-02-23	4227	13140624	2345000	2812562541	Moschus berezovskii	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_006461725.1	68412	2019-06-25	992826	3012	1107	2241082930	Moschus chrysogaster	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_004024705.2	68415	2019-07-15	1195517	34785	831	2964378037	Moschus moschiferus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_004023785.1	210652	2019-01-15	316874	180702	24246	2447760634	Mungos mungo	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_020276665.1	71854	2021-10-05	1232	25225000	6389781	2489269716	Muntiacus crinifrons	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Oxford Nanopore
+GCA_020226025.1	145526	2021-10-04	319	24226309	8334787	2475713043	Muntiacus gongshanensis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Oxford Nanopore
+GCA_008782695.1	9888	2019-10-07	49270	215534	42233	2518738577	Muntiacus muntjak	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCF_963930625.1	9886	2024-01-31	949	5780196	1591894	2656032140	Muntiacus reevesi	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_039877825.1	9887	2024-05-29	692	29270234	2687035	2660943438	Muntiacus vaginalis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_004026665.1	1453894	2019-01-16	886972	23400	1117	2330871882	Murina aurata feae	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCF_900094665.2	10089	2017-04-28	309677	21066	5394	2272609470	Mus caroli	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_902729485.2	10105	2020-09-25	129667	52161	8649	2419070285	Mus minutoides	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCF_000001635.27	10090	2020-06-24	353	46334773	14249705	2654621783	Mus musculus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCF_900095145.1	10093	2017-04-28	272224	18431	5254	2239960918	Mus pahari	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_003336285.2	10103	2023-04-14	161504	30868	7710	2390223327	Mus spicilegus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_921997135.2	10096	2022-06-30	1715	3265830	807677	2533959337	Mus spretus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_963383645.1	39082	2023-08-26	2018	2432660	728098	2497159702	Muscardinus avellanarius	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi
+GCF_009829155.1	36723	2020-01-03	293	36329944	8968756	2423733294	Mustela erminea	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio CLR
+GCA_963422785.1	77149	2023-09-13	47434	247290	43581	2483804975	Mustela eversmannii	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCF_030435805.1	9666	2023-07-13	64	83356672	25018734	2586261127	Mustela lutreola	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi
+GCF_022355385.1	77151	2022-02-24	53617	148763	33598	2416201335	Mustela nigripes	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_019141155.1	36239	2021-07-06	60041	195927	37708	2478026061	Mustela nivalis	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCF_011764305.1	9669	2020-03-27	1224	23598655	3001645	2577107489	Mustela putorius furo	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_004027025.1	10157	2019-01-16	1684916	28446	351	2901650884	Myocastor coypus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCF_902806735.1	447135	2020-02-22	54142	74942	22228	2290729502	Myodes glareolus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCF_000412655.1	109478	2013-06-28	325414	23289	4244	1981769726	Myotis brandtii	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCF_963259705.1	98922	2023-08-20	1220	3062752	968717	2127587331	Myotis daubentonii	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCF_000327345.1	225400	2012-12-20	325280	15182	3239	1878461987	Myotis davidii	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCA_038630795.1	3085897	2024-04-29	174006	27443	6187	1946289723	Myotis findleyi	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCF_000147115.1	59463	2010-09-14	72785	64330	12319	1966419868	Myotis lucifugus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCF_014108235.1	51298	2020-08-07	631	12511134	1569096	1973844364	Myotis myotis	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio CLR
+GCA_964094495.2	109479	2024-06-12	2092	2201046	608979	2080885842	Myotis mystacinus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_964212035.1	109481	2024-08-02	1963	2065327	613607	2123697592	Myotis nattereri	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_036250175.1	1209081	2024-01-29	525805	7913	1348	1770513857	Myotis planiceps	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCA_036010255.1	203696	2024-01-23	105	79957542	25910323	2000337603	Myotis ricketti	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Oxford Nanopore
+GCA_035771395.1	233766	2024-01-17	149901	30092	6803	1966269157	Myotis vivesi	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCA_028538775.1	159337	2023-02-10	685	28025655	3847715	1952479771	Myotis yumanensis	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_023553655.1	55782	2022-05-25	219447	37786	7792	3303622793	Myrmecobius fasciatus	Sarcopterygii	Mammalia				Dasyuromorphia	missing
+GCA_004026745.1	71006	2019-01-16	1629691	36434	477	3546444750	Myrmecophaga tridactyla	Sarcopterygii	Mammalia			Xenarthra	Pilosa	missing
+GCA_917880005.1	67940	2021-11-18	1915	37125998	6982113	2695170784	Nanger dama	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_006408635.1	27591	2019-06-24	758261	6225	1475	2515036465	Nanger granti	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCF_000622305.1	1026970	2014-06-05	356097	30353	6296	2913448405	Nannospalax galili	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_000772465.1	43780	2014-11-10	922191	8198	1098	2397404233	Nasalis larvatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_028533885.1	352831	2023-02-09	1127599	64559	549	2596641939	Nasua narica	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_025134845.1	2613871	2022-09-02	92277	52341	13197	2236864081	Neodon shergylaensis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_027422475.1	427616	2022-12-27	115955	49020	11975	2385445507	Neofelis diardi	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCF_028018385.1	61452	2023-01-31	214	51579577	7351810	2466981241	Neofelis nebulosa	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi
+GCF_020171115.1	452646	2021-09-29	183	220349319	131682864	2681215271	Neogale vison	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi
+GCF_002201575.2	29088	2021-10-20	33882	181061	44507	2376537765	Neomonachus schauinslandi	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Oxford Nanopore
+GCF_003031525.2	1706337	2018-04-03	66343	86003	22557	2268279482	Neophocaena asiaeorientalis asiaeorientalis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_001675575.1	56216	2016-06-23	4152706	1064	254	2052124855	Neotoma lepida	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_006410615.1	66442	2019-06-24	774555	8234	1363	2603609269	Neotragus moschatus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_006410875.1	1027985	2019-06-24	958795	5935	1149	2800783475	Neotragus pygmaeus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_004026705.1	2583312	2019-01-16	795514	56946	2089	3235485683	Nesogale talazaci	Sarcopterygii	Mammalia			Afrotheria		missing
+GCA_004026825.1	3349691	2019-01-16	479550	66552	13294	2714003836	Nilgiritragus hylocrius	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_004026585.1	94963	2019-01-16	304393	135651	18727	2097884294	Noctilio leporinus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCA_963574525.1	1616038	2023-11-02	159844	33513	8531	2686919954	Nomascus annamensis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574845.1	29089	2023-11-02	294376	17136	4091	2666915121	Nomascus concolor	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574555.1	61852	2023-11-02	157800	33797	8707	2680476290	Nomascus gabriellae	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCF_006542625.1	61853	2019-07-02	2762	12782853	1943630	2828890728	Nomascus leucogenys	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio CLR
+GCA_023783065.1	9586	2022-06-17	3765	8523852	1256940	2782981370	Nomascus siki	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore
+GCA_028372415.1	9315	2023-02-06	830	15255043	3886710	3442357582	Notamacropus eugenii	Sarcopterygii	Mammalia				Diprotodontia	PacBio HiFi
+GCA_036971965.2	187010	2024-05-31	337	61249120	6094742	1776587351	Nyctalus aviator	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio RSII
+GCA_964264875.1	59465	2024-09-21	2943	1871731	414444	2233199935	Nyctalus leisleri	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCF_905146905.1	34880	2021-02-14	881	35077230	9137882	2386597812	Nyctereutes procyonoides	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Oxford Nanopore
+GCA_023898255.1	261741	2022-06-27	4349	19794679	2650956	2856065232	Nycticebus bengalensis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio RSII
+GCF_027406575.1	9470	2022-12-28	302	41197715	6616115	2913034547	Nycticebus coucang	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio HiFi
+GCA_007922795.1	27670	2019-08-08	1680573	14267	399	2779131843	Nycticeius humeralis	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCF_017591425.1	130825	2021-03-26	2268	29562832	2567261	2086122268	Ochotona curzoniae	Sarcopterygii	Mammalia			Euarchontoglires	Lagomorpha	missing
+GCF_030435755.1	9978	2023-07-13	6296	12191025	121146	2555358301	Ochotona princeps	Sarcopterygii	Mammalia			Euarchontoglires	Lagomorpha	PacBio HiFi
+GCF_000260255.1	10160	2012-05-01	259907	19847	4784	2526261057	Octodon degus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_002564305.1	135583	2017-10-17	1351722	4336	823	2587905587	Octomys mimax	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCF_000321225.1	9708	2013-01-16	70659	89949	22581	2300252074	Odobenus rosmarus divergens	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_020976825.1	9872	2021-11-30	6036	28570879	2115231	2609040326	Odocoileus hemionus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCF_002102435.1	9880	2017-04-20	124056	42000	8943	2358937532	Odocoileus virginianus texanus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_024291935.2	86973	2022-07-16	3732	61700678	14298930	2387726108	Okapia johnstoni	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_004026605.1	10060	2019-01-16	571599	73746	8504	2562128469	Ondatra zibethicus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_949786405.1	38679	2023-04-08	844	26219289	3927639	2871802751	Onychomys arenicola	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi
+GCA_949786385.1	38668	2023-04-08	1239	19200283	2050567	3152957687	Onychomys leucogaster	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi
+GCF_903995425.1	38674	2020-08-21	5092	2276141	490496	2442231814	Onychomys torridus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio CLR
+GCF_937001465.1	9733	2022-05-03	571	45583382	8157000	2647327031	Orcinus orca	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_009758055.1	34873	2019-12-16	196296	24510	5851	2488550245	Oreamnos americanus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_006410675.1	66444	2019-06-24	396104	13017	3487	2913674292	Oreotragus oreotragus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_004027895.1	1041416	2019-01-16	1295369	30651	679	3092477081	Orientallactaga bullata	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_041429955.1	234626	2024-08-22	565	50637186	6346588	2849999029	Orientallactaga sibirica	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Oxford Nanopore
+GCF_004115215.2	9258	2020-11-06	837	15146802	2291290	1844123809	Ornithorhynchus anatinus	Sarcopterygii	Mammalia				Monotremata	PacBio CLR
+GCF_000298275.1	1230840	2012-09-20	433653	17683	3630	3415340621	Orycteropus afer afer	Sarcopterygii	Mammalia			Afrotheria	Tubulidentata	missing
+GCF_009806435.1	9986	2021-02-04	21338	337730	69990	2775625699	Oryctolagus cuniculus	Sarcopterygii	Mammalia			Euarchontoglires	Lagomorpha	missing
+GCF_014754425.2	59534	2020-09-25	25330	374342	85669	2688266700	Oryx dammah	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_003945745.1	9958	2018-12-14	282650	18166	5396	2585038011	Oryx gazella	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_028564725.2	61408	2023-11-27	62	118180270	29008642	2487310980	Otocolobus manul	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Oxford Nanopore
+GCA_017311455.1	2793302	2021-03-09	11178	718012	144049	2374649632	Otocyon megalotis megalotis	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Oxford Nanopore
+GCA_963574585.1	9463	2023-10-31	137699	37570	8337	2453720687	Otolemur crassicaudatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCF_000181295.1	30611	2011-03-16	200240	27100	5267	2359530453	Otolemur garnettii	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_006417275.1	59536	2019-06-24	3508672	1259	259	2524866488	Ourebia ourebi	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_041156055.1	37176	2024-08-09	654	44730146	7911866	2602159633	Ovibos moschatus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_028583565.1	230172	2023-02-10	200	74870268	21304539	2659603632	Ovis ammon polii	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio CLR
+GCA_023701675.1	2918886	2022-06-10	382	77913213	20000000	2970492492	Ovis ammon polii x Ovis aries	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCF_016772045.2	9940	2023-07-20	227	43178051	14061716	2654021983	Ovis aries	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCF_042477335.1	37174	2024-10-03	44	103349658	63451932	2828905754	Ovis canadensis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Oxford Nanopore
+GCA_903231385.1	1867112	2020-06-16	7373	1765443	323244	2618761458	Ovis nivicola lydekkeri	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_014523465.1	469796	2020-09-11	385	42163491	12230617	2644159496	Ovis orientalis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_028658305.1	298894	2023-02-17	551819	47672	5236	2470903963	Pachyuromys duprasi	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_030068075.1	9675	2023-06-05	1788	12856992	2389527	2437383519	Paguma larvata	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio CLR
+GCF_029289425.2	9597	2024-01-08	37	147028407	91859929	3239870271	Pan paniscus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore
+GCA_029289425.3	9597	2024-08-13	37	147028407	91859929	3239870268	Pan paniscus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore
+GCF_028858775.2	9598	2024-01-08	31	146288486	88264940	3172756316	Pan troglodytes	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore
+GCF_018350215.1	9689	2021-05-13	109	77781637	25738878	2297559483	Panthera leo	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCF_028533385.1	9690	2023-02-09	92614	53866	14514	2363638876	Panthera onca	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCF_024362965.1	9691	2022-07-21	717	22236240	3772709	2441180016	Panthera pardus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi
+GCF_018350195.1	9694	2021-05-13	140	74391967	28206420	2408685588	Panthera tigris	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCF_023721935.1	29064	2022-06-16	26422	179517	45759	2416857980	Panthera uncia	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_040182635.1	59538	2024-06-17	559	84561976	4084392	3139659629	Pantholops hodgsonii	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCF_008728515.1	9555	2019-10-02	15243	1455705	284543	2867510325	Papio anubis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_008728515.2	9555	2022-04-27	15245	1457385	284278	2867492101	Papio anubis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore
+GCA_963574715.1	9556	2023-11-03	178381	30627	7542	2743269066	Papio cynocephalus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_023781915.1	9557	2022-06-17	3047	24989958	2951690	3054335410	Papio hamadryas	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore
+GCA_963573405.1	208091	2023-11-03	189267	28671	7076	2759586172	Papio kindae	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_028645565.1	100937	2023-02-16	493925	44968	7305	2884946306	Papio papio	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574515.1	36229	2023-11-03	165809	33380	8220	2757453034	Papio ursinus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_004024585.1	71117	2019-01-15	442658	62870	4044	2476775803	Paradoxurus hermaphroditus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_007922755.1	10023	2019-08-08	687430	54009	4233	2848690112	Pedetes capensis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_963574655.1	9472	2023-10-31	183986	28107	6747	2570896048	Perodicticus potto	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCF_023159225.1	214514	2022-04-27	7987	7389774	57405	2211301696	Perognathus longimembris pacificus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_902168425.1	97206	2019-08-20	256137	20477	4425	2481431117	Peromyscus attwateri	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_902168405.1	57100	2019-08-22	290410	19239	3756	2472082023	Peromyscus aztecus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCF_007827085.1	564181	2022-04-27	784	8224858	2182353	2467800810	Peromyscus californicus insignis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi
+GCF_949786415.1	42410	2023-04-08	6900	1332236	174372	2916042479	Peromyscus eremicus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi
+GCF_004664715.2	10041	2020-10-02	4156	3467653	566268	2474052451	Peromyscus leucopus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCF_003704035.1	230844	2020-09-17	155966	30111	7971	2387893283	Peromyscus maniculatus bairdii	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_902168415.1	246392	2019-08-20	285552	15784	3886	2391761690	Peromyscus melanophrys	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_902168325.1	162314	2019-08-20	263356	19831	4161	2427179613	Peromyscus nudipes	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_003704135.2	369710	2019-04-26	318482	13217	3514	2328646717	Peromyscus polionotus subgriseus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCF_028583685.1	3040969	2023-02-10	87829	69635	19959	3399396896	Petaurus breviceps papuanus	Sarcopterygii	Mammalia				Diprotodontia	missing
+GCA_004026965.1	10183	2019-01-16	920324	29916	1177	2388402489	Petromus typicus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCF_016906955.1	41426	2021-02-19	717	10602503	2449014	2425573090	Phacochoerus africanus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio CLR
+GCA_028646595.1	65615	2023-02-16	1222713	28067	1513	3590422765	Phalanger gymnotis	Sarcopterygii	Mammalia				Diprotodontia	missing
+GCF_002099425.1	38626	2017-04-18	1908	11587828	3373160	3192581491	Phascolarctos cinereus	Sarcopterygii	Mammalia				Diprotodontia	PacBio CLR
+GCA_032200785.1	73815	2023-09-29	700793	15854	2186	2242435473	Phataginus tetradactyla	Sarcopterygii	Mammalia			Laurasiatheria	Pholidota	missing
+GCA_029783875.1	358128	2023-04-17	66524	113164	23871	2418073766	Phataginus tricuspis	Sarcopterygii	Mammalia			Laurasiatheria	Pholidota	missing
+GCA_006410695.1	907741	2019-06-24	825970	4422	1253	2272558586	Philantomba maxwellii	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCF_004348235.1	9720	2019-02-11	21602	283887	72519	2342152204	Phoca vitulina	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCF_963924675.1	9742	2024-01-29	1405	3726689	1061431	2512519912	Phocoena phocoena	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCF_008692025.1	42100	2019-09-26	276	20218762	6866044	2363478503	Phocoena sinus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio CLR
+GCF_943737965.1	109678	2022-07-01	2079	25775705	326126	2384239561	Phodopus roborovskii	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_030556225.1	10044	2023-07-31	742	55879606	16185268	2198086578	Phodopus sungorus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Oxford Nanopore
+GCF_004126475.2	89673	2020-05-12	961	6892556	1272225	2093743985	Phyllostomus discolor	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio CLR
+GCF_019186645.2	9423	2021-07-09	589	31525663	6891203	2089217993	Phyllostomus hastatus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Oxford Nanopore
+GCA_033318265.1	2804059	2023-11-03	437	23200210	4703006	2660313973	Phyllotis vaccarum	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi
+GCF_002837175.3	9755	2023-02-28	133555	42877	11783	2391312771	Physeter catodon	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_963574265.1	164648	2023-11-03	211424	27302	6307	2752461723	Piliocolobus badius	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574285.1	591933	2023-11-03	166688	32714	8145	2749057514	Piliocolobus gordonorum	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574805.1	591937	2023-11-03	164783	33135	8209	2746550496	Piliocolobus kirkii	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCF_002776525.5	591936	2019-12-12	88792	100421	19687	2905229788	Piliocolobus tephrosceles	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_964339955.1	412090	2024-11-14	447	48700701	3189347	1892187884	Pipistrellus hanaki	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCF_014108245.1	59472	2020-08-07	596	10591995	1384747	1763487050	Pipistrellus kuhlii	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio CLR
+GCA_963693515.1	59473	2024-02-07	415	17739480	4081797	1804425697	Pipistrellus nathusii	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_903992545.1	59474	2020-08-06	1869	4446752	498293	1762969866	Pipistrellus pipistrellus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio CLR
+GCA_949987585.1	246814	2023-05-01	404	54047000	4003000	1895093668	Pipistrellus pygmaeus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_963573695.1	2946514	2023-11-02	121789	42491	11560	2634648550	Pithecia albicans	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574905.1	2946515	2023-11-02	128382	41218	10924	2632785350	Pithecia chrysocephala	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963573645.1	2946516	2023-11-02	122539	42637	11523	2636625338	Pithecia hirsuta	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574975.1	2946517	2023-11-02	114195	46168	12455	2633752807	Pithecia mittermeieri	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963575305.1	2946518	2023-11-02	121105	42573	11684	2633696644	Pithecia pissinatti	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_023779675.1	43777	2022-06-17	1360	10867430	2366903	2721439713	Pithecia pithecia	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore
+GCA_963574005.1	2946519	2023-11-01	117213	44982	12081	2627428496	Pithecia vanzolinii	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_017311385.1	118798	2021-03-09	1309164	3092	701	2238863808	Platanista gangetica	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_004363435.1	48752	2019-03-22	1110492	20879	921	2669902310	Platanista minor	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_963455305.1	61862	2023-09-20	1302	2948753	868510	2162974122	Plecotus auritus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_963574705.1	1812036	2023-11-02	124051	48015	11481	2627003454	Plecturocebus bernhardi	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963573885.1	1812042	2023-11-02	114380	52164	12686	2631695477	Plecturocebus brunneus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963575255.1	867332	2023-11-01	118914	50972	12027	2627696439	Plecturocebus caligatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963573415.1	1812037	2023-11-01	127125	46753	11137	2623696735	Plecturocebus cinerascens	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_040437455.1	202457	2024-07-02	2013	16955781	2435793	2764003637	Plecturocebus cupreus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore
+GCA_004027715.1	230833	2019-01-16	1041365	41149	1318	2959025960	Plecturocebus donacophilus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963575235.1	2946520	2023-11-01	120423	48896	11811	2616795112	Plecturocebus dubius	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574625.1	2488670	2023-11-01	105009	58159	14046	2626887710	Plecturocebus grovesi	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963575245.1	78255	2023-11-01	125847	46107	11212	2618114673	Plecturocebus hoffmannsi	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963575275.1	1812038	2023-11-01	109741	54303	13207	2623291001	Plecturocebus miltoni	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574105.1	9523	2023-11-01	100507	61113	14710	2621906468	Plecturocebus moloch	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCF_028885655.2	9601	2024-01-05	41	146197178	68750668	3251808773	Pongo abelii	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore
+GCF_028885625.2	9600	2024-01-08	34	140592248	87425153	3212951552	Pongo pygmaeus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore
+GCA_011754075.1	48723	2020-03-25	804594	4694	1194	2005998327	Pontoporia blainvillei	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_028658325.1	173936	2023-02-17	1209112	46323	1462	3800844471	Potorous gilbertii	Sarcopterygii	Mammalia				Diprotodontia	missing
+GCA_028534135.1	29067	2023-02-09	878264	65113	860	2450427517	Potos flavus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_019843815.1	119565	2021-09-01	331547	13907	3228	2391422637	Praomys delectorum	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_963573905.1	78452	2023-11-03	191442	26848	6963	2740904433	Presbytis comata	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963575215.1	272115	2023-11-03	189016	27240	7080	2735100779	Presbytis melalophos mitrata	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCF_016509475.1	37029	2021-01-06	140	82622880	21947417	2435706361	Prionailurus bengalensis	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_018403415.1	37030	2021-03-31	215520	24675	6385	2371034852	Prionailurus iriomotensis	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCF_022837055.1	61388	2022-04-08	255	68766634	13883622	2461531252	Prionailurus viverrinus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi
+GCA_006410515.1	157668	2019-06-24	831816	8848	1656	2581702849	Procapra przewalskii	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_000152225.2	9813	2014-12-16	325573	35792	3495	3201016294	Procavia capensis	Sarcopterygii	Mammalia			Afrotheria	Hyracoidea	missing
+GCA_028646535.1	9654	2023-02-16	877198	34230	1060	2505092287	Procyon lotor	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_003258685.1	1328070	2018-06-20	210900	47659	8084	2233359768	Prolemur simus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCF_000956105.1	379532	2015-03-23	299083	28128	2385	2083764525	Propithecus coquereli	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574665.1	475619	2023-10-31	133223	34268	8393	2213606810	Propithecus deckenii coronatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963575075.1	83281	2023-10-31	133082	33287	8281	2207915551	Propithecus diadema	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963575085.1	543559	2023-10-31	106376	41504	10507	2201954102	Propithecus edwardsi	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574695.1	989338	2023-10-31	118592	38013	9442	2209235676	Propithecus perrieri	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574315.1	30601	2023-10-31	99897	44321	11260	2199539151	Propithecus tattersalli	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963575125.1	34825	2023-10-31	149510	30586	7419	2220159790	Propithecus verreauxi	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_017311185.1	2793304	2021-03-09	5796	1258344	226515	2388953134	Proteles cristata cristata	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Oxford Nanopore
+GCF_907164565.1	48139	2021-06-02	61951	77214	20689	2343669976	Psammomys obesus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_028646575.1	656515	2023-02-16	1001302	24464	2603	3569373229	Pseudocheirus occidentalis	Sarcopterygii	Mammalia				Diprotodontia	missing
+GCA_028646515.1	65629	2023-02-16	635686	26949	4963	3469609741	Pseudochirops corinnae	Sarcopterygii	Mammalia				Diprotodontia	missing
+GCA_028627135.1	37702	2023-02-16	1136014	27966	1973	3546540507	Pseudochirops cupreus	Sarcopterygii	Mammalia				Diprotodontia	missing
+GCA_003182575.1	59542	2018-05-31	284338	14771	4408	2583819030	Pseudois nayaur	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCF_039906515.1	82174	2024-05-31	561	58817648	5482474	2671794102	Pseudorca crassidens	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCF_021234165.1	1884717	2021-12-20	345	31477943	6664750	2074648815	Pteronotus mesoamericanus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Oxford Nanopore
+GCA_036768555.1	1884721	2024-02-22	1607027	3473	303	1753825722	Pteronotus parnellii mexicanus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCA_004024605.1	9672	2019-01-15	652159	90879	7834	2601532210	Pteronura brasiliensis	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCF_000325575.1	9402	2013-12-04	170164	31841	8460	1944641941	Pteropus alecto	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCF_902729225.1	143291	2020-04-15	33613	244841	50085	1967309452	Pteropus giganteus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCA_014363405.1	1496133	2020-08-23	19169	336954	73977	1932423520	Pteropus pselaphon	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCA_028533765.1	196297	2023-02-10	483369	213999	8644	2089525232	Pteropus rufus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCF_000151845.1	132908	2014-12-05	225434	21866	3383	2017244497	Pteropus vampyrus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCF_003327715.1	9696	2018-07-19	181167	27187	6407	2318896746	Puma concolor	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Oxford Nanopore
+GCF_014898765.1	1608482	2020-10-20	53447	100211	26232	2419760664	Puma yagouaroundi	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_947044825.1	248495	2023-02-03	2193	3642436	782913	2350022671	Pusa hispida saimensis	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio CLR
+GCA_028975605.1	9719	2023-03-08	376034	12054	3206	2228120034	Pusa sibirica	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_963574085.1	693712	2023-11-03	180096	29382	7540	2761695869	Pygathrix cinerea	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_004024825.1	54133	2019-01-15	1445731	51434	500	3215686231	Pygathrix nemaeus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_023764695.1	310352	2022-06-17	3753	14260291	2063529	2896204080	Pygathrix nigripes	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio RSII
+GCA_949782905.1	3082113	2023-04-20	1663	22482685	1247949	2971130059	Rangifer tarandus platyrhynchus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_006410735.1	59544	2019-06-24	724123	5763	1921	2605475742	Raphicerus campestris	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCF_036323735.1	10116	2024-01-31	296	64250101	15696187	2845450615	Rattus norvegicus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCF_011064425.1	10117	2020-03-04	8331	1592029	233294	2382233718	Rattus rattus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Oxford Nanopore
+GCA_006410935.1	59556	2019-06-24	829601	17723	1595	2660676981	Redunca redunca	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_043882965.1	3079464	2024-10-25	1805	9769554	1263425	4022773158	Reithrodontomys megalotis longicaudus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi
+GCA_019844195.1	996586	2021-09-01	152293	27270	7481	2236519566	Rhabdomys dilectus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_030674055.1	121573	2023-08-07	92142	45029	12789	2301693301	Rhabdomys pumilio	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_028646465.1	9809	2023-02-16	306900	105810	17398	2619574655	Rhinoceros unicornis	Sarcopterygii	Mammalia			Laurasiatheria	Perissodactyla	missing
+GCA_043728065.1	59477	2024-10-24	2231	65534120	5618865	2302442557	Rhinolophus affinis	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCF_004115265.2	59479	2019-05-16	292	29908815	6134356	2068222464	Rhinolophus ferrumequinum	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio CLR
+GCA_964194185.1	77218	2024-06-28	2350	2014157	579055	2171003240	Rhinolophus hipposideros	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_043748575.1	3030661	2024-10-24	129	53323821	13622448	2185514824	Rhinolophus perniger lanosus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_041825415.1	188572	2024-09-09	230	75261663	24759485	2106299314	Rhinolophus rex	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Oxford Nanopore
+GCA_036562045.1	89399	2024-06-26	740	42906106	8816670	2036348585	Rhinolophus sinicus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Oxford Nanopore
+GCA_043728145.1	430492	2024-10-24	523	11115074	2324486	2232259940	Rhinolophus trifoliatus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_043880425.1	2952509	2024-10-28	1682	28095277	3222937	2323115974	Rhinolophus yonghoiseni	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCF_001698545.2	61621	2016-08-03	253721	29627	6055	2800602309	Rhinopithecus bieti	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCF_007565055.1	61622	2019-07-29	6089	5723610	896517	3038194004	Rhinopithecus roxellana	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio CLR
+GCA_023764705.1	1194336	2022-06-17	4623	16766498	2234441	2934203727	Rhinopithecus strykeri	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore
+GCA_043880545.1	173903	2024-10-28	258	32895649	6214812	2564523392	Rhinopoma microphyllum	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_009823505.1	53275	2019-12-31	156460	46601	11658	3566231345	Rhizomys pruinosus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio RSII
+GCA_010120015.1	186474	2020-02-04	106018	56880	11495	2216488676	Rhombomys opimus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_043290065.1	320637	2024-10-17	1037	13791435	3107175	5331006645	Rhynchocyon petersi	Sarcopterygii	Mammalia			Afrotheria	Macroscelidea	PacBio HiFi
+GCA_019843965.1	1217597	2021-09-01	61989	79773	20484	2171285389	Rhynchomys soricoides	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_037038555.1	249017	2024-03-06	77	108301702	46913886	2296365838	Rhynchonycteris naso	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCF_014176215.1	9407	2020-08-07	271	21999313	4102912	1866927577	Rousettus aegyptiacus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio CLR
+GCA_015472975.1	9408	2020-10-30	108810	35265	9351	1901087481	Rousettus leschenaultii	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCA_028533395.1	77223	2023-02-09	1491090	63903	303	2333758532	Rousettus madagascariensis	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCA_034233915.1	141656	2023-12-08	594	24835543	6156237	2466298700	Rucervus eldii siamensis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_963981305.1	34869	2024-03-10	124	77662214	22612246	2622995004	Rupicapra rupicapra	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Oxford Nanopore
+GCA_038501445.1	1088129	2024-04-26	171678	45918	9705	2508988663	Rusa alfredi	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCF_036850765.1	59482	2024-02-26	724	20047694	4320768	2579217564	Saccopteryx bilineata	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio CLR
+GCF_036850995.1	249018	2024-02-26	741	17812205	3469247	2556899336	Saccopteryx leptura	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio CLR
+GCA_963574455.1	37588	2023-11-03	187354	31153	7178	2741607806	Saguinus bicolor	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574215.1	43778	2023-11-03	189739	31222	7081	2742486941	Saguinus geoffroyi	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_004024885.1	9491	2019-01-15	1675070	53787	486	3492829786	Saguinus imperator	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574735.1	1079039	2023-11-03	188267	32246	7240	2742819322	Saguinus inustus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963575005.1	78454	2023-11-03	199465	30080	6732	2742060663	Saguinus labiatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_021498475.1	30586	2022-01-19	3987	10987047	1074621	2968316078	Saguinus midas	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore
+GCA_963574345.1	9488	2023-11-02	183560	31817	7345	2712267521	Saguinus mystax	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_031835075.1	9490	2023-09-25	474	91852676	21277934	3240137140	Saguinus oedipus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio HiFi
+GCA_004024985.1	34875	2019-01-15	1775066	6406	399	2875899868	Saiga tatarica	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCF_016699345.2	39432	2021-01-12	2786	4857773	1101497	2639203966	Saimiri boliviensis boliviensis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963573395.1	2946521	2023-10-31	179218	28419	6624	2573118739	Saimiri cassiquiarensis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963573505.1	2946522	2023-10-31	188366	27314	6316	2580531333	Saimiri macrodon	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574195.1	70928	2023-11-01	187799	27495	6314	2586965630	Saimiri oerstedii	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963573345.1	9521	2023-11-01	182829	28615	6529	2584596157	Saimiri sciureus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574015.1	66265	2023-10-31	191995	26268	6156	2575347121	Saimiri ustus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_040869305.1	1385376	2024-07-25	1227	13709620	2245143	2438671016	Salpingotus crassicauda	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Oxford Nanopore
+GCF_009761245.1	9515	2019-12-17	60551	144042	28159	2693375645	Sapajus apella	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCF_902635505.1	9305	2019-11-07	460	62339597	9644096	3086627671	Sarcophilus harrisii	Sarcopterygii	Mammalia				Dasyuromorphia	Oxford Nanopore
+GCA_004024925.1	71119	2019-01-15	647535	72421	3535	2068147157	Scalopus aquaticus	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	missing
+GCA_042919465.1	446353	2024-10-15	297	67659624	9209045	2252979606	Scaptochirus moschatus	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	missing
+GCF_902686445.1	30640	2020-07-31	2576	13975867	479975	2814792737	Sciurus carolinensis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio CLR
+GCA_020740815.1	34861	2021-11-04	33034	182340	37731	2985216546	Sciurus niger	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	Oxford Nanopore
+GCA_902686455.2	55149	2020-07-31	1816	16327774	1551918	2715248549	Sciurus vulgaris	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio CLR
+GCA_004025065.1	88029	2019-01-15	1077535	25064	1293	3031665617	Semnopithecus entellus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963573665.1	1208734	2023-11-02	188540	26378	6969	2717846248	Semnopithecus hypoleucos	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574295.1	1208733	2023-11-02	190365	26417	6958	2723533741	Semnopithecus priam	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574385.1	2804203	2023-11-02	188217	26727	6980	2722885193	Semnopithecus schistaceus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_041721565.1	42415	2024-09-03	30739	359860	78517	2480920273	Sigmodon hispidus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_032199065.1	1559511	2023-09-29	22808	229536	47874	2426875629	Smutsia gigantea	Sarcopterygii	Mammalia			Laurasiatheria	Pholidota	Oxford Nanopore
+GCA_032201145.1	302418	2023-09-29	956811	9761	1236	2184469920	Smutsia temminckii	Sarcopterygii	Mammalia			Laurasiatheria	Pholidota	missing
+GCA_004363575.1	79805	2019-03-22	181804	236847	36800	2109359270	Solenodon paradoxus	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	missing
+GCF_027595985.1	42254	2023-01-09	1492	4024507	883884	2393049584	Sorex araneus	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	PacBio HiFi
+GCF_029834395.1	62283	2023-04-17	497	42400022	5420249	2873555620	Sorex fumeus	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	PacBio HiFi
+GCA_030324115.1	395025	2023-06-22	88276	39490	12232	2023778008	Sorex maritimensis	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	missing
+GCA_041430695.1	126318	2024-08-23	983	15899521	2494682	2814747914	Sorex ornatus	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	PacBio HiFi
+GCA_028565675.1	46219	2023-02-09	633432	4877	1447	2066251009	Sorex palustris	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	missing
+GCA_007760645.1	103600	2019-07-31	75129	85251	24118	2276127512	Sousa chinensis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_023170115.1	68741	2022-04-01	207495	30612	7418	2295022077	Speothos venaticus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_964194105.1	9997	2024-06-28	1934	3445081	865919	3089761853	Spermophilus citellus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio HiFi
+GCA_002406435.1	99837	2017-09-28	502654	34849	4815	2986950624	Spermophilus dauricus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_004023965.1	30551	2019-01-15	433831	63054	9964	2462135812	Spilogale gracilis	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_023159085.1	2340998	2022-04-27	1037	16718385	3187924	2367125822	Spilogale interrupta	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_951394435.1	9737	2023-06-16	1631	3590204	933685	2691224796	Stenella coeruleoalba	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio HiFi
+GCA_028646385.1	46167	2023-02-16	266806	59977	12560	2314450905	Steno bredanensis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCF_014824575.3	192404	2020-09-30	64496	100260	25011	2092062660	Sturnira hondurensis	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCA_014824575.3	192404	2022-12-28	64534	100260	25008	2092105101	Sturnira hondurensis	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCF_024139225.1	109475	2022-07-06	1157	5042816	1346702	2461022585	Suncus etruscus	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	PacBio CLR
+GCF_006229205.1	37032	2019-07-03	129036	75409	15843	2346940644	Suricata suricatta	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_905335845.1	315377	2022-09-22	38646	159795	41331	2439687962	Sus cebifrons	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCF_000003025.6	9823	2017-02-07	1157	41891233	8139707	2472047704	Sus scrofa	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	Oxford Nanopore
+GCA_006408735.1	119562	2019-06-24	810213	5209	1492	2571308567	Sylvicapra grimmia	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_015711505.1	365149	2020-12-04	575173	58367	6140	2670623108	Sylvilagus bachmani	Sarcopterygii	Mammalia			Euarchontoglires	Lagomorpha	missing
+GCA_949820135.1	9988	2023-04-19	415	34907720	4604163	2848388511	Sylvilagus floridanus	Sarcopterygii	Mammalia			Euarchontoglires	Lagomorpha	PacBio HiFi
+GCF_028878055.3	9590	2024-01-05	28	146713733	80751072	3261904224	Symphalangus syndactylus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	Oxford Nanopore
+GCA_902825105.1	9970	2020-04-02	6978	2018310	408034	2649984299	Syncerus caffer	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCF_015852505.1	9261	2020-12-09	834	19859057	2228410	2182186831	Tachyglossus aculeatus	Sarcopterygii	Mammalia				Monotremata	PacBio CLR
+GCA_030848825.1	9438	2023-08-22	168	86333355	27110749	2283182849	Tadarida brasiliensis	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCA_964194135.1	9375	2024-06-28	1520	3421604	914022	2060789777	Talpa europaea	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	PacBio HiFi
+GCF_014898055.3	50954	2020-10-19	6776	2628036	281701	2078708107	Talpa occidentalis	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	missing
+GCA_023851605.1	48850	2022-06-22	1162	9869167	2133164	3187843721	Tamandua tetradactyla	Sarcopterygii	Mammalia			Xenarthra	Pilosa	PacBio CLR
+GCA_025594165.1	64680	2022-10-06	4483	9422552	1362999	2643511806	Tamias sibiricus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	PacBio RSII
+GCA_044509165.1	187003	2024-11-05	187	44022992	8772307	2158200834	Taphozous melanopogon	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	Oxford Nanopore
+GCA_031878705.1	9802	2023-09-25	285	56553937	10861383	2477427029	Tapirus indicus	Sarcopterygii	Mammalia			Laurasiatheria	Perissodactyla	PacBio HiFi
+GCA_004025025.1	9801	2019-01-15	805779	164193	3507	2571231452	Tapirus terrestris	Sarcopterygii	Mammalia			Laurasiatheria	Perissodactyla	missing
+GCA_963574405.1	630277	2023-11-03	267945	22421	4565	2813806511	Tarsius lariang	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574415.1	981131	2023-11-03	302242	20071	3855	2816716394	Tarsius wallacei	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_003697995.1	2282171	2018-10-30	173916	37750	5692	2389094912	Taxidea taxus jeffersonii	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCF_003255815.1	9565	2018-06-19	43168	225709	48416	2842427196	Theropithecus gelada	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_040207635.1	2983910	2024-06-17	4791	21131692	2694194	1886049391	Thomomys bottae limpiae	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_041154305.1	10169	2024-06-12	168887	26514	6705	2144814337	Thryonomys swinderianus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_036184385.1	742503	2023-09-08	1778	19740843	1136789	2660694200	Tokudaia muenninki	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_027943515.1	73109	2022-11-01	121826	45795	12322	2376460608	Tokudaia osimensis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_036184795.1	742508	2023-09-08	570	13597559	3778166	2477105555	Tokudaia tokunoshimensis	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_026826555.1	183749	2022-12-12	131562	129372	17618	3629850764	Tolypeutes matacus	Sarcopterygii	Mammalia			Xenarthra	Cingulata	missing
+GCA_004024845.1	2683044	2019-01-15	252670	141649	20053	2105600965	Tonatia bakeri	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCA_028533065.1	148073	2023-02-09	432766	60077	5921	2164628127	Trachops cirrhosus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	missing
+GCA_963574155.1	222416	2023-11-03	203244	25355	6470	2754531052	Trachypithecus auratus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574045.1	122765	2023-11-03	206852	24793	6380	2759730580	Trachypithecus cristatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCF_009764315.1	54180	2019-12-18	1782	16182741	1547289	2875494604	Trachypithecus francoisi	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963573545.1	164650	2023-11-03	186201	27613	7158	2750900761	Trachypithecus geei	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963573455.1	271260	2023-11-03	212704	24060	6179	2759223814	Trachypithecus germaini	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963573355.1	867383	2023-11-03	218910	23426	5954	2760473996	Trachypithecus hatinhensis	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574185.1	66063	2023-11-03	198038	26126	6667	2748242949	Trachypithecus johnii	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963573585.1	465718	2023-11-03	198415	25934	6710	2762892174	Trachypithecus laotum	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574075.1	54181	2023-11-03	211293	24473	6251	2753028519	Trachypithecus obscurus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_023762245.1	272121	2022-06-17	2946	14781066	1897521	2870799684	Trachypithecus phayrei crepuscula	Sarcopterygii	Mammalia			Euarchontoglires	Primates	PacBio CLR
+GCA_963573805.1	164651	2023-11-03	202099	24699	6482	2730130155	Trachypithecus pileatus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963573475.1	465719	2023-11-03	255810	18795	5057	2755041114	Trachypithecus poliocephalus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963574985.1	54137	2023-11-03	204516	25013	6438	2736787703	Trachypithecus vetulus	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_006411685.1	69296	2019-06-24	4305943	1286	239	2819051217	Tragelaphus buxtoni	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_935064755.1	69297	2022-03-28	1863	21206903	3066938	2845610798	Tragelaphus eurycerus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_006410775.1	9947	2019-06-24	898736	6546	1566	3096485447	Tragelaphus imberbis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_006416875.1	9945	2019-06-24	4043033	1262	252	2837493139	Tragelaphus oryx	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_006410495.1	66440	2019-06-24	682795	9965	1810	2731561443	Tragelaphus scriptus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_006410795.1	9946	2019-06-24	640770	16511	2701	2786675798	Tragelaphus strepsiceros	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_004024965.2	9849	2019-07-15	1158497	80230	521	2582354588	Tragulus javanicus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_022376925.1	1088131	2022-02-23	2842	2803395	814532	3166880742	Tragulus kanchil	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCA_028551375.1	9638	2023-02-09	217262	117282	23784	2332089688	Tremarctos ornatus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCF_000243295.1	127582	2012-01-23	166490	37750	10197	2769099677	Trichechus manatus latirostris	Sarcopterygii	Mammalia			Afrotheria	Sirenia	missing
+GCF_011100635.1	9337	2020-03-10	2008	4314688	934448	3340651244	Trichosurus vulpecula	Sarcopterygii	Mammalia				Diprotodontia	PacBio CLR
+GCA_000181375.1	37347	2006-06-08	841006	2974	1270	2137225476	Tupaia belangeri	Sarcopterygii	Mammalia			Euarchontoglires	Scandentia	missing
+GCF_000334495.1	246437	2013-01-31	242445	25938	6602	2706389135	Tupaia chinensis	Sarcopterygii	Mammalia			Euarchontoglires	Scandentia	missing
+GCA_026018925.1	70687	2022-11-07	2386	7301848	660018	2948178402	Tupaia tana	Sarcopterygii	Mammalia			Euarchontoglires	Scandentia	PacBio CLR
+GCA_003227395.1	79784	2018-06-14	58525	133491	23827	2425059017	Tursiops aduncus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCF_011762595.1	9739	2020-03-27	1036	9729386	2193177	2372299697	Tursiops truncatus	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio CLR
+GCA_002564285.1	61882	2017-10-17	1678888	4025	588	2647303360	Tympanoctomys barrerae	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_023101885.1	687455	2022-04-25	5037	1809447	301870	2667409981	Typhlomys cinereus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCF_003426925.1	9999	2018-08-24	85091	81305	16830	2255934445	Urocitellus parryii	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_032313775.1	55040	2023-10-04	924	59386518	5372619	2658763643	Urocyon cinereoargenteus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi
+GCA_028551405.1	36800	2023-02-09	611178	49660	3833	2598247434	Uromys caudimaculatus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_004024945.1	182669	2019-01-15	732083	43618	1245	2111885247	Uropsilus gracilis	Sarcopterygii	Mammalia			Laurasiatheria	Eulipotyphla	missing
+GCF_020975775.1	9643	2021-11-24	2213	13882922	1403436	2351964450	Ursus americanus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCF_023065955.2	9644	2023-05-22	612	35674000	5560173	2423368479	Ursus arctos	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio HiFi
+GCF_017311325.1	29073	2021-03-09	49432	101172	27045	2321004359	Ursus maritimus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Oxford Nanopore
+GCA_009660055.1	441215	2019-11-13	54646	145966	34925	2357716920	Ursus thibetanus thibetanus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_963573675.1	554167	2023-10-30	112493	37415	9473	2130100614	Varecia rubra	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_028533085.1	9455	2023-02-10	1029863	40155	559	2406143581	Varecia variegata	Sarcopterygii	Mammalia			Euarchontoglires	Primates	missing
+GCA_963924515.1	59485	2024-01-29	1158	3319810	907235	1925381803	Vespertilio murinus	Sarcopterygii	Mammalia			Laurasiatheria	Chiroptera	PacBio HiFi
+GCF_000164845.4	30538	2019-07-15	243661	29521	5111	2030454818	Vicugna pacos	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	PacBio RSII
+GCA_013265495.1	273917	2020-06-02	32171	340839	80458	2012624498	Vicugna vicugna mensalis	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
+GCF_900497805.2	29139	2018-12-10	82897	113054	24884	3475176447	Vombatus ursinus	Sarcopterygii	Mammalia				Diprotodontia	missing
+GCA_030463245.1	9629	2023-07-18	309	41624634	14258111	2348292563	Vulpes corsac	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Oxford Nanopore
+GCA_024500485.1	561074	2022-08-01	379	52909674	16676523	2379624532	Vulpes ferrilata	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	Oxford Nanopore
+GCF_018345385.1	494514	2021-05-12	1458	31848881	10049493	2345497651	Vulpes lagopus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCF_003160815.1	9627	2018-05-25	328591	20757	4723	2349853924	Vulpes vulpes	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	missing
+GCA_004024805.1	234690	2019-01-15	587115	64054	4915	2600443904	Xerus inauris	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_028644305.1	226860	2023-02-16	1164041	58140	605	2735377309	Xerus rutilus	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCF_009762305.2	9704	2020-07-14	232	31618759	8788420	2391147496	Zalophus californianus	Sarcopterygii	Mammalia			Laurasiatheria	Carnivora	PacBio CLR
+GCA_004024765.1	160400	2019-01-15	1165710	23350	713	2610428839	Zapus hudsonius	Sarcopterygii	Mammalia			Euarchontoglires	Rodentia	missing
+GCA_004364475.1	9760	2019-03-22	3761505	3606	251	3150094306	Ziphius cavirostris	Sarcopterygii	Mammalia			Laurasiatheria	Artiodactyla	missing
