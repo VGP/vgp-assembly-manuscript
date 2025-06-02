@@ -11,7 +11,9 @@ install_load <- function(packages){
   }
 }
 
-required_packages <- c("readxl", "data.table", "tidyverse", "ape", "ggplot2", "TreeTools", "ape", "devtools", "stringr", "ggnewscale", "BiocManager", "RColorBrewer")
+required_packages <- c("readxl", "data.table", "tidyverse", "ape", "ggplot2", 
+                       "TreeTools", "ape", "devtools", "stringr", "ggnewscale", 
+                       "BiocManager", "RColorBrewer", "googlesheets4")
 
 install_load(required_packages)
 lapply(required_packages, packageVersion)
@@ -37,17 +39,25 @@ library(rotl)
 devtools::install_github("phylotastic/datelife")
 devtools::install_github("phylotastic/datelifeplot")
 
-#load VGP ordinal list (https://docs.google.com/spreadsheets/d/1Jwjv6Kwc6VIn1UMMhnG6kvFCxjwGdC5b7p_HtbDOMOs)
-ordinal_list <- read_excel("VGP Ordinal List.xlsx", sheet = 1)
+# load VGP ordinal list
+gs4_auth(token = NULL, scopes = "https://www.googleapis.com/auth/spreadsheets.readonly")
+ordinal_list <- read_sheet(ss = "1zTqPvFvvsJqadnNDMvY-VO2xJSn6-92Y3La-jHwQ2fU", sheet = 1)
+#ordinal_list <- read_excel("VGP Ordinal List.xlsx", sheet = 1) # ord download as Excel first
 setDT(ordinal_list)
 setnames(ordinal_list, c("Orders Scientific Name (inferred >50 MYA divergence times)"), c("order_50MYA"))
 ordinal_list <- ordinal_list %>% mutate(order_50MYA = gsub(")", "", order_50MYA))
 ordinal_list[, c("order", "suborder1", "suborder2", "suborder3") := tstrsplit(order_50MYA, "\\ \\(|\\ > |\\|", fixed=FALSE)]
 
 #List all superorders:
-as.data.frame(table(ordinal_list$Superorder))
+write.table(as.data.frame(table(ordinal_list$Superorder[!is.na(ordinal_list$`Accession # for main haplotype`)])), ,
+            sep = "\t",
+            row.names = FALSE,
+            quote = FALSE)
 #List all orders:
-as.data.frame(table(ordinal_list$order))
+write.table(as.data.frame(table(ordinal_list$order[!is.na(ordinal_list$`Accession # for main haplotype`)])), ,
+            sep = "\t",
+            row.names = FALSE,
+            quote = FALSE)
 
 # representation of ordinal species
 ordinal_species <- ordinal_list %>% 
@@ -62,24 +72,25 @@ ordinal_species <- ordinal_list %>%
 
 # completeness stats
 frequency <- as.data.frame(table(ordinal_species$complete_status))
-frequency$Percent=frequency$Freq/sum(frequency$Freq)*100
-frequency
+frequency$Percent=round(frequency$Freq/sum(frequency$Freq)*100,2)
+write.table(frequency, sep = "\t", row.names = FALSE, quote = FALSE)
 
 # replace missing names in taxonomy with closely related species
-conditions <- c("Ambystoma mexicanum x Ambystoma tigrinum", "Saccoglossus sp. HW-2024a", "Aspidoscelis tigris stejnegeri", "Polymixia hollisterae")
-replacement_values <- c("Ambystoma mexicanum", "Saccoglossus kowalevskii", "Aspidoscelis tigris", "Polymixia berndti")
+conditions <- c("Ambystoma mexicanum x Ambystoma tigrinum", "Aspidoscelis tigris stejnegeri", "Aegotheles albertisi", "Osmerus mordax", "Hydrolagus colliei")
+replacement_values <- c("Ambystoma mexicanum", "Aspidoscelis tigris", "Aegotheles albertisi albertisi", "Osmerus mordax mordax", "Hydrolagus bemisi")
 inds <- match(ordinal_species$`Scientific Name`, conditions)
-ordinal_species$`Scientific Name`[!is.na(inds)] <- replacement_values[na.omit(inds)]
+ordinal_species$`Scientific Name updated` <- ordinal_species$`Scientific Name` # Copy original column to a new one
+ordinal_species$`Scientific Name updated`[!is.na(inds)] <- replacement_values[na.omit(inds)] # Replace only matched rows in the new column
 
 # match names
-VGP_ordinal_resolved_names <- rotl::tnrs_match_names(names = ordinal_species$`Scientific Name`)
+VGP_ordinal_resolved_names <- rotl::tnrs_match_names(names = ordinal_species$`Scientific Name updated`)
 
 # add status and lineage
-VGP_ordinal_resolved_names_with_status <- cbind(VGP_ordinal_resolved_names, ordinal_species$complete_status, ordinal_species$Lineage)
+VGP_ordinal_resolved_names_with_status <- cbind(VGP_ordinal_resolved_names, ordinal_species$complete_status, ordinal_species$Lineage, ordinal_species$`Scientific Name`)
 
 #check presence in tree
 in_tree <- rotl::is_in_tree(VGP_ordinal_resolved_names_with_status$ott_id)
-VGP_ordinal_resolved_names_with_status[!in_tree,] # species missing in tree
+VGP_ordinal_resolved_names_with_status[!in_tree,] # species missing in tree, this should be empty after the replacements above
 
 # induce tree from species list
 VGP_ordinal_subtree <- rotl::tol_induced_subtree(VGP_ordinal_resolved_names_with_status$ott_id[in_tree])
@@ -94,15 +105,18 @@ VGP_ordinal_resolved_names_with_status <- VGP_ordinal_resolved_names_with_status
     str_subset(VGP_ordinal_subtree$tip.label, paste(".*_ott",x,"$", sep=""))}))
 
 # group Operational Taxonomic Units (OTUs) by completeness
-completeness_grp <- list(missing   = sub("_", " ", rotl::strip_ott_ids(unlist(VGP_ordinal_resolved_names_with_status[VGP_ordinal_resolved_names_with_status$`ordinal_species$complete_status` == FALSE,]$tip, use.names = FALSE))),
-            completed = sub("_", " ", rotl::strip_ott_ids(unlist(VGP_ordinal_resolved_names_with_status[VGP_ordinal_resolved_names_with_status$`ordinal_species$complete_status` == TRUE,]$tip, use.names = FALSE))))
+completeness_grp <- list(missing   = unlist(VGP_ordinal_resolved_names_with_status[VGP_ordinal_resolved_names_with_status$`ordinal_species$complete_status` == FALSE,]$`ordinal_species$\`Scientific Name\``, use.names = FALSE),
+            completed = unlist(VGP_ordinal_resolved_names_with_status[VGP_ordinal_resolved_names_with_status$`ordinal_species$complete_status` == TRUE,]$`ordinal_species$\`Scientific Name\``, use.names = FALSE))
 
 # remove underscore from tip labels
-VGP_ordinal_subtree$tip.label <- sub("_", " ", rotl::strip_ott_ids(VGP_ordinal_subtree$tip.label))
+VGP_ordinal_subtree$tip.label <- sapply(test, function(x) {
+  i <- match(x, VGP_ordinal_resolved_names_with_status$tip)
+  if (!is.na(i)) VGP_ordinal_resolved_names_with_status$`ordinal_species$\`Scientific Name\``[i] else x
+}, USE.NAMES = FALSE)
 
 # build metadata table for lineage
-l <- VGP_ordinal_resolved_names_with_status[lengths(VGP_ordinal_resolved_names_with_status$tip)>0,] %>% select(`ordinal_species$Lineage`)
-row.names(l) <- sub("_", " ", rotl::strip_ott_ids(VGP_ordinal_resolved_names_with_status[lengths(VGP_ordinal_resolved_names_with_status$tip)>0,]$tip))
+l <- VGP_ordinal_resolved_names_with_status[lengths(VGP_ordinal_resolved_names_with_status$`ordinal_species$\`Scientific Name\``)>0,] %>% select(`ordinal_species$Lineage`)
+row.names(l) <- VGP_ordinal_resolved_names_with_status[lengths(VGP_ordinal_resolved_names_with_status$`ordinal_species$\`Scientific Name\``)>0,]$`ordinal_species$\`Scientific Name\``
 
 metadata <- data.frame (
   label = row.names(l),
@@ -128,6 +142,15 @@ p_ordinal1 <- groupOTU(p_ordinal, completeness_grp, 'status') + aes(color=status
         legend.box.spacing = margin(4)) + 
   scale_color_manual(values = c("black", "red"))
 
+class_colors <- c(
+  Amphibians    = "#228B22",  # Forest green
+  Birds         = "#DAA520",  # Goldenrod
+  Fishes        = "#4682B4",  # Steel blue
+  Invertebrates = "#DA70D6",  # Orchid
+  Mammals       = "#B22222",  # Firebrick
+  Reptiles      = "#556B2F"   # Dark olive green
+)
+
 p_ordinal2 <- p_ordinal1 + new_scale_fill() +
   geom_fruit(
     geom=geom_tile,
@@ -137,10 +160,14 @@ p_ordinal2 <- p_ordinal1 + new_scale_fill() +
   ) +
   scale_fill_manual(
     name="Lineage",
-    values=c(1:6),
+    values=class_colors,
     guide=guide_legend(keywidth=0.3, keyheight=0.3, ncol=2, order=2)
   )+
-  theme(plot.margin = margin(40,0,40,20))
+  theme(
+    legend.position = "right",
+    legend.margin = margin(10, 10, 10, 10),
+    legend.box.spacing = unit(1, "cm"),
+    plot.margin = margin(40,60,40,20))
 ggsave(dpi=600, filename='ordinal_tree.png', width = 12, height = 8)
 
 ###### Full vertebrate tree
