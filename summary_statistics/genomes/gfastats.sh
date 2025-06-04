@@ -18,9 +18,12 @@ function parallel_gfastats() {
   unzip -o $accession.zip
 
   # Generate individual files for each accession
-  gfastats -t ncbi_dataset/data/$accession/*.fna | cut -f2 | sed -z 's/\n/\t/g; s/.$//' > gfastats_$accession.tsv
-  gfastats ncbi_dataset/data/$accession/*.fna -s c | sort -nrk2 | awk 'BEGIN{pos=0}{total+=$2; size[pos] = $2; cum_size[pos++] = total}END{for (p = 0; p < pos; p++) {printf size[p]","cum_size[p]/total"\t"}; printf "\n"}' > gfastatsNxContig_$accession.tsv
-  gfastats ncbi_dataset/data/$accession/*.fna -s s | sort -nrk2 | awk 'BEGIN{pos=0}{total+=$2; size[pos] = $2; cum_size[pos++] = total}END{for (p = 0; p < pos; p++) {printf size[p]","cum_size[p]/total"\t"}; printf "\n"}' > gfastatsNxScaffold_$accession.tsv
+  printf "$accession\t$tolid\t$latin_name\t" > gfastats.tsv
+  gfastats -t ncbi_dataset/data/$accession/*.fna | cut -f2 | sed -z 's/\n/\t/g; s/.$//' >> gfastats_$accession.tsv
+  printf "$accession\t$tolid\t$latin_name\t" > gfastatsNxContig.tsv
+  gfastats ncbi_dataset/data/$accession/*.fna -s c | sort -nrk2 | awk 'BEGIN{pos=0}{total+=$2; size[pos] = $2; cum_size[pos++] = total}END{for (p = 0; p < pos; p++) {printf size[p]","cum_size[p]/total"\t"}; printf "\n"}' >> gfastatsNxContig_$accession.tsv
+  printf "$accession\t$tolid\t$latin_name\t" > gfastatsNxScaffold_$accession.tsv
+  gfastats ncbi_dataset/data/$accession/*.fna -s s | sort -nrk2 | awk 'BEGIN{pos=0}{total+=$2; size[pos] = $2; cum_size[pos++] = total}END{for (p = 0; p < pos; p++) {printf size[p]","cum_size[p]/total"\t"}; printf "\n"}' >> gfastatsNxScaffold_$accession.tsv
 
   rm -r $accession.zip ncbi_dataset README.md md5sum.txt
   cd ../..
@@ -32,8 +35,6 @@ export -f parallel_gfastats
 # Initialize empty files for final output
 rm -f gfastats.tsv gfastatsNxContig.tsv gfastatsNxScaffold.tsv
 printf 'Accession\tTolid\tScientific name\t# scaffolds\tTotal scaffold length\tAverage scaffold length\tScaffold N50\tScaffold auN\tScaffold L50\tLargest scaffold\tSmallest scaffold\t# contigs\tTotal contig length\tAverage contig length\tContig N50\tContig auN\tContig L50\tLargest contig\tSmallest contig\t# gaps in scaffolds\tTotal gap length in scaffolds\tAverage gap length in scaffolds\tGap N50 in scaffolds\tGap auN in scaffolds\tGap L50 in scaffolds\tLargest gap in scaffolds\tSmallest gap in scaffolds\tBase composition (A\tGC content\t# soft-masked bases\t# segments\tTotal segment length\tAverage segment length\t# gaps\t# paths\n' >> gfastats.tsv
-printf 'Accession\tTolid\tScientific name\t# contigs\tTotal contig length\tAverage contig length\tContig N50\tContig auN\tContig L50\tLargest contig\tSmallest contig\t# gaps\tTotal gap length\tAverage gap length\tGap N50\tGap auN\tGap L50\tLargest gap\tSmallest gap\n' >> gfastatsNxContig.tsv
-printf 'Accession\tTolid\tScientific name\t# scaffolds\tTotal scaffold length\tAverage scaffold length\tScaffold N50\tScaffold auN\tScaffold L50\tLargest scaffold\tSmallest scaffold\t# gaps in scaffolds\tTotal gap length in scaffolds\tAverage gap length in scaffolds\tGap N50 in scaffolds\tGap auN in scaffolds\tGap L50 in scaffolds\tLargest gap in scaffolds\tSmallest gap in scaffolds\n' >> gfastatsNxScaffold.tsv
 
 # Process all accessions and apply random subsampling
 cat accession_metadata.ls | env_parallel -j 8 --colsep ',' '
