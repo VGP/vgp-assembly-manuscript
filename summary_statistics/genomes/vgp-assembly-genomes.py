@@ -129,34 +129,3 @@ def plotTSNE():
     plt.savefig('tSNE.png')
 
 plotTSNE()
-
-def plotN50contig(path, title, output):
-    # import data
-    vgp_assembly_dataset_nxContig = pd.read_csv(path,
-                                                header=None, sep="\0")
-    vgp_assembly_dataset_nxContig = vgp_assembly_dataset_nxContig[0].str.split('\t', expand=True, n=3)
-    vgp_assembly_dataset_nxContig.columns = ['Accession', 'Tolid', 'Scientific_name', 'Data']
-    values = vgp_assembly_dataset_nxContig['Data'].str.split(',', expand=True)
-    vgp_assembly_dataset_nxContig = pd.concat([vgp_assembly_dataset_nxContig, values], axis=1)
-    vgp_assembly_dataset_nxContig.drop('Data', axis=1, inplace=True)
-    vgp_assembly_dataset_nxContig = vgp_assembly_dataset_nxContig.melt(id_vars=['Accession', 'Tolid'],
-                                                                       var_name="Data",
-                                                                       value_vars=range(values.shape[1])).dropna()
-    vgp_assembly_dataset_nxContig[['Size', 'Percentage']] = vgp_assembly_dataset_nxContig['value'].str.split("\t",
-                                                                                                             expand=True).apply(pd.to_numeric)
-    vgp_assembly_dataset_nxContig.drop(
-        'value', axis=1, inplace=True)
-    vgp_assembly_dataset_nxContig['Size'] =  vgp_assembly_dataset_nxContig['Size']/1000000
-    fig, ax = plt.subplots()
-    ax.set_yscale('log')
-    plt.title(title)
-    for key, grp in vgp_assembly_dataset_nxContig.groupby(['Accession']):
-        ax = grp.plot(ax=ax, kind='line', x='Percentage', y='Size', drawstyle="steps-post", legend=False)
-    ax.set_xlabel('Nx (%)')
-    ax.set_ylabel('Mbp')
-    ax.get_yaxis().set_major_formatter(
-        ticker.FuncFormatter(lambda x, p: format(int(x), ',')))
-    plt.savefig(output, dpi=300)
-
-plotN50contig('/Users/gformenti/sandbox/vgp-assembly/gfastatsNxContig.tsv', 'vgp-assembly-manuscript Nx Contig', 'NxContig.png')
-plotN50contig('/Users/gformenti/sandbox/vgp-assembly/gfastatsNxScaffold.tsv', 'vgp-assembly-manuscript Nx Scaffold', 'NxScaffold.png')

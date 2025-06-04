@@ -2,7 +2,7 @@
 set -e
 . env_parallel.bash
 
-SUBSAMPLE=$1 # subsbampling fraction
+SUBSAMPLE=$1 # subsampling fraction
 
 function parallel_rdeval() {
   accession="$1"
