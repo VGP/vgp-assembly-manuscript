@@ -5,6 +5,15 @@ import matplotlib.ticker as ticker
 from matplotlib.lines import Line2D  # Import Line2D for manual legend creation
 import numpy as np  # For generating custom tick values
 
+# Define the custom colors for each lineage (species class)
+class_colors = {
+    'Amphibians': "#228B22",  # Forest green
+    'Birds': "#DAA520",  # Goldenrod
+    'Fishes': "#4682B4",  # Steel blue
+    'Invertebrates': "#DA70D6",  # Orchid
+    'Mammals': "#B22222",  # Firebrick
+    'Reptiles': "#556B2F"  # Dark olive green
+}
 
 def plotN50(path, title, output_trendlines, output_scatter, lookup_path, target):
     # Import data with your original logic
