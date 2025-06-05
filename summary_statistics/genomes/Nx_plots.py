@@ -22,7 +22,7 @@ def plotN50(path, title, output_trendlines, output_scatter, lookup_path, target)
     vgp_assembly_dataset_nxContig.columns = ['Accession', 'Tolid', 'Scientific_name', 'Data']
 
     # Split the 'Data' column into multiple columns
-    values = vgp_assembly_dataset_nxContig['Data'].str.split(',', expand=True)
+    values = vgp_assembly_dataset_nxContig['Data'].str.split('\t', expand=True)
     vgp_assembly_dataset_nxContig = pd.concat([vgp_assembly_dataset_nxContig, values], axis=1)
     vgp_assembly_dataset_nxContig.drop('Data', axis=1, inplace=True)
 
@@ -32,9 +32,7 @@ def plotN50(path, title, output_trendlines, output_scatter, lookup_path, target)
                                                                        value_vars=range(values.shape[1])).dropna()
 
     # Split the 'value' column into 'Size' and 'Percentage'
-    vgp_assembly_dataset_nxContig[['Size', 'Percentage']] = vgp_assembly_dataset_nxContig['value'].str.split("\t",
-                                                                                                             expand=True).apply(
-        pd.to_numeric)
+    vgp_assembly_dataset_nxContig[['Size', 'Percentage']] = vgp_assembly_dataset_nxContig['value'].str.split(",", expand=True).apply(pd.to_numeric)
     vgp_assembly_dataset_nxContig.drop('value', axis=1, inplace=True)
 
     # Convert 'Size' to Mbp
@@ -73,7 +71,9 @@ def plotN50(path, title, output_trendlines, output_scatter, lookup_path, target)
 
     ax1.set_xlabel('Nx (%)')
     ax1.set_ylabel('Mbp')
-    ax1.get_yaxis().set_major_formatter(ticker.FuncFormatter(lambda x, p: format(int(x), ',')))
+
+    # Set the y-axis tick format to show 1 decimal place
+    ax1.yaxis.set_major_formatter(ticker.FuncFormatter(lambda x, pos: '{:.2f}'.format(x)))
 
     # Add target line
     ax1.axhline(y=target, color='black', linestyle='--', linewidth=2)
@@ -82,6 +82,9 @@ def plotN50(path, title, output_trendlines, output_scatter, lookup_path, target)
     ax1.set_xticks(np.arange(min(vgp_assembly_dataset_nxContig['Percentage']),
                              max(vgp_assembly_dataset_nxContig['Percentage']),
                              0.1))
+
+    # Set the x-tick format to show 1 decimal place
+    ax1.xaxis.set_major_formatter(ticker.FuncFormatter(lambda x, pos: '{:.1f}'.format(x)))
 
     # Show legend for lineages in ax1, place it outside the plot
     ax1.legend(handles=handles, labels=labels, title='Lineage', loc='upper left', bbox_to_anchor=(1, 1), frameon=False)
@@ -105,7 +108,9 @@ def plotN50(path, title, output_trendlines, output_scatter, lookup_path, target)
 
     ax2.set_xlabel('Nx (%)')
     ax2.set_ylabel('Mbp')
-    ax2.get_yaxis().set_major_formatter(ticker.FuncFormatter(lambda x, p: format(int(x), ',')))
+
+    # Set the y-axis tick format to show 1 decimal place
+    ax2.yaxis.set_major_formatter(ticker.FuncFormatter(lambda x, pos: '{:.2f}'.format(x)))
 
     # Add target line
     ax2.axhline(y=target, color='black', linestyle='--', linewidth=2)
@@ -114,6 +119,9 @@ def plotN50(path, title, output_trendlines, output_scatter, lookup_path, target)
     ax2.set_xticks(np.arange(min(vgp_assembly_dataset_nxContig['Percentage']),
                              max(vgp_assembly_dataset_nxContig['Percentage']),
                              0.1))
+
+    # Set the x-tick format to show 1 decimal place
+    ax2.xaxis.set_major_formatter(ticker.FuncFormatter(lambda x, pos: '{:.1f}'.format(x)))
 
     # Show legend for lineages in ax2, place it outside the plot
     ax2.legend(title='Lineage', loc='upper left', bbox_to_anchor=(1, 1), frameon=False)
