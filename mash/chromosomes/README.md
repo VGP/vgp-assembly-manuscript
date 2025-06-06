@@ -19,7 +19,7 @@ Note: we used jq's alternative operator `\\` in case species not set
 ## Download assemblies
 We can download a random subset of genomes combining jq's and NCBI's datasets functionalities, then compute [mash](https://github.com/marbl/Mash) sketches and all-vs-all distances with [mash_sketches.sh](mash_sketches.sh).
 ```
-bash mash_sketches.sh 1 # subsampling fraction
+bash mash_sketches.sh accession_metadata.csv 1 # subsampling fraction
 ```
 
 Next compute triangular mash distance matrix with [distance_matrix.sh](../distance_matrix.sh):

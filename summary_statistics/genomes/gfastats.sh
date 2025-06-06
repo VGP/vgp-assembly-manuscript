@@ -20,6 +20,7 @@ function parallel_gfastats() {
   # Generate individual files for each accession
   printf "$accession\t$tolid\t$latin_name\t" > gfastats.tsv
   gfastats -t ncbi_dataset/data/$accession/*.fna | cut -f2 | sed -z 's/\n/\t/g; s/.$//' >> gfastats_$accession.tsv
+  echo "" >> gfastats_$accession.tsv
   printf "$accession\t$tolid\t$latin_name\t" > gfastatsNxContig.tsv
   gfastats ncbi_dataset/data/$accession/*.fna -s c | sort -nrk2 | awk 'BEGIN{pos=0}{total+=$2; size[pos] = $2; cum_size[pos++] = total}END{for (p = 0; p < pos; p++) {printf size[p]","cum_size[p]/total"\t"}; printf "\n"}' >> gfastatsNxContig_$accession.tsv
   printf "$accession\t$tolid\t$latin_name\t" > gfastatsNxScaffold_$accession.tsv

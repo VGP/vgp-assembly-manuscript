@@ -2,7 +2,7 @@
 # requires datasets, gfastata, unzip, mash, md5sum
 set -e
 
-SUBSAMPLE=$1 # subsbampling fraction
+SUBSAMPLE=$2 # subsbampling fraction
 printf "Using subsbampling fraction: ${SUBSAMPLE}\n"
 
 SEED=42
@@ -37,4 +37,4 @@ do
 	mash sketch -p 32 -i -s 10000000 $accession.chr.fa # parellized 32 ways, per chromosome, 10M hashes
 	mv $accession.chr.fa.msh sketches
 	rm -r $accession.chr.fa $accession.zip $accession
-done<accession_metadata.ls
+done<$1
