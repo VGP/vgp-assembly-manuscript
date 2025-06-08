@@ -1,4 +1,11 @@
 # VGP assembly mash graph
+First we retrieve the information for VGP Phase I genomes (primary only):
+```
+wget https://raw.githubusercontent.com/VGP/vgp-phase1/refs/heads/main/VGPPhase1-freeze-1.0.tsv
+awk -F'\t' 'NR>1 {if($16 != "")printf $16","$14","$10","$2"\n"}' VGPPhase1-freeze-1.0.tsv > accession_metadata.csv
+```
+Alternatively we can use NCBI's VGP project (see below).
+
 ## Download VGP metadata from NCBI
 NCBI's dataset utility can be downloaded from [here](https://www.ncbi.nlm.nih.gov/datasets/docs/v2/download-and-install/).
 Download VGP Bioproject metadata:
@@ -24,7 +31,7 @@ bash mash_sketches.sh accession_metadata.csv 1 # subsampling fraction
 
 Next compute triangular mash distance matrix with [distance_matrix.sh](../distance_matrix.sh):
 ```
-bash distance_matrix.sh genome_list.tsv
+bash distance_matrix.sh accession_metadata.csv
 ```
 
 We can now run `distance_hist.py` to get the histogram of the distances.

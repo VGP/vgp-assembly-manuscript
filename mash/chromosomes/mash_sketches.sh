@@ -8,7 +8,7 @@ printf "Using subsbampling fraction: ${SUBSAMPLE}\n"
 SEED=42
 mkdir -p sketches
 rm -f genome_list.tsv
-while IFS="," read -r accession tolid latin_name
+while IFS="," read -r accession tolid latin_name other
 do
 	RANDOM=$SEED
 	VAL=$RANDOM
