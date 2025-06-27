@@ -1,0 +1,493 @@
+accession	taxid	species_name	assembly_level	method	sequencing_technology
+GCF_904848185.1	8177	Acanthopagrus latus	Chromosome	various	PacBio,Illumina,BioNano,HiC
+GCF_902713425.1	7906	Acipenser ruthenus	Chromosome		
+GCF_903995435.1	60746	Acomys russatus	Chromosome	various	PacBio,Illumina,BioNano
+GCA_039906565.1	48277	Aegotheles albertisi	Chromosome	Hifiasm + Hi-C phasing v. 0.19.3 + galaxy0; purge_dups v. 1.2.6 + galaxy0; yahs v. 1.2a.2 + galaxy1; MitoHiFi v. 3 + galaxy0	PacBio Revio HiFi; Arima Hi-C v2
+GCA_008658365.1	28689	Alca torda	Chromosome	FALCON v. 5.1.1; FALCON-Unzip v. 1.0.2; purge_haplotigs v. bitbucket 7.10.2018; scaff10x v. 2.1; Bionano 2 enzyme v. 3.2.1; Salsa2 v. 2.2; longranger align v. 2.2.2; freebayes v. 1.2.0; gEVAL manual curation v. 2019-06-18; VGP standard assembly pipeline v. 1.5	PacBio Sequel; Illumina NovaSeq; 10X Genome; Arima Hi-C
+GCF_030867095.1	8496	Alligator mississippiensis	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1 + galaxy4; Bionano Solve v. 3.7; yahs v. 1.2a.2 + galaxy0	PacBio Sequel II HiFi; Bionano Genomics DLS; Arima Hi-C v2
+GCA_965278175.1	30382	Alopochen aegyptiaca	Chromosome	various	PacBio,Arima2
+GCF_018492685.1	34773	Alosa sapidissima	Chromosome	Hifisam v. 0.14; Purge_dups v. 1.0.1; Salsa v. 2.2; Scaff10X v. 3.2.1; Bionano Solve v. 3.6.1; VGP pipeline v. 2.0; gEVAL manual curation v. 2021-04-21	PacBio Sequel II HiFi; 10X Genomics linked reads; Bionano Genomics DLS; Arima Genomics Hi-C
+GCA_048406975.1	3565	Amaranthus hybridus	Chromosome	Hifiasm v. 0.16.1	PacBio Sequel
+GCA_039720435.1	151761	Amazona ochrocephala	Chromosome	Hifiasm + Hi-C phasing v. 0.19.3 + galaxy0; yahs v. 1.2a.2 + galaxy1	PacBio Sequel II HiFi; Arima Hi-C v2
+GCA_046255725.1	1195602	Amblyopsis spelaea	Chromosome	Hifiasm + Hi-C phasing v. 0.19.8 + galaxy0; yahs v. 1.2a.2 + galaxy1	PacBio Revio HiFi; Arima Hi-C v2
+GCF_010909765.2	386614	Amblyraja radiata	Chromosome	Canu v. 1.7; purge_haplotigs v. bitbucket 7.10.2018; scaff10x v. 4.1.0; Bionano Solve DLS v. 3.3; Salsa HiC v. 2.2; Arrow smrtanalysis Pacbio polishing & gap filling v. 5.1.0.26412; longranger align v. 2.2.2; freebayes Illumina polishing v. 1.3.1; purge_dups v. ca23030ccf4254dfd2d3a5ea90d0eed41c24f88b; gEVAL manual curation v. 2020-01-13; VGP assembly pipeline v. 1.5	PacBio Sequel; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCF_036373705.1	7924	Amia calva	Chromosome	Hifiasm + Hi-C phasing v. 0.19.3 + galaxy0; yahs v. 1.2a.2 + galaxy1	PacBio Revio HiFi; Arima Hi-C v2
+GCA_949987685.1	146480	Ammodytes marinus	Chromosome	various	PacBio,Arima2
+GCF_027887145.1	2857398	Ammospiza caudacuta	Chromosome	HiFiasm v. 0.15.4 + galaxy0; purge_dups v. 1.2.5 + galaxy3; solve v. 3.6.1 + galaxy2; salsa v. 2.3 + galaxy2	PacBio Sequel II HiFi; Bionano Genomics DLS; Arima Hi-C v2
+GCA_036010785.1	3111550	Ammospiza maritima maritima	Chromosome	Hifiasm + Hi-C phasing v. 0.18.8 + galaxy 1; Bionano Solve v. 3.7; yahs v. 1.2a.2 + galaxy1; MitoHiFi v. 3.0	PacBio Sequel II HiFi; Bionano Genomics DLS; Arima Hi-C v2
+GCF_027579445.1	2857394	Ammospiza nelsoni	Chromosome	HiFiasm v. 0.15.4 + galaxy0; purge_dups v. 1.2.5 + galaxy3; Bionano Solve v. 3.6.1 + galaxy3; salsa v. 2.3 + galaxy2	PacBio Sequel II HiFi; Bionano Genomics DLS; Arima Hi-C v2
+GCF_900324465.2	64144	Anabas testudineus	Chromosome	various	PacBio,Illumina
+GCA_900324465.3	64144	Anabas testudineus	Chromosome	various	PacBio,Illumina,BioNano,Arima
+GCA_014839685.1	195821	Anableps anableps	Chromosome	FALCON v. DX 2.0.0; FALCON-Unzip v. DX 1.1.0; purge_dups v. DX 19-08-10; scaff10X v. DX 2.0.3; bionano Solve v. DX 3.4.0; Salsa2 HiC v. DX 2.2.0; Arrow polishing and gap filling v. DX 7.0.1.1; Longranger Align v. DX 2.2.2.1; freebayes v. DX 19-07-11; gEVAL manual curation v. 2020-05-14; VGP assembly pipeline v. 1.6	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCF_963932015.1	28680	Anas acuta	Chromosome	various	PacBio,Arima2
+GCF_013347855.1	7936	Anguilla anguilla	Chromosome	FALCON v. 1.3.0; FALCON-Unzip v. 1.2.0; purge_dups v. github ca23030ccf4254dfd2d3a5ea90d0eed41c24f88b; bionano Solve v. 3.4_06042019a; Salsa2 HiC v. 2.2; Arrow polishing and gap filling v. SMRTLink7.0.1; Longranger Align v. 2.2.2; freebayes v. 1.3.1; gEVAL manual curation v. 2020-02-04; VGP assembly pipeline v. 1.6	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCF_037176765.1	38937	Anolis sagrei	Chromosome	Hifiasm + Hi-C phasing v. 0.19.7 + galaxy01, with trio-dual parameter on; purge_dups v. 2.2; yahs v. 1.2a.2+galaxy1	PacBio Sequel II HiFi; Arima Hi-C v2
+GCA_048569485.1	238106	Anomaloglossus baeobatrachus	Chromosome	Hifiasm + Hi-C phasing v. 0.19.3 + galaxy0; yahs v. 1.2a.2 + galaxy1	PacBio Sequel IIe HiFi; Arima Hi-C v2
+GCA_964211835.1	8843	Anser anser	Chromosome	various	PacBio,Arima2
+GCA_964034855.1	132585	Anser brachyrhynchus	Chromosome	various	PacBio,Arima2
+GCA_965277985.1	132586	Anser erythropus	Chromosome	various	PacBio,Arima2
+GCA_965250395.1	132587	Anser fabalis	Chromosome	various	PacBio,Arima2
+GCA_013358685.1	882753	Antennarius maculatus	Chromosome	FALCON v. 1.3.0; FALCON-Unzip v. 1.2.0; purge_dups v. github ca23030ccf4254dfd2d3a5ea90d0eed41c24f88b; bionano Solve v. 3.4_06042019a; Salsa2 HiC v. 2.2; Arrow polishing and gap filling v. SMRTLink7.0.1; Longranger Align v. 2.2.2; freebayes v. 1.3.1; gEVAL manual curation v. 2020-02-04; VGP assembly pipeline v. 1.6	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCA_017639675.1	946358	Aplochiton taeniatus	Chromosome	FALCON v. DX 2.0.2; FALCON-Unzip v. DX 8.0.1; purge_dups v. DX 19-08-10; scaff10X v. DX 2.0.3; bionano Solve v. DX 3.4.0; Salsa2 HiC v. DX 2.2.0; Assembly Polish v. SMRTLink7.0.1; Longranger Align v. DX 2.2.2.1; freebayes v. DX 19-07-11; gEVAL manual curation v. 2021-03-04; VGP assembly pipeline v. 1.6	PacBio Sequel CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCF_947179515.1	10129	Apodemus sylvaticus	Chromosome	various	PacBio,Illumina,Arima2
+GCF_036417845.1	2696672	Apteryx mantelli	Chromosome	Hifiasm + Hi-C phasing v. 0.19.3 + galaxy0; yahs v. 1.2a.2; MitoHiFi v. 3.0	PacBio Sequel II HiFi; Arima Hi-C v2
+GCF_020740795.1	8895	Apus apus	Chromosome	FALCON-kit v. 1.8.1; FALCON-Unzip v. 1.3.7; purge-dups v. 0.0.3; Longranger v. 2.2.2; scaff10X v. 4.2; Bionano solve v. 3.5.1; Salsa2 v. 2.2.0; dentist v. 1.0.0; Freebays v. 1.3.2; gEVAL manual curation v. 2021-06-17	PacBio Sequel I CLR; Bionano Genomics DLS; Arima Genomics Hi-C; 10X Genomics linked reads
+GCF_900496995.4	223781	Aquila chrysaetos chrysaetos	Chromosome	various	PacBio,Illumina,BioNano,Dovetail
+GCA_028858755.1	9226	Ara ararauna	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1 + galaxy2; Bionano Solve v. 3.7; salsa v. 2.3 + galaxy2	PacBio Sequel II HiFi; Bionano DLS; Arima Hi-C v2
+GCF_007364275.1	63155	Archocentrus centrarchus	Chromosome	FALCON v. 5.1.1; FALCON-Unzip v. 1.0.2; scaff10x v. 2.1; Bionano Solve DLS v. 3.2.1; Salsa2 v. 2.0; Arrow v. 5.1.0.26412; longranger align v. 2.2.2; freebayes v. 1.2.0; gEVAL manual curation v. 2019-02-08; VGP standard assembly pipeline v. 1.0	PacBio Sequel I; 10X Genomics linked reads; Bionano Genomics DLS; Arima Genomics Hi-C
+GCA_951799395.1	446415	Argentina silus	Chromosome	various	PacBio,Arima2
+GCA_042242115.1	3352246	Arripis georgiana	Chromosome	HiFiasm v. 19	PacBio Sequel IIe
+GCA_038363225.1	51014	Artibeus intermedius	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1 + galaxy4; yahs v. 1.2a.2 + galaxy0	PacBio Sequel II HiFi; Arima Hi-C v2
+GCA_038363175.3	27634	Artibeus lituratus	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1 + galaxy4; yahs v. 1.2a.2 + galaxy1	PacBio Sequel II HiFi; Arima Hi-C v2
+GCF_011762505.1	61156	Arvicanthis niloticus	Chromosome	TrioCanu v. 1.8; purge_dups v. 1.0.0; Scaff 10x v. 4.1.0; Bionano solve v. 3.2.1_04122018; Salsa2 HiC v. 2.2; Arrow polishing and gap filling v. smrtlink_6.0.0.47841; Freebayes v. 1.3.1; gEVAL manual curation v. 2020-01-16; VGP trio assembly pipeline v. 1.6	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCA_011762505.3	61156	Arvicanthis niloticus	Chromosome	TrioCanu v. 1.8; purge_dups v. 1.0.0; Scaff 10x v. 4.1.0; Bionano solve v. 3.2.1_04122018; Salsa2 HiC v. 2.2; Arrow polishing and gap filling v. smrtlink_6.0.0.47841; Freebayes v. 1.3.1; gEVAL manual curation v. 2020-01-16; VGP trio assembly pipeline v. 1.6	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCF_903992535.2	1047088	Arvicola amphibius	Chromosome	various	PacBio,Illumina,BioNano,Dovetail
+GCA_040206685.1	8439	Ascaphus truei	Chromosome	Hifiasm + Hi-C phasing v. 0.19.3 + galaxy0; yahs v. 1.2a.2 + galaxy1	PacBio Sequel II HiFi; Arima Hi-C v2
+GCA_947561715.1	38561	Ascidia mentula	Chromosome	various	PacBio,Arima2
+GCF_900246225.1	8154	Astatotilapia calliptera	Chromosome	various	PacBio,Illumina,BioNano
+GCA_900246225.5	8154	Astatotilapia calliptera	Chromosome		
+GCF_902459465.1	7604	Asterias rubens	Chromosome	various	PacBio,Illumina,Dovetail
+GCF_929443795.1	8957	Astur gentilis	Chromosome	various	PacBio,Illumina,Arima2
+GCA_929443795.2	8957	Astur gentilis	Chromosome	various	PacBio,Illumina,Arima2
+GCA_965140245.1	126797	Athene noctua	Chromosome	various	PacBio,Arima2
+GCA_965226115.1	286572	Aulonocara stuartgranti	Chromosome	various	ONT,Arima2
+GCF_009819795.1	219594	Aythya fuligula	Chromosome	FALCON v. 2018.31.08-03.06; FALCON-Unzip v. 6.0.0.47841; purge_haplotigs v. v1.0.3+ 1.Nov.2018; scaff10x v. 4.1.0; Bionano Solve DLS v. 3.2.1; Salsa HiC v. 2.2; Arrow smrtanalysis Pacbio polishing & gap filling v. 6.0.0.47841; longranger align v. 2.2.2; freebayes Illumina polishing v. 1.3; gEVAL manual curation v. 2019-09-20; VGP assembly pipeline individual v. 1.5	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCF_949987535.1	9767	Balaenoptera acutorostrata	Chromosome	various	PacBio,Arima2
+GCA_965194805.1	9768	Balaenoptera borealis	Chromosome	various	PacBio,Arima2
+GCF_009873245.2	9771	Balaenoptera musculus	Chromosome	FALCON v. 1.0.2; FALCON-Unzip v. 1.0.2; purge_haplotigs v. bitbucket 7.10.2018; scaff10x v. git 4.28.2018; Bionano Solve DLS v. 3.2.1; Salsa2 HiC v. 2.0; Arrow polishing and gap filling v. 5.1.0.26412; longranger align v. 2.2.2; freebayes v. 1.2.0; gEVAL manual curation v. 2019-10-25; VGP standard assembly pipeline v. 1.5; Additional Purge_dup and Polish v. 2020-05-28	PacBio Sequel I; Illumina NovaSeq; 10X Genomics chromium; Dovetail Genomics HiC
+GCA_965194825.1	9770	Balaenoptera physalus	Chromosome	various	PacBio,Arima2
+GCF_028023285.1	2746895	Balaenoptera ricei	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1 + galaxy3; Bionano Solve v. 3.7.0 + galaxy0; yahs v. 1.2a + galaxy1	PacBio Sequel II HiFi
+GCA_936440315.1	40830	Barbus barbus	Chromosome	various	PacBio,Arima2
+GCF_900634795.4	158456	Betta splendens	Chromosome	various	PacBio,Illumina
+GCA_963422515.1	195075	Blennius ocellaris	Chromosome	various	PacBio,Arima2
+GCF_027579735.1	8345	Bombina bombina	Chromosome	FALCON v. 1.8.1; FALCON unzip v. 1.3.7; purge_dups v. 1.2.3; scaff10X v. 4.2a; Bionano Solve DLS v. 3.6.1_11162020; salsa v. 2.2; longranger Align v. 2.2.2; gcpp v. 2.0.2; freebayes polishing v. 1.3.2; gEVAL manual curation v. 2022-04-08	PacBio Sequel I CLR
+GCA_964205295.1	8348	Bombina variegata	Chromosome	various	PacBio,Arima2
+GCA_949987555.1	473354	Borostomias antarcticus	Chromosome	various	PacBio,Arima2
+GCF_003369695.1	30522	Bos indicus x Bos taurus	Chromosome	TrioCanu v. 1.6	PacBio Sequel; PacBio RSII; Illumina NextSeq
+GCA_035047305.1	179887	Bradypodion pumilum	Scaffold	Hifiasm v. v0.15.4-r347; HiRise v. APRIL-2022	PacBio Sequel; Illumina HiSeq
+GCA_035047345.1	179890	Bradypodion ventrale	Scaffold	Hifiasm v. v0.15.4-r347; HiRise v. APRIL-2022	PacBio Sequel; Illumina HiSeq
+GCF_035083965.1	7740	Branchiostoma lanceolatum	Chromosome	Hifiasm + Hi-C phasing v. 0.19.3 + galaxy0; YAHS Hi-C scaffolding v. 0.19.3 + galaxy0; Curation v. 2023-06-21	PacBio Sequel II HiFi; Arima Hi-C v2
+GCA_965231335.1	8853	Branta canadensis	Chromosome	various	PacBio,Arima2
+GCA_964059595.1	107022	Bucephala clangula	Chromosome	various	PacBio,Arima2
+GCA_009769605.1	153643	Bucorvus abyssinicus	Chromosome	FALCON v. DNANexus 1.9.0; FALCON-Unzip v. DNANexus 1.0.6; purge_haplotigs v. 1.0.3+ 1.Nov.2018; Scaff10x v. 4.1.0; Bionano solve v. 3.2.1_04122018; Salsa HiC v. 2.2; Arrow polishing + gap filling v. smrtlink_6.0.0.47841; longranger align v. 2.2.2; freebayes Illumina polishing v. 1.3; gEVAL manual curation v. 2019-08-12; VGP assembly pipeline individual v. 1.5	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCF_905171765.1	8384	Bufo bufo	Chromosome	various	PacBio,Illumina,BioNano,Arima
+GCA_964188355.1	30397	Buteo buteo	Chromosome	various	PacBio,Arima2
+GCA_048129055.1	1311420	Caesio teres	Chromosome	HiFiasm v. 19.8	PacBio Revio
+GCF_011100555.1	9483	Callithrix jacchus	Chromosome	TrioCanu v. 1.8; purge_dups v. 1.0.0; Scaff 10x v. 4.1.0; Bionano solve solve v. 3.2.1_04122018; Salsa2 HiC v. 2.2; Arrow polishing and gap filling v. smrtlink_6.0.0.47841; Longranger Align v. 2.2.2; Freebayes v. 1.3.1; gEVAL manual curation v. 2019-12-11; Zhang manual curation v. 2021-04-25; VGP assembly pipeline v. 1.6	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCA_048772825.1	76772	Callospermophilus lateralis	Chromosome	Hifiasm + Hi-C phasing v. 0.19.8 + galaxy0; purge_dups v. 1.2.6 + galaxy0; yahs v. 1.2a.2 + galaxy1	PacBio Revio HiFi; Arima Hi-C v2
+GCF_036013445.1	187106	Caloenas nicobarica	Chromosome	Hifiasm + Hi-C phasing v. 0.18.8 + galaxy0; yahs v. 1.2a.2 + galaxy1; MitoHiFi v. 3.0 + galaxy0	PacBio Sequel II HiFi; Arima Hi-C v2
+GCA_964196065.2	1323832	Calonectris borealis	Chromosome	various	PacBio,Arima2
+GCF_003957555.1	9244	Calypte anna	Chromosome	FALCON v. 5.1.1; FALCON unzip v. 1.0.2; scaff10X v. git 4.28.2018; Bionano Solve v. DLS 3.2.1; Salsa2 HiC v. 2.0; smrtanalysis Arrow polishing & gap filling v. 5.1.0.26412; longranger align v. 2.2.2; freebayes v. 1.2.0; purge_haplotigs v. bit 7.10.2018; gEVAL manual curation v. 2018-09-07	PacBio RSII; 10X Genomics linked reads; Bionano Genomics DLS; Arima Genomics HiC
+GCF_036321535.1	9838	Camelus dromedarius	Chromosome	Hifiasm + Trio-binning v. 0.16.1 + galaxy4; yahs v. 1.2a.2	PacBio Sequel II HiFi; Dovetail OmniC
+GCF_035149785.1	51853	Candoia aspera	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1 + galaxy3; yahs v. 1.2a.2 + galaxy0	PacBio Sequel II HiFi; Arima Hi-C v2
+GCF_048164855.1	143281	Canis lupus baileyi	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1 + galaxy4; yahs v. 1.2a.2 galaxy1	PacBio Revio HiFi; Arima Hi-C v2
+GCA_907165065.1	111811	Caprimulgus europaeus	Chromosome	various	PacBio,Illumina,Arima2
+GCF_963082965.1	217509	Carassius carassius	Chromosome	various	PacBio,Arima2
+GCF_017639515.1	13397	Carcharodon carcharias	Chromosome	FALCON v. DX 2.0.1; FALCON-Unzip v. DX 1.2.1; purge_dups v. DX 19-08-10; scaff10X v. DX 2.0.3; bionano Solve v. DX 3.4.0; Salsa2 HiC v. DX 2.2.0; Arrow polishing and gap filling v. DX 7.0.1.1; Longranger Align DX v. 2.2.2.1; freebayes DX v. 19-07-11; gEVAL manual curation v. 2021-02-05; VGP assembly pipeline v. 1.6	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCF_047511655.1	51338	Castor canadensis	Chromosome	Hifiasm + Hi-C phasing v. 0.19.8 + galaxy0; yahs v. 1.2a.2 + galaxy1	PacBio Revio HiFi; Arima Hi-C v2
+GCF_009819885.2	91951	Catharus ustulatus	Chromosome	FALCON v. DX 1.9.0; FALCON-Unzip v. 6.0.0.47841; purge_dups github v. purge_haplotig (bitbucket v1.0.3+ 1.Nov.2018); Scaff10x v. 2; Bionano Solve v. 3.2.1_04122018; Salsa2 HiC v. 2.2; Arrow polishing and gap filling v. Smrtlink_6.0.0.47841; Longranger Align v. 2.2.2; freebayes v. 1.3.1; gEVAL manual curation v. 2020-08-06; VGP assembly pipeline v. 1.5	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCF_910594005.1	9860	Cervus elaphus	Chromosome	various	PacBio,Illumina,Arima2
+GCA_964194155.1	57982	Cetorhinus maximus	Chromosome	various	PacBio,Arima2
+GCF_039877785.1	109706	Chaetodon trifascialis	Chromosome	Hifiasm + Hi-C phasing v. 0.19.3 + galaxy0; purge_dups v. 2.2; yahs v. 1.2a.2 + galaxy1	PacBio Sequel II HiFi; Arima Hi-C v2
+GCF_902362185.1	29144	Chanos chanos	Chromosome	various	PacBio,Illumina,BioNano,Dovetail
+GCF_017976325.1	109905	Chelmon rostratus	Chromosome	FALCON v. DX 2.0.2; FALCON-Unzip v. DX 8.0.1; purge_dups v. DX 19-08-10; scaff10X v. DX 2.0.3; bionano Solve v. DX 3.4.0; Salsa2 HiC v. DX 2.2.0; pbalign v. 0.3.2; pbgcpp v. 1.9.0; Longranger Align v. DX 2.2.2.1; freebayes v. DX 19-07-11; gEVAL manual curation v. 2021-03-24; VGP assembly pipeline v. 1.5	PacBio Sequel II CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCA_963514085.1	48171	Chelon labrosus	Chromosome	various	PacBio,Arima2
+GCF_015237465.2	8469	Chelonia mydas	Chromosome	FALCON 1.3.0 v. 2018.31.08-03.06; FALCON-Unzip v. 1.2.0 6.0.0.47841; purge_dups v. github ca23030ccf4254dfd2d3a5ea90d0eed41c24f88b ca23030ccf4254dfd2d3a5ea90d0eed41c24f88b; Scaff10x v. 4.1.0; Bionano Solve v. 3.2.1_04122018; Salsa2 HiC v. 2.2; Arrow polishing and gap filling v. SMRTLink7.0.1; Longranger Align v. 2.2.2; freebayes v. 1.3.1; gEVAL manual curation v. 2021-05-28; VGP assembly pipeline v. 1.6	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCF_950005125.1	269649	Chionomys nivalis	Chromosome	various	PacBio,Arima2
+GCF_009829145.1	296741	Chiroxiphia lanceolata	Chromosome	FALCON v. DNANexus 1.9.0; FALCON-Unzip v. DNANexus 1.0.6; purge_haplotigs v. v1.0.3+ 1.Nov.2018; scaff10x v. 4.1.0; Bionano Solve DLS v. 3.2.1; Salsa HiC v. 2.2; Arrow smrtanalysis Pacbio polishing & gap filling v. 6.0.0.47841; longranger align v. 2.2.2; freebayes Illumina polishing v. 1.3.1; gEVAL manual curation v. 2019-10-08; VGP assembly pipeline v. 1.5	PacBio Sequel I CLR; llumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCF_015220235.1	27675	Choloepus didactylus	Chromosome	FALCON v. falcon-2018.31.08-03.06; FALCON-Unzip v. 6.0.0.47841; purge_dups github v. ca23030ccf4254dfd2d3a5ea90d0eed41c24f88b; Scaff10x v. 4.1.0; Bionano Solve v. 3.2.1_04122018; Salsa2 HiC v. 2.2; Polish pbgcpp v. 1.9.0; Longranger Align v. 2.2.2; freebayes v. 1.3.1; gEVAL manual curation v. 2020-09-14; VGP assembly pipeline v. 1.6	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCF_963924245.1	1192867	Chroicocephalus ridibundus	Chromosome	various	PacBio,Arima2
+GCA_017639555.1	52777	Ciconia maguari	Chromosome	FALCON v. DX 2.0.2; FALCON-Unzip v. DX 8.0.1; purge_dups v. DX 19-08-10; scaff10X v. DX 2.0.3; bionano Solve v. DX 3.4.0; Salsa2 HiC v. DX 2.2.0; pbalign v. 0.3.2; pbgcpp v. 1.9.0; Longranger Align v. DX 2.2.2.1; freebayes v. DX 19-07-11; gEVAL manual curation v. 2020-07-15; VGP assembly pipeline v. 1.6	PacBio Sequel II CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCF_963662255.1	127875	Cinclus cinclus	Chromosome	various	PacBio,Arima2
+GCA_963989345.1	197941	Clangula hyemalis	Chromosome	various	PacBio,Arima2
+GCA_048544225.1	286537	Coilia mystus	Chromosome	hifiasm v. 0.19.9; purge_dups v. 1.2.5; arima_mapping_pipeline v. 2019-08-02; yahs v. 1.2a.1	PacBio HiFi; Hi-C
+GCF_028858725.1	57412	Colius striatus	Chromosome	HiFiasm + trio phasing v. 0.16.1 + galaxy2; Bionano Solve v. 3.7; salsa v. 2.3 + galaxy2	PacBio Sequel II HiFi; Bionano DLS; Arima Hi-C v2
+GCF_036013475.1	8932	Columba livia	Chromosome	Hifiasm + trio phasing v. 0.19.7 + galaxy1; purge_dups v. 1.2.6 + galaxy0; yahs v. 1.2a.2 + galaxy0; mitoHiFi 3.0 v. galaxy0	PacBio Sequel II HiFi; Arima Hi-C v2
+GCA_965250375.1	8934	Columba palumbus	Chromosome	various	PacBio,Arima2
+GCF_963514075.1	82655	Conger conger	Chromosome	various	PacBio,Arima2
+GCA_963082875.1	431183	Corella eumyota	Chromosome	various	PacBio,Arima2
+GCF_020740725.1	134902	Corvus hawaiiensis	Chromosome	HiFiasm v. 0.15.4+galaxy; purge_dups v. 1.2.5+galaxy3; Bionano Solve v. 3.6.1+galaxy2; Salsa v. 2.3+galaxy0; gEVAL manual curation v. 2021-09-20; VGP pipeline v. 2.0	PacBio Sequel II HiFi; Illumina NovaSeq; Bionano Genomics Saphyr DLS; Arima Genomics Hi-C v2
+GCF_009650955.1	1196302	Corvus moneduloides	Chromosome	FALCON v. 2018.31.08-03.06; FALCON-Unzip + Arrow v. 6.0.0.47841; purge_dups v. github ca23030ccf4254dfd2d3a5ea90d0eed41c24f88b; Bionano solve v. 3.2.1_04122018; Salsa HiC v. 2.2; Arrow polishing + gap filling v. SMRTlink_6.0.0.47841; longranger alignment v. 2.2.2; freebayes polishing v. 1.3.1; gEVAL manual curation v. 26 SEP 2019; VGP assembly pipeline v. 1.6	PacBio Sequel I; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCF_900634415.1	56716	Cottoperca gobio	Chromosome	various	PacBio,Illumina
+GCA_049082045.1	879810	Cristiceps australis	Chromosome	HiFiasm v. 19.8	PacBio Sequel IIe
+GCA_048771875.1	10166	Ctenodactylus gundi	Chromosome	Hifiasm + Hi-C phasing v. 0.19.8+galaxy0; yahs v. 1.2a.2+galaxy1	PacBio Revio HiFi; Arima Hi-C v2
+GCF_017976375.1	55661	Cuculus canorus	Chromosome	FALCON v. DX 2.0.2; FALCON-Unzip v. DX 8.0.1; purge_dups v. DX 19-08-10; scaff10X v. DX 2.0.3; bionano Solve v. DX 3.4.0; Salsa2 HiC v. DX 2.2.0; pbalign v. 0.3.2; pbgcpp v. 1.9.0; Longranger Align v. DX 2.2.2.1; freebayes v. DX 19-07-11; gEVAL manual curation v. 2021-03-30; VGP assembly pipeline v. 1.5	PacBio Sequel II CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCA_046129655.1	28727	Cyanocitta cristata	Chromosome	Hifiasm + Hi-C phasing v. 0.19.8 + galaxy0; yahs v. 1.2a.2 + galaxy1	PacBio Sequel II HiFi; Arima Hi-C v2
+GCF_009769545.1	8103	Cyclopterus lumpus	Chromosome	FALCON v. 2018.31.08-03.06; FALCON-Unzip v. 6.0.0.47841; purge_dups v. 51544-08-31; scaff10x v. 6.0.0.4784; Bionano Solve DLS v. 3.2.1; Salsa HiC v. 2.2; Arrow smrtanalysis Pacbio polishing & gap filling v. 2019-10-11; longranger align v. 2.2.2; freebayes Illumina polishing v. 1.3.1; gEVAL manual curation v. 2019-10-11; VGP assembly pipeline individual v. 1.6	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCA_030412105.1	118683	Cyclura pinguis	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1 + galaxy4; Bionano Solve v. 3.7; yahs v. 1.2.3; gEVAL manual curtion v. 2023-03-02	PacBio Sequel II HiFi; Bionano Genomics DLS; Dovetail OmniC
+GCA_965151615.1	110926	Cygnus columbianus	Chromosome	various	PacBio,Arima2
+GCA_965278775.1	219595	Cygnus cygnus	Chromosome	various	PacBio,Arima2
+GCF_009769625.2	8869	Cygnus olor	Chromosome	FALCON v. 2018.31.08-03.06; FALCON-Unzip v. 6.0.0.47841; purge_haplotigs v. 1.0.3+ 1.Nov.2018; scaff10x v. 4.1.0; Bionano solve v. 3.2.1_04122018; Salsa HiC v. 2.2; Arrow smrtanalysis Pacbio polishing & gap filling v. 6.0.0.47841; longranger align v. 2.2.2; freebayes Illumina polishing v. 1.3.1; gEVAL manual curation v. 2020-11-30; VGP assembly pipeline individual v. 1.5	PacBio Sequel 1 CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCF_027409185.1	110931	Cynocephalus volans	Chromosome	HiFiasm v. 0.16.1 + galaxy2; purge_dups v. 1.2.5 + galaxy4; salsa v. 2.3 + galaxy2	PacBio Sequel II HiFi; Arima Hi-C v2
+GCA_038021265.1	28792	Cyprinella venusta	Chromosome	Hifiasm + Hi-C phasing v. 0.19.3 + galaxy0; purge_dups v. 1.2.6 + galaxy0; yahs v. 1.2a.2 + galaxy1	PacBio Sequel II HiFi; Arima Hi-C v2
+GCF_030445035.2	9361	Dasypus novemcinctus	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1 + galaxy2; Bionano Solve v. 3.7.0 + galaxy0; salsa v. 2.3 + galaxy3; manual curation v. 2023-04-26	PacBio Sequel II HiFi; Bionano DLS; Arima Hi-C v2
+GCF_949987515.2	9728	Delphinus delphis	Chromosome	various	PacBio,Arima2
+GCF_027789765.1	150705	Dendropsophus ebraccatus	Chromosome	TrioCanu v. 1.8+283; Arrow consensus each haplotype v. SMRTlink7.0.1; purge_dups each haplotype v. 1.0.0; scaff10X v. 4.1.0; Bionano Solve DLS v. 3.2.1; Salsa Hi-C v. 2.2; Arrow polishing v. SMRTlink7.0.1; Longranger Align v. 2.2.2; Freebayes polishing v. 1.3.1; Salsa Hi-C 2x with binned reads v. 2.2; gEVAL manual curation v. 2021-12-17	PacBio Sequel I CLR; 10X Gemonics linked reads; Bionano Genomics DLS; Arima Genomics Hi-C v1; Illumina WGS on parents
+GCF_900700375.1	299321	Denticeps clupeoides	Chromosome	various	PacBio,Illumina,BioNano,Arima
+GCA_900700375.2	299321	Denticeps clupeoides	Chromosome	various	PacBio,Illumina,BioNano,Arima
+GCF_009764565.3	27794	Dermochelys coriacea	Chromosome	FALCON DNANexus v. 1.9.0; FALCON-Unzip DNANexus v. 1.0.6; purge_dups v. v1; scaff10x v. 4.1.0; Bionano Solve DLS v. 3.2.1; Salsa HiC v. 2.2.2; Arrow smrtanalysis Pacbio polishing & gap filling v. 6.0.0.47841; longranger align v. 2.2.2; freebayes Illumina polishing v. 1.3.1; gEVAL manual curation v. 2021-05-24; VGP assembly pipeline individual v. 1.6	PacBio Sequel I CLR; llumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCF_020826845.1	77932	Diceros bicornis minor	Chromosome	Trio HiFiasm v. 0.15.1-r329; Bionano Solve v. 3.6.1_11162020; Salsa v. 2.2	PacBio Sequel II HiFi; Bionano Genomics DLS; Illumina HiSeq; Arima Genomics Hi-C v2
+GCA_965183825.1	163623	Diplotaxodon limnothrissa	Chromosome	various	PacBio,Arima2
+GCA_048569125.1	88682	Diretmus argenteus	Chromosome	Hifiasm + Hi-C phasing v. 0.19.8 + galaxy0; yahs v. 1.2a.2 + galaxy1	PacBio Revio HiFi; Arima Hi-C v2
+GCA_027410445.1	8351	Discoglossus pictus	Chromosome	FALCON v. 1.8.1; FALCON unzip v. 1.3.7; purge_dups v. 1.2.3; scaff10X v. 4.2; Bionano solve v. 3.6.1_11162020; Salsa v. 2.2; gcpp v. 2.0.2; Longranger align v. 2.2.2; Freebayes polishing v. 1.3.2	PacBio Sequel I CLR; 10X Gemonics linked reads; Bionano Genomics DLS; Arima Genomics Hi-C v1
+GCF_036370855.1	8790	Dromaius novaehollandiae	Chromosome	Hifiasm + Hi-C phasing v. 0.19.3 + galaxy0; yahs v. 1.2a.2 + galaxy1; MitoHiFi v. 3.0	PacBio Sequel II HiFi; Arima Hi-C v2
+GCF_019393635.1	33562	Dromiciops gliroides	Chromosome	FALCON kit v. 1.8.1; FALCON unzip v. 1.3.7; purge_dups v. 1.2.3; Scaff10X v. 4.2; Bionano Solve v. 3.5.1_01142020; Salsa Hi-C v. 2.2; GCPP v. 1.9.0-SL-release-8.0.0+1-37-gd7b188d; longranger v. 2.2.2; freebayes v. 1.3.2; gEVAL manual curation v. 2021-04-07; VGP pipeline v. 1.6	PacBio Sequel II CLRQ; 10X Genomics linked reads; Bionano Genomics DLS; Arima Genomics v1 Hi-C
+GCF_014839835.1	118200	Dryobates pubescens	Chromosome	FALCON v. 1.3.0 2018.31.08-03.06; FALCON-Unzip v. 1.2.0 6.0.0.47841; purge_dups v. github ca23030ccf4254dfd2d3a5ea90d0eed41c24f88b ca23030ccf4254dfd2d3a5ea90d0eed41c24f88b; Scaff10x v. 4.1.0; Bionano Solve v. 3.2.1_04122018; Salsa2 HiC v. 2.2; Arrow polishing and gap filling v. SMRTLink7.0.1; Longranger Align v. 2.2.2; freebayes v. 1.3.1; gEVAL manual curation v. 2020-07-16; VGP assembly pipeline v. 1.6	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCA_030035585.1	29137	Dugong dugon	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1 + galaxy3; yahs v. 1.2a.2 + galaxy0	PacBio Sequel II HiFi; Dovetail OmniC
+GCF_900963305.1	173247	Echeneis naucrates	Chromosome	various	PacBio,Illumina,BioNano,Arima
+GCA_900963305.2	173247	Echeneis naucrates	Chromosome	various	PacBio,Illumina,BioNano,Dovetail
+GCA_963691815.1	94984	Echiichthys vipera	Chromosome	various	PacBio,Arima2
+GCA_951216825.1	206093	Electrona antarctica	Chromosome	various	PacBio,Arima2
+GCF_013358815.1	8005	Electrophorus electricus	Chromosome	FALCON v. 2018.31.08-03.06; FALCON-Unzip v. 7.0.1.66975; purge_dups v. v1; scaff10x v. 4.1.0; Bionano Solve DLS v. 3.4; Salsa HiC v. 2.2; Arrow smrtanalysis Pacbio polishing & gap filling v. SMRTLink7.0.1; longranger align v. 2.2.2; freebayes Illumina polishing v. 1.3.1; gEVAL manual curation v. 2020-03-17; VGP assembly pipeline individual v. 1.6	PacBio Sequel I CLR; llumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCF_024166365.1	99487	Elephas maximus indicus	Chromosome	Hifiasm v. 0.16.1; purge_dups v. 07.12.21; Bionano solve v. 3.3; Salsa v. 2.3	PacBio Sequel II HiFi; Bionano optical mapping; Arima HiC
+GCF_035609145.1	57060	Eleutherodactylus coqui	Chromosome	Hifiasm + Hi-C phasing v. 0.19.3 + galaxy0; yahs v. 1.2a.2	PacBio Sequel II HiFi; Arima Hi-C v2
+GCF_023053635.1	159646	Elgaria multicarinata webbii	Chromosome	HiFiasm v. 0.16.1-r375; SALSA v. 2; purge_dups v. 1.2.6; Rapid Curation v. 2023-07-22	Illumina NovaSeq 6000; PacBio Sequel II; Dovetail OmniC
+GCF_028017835.1	82168	Emys orbicularis	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1 + galaxy2; Bionano Solve v. 3.7.0 + galaxy0; salsa v. 2.3 + galaxy2	PacBio Sequel II HiFi; Bionano DLS; Arima Hi-C v2
+GCF_040894005.1	76066	Engystomops pustulosus	Chromosome	Hifiasm + Hi-C phasing v. 0.19.8 + galaxy0; purge_dups v. 1.2.6 + galaxy0; yahs v. 1.2a.2 + galaxy1	PacBio Revio HiFi; Arima Hi-C v2
+GCF_043641665.1	215367	Enoplosus armatus	Chromosome	Hifiasm v. 19	PacBio Sequel IIe
+GCA_048129065.1	2930458	Epinephelus rankini	Chromosome	HiFiasm v. 0.19.8	PacBio Revio; Illumina NextSeq
+GCA_028451465.1	34844	Erethizon dorsatum	Chromosome	FALCON v. 1.8.1; FALCON unzip v. 1.3.7; purge_dups v. 1.2.5; scaff10X v. 2.0.3; salsa v. 2.2; gcpp v. 2.0.2; merfin v. 1.0; freebayes v. 1.3.1; gEVAL manual curation v. 2021-11-19; VGP Pipeline v. 1.7	PacBio Sequel II CLR; 10X Gemonics linked reads; Arima Hi-C v1; Illumina DNASeq
+GCF_950295315.1	9365	Erinaceus europaeus	Chromosome	various	PacBio,Arima2
+GCA_903797595.2	37610	Erithacus rubecula	Chromosome	various	PacBio,Illumina,Dovetail
+GCF_900747795.2	27687	Erpetoichthys calabaricus	Chromosome		
+GCF_031021105.1	121349	Erythrolamprus reginae	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1 + galaxy3; yahs v. 1.2a + galaxy1	PacBio Sequel II HiFi; Arima Hi-C v2
+GCF_028021215.1	9764	Eschrichtius robustus	Chromosome	HiFiasm v. 0.16.1 + galaxy3; yahs v. 1.2a + galaxy2	PacBio Sequel II HiFi; 3D-DNA Hi-C
+GCF_011004845.1	8010	Esox lucius	Chromosome	FALCON DNANexus v. 1.9.0; FALCON-Unzip DNANexus v. 1.0.6; purge_haplotigs v. v1.0.3+ 1.Nov.2018; scaff10x v. 4.1.0; Bionano Solve DLS v. 3.4; Salsa HiC v. 2.2; Arrow smrtanalysis Pacbio polishing & gap filling v. 7.0.1; longranger align v. 2.2.2; freebayes Illumina polishing v. 1.3.1; gEVAL manual curation v. 2020-01-10; VGP assembly pipeline v. 1.5	PacBio Sequel; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCF_028564815.1	27606	Eubalaena glacialis	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1 + galaxy2; Bionano Solve v. 3.7.0 + galaxy0; salsa v. 2.3 + galaxy3	PacBio Sequel II HiFi; Bionano DLS; 3D DNA Hi-C
+GCA_047922985.1	8805	Eudromia elegans	Chromosome	HiFiasm v. 0.19.9; purge_dups v. 1.2.5; arima_mapping_pipeline v. 1.0; YaHS v. 1.2a1	PacBio Sequel; Illumina NovaSeq
+GCF_029931775.1	460621	Euleptes europaea	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1 + galaxy2; Bionano Solve v. 3.7.0 + galaxy0; salsa v. 2.3 + galaxy2	PacBio Sequel II HiFi; Bionano Genomics DLS; Arima Hi-C v2
+GCA_963514095.1	426098	Eutrigla gurnardus	Chromosome	various	PacBio,Arima2
+GCF_039878825.1	46218	Excalfactoria chinensis	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1 + galaxy4; yahs v. 1.2a.2 + galaxy1	PacBio Sequel II HiFi; Arima Hi-C v2
+GCF_023638135.1	345155	Falco biarmicus	Chromosome	Hifiasm v. 0.13.0; purge_dups v. 1.2.3; bionano solve v. 3.6.1; salsa2 v. 2.2; gEVAL v. 2021-07-07; VGP pipeline v. 2.0	PacBio Sequel II HiFi; Arima Genomics Hi-C; Bionano Genomics DLS
+GCF_023634085.1	345164	Falco cherrug	Chromosome	Hifiasm v. 0.13.0; purge_dups v. 1.2.3; bionano solve v. 3.6.1; salsa2 v. 2.2	PacBio Sequel II HiFi; Arima Genomics Hi-C; Bionano Genomics DLS
+GCF_017639655.2	148594	Falco naumanni	Chromosome	TrioCanu v. 1.8; purge_dups v. 1.0.0; Scaff 10x v. 4.1.0; Bionano solve v. 3.2.1_04122018; Salsa2 HiC v. 2.2; pbgcpp v. 1.9.0; Freebayes v. 1.3.1; gEVAL manual curation v. 2020-07-14; VGP trio assembly pipeline v. 1.6	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCF_023634155.1	8954	Falco peregrinus	Chromosome	Hifiasm v. 0.13.0; purge_dups v. 1.2.3; bionano solve v. 3.6.1; salsa2 v. 2.2; VGP pipeline v. 2.0; gEVAL v. curation	PacBio Sequel II HiFi; Arima Genomics Hi-C; Bionano Genomics DLS
+GCA_963210335.1	148596	Falco punctatus	Chromosome	various	PacBio,Arima2
+GCF_015220075.1	120794	Falco rusticolus	Chromosome	FALCON v. falcon-2018.31.08-03.06; FALCON-Unzip v. 6.0.0.47841; purge_dups github v. ca23030ccf4254dfd2d3a5ea90d0eed41c24f88b ca23030ccf4254dfd2d3a5ea90d0eed41c24f88b; Scaff10x v. 4.1.0; Bionano Solve v. 3.2.1_04122018; Salsa2 HiC v. 2.2; Polish v. pbgcpp:1.9.0; Longranger Align v. 2.2.2; freebayes v. 1.3.1; gEVAL manual curation v. 2020-07-20; VGP assembly pipeline v. 1.6	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCA_963513975.1	37598	Fringilla coelebs	Chromosome	various	PacBio,Arima2
+GCA_037039145.1	54267	Fundulus diaphanus	Chromosome	HiFiasm + Hi-C phasing v. 0.19.3 + galaxy0; Bionano Solve v. 3.7; yahs v. 1.2a.2 + galaxy1	PacBio Sequel II HiFi; Arima Hi-C v2; Bionano DLS
+GCF_902167405.1	8049	Gadus morhua	Chromosome	various	PacBio,Illumina,BioNano,Arima
+GCA_964237585.1	9123	Gallinula chloropus	Chromosome	various	PacBio,Arima2
+GCF_016699485.2	9031	Gallus gallus	Chromosome	TrioCanu v. 1.8; purge_dups v. 1.0.0; Scaff 10x v. 4.1.0; Bionano solve v. 3.2.1_04122018; Salsa2 HiC v. 2.2; Arrow polishing and gap filling v. SMRTLink7.0.1; Freebayes v. 1.3.1; gEVAL manual curation v. 2020-07-22; VGP trio assembly pipeline v. 1.6	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCA_050655445.1	2358194	Gardnerycteris keenani	Chromosome	Hifiasm + Hi-C phasing v. 0.19.3 + galaxy0; yahs v. 1.2a.2 + galaxy1	PacBio Sequel II HiFi; Arima Hi-C v2
+GCA_027917425.1	8429	Gastrophryne carolinensis	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1 + galaxy2; YAHS v. 1.1a	PacBio Sequel II HiFi; Arima Hi-C v2
+GCF_030936135.1	37040	Gavia stellata	Chromosome	Hifiasm + Hi-C phasing v. 0.18.8 + galaxy1; yahs v. 1.2a.2 + galaxy0	PacBio Sequel II HiFi; Arima Hi-C v2
+GCA_009764595.1	135433	Geothlypis trichas	Chromosome	FALCON DNANexus v. 1.9.0; FALCON-Unzip DNANexus v. 1.0.6; purge_haplotigs v. v1.0.3+ 1.Nov.2018; scaff10x v. 4.1.0; Bionano Solve DLS v. 3.2.1; Salsa HiC v. 2.2; Arrow smrtanalysis Pacbio polishing & gap filling v. 6.0.0.47841; longranger align v. 2.2.2; freebayes Illumina polishing v. 1.3.1; gEVAL manual curation v. 2019-10-08; VGP assembly pipeline v. 1.5	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCF_902459505.1	260995	Geotrypetes seraphini	Chromosome	various	PacBio,Illumina,BioNano,Dovetail
+GCA_902459505.2	260995	Geotrypetes seraphini	Chromosome	various	PacBio,Illumina,BioNano,Dovetail
+GCF_021462225.1	208333	Girardinichthys multiradiatus	Chromosome	DAmar v. e25dadb; purge_dups v. 1.0.1; bionano Solve v. 3.5.1; Salsa2 HiC v. 974589f; Longranger v. 2.2.0; pbmm2 v. 1.3.0; gcpp v. 1.9.0-SL-release-8.0.0+1-37-gd7b188d; bcftools v. 1.9; Freebayes v. 1.3.2; bwa v. 0.7.17-r1194; HiGlass v. 0.6.3	PacBio Sequel I CLR; 10X Genomics linked reads; Arima Genomics Hi-C; Bionano Genomics DLS
+GCF_963455315.2	9731	Globicephala melas	Chromosome	various	PacBio,Arima2
+GCA_039655065.1	2994998	Glossophaga mutica	Chromosome	Hifiasm + Hi-C phasing v. 0.19.3 + galaxy0; yahs v. 1.2a.2 + galaxy1	PacBio Sequel II HiFi; Arima Hi-C v2
+GCA_949357685.1	27704	Gobio gobio	Chromosome	various	PacBio,Arima2
+GCA_951799975.1	85417	Gobius niger	Chromosome	various	PacBio,Arima2
+GCF_007399415.2	1825980	Gopherus evgoodei	Chromosome	FALCON v. 5.1.1; FALCON-Unzip v. 1.0.2; purge_haplotigs v. bitbucket 7.10.2018; scaff10x v. 2.1; Bionano Solve DLS v. 3.2.1; Salsa2 v. 2.2; Arrow v. 5.1.0.26412; longranger align v. 2.2.2; freebayes v. 1.2.0; gEVAL manual curation v. 2019-01-31; VGP standard assembly pipeline v. 1.5	PacBio Sequel I; 10X Genomics linked reads; Arima Genomics Hi-C; Bionano Genomics DLS
+GCF_025201925.1	286002	Gopherus flavomarginatus	Chromosome	TrioCanu v. 1.8+298; Arrow SMRTLink v. 7.0.1; purge_dups v. 0.0.3; scaff 10X v. 4.1; Bionano solve v. 3.3; Salsa v. 2.2.0; Arrow polishing + gap filling v. 7.0.1; Longranger v. 2.2.2; Freebayes v. 1.3.1; Merfin v. 1.0; gEVAL manuel curation v. 2021-11-02	PacBio Sequel I CLR; Bionano Genomics DLS; Arima Genomics Hi-C; 10X Genomics linked reads
+GCF_900634775.1	441366	Gouania willdenowi	Chromosome	various	PacBio,Illumina
+GCA_900634775.2	441366	Gouania willdenowi	Chromosome	various	PacBio,Illumina,BioNano,Arima
+GCA_964374135.1	83653	Grampus griseus	Chromosome	various	PacBio,Arima2
+GCF_028858705.1	9117	Grus americana	Chromosome	TrioCanu v. 2.1; purge_dups v. 1.0.0; Scaff 10x v. 4.1.0; salsa v. 2.2; Arrow polishing & gap filling v. 2.0.2; Merfin polishing v. 1.0; Freebayes polishing v. 1.3.1	PacBio Sequel II CLR; 10X Gemonics linked reads; Arima Hi-C v1; Bionano DLS
+GCA_964106855.1	40816	Grus grus	Chromosome	various	PacBio,Arima2
+GCA_045345405.1	51906	Guaruba guarouba	Chromosome	Pipeasm v. 1.0	PacBio Revio
+GCA_963280865.1	948025	Gymnoscopelus braueri	Chromosome	various	PacBio,Arima2
+GCA_963454915.1	1090481	Gymnoscopelus microlampas	Chromosome	various	PacBio,Arima2
+GCA_028022735.1	33610	Gypaetus barbatus	Chromosome	HiFiasm v. 0.15.4; purge_dups v. 1.2.5; Bionano Solve v. 3.6.1; salsa v. 2.3	PacBio Sequel II HiFi; Bionano Genomics DLS; Arima Hi-C v2
+GCF_027477595.1	30427	Haemorhous mexicanus	Chromosome	HiFiasm v. 0.15.4 + galaxy; purge_dups v. 1.2.5 + galaxy3; Bionano Solve v. 3.6.1 + galaxy2; Salsa v. 2.3 + galaxy0	PacBio Sequel II HiFi; Bionano Genomics DLS; Arima Hi-C v2
+GCF_947461875.1	8969	Haliaeetus albicilla	Chromosome	various	PacBio,Arima2
+GCF_026419915.1	202280	Harpia harpyja	Chromosome	Hifiasm v. 0.15.1-r334; purge_dups v. 1.2.5; Bionano solve v. 3.6; Salsa v. 2.3	PacBio Sequel II HiFi; Bionano optical mapping; Arima HiC
+GCF_036169615.1	472823	Heliangelus exortis	Chromosome	Hifiasm + Hi-C phasing v. 0.19.3 + galaxy0; purge_dups v. 1.2.6 + galaxy0; yahs v. 1.2a.2 + galaxy0	PacBio Sequel II HiFi; Arima Hi-C v2
+GCA_020745705.1	243314	Hemiprocne comata	Chromosome	FALCON v. 2018.31.08-03.06; FALCON unzip v. 7.0.1.66975; purge_dups v. 1.2.5; scaff10X v. 4.1.0; Bionano solve v. 3.4.0; Salsa2 v. 2.2; Arrow polishing pbcpp v. 1.9.0.1; Longranger Align v. 2.2.2; Deepvariant polishing v. 1.1.0; gEVAL manual curation v. 2021-09-24; VGP pipeline v. 1.7	PacBio Sequel I CLR; Illumina NovaSeq; Bionano Genomics DLS; Arima Genomics Hi-C
+GCF_020745735.1	170820	Hemiscyllium ocellatum	Chromosome	TrioCanu v. 2.1; purge_dups v. 1.2.5; Scaff 10x v. 4.2; Bionano Solve v. 3.6.1_11162020; Salsa2 HiC v. 2.2; variantCaller v. 2.3.3; Longranger Align v. 2.2.2; Freebayes v. 1.3; gEVAL manual curation v. 2021-05-28; VGP Pipeline v. 1.6	PacBio Sequel II CLR; Illumina NovaSeq; Bionano Genomics DLS; Arima Genomics Hi-C v1
+GCF_035084215.1	212740	Heptranchias perlo	Chromosome	Hifiasm + HiC phasing v. 0.19.3 + galaxy0; yahs v. 1.2a.2 + galaxy1	PacBio Sequel II HiFi; Arima Hi-C v2
+GCF_036365525.1	7792	Heterodontus francisci	Chromosome	Hifiasm + HiC phasing v. 0.18.8 + galaxy1; Bionano solve v. 3.7; yahs v. 1.2a.2 + galaxy1	PacBio Sequel
+GCA_028571685.1	77598	Heterohyrax brucei	Chromosome	HiFiasm v. 0.15.5-r352; purge_dups v. 1.2.3; Bionano Solve v. 3.6.1_11162020; salsa v. 2.2	PacBio Sequel II HiFi; Bionano DLS; Arima Hi-C v2
+GCF_009819705.1	8267	Hippoglossus hippoglossus	Chromosome	FALCON v. 2018.31.08-03.06; FALCON-Unzip v. smrtlink_6.0.0.47841; purge_haplotigs v. 1.0.3; scaff10x v. 4.1.0; Bionano Solve DLS v. 3.2.1; Salsa HiC v. 2.2; Arrow smrtanalysis Pacbio polishing & gap filling v. smrtlink_6.0.0.47841; longranger align v. 2.2.2; freebayes Illumina polishing v. 1.3.1; gEVAL manual curation v. 2019-11-27; VGP assembly pipeline individual v. 1.5	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCF_030028045.1	575201	Hippopotamus amphibius kiboko	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1 + galaxy4; yahs v. 1.2a.3 + galaxy0	PacBio Sequel II HiFi; Arima Hi-C v2
+GCA_031876335.1	175524	Hipposideros larvatus	Chromosome	HiFiasm v. 0.12-r304; purge_dups v. 1.2.5; Bionano Solve v. 3.6.1_11162020; salsa v. 2.2	PacBio Sequel II HiFi; Bionano DLS; Arima Hi-C v2
+GCF_015227805.2	43150	Hirundo rustica	Chromosome	FALCON v. DX 2.0.1; FALCON-Unzip v. DX 1.2.1; purge_dups v. DX 19-08-10; scaff10X v. DX 2.0.3; bionano Solve v. DX 3.4.0; Salsa2 HiC v. DX 2.2.0; Arrow polishing and gap filling v. DX 7.0.1.1; Longranger Align v. DX 2.2.2.1; freebayes v. DX 19-07-11; gEVAL manual curation v. 2020-02-11; VGP assembly pipeline v. 1.6; Manual Curation BUSCO v. 2021-01-11; Manual Curation v. 2021-08-20	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCF_029633855.1	27720	Hoplias malabaricus	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1 + galaxy3; Bionano Solve v. 3.7; yahs v. 1.2a.2 + galaxy3	PacBio Sequel II HiFi; Bionano DLS; Arima Hi-C v2
+GCA_035084275.1	7873	Hydrolagus colliei	Chromosome	Hifiasm + Hi-C phasing v. 0.19.3 + galaxy0; yahs v. 1.2a.2 + galaxy1	PacBio Sequel II HiFi; Arima Hi-C v2
+GCA_049999965.1	61327	Hydromedusa tectifera	Chromosome	FALCON v. 1.8.1; FALCON-Unzip v. 1.3.7; purge_dups v. 1.2.3; Scaff10x v. 4.2; Bionano Solve v. 1.6.1; Salsa2 v. 2.3; Gap closing with gcpp v. 2.0.2; Polishing with 10x reads and freebayes v. 1.3.2; Hapcut2 v. git commit 1ee1d58; whatshap v. 1.6; freebayes v. 1.3.2	PacBio CLR; Arima Hi-C; 10X-linked reads; Bionano optical mapping (Saphyr)
+GCF_029499605.1	327740	Hyla sarda	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1 + galaxy2; Bionano Solve v. 3.7.0 + galaxy0; yahs v. 1.2a + galaxy1	PacBio Sequel II HiFi
+GCF_030144855.1	79690	Hypanus sabinus	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1 + galaxy2; yahs v. 1.2a + galaxy1	PacBio Sequel II HiFi; Arima Hi-C v2
+GCF_040937935.1	752182	Hyperolius riggenbachi	Chromosome	Hifiasm + Hi-C phasing v. 0.19.8 + galaxy0; purge_dups v. 1.2.6 + galaxy0; yahs v. 1.2a.2 + galaxy1	PacBio Sequel II HiFi; PacBio Revio HiFi; Arima Hi-C v2
+GCA_949752795.1	48744	Hyperoodon ampullatus	Chromosome	various	PacBio,Arima2
+GCA_949357725.1	1484357	Hyperoplus immaculatus	Chromosome	various	PacBio,Arima2
+GCA_050000095.1	74920	Indotestudo elongata	Chromosome	Hifiasm + Hi-C phasing v. 0.20.0 + galaxy0; yahs v. 1.2a.2 + galaxy1	PacBio Revio HiFi; Arima Hi-C v2
+GCA_036417435.1	9725	Inia geoffrensis	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1; yahs v. 1.1a	PacBio Sequel II HiFi; Dovetail OmniC
+GCF_020740685.1	51337	Jaculus jaculus	Chromosome	Trio HiCanu v. 2.1; purge_dups v. 1.2.3; Scaff10x v. 4.2; Bionano Solve v. 3.5.1; bwa v. 0.7.17; gcpp v. 1.9.0; Longranger Align v. 2.2.2; Freebayes v. 1.3.2; gEVAL manual curation v. 2021-05--07	PacBio Sequel II CLR 101X; 10X Gemonics linked reads 78X; Bionano Genomics DLS 182X; Arima Genomics Hi-C v1 60X
+GCF_026419965.1	27615	Kogia breviceps	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1 (r375) + galaxy1; Bionano solve v. 3.7; salsa v. 2.3	
+GCF_963930695.1	56723	Labrus bergylta	Chromosome	various	PacBio,Arima2
+GCF_963584025.1	508554	Labrus mixtus	Chromosome	various	PacBio,Arima2
+GCF_009819535.1	80427	Lacerta agilis	Chromosome	FALCON v. DNANexus 1.9.0; FALCON-Unzip v. DNANexus 1.0.6; purge_haplotigs v. v1.0.3+ 1.Nov.2018; scaff10x v. 4.1.0; Bionano Solve DLS v. 3.2.1; Salsa HiC v. 2.2; Arrow smrtanalysis Pacbio polishing & gap filling v. 6.0.0.47841; freebayes Illumina polishing v. 1.3.1; gEVAL manual curation v. 2019-09-24; VGP assembly pipeline individual v. 1.5	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCF_949774975.1	27610	Lagenorhynchus albirostris	Chromosome	various	PacBio,Arima2
+GCF_023343835.1	64668	Lagopus muta	Chromosome	hifiasm v. 0.15.1-r334; Minimap2 v. 0.15.1-r334; purge_dups v. 1.2.5; salsa v. 2.3	PacBio Sequel II HiFi; Dovetail genomics Hi-C; Illumina NovaSeq
+GCA_964198595.1	7748	Lampetra fluviatilis	Chromosome	various	PacBio,Arima2
+GCF_029633865.1	2546036	Lampris incognitus	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1 + galaxy4; yahs v. 1.2a.2 + galaxy	PacBio Sequel II HiFi; Arima Hi-C v2
+GCA_964417175.1	35669	Larus argentatus	Chromosome	various	PacBio,Arima2
+GCA_963932225.1	8915	Larus fuscus	Chromosome	various	PacBio,Arima2
+GCA_964199755.1	119627	Larus michahellis	Chromosome	various	PacBio,Arima2
+GCF_037157495.1	678569	Lathamus discolor	Chromosome	Hifiasm + Hi-C phasing v. 0.19.3 + galaxy0; Bionano Solve v. 3.7; yahs v. 1.2a.2 + galaxy1	PacBio Sequel II HiFi; Arima Hi-C v2; Bionano DLS
+GCF_037176945.1	7897	Latimeria chalumnae	Chromosome	Hifiasm solo v. 0.18.8 + galaxy1; yahs v. 1.2a.2 + galaxy1	PacBio Revio Hifi; Arima Hi-C v2
+GCF_020740605.2	9447	Lemur catta	Chromosome	hifiasm v. 0.12-r304; purge_dups v. 1.2.5; bionano_solve v. Solve3.6.1_11162020; salsa2 v. v2.2; gEVAL manual curation v. 2021-07-16	Pacbio Sequel II CCS; 10X Genomics linked reads; Bionano Genomics DLS; Arima Genomics v1 Hi-C
+GCF_965140265.1	8472	Lepidochelys kempii	Chromosome	Hifiasm,purge-dups,bwa-mem,yahs,pretext,fcs-gx	PacBio,Illumina
+GCA_965140295.1	27788	Lepidochelys olivacea	Chromosome	Hifiasm,purge-dups,bwa-mem,yahs,pretext,fcs-gx	PacBio,Illumina
+GCA_049190665.1	89578	Lepidogalaxias salamandroides	Chromosome	Hifiasm + Hi-C phasing v. 0.19.8+galaxy0; yahs v. 1.2a.2 + galaxy1	PacBio Revio HiFi; Arima Hi-C v2
+GCF_040954835.1	7918	Lepisosteus oculatus	Chromosome	Hifiasm + Hi-C phasing v. 0.19.8 + galaxy0; yahs v. 1.2a.2 + galaxy1	PacBio Revio HiFi; Arima Hi-C v2
+GCA_031893025.1	238119	Leptodactylus fuscus	Chromosome	Hifiasm + Hi-C phasing v. 0.18.8 + galaxy 1; Bionano Solve v. 3.7; yahs v. 1.2a.2 + galaxy0	PacBio Sequel II HiFi; Bionano Genomics DLS; Arima Hi-C v2
+GCA_045362495.1	182658	Lethrinus nebulosus	Chromosome	HiFiasm v. 19	PacBio Sequel IIe; Illumina NextSeq; Illumina NovaSeq
+GCA_965113325.1	58325	Leuciscus leuciscus	Chromosome	various	PacBio,Arima2
+GCA_964270905.1	3371109	Leucopleurus acutus	Chromosome	various	PacBio,Arima2
+GCA_030867105.1	283338	Liasis olivaceus	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1-r375; Bionano Solve v. 3.7; salsa v. 2.2	PacBio Sequel II HiFi; Bionano Genomics DLS; Arima Hi-C v2
+GCF_963576545.1	27771	Limanda limanda	Chromosome	various	PacBio,Arima2
+GCA_963383615.1	56720	Lipophrys pholis	Chromosome	various	PacBio,Arima2
+GCA_964261635.1	256425	Lissotriton helveticus	Chromosome	various	PacBio,Arima2
+GCA_964263255.1	8324	Lissotriton vulgaris	Chromosome	various	PacBio,Arima2
+GCF_030014295.1	9785	Loxodonta africana	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1 + galaxy3; Bionano Solve v. 3.7; yahs v. 1.2a.2 + galaxy0	PacBio Sequel II HiFi; Bionano DLS; Arima Hi-C v2
+GCF_902655055.1	9657	Lutra lutra	Chromosome	various	PacBio,Illumina,Hic
+GCA_028022725.1	1772091	Lycodopsis pacificus	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1 + galaxy2; yahs v. 1.2a + galaxy1	PacBio Sequel II HiFi; Arima Hi-C v2
+GCF_007474595.2	61383	Lynx canadensis	Chromosome	FALCON v. 5.1.1; FALCON-Unzip v. 1.0.2; purge_haplotigs v. bitbucket 7.10.2018; scaff10x v. 2.1; Bionano Solve 2 enzyme v. 3.2.1; Salsa2 v. 2.2; Arrow v. 5.1.0.26412; longranger align v. 2.2.2; freebayes v. 1.2.0; gEVAL manual curation v. 2020-04-03; VGP standard assembly pipeline v. 1.5	PacBio Sequel I; 10X genome; Bionano Genomics; Arima Genomics Hi-C
+GCF_043159975.1	9545	Macaca nemestrina	Chromosome	HiFiasm + Hi-C phasing v. 0.19.3 + galaxy0; yahs v. 1.2a.2 + galaxy1	PacBio Sequel II HiFi; Arima Hi-C v2
+GCA_033296515.1	3026461	Macrochelys suwanniensis	Chromosome	Hifiasm + Hi-C phasing v. 0.18.8 + galaxy1; yahs v. 1.2a.2 + galaxy0	PacBio Sequel II HiFi; Arima Hi-C v2
+GCF_027887155.1	2991368	Malaclemys terrapin pileata	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1 + galaxy2; Bionano Solve v. 3.7; salsa v. 2.3 + galaxy2; gEVAL manual curtion v. 2022-07-08	PacBio Sequel II HiFi; Bionano Genomics DLS; Arima Hi-C v2
+GCF_030020395.1	143292	Manis pentadactyla	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1 + galaxy3; yahs v. 1.2a.2 + galaxy0	PacBio Sequel II HiFi; Dovetail OmniC
+GCA_048565335.1	43514	Mantella aurantiaca	Chromosome	Hifiasm + Hi-C phasing v. 0.19.8 + galaxy0; yahs v. 1.2a.2 + galaxy1	PacBio Sequel IIe HiFi; PacBio Revio HiFi; Arima Hi-C v2
+GCA_965278785.1	75861	Mareca strepera	Chromosome	various	PacBio,Arima2
+GCF_047511675.1	93162	Marmota flaviventris	Chromosome	Hifiasm + Hi-C phasing v. 0.19.8 + galaxy0; yahs v. 1.2a.2 + galaxy1	PacBio Revio HiFi; Arima Hi-C v2
+GCA_963455335.1	29065	Martes martes	Chromosome	various	PacBio,Arima2
+GCF_900324485.2	205130	Mastacembelus armatus	Chromosome	various	PacBio,Illumina,BioNano,Arima
+GCA_900324485.3	205130	Mastacembelus armatus	Chromosome	various	PacBio,Illumina,BioNano,Arima
+GCF_013368585.1	118141	Megalops cyprinoides	Chromosome	FALCON v. DX 2.0.0; FALCON-Unzip v. DX 1.1.0; purge_dups v. DX 19-08-10; scaff10X v. DX 2.0.3; bionano Solve v. DX 3.4.0; Salsa2 HiC v. DX 2.2.0; Arrow polishing and gap filling v. DX 7.0.1.1; Longranger Align v. DX 2.2.2.1; freebayes v. DX 19-07-11; gEVAL manual curation v. 2020-04-24; VGP assembly pipeline v. 1.6	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCA_949748355.1	1091424	Melanostigma gelatinosum	Chromosome	various	PacBio,Arima2
+GCF_017639745.1	1250792	Melanotaenia boesemani	Chromosome	FALCON v. DX 2.0.2; FALCON-Unzip v. DX 8.0.1; purge_dups v. DX 19-08-10; scaff10X v. DX 2.0.3; bionano Solve v. DX 3.4.0; Salsa2 HiC v. DX 2.2.0; pbalign v. 0.3.2; pbgcpp v. 1.9.0; Longranger Align v. DX 2.2.2.1; freebayes v. DX 19-07-11; gEVAL manual curation v. 2021-03-12; VGP assembly pipeline v. 1.6	PacBio Sequel CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCF_922984935.1	9662	Meles meles	Chromosome	various	PacBio,Arima
+GCA_922984935.2	9662	Meles meles	Chromosome		
+GCF_012275295.1	13146	Melopsittacus undulatus	Chromosome	TrioCanu v. 1.8; purge_dups v. 1.0.0; Scaff 10x v. 4.1.0; Bionano solve v. 3.2.1_04122018; Salsa2 HiC v. 2.2; Arrow polishing and gap filling v. smrtlink_6.0.0.47841; Longranger Align v. 2.2.2; Freebayes v. 1.3.1; gEVAL manual curation v. 2020-02-24; VGP assembly pipeline v. 1.6	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCF_028018845.1	44398	Melospiza georgiana	Chromosome	HiFiasm v. 0.15.4 + galaxy0; purge_dups v. 1.2.5 + galaxy3; Bionano Solve v. 3.6.1 + galaxy2; salsa v. 2.3 + galaxy2	PacBio Sequel II HiFi
+GCF_035770615.1	1914991	Melospiza melodia melodia	Chromosome	Hifiasm + Hi-C phasing v. 0.18.8 + galaxy1; Bionano Solve v. 3.7; yahs v. 1.2a.2 + galaxy0	PacBio Sequel II HiFi; Bionano DLS; Arima Hi-C v2
+GCA_048628825.1	238744	Menidia menidia	Chromosome	hifiasm v. 0.24.0; purge_dups v. 1.2.5; arima mapping pipeline v. 2019-08-02; yahs v. 1.2a.1	PacBio HiFi; Arima Hi-C
+GCA_036873955.1	1570318	Mergus octosetaceus	Chromosome	Hifiasm + Hi-C phasing v. 0.19.3 + galaxy0; yahs v. 1.2a.2 + galaxy1	PacBio Sequel II HiFi; Arima Hi-C v2
+GCA_964148845.1	48745	Mesoplodon bidens	Chromosome	various	PacBio,Arima2
+GCF_025265405.1	48708	Mesoplodon densirostris	Chromosome	Hifiasm v. 0.16.1+galaxy1; purge_dups v. 1.2.5+galaxy3; Bionano solve v. 3.7.0+galaxy0; Salsa v. 2.3+galaxy2	
+GCA_964341445.1	52113	Mesoplodon mirus	Chromosome	various	PacBio,Arima2
+GCF_901765095.1	1415580	Microcaecilia unicolor	Chromosome	various	PacBio,Illumina,BioNano,Arima
+GCA_901765095.2	1415580	Microcaecilia unicolor	Chromosome	various	PacBio,Illumina,BioNano,Arima
+GCA_963457635.1	90074	Microchirus variegatus	Chromosome	various	PacBio,Arima2
+GCA_964030765.1	81636	Micromesistius poutassou	Chromosome	various	PacBio,Arima2
+GCA_963924665.1	13151	Micromys minutus	Chromosome	various	PacBio,Arima2
+GCA_964266715.1	106175	Microstomus kitt	Chromosome	various	PacBio,Arima2
+GCA_037038515.1	10058	Microtus pennsylvanicus	Chromosome	Hifiasm + Hi-C phasing v. 0.19.3 + galaxy0; yahs v. 1.2a.2 + galaxy1	PacBio Sequel II HiFi; Arima Hi-C v2
+GCA_964146895.2	9433	Miniopterus schreibersii	Chromosome	various	PacBio,Arima2
+GCA_038048845.1	3061075	Mixophyes fleayi	Chromosome	Hifiasm + Hi-C phasing v. 0.19.3 + galaxy0; Bionano Solve v. 3.7; yahs v. 1.2a.2 + galaxy1	PacBio Sequel II Hifi; Bionano Genomics DLS; Arima Hi-C v2
+GCF_030028105.1	1983395	Mobula birostris	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1 + galaxy2; yahs v. 1.2a + galaxy1	PacBio Sequel II HiFi; Arima Hi-C v2
+GCA_037176705.1	1552295	Molossus alvarezi	Chromosome	Hifiasm + Hi-C phasing v. 0.19.3 + galaxy0; yahs v. 1.2a.2 + galaxy1	PacBio Sequel II HiFi; Arima Hi-C v2
+GCF_014108415.1	27622	Molossus molossus	Scaffold	DAmar v. APRIL-2019; Bionano Solve DLS v. 3.3; Salsa2 HiC v. git commit: e3ae7d8; GenomicConsensus v. git commit: 038de5c; longranger align v. 2.2.0; Freebayes v. 1.2.0; HiGlass manual curation v. 1.5	PacBio Sequel CLR; 10X Genomics chromium linked reads; Bionano Genomics DLE1; Arima Genomics Hi-C kit; PacBio Sequel IsoSeq
+GCA_039880945.1	2997257	Molossus nigricans	Chromosome	Hifiasm + Hi-C phasing v. 0.19.3 + galaxy0; yahs v. 1.2a.2 + galaxy1	PacBio Sequel II HiFi; Arima Hi-C v2
+GCF_027887165.1	13616	Monodelphis domestica	Chromosome	HiFiasm v. 0.15.4 + galaxy; purge_dups v. 1.2.5 + galaxy3; Bionano Solve v. 3.6.1. + galaxy2; salsa v. 2.3 + galaxy0	PacBio Sequel II HiFi; Bionano Genomics DLS; Arima Hi-C v2
+GCA_045345515.1	252789	Morphnus guianensis	Chromosome	Pipeasm v. 1.0	PacBio Revio
+GCA_031468815.1	37578	Morus bassanus	Chromosome	Hifiasm + Hi-C phasing v. 0.19.3 + galaxy0; yahs v. 1.2a.2 + galaxy0	PacBio Sequel II HiFi; Arima Hi-C v2
+GCA_965276695.1	87757	Mullus surmuletus	Chromosome	various	PacBio,Arima2
+GCF_963930625.1	9886	Muntiacus reevesi	Chromosome	various	PacBio,Arima2
+GCA_963383645.1	39082	Muscardinus avellanarius	Chromosome	various	PacBio,Arima2
+GCF_009829155.1	36723	Mustela erminea	Chromosome	FALCON v. DNANexus 1.9.0; FALCON-Unzip v. DNANexus 1.0.6; purge_dups v. 1; scaff10x v. 4.1.0; Bionano Solve DLS v. 3.2.2; Salsa HiC v. 2.2; Arrow smrtanalysis Pacbio polishing & gap filling v. 6.0.0.47841; longranger align v. 2.2.2; freebayes Illumina polishing v. 1.3.1; gEVAL manual curation v. 2019-10-17; VGP assembly pipeline individual v. 1.6	PacBio Sequel; llumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCF_030435805.1	9666	Mustela lutreola	Chromosome	HiFiasm v. 0.18.8 + galaxy 1; purge_dups v. 1.2.5 + galaxy4; yahs v. 1.2a.2 + galaxy0	PacBio Sequel II HiFi; Dovetail OmniC
+GCA_964662115.1	36239	Mustela nivalis	Chromosome	various	PacBio,Arima2
+GCA_964213995.1	112232	Mustelus asterias	Chromosome	various	PacBio,Arima2
+GCF_963259705.1	98922	Myotis daubentonii	Chromosome	various	PacBio,Arima2
+GCA_963259705.2	98922	Myotis daubentonii	Chromosome	various	PacBio,Arima2
+GCA_965115925.2	109480	Myotis emarginatus	Chromosome	various	PacBio,Arima2
+GCF_014108235.1	51298	Myotis myotis	Scaffold	DAmar v. APRIL-2019; Bionano Solve DLS v. 3.3; Salsa2 HiC v. git commit: e3ae7d8; GenomicConsensus v. git commit: 038de5c; longranger align v. 2.2.0; Freebayes v. 1.2.0; HiGlass manual curation v. 1.5	PacBio Sequel CLR; 10X Genomics chromium linked reads; Bionano Genomics; Phase Genomics HiC; PacBio Sequel IsoSeq
+GCA_964094495.2	109479	Myotis mystacinus	Chromosome	various	PacBio,Arima2
+GCA_964212035.2	109481	Myotis nattereri	Chromosome	various	PacBio,Arima2
+GCF_902150065.1	586833	Myripristis murdjan	Chromosome	various	PacBio,Illumina,BioNano,Arima
+GCA_963921795.1	473322	Nannobrachium achirus	Chromosome	various	PacBio,Arima2
+GCA_963989245.1	443705	Nansenia antarctica	Chromosome	various	PacBio,Arima2
+GCF_036971445.1	1343680	Narcine bancroftii	Chromosome	Hifiasm + HiC phasing v. 0.19.3 + galaxy0; yahs v. 1.2a.2 + galaxy0; mitoHifi v. 3.0 + galaxy0	PacBio Sequel II HiFi; Arima Hi-C v2
+GCA_965152275.1	27790	Natator depressus	Chromosome	Hifiasm,purge-dups,bwa-mem,yahs,pretext,fcs-gx	PacBio,Illumina
+GCA_964273705.1	2025560	Natrix helvetica	Chromosome	various	PacBio,Arima2
+GCF_027579695.1	443677	Neoarius graeffei	Chromosome	HiFiasm v. 0.15.4 + galaxy0; purge_dups v. 1.2.5 + galaxy3; Bionano Solve v. 3.6.1 + galaxy2; salsa v. 2.3 + galaxy1; gEVAL manual curation v. 2022-03-11; VGP pipeline v. 2.0	PacBio Sequel II HiFi; Bionano DLS; Arima Hi-C v2
+GCF_028018385.1	61452	Neofelis nebulosa	Chromosome	HiFiasm v. 0.16.1 + galaxy2; purge_dups v. 1.2.5 + galaxy4; Bionano Solve v. 3.7.0 + galaxy0; salsa v. 2.3 + galaxy2	PacBio Sequel II HiFi; Bionano Genomics DLS; Arima Hi-C v2
+GCA_050000055.1	42409	Neotoma floridana	Chromosome	Hifiasm + Hi-C phasing v. 0.19.9 + galaxy0; yahs v. 1.2a.2 + galaxy1	PacBio Revio HiFi; Arima Hi-C v2
+GCA_963082525.1	187126	Nesoenas mayeri	Chromosome	various	PacBio,Arima2
+GCA_964035555.1	30387	Netta rufina	Chromosome	various	PacBio,Arima2
+GCF_028372415.1	9315	Notamacropus eugenii	Chromosome	HiFiasm v. 0.15.4 + galaxy; purge_dups v. 1.2.5 + galaxy3; Bionano Solve v. 3.6.1 + galaxy2; salsa v. 2.3 + galaxy0	PacBio Sequel II HiFi; Bionano Genomics DLS; Arima Hi-C v2
+GCF_009762535.1	1203425	Notolabrus celidotus	Chromosome	FALCON v. 2019-Jan-23patch1; FALCON-Unzip v. 2019-Jan-23patch1; purge_dups v. v1; scaff10x v. 4.1; Bionano Solve DLS v. 3.2.1; Salsa HiC v. 2.2; longranger align v. 2.2.2; gEVAL manual curation v. 2019-11-08; VGP assembly pipeline individual v. 1.6	PacBio Sequel I CLR; llumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCA_963971535.1	948063	Notolepis coatsorum	Chromosome	various	PacBio,Arima2
+GCA_949606895.1	101497	Notothenia rossii	Chromosome	various	PacBio,Arima2
+GCF_964106895.1	31919	Numenius arquata	Chromosome	various	PacBio,Arima2
+GCA_964264875.2	59465	Nyctalus leisleri	Chromosome	various	PacBio,Arima2
+GCF_013368605.1	48427	Nyctibius grandis	Chromosome	FALCON 1.3.0 v. 2018.31.08-03.06; FALCON-Unzip v. 1.2.0 6.0.0.47841; purge_dups v. github ca23030ccf4254dfd2d3a5ea90d0eed41c24f88b; bionano Solve v. 3.2.1_04122018; Salsa2 HiC v. 2.2; Arrow polishing and gap filling v. SMRTLink7.0.1; Longranger Align v. 2.2.2; freebayes v. 1.3.1; gEVAL manual curation v. 2020-03-02; VGP assembly pipeline v. 1.6	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCF_027406575.1	9470	Nycticebus coucang	Chromosome	HiFiasm v. 0.16.1-r375; purge_dups v. 1.2.5; Bionano Solve v. 3.6.1; salsa v. 2.2; gEval manual curation v. 2022-04-01; VGP pipeline v. 2.0	PacBio Sequel II HiFi; Bionano DLS; Arima Hi-C v2
+GCF_030435755.1	9978	Ochotona princeps	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1 + galaxy4; yahs v. 1.2a.2 + galaxy0	PacBio Sequel II HiFi; Arima Hi-C v2
+GCA_027942865.1	219752	Odontesthes bonariensis	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1 + galaxy3; salsa v. 2.3 + galaxy2	PacBio Sequel II HiFi
+GCF_903995425.1	38674	Onychomys torridus	Chromosome	various	PacBio,Illumina,BioNano
+GCF_937001465.1	9733	Orcinus orca	Chromosome	various	PacBio,HiC
+GCF_004115215.2	9258	Ornithorhynchus anatinus	Chromosome	FALCON v. 5.1.1; FALCON Unzip v. 1.0.2; purge_haplotigs v. bit 7.10.2018; scaff10X v. git 4.28.2018; Bionano Solve DLS v. 3.2.1; Salsa2 HiC v. 2.0; smrtanalysis Arrow polishing & gap fillingt v. 5.1.0.26412; longranger align v. 2.2.2; freebayes v. 1.2.0; gEVAL manual curation v. 2019-12-06	PacBio RSII; 10X Genomics linked reads; Bionano Genomics DLS; Dovetail Genomics HiC; Arima Genomics
+GCF_964237555.1	9986	Oryctolagus cuniculus	Chromosome	various	PacBio,Arima2
+GCF_963692335.1	29151	Osmerus eperlanus	Chromosome	various	PacBio,Arima2
+GCF_038355195.1	8014	Osmerus mordax	Chromosome	Hifiasm v. 0.18.8-r525; Bionano Solve v. 3.7; yahs v. 1.2a.1	PacBio Sequel II HiFi; Bionano Genomics DLS; Arima Hi-C v2; Illumina NovaSeq
+GCA_965226575.1	8173	Pagrus pagrus	Chromosome	various	PacBio,Arima2
+GCF_027358585.1	310915	Pangasianodon hypophthalmus	Chromosome	HiFiasm v. 0.15.3; purge_dups v. 1.2.3; Bionano Solve v. 3.6.1_11162020; salsa v. 2.2	PacBio Sequel II HiFi; Bionano Genomics DLS; Arima Hi-C v2
+GCA_045781095.1	260642	Pangshura tecta	Chromosome	Hifiasm + Hi-C phasing v. 0.19.8 + galaxy0; yahs v. 1.2a.2 + galaxy1	PacBio Revio HiFi; Arima Hi-C v2; Element AVITI
+GCF_900634625.1	210632	Parambassis ranga	Chromosome	various	PacBio,Illumina
+GCA_900634625.2	210632	Parambassis ranga	Chromosome	various	PacBio,Illumina,BioNano,Arima
+GCF_036417665.1	48849	Passer domesticus	Chromosome	Hifiasm + Hi-C phasing v. 0.19.5-r587; yahs v. 3.7	PacBio Sequel II HiFi; Dovetail OmniC
+GCA_031885435.1	161624	Passerculus sandwichensis	Chromosome	HiFiasm v. 0.18.8+galaxy1; Bionano Solve v. 3.7; yahs v. 1.2a.2 + galaxy0	PacBio Sequel II HiFi; Bionano Genomics DLS; Arima Hi-C v2
+GCF_037038585.1	372321	Patagioenas fasciata	Chromosome	Hifiasm + Hi-C phasing v. 0.19.8 + galaxy1; Bionano solve v. 3.7.0 + galaxy3; yahs v. 2a.2 + galaxy2; mitoHiFi v. 3 + galaxy0	PacBio Sequel II HiFi; Oxford Nanopore PromethION; Arima Hi-C v2; Bionano Genomics DLS
+GCF_036172605.1	191477	Pelobates fuscus	Chromosome	deepconsensus v. 1.1; HiFiasm + Hi-C phasing v. 0.18.7-r519; purge_dups v. 1.2.5; yahs v. 1.2a.2; deepVariant polishing v. 1.4; MitoHiFi v. 3.0.0	PacBio Sequel II HiFi; Arima Hi-C v2
+GCA_036172795.1	233781	Pelodytes ibericus	Chromosome	deepconsensus v. 1.1; HiFiasm + Hi-C phasing v. 0.18.7-r519; purge_dups v. 1.2.5; yahs v. 1.2a.2; deepVariant polishing v. 1.4	PacBio Sequel II HiFi; Arima Hi-C v2
+GCA_965119305.1	45623	Pelophylax lessonae	Chromosome	various	PacBio,Arima2
+GCF_042242105.1	3127111	Pempheris klunzingeri	Chromosome	HiFiasm v. 19	PacBio Sequel IIe
+GCF_009829125.3	409849	Periophthalmus magnuspinnatus	Chromosome	FALCON v. 2018.31.08-03.06; FALCON-Unzip v. 6.0.0.47841; purge_dups v. 51544-08-31; scaff10x v. 4.1.0; Bionano Solve DLS v. 3.2.1; Salsa HiC v. 2.2; Arrow smrtanalysis Pacbio polishing & gap filling v. 6.0.0.47841; longranger align v. 2.2.2; freebayes Illumina polishing v. 1.3.1; gEVAL manual curation v. 2019-10-11; VGP assembly pipeline individual v. 1.6	PacBio Sequel I CLR; llumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCF_010993605.1	7757	Petromyzon marinus	Chromosome	FALCON v. DNANexus 1.9.0; FALCON-Unzip v. DNANexus 1.0.6; purge_dups v. github ca23030ccf4254dfd2d3a5ea90d0eed41c24f88b; scaff10x v. 4.1.0; Bionano Solve DLS v. 3.2.1; Salsa HiC v. 2.2; Arrow smrtanalysis Pacbio polishing & gap filling v. smrtlink_6.0.0.47841; longranger align v. 2.2.2; freebayes Illumina polishing v. 1.3.1; gEVAL manual curation v. 2019-12-09; VGP assembly pipeline individual v. 1.6	PacBio Sequel I CLR; llumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCA_964289735.1	37045	Phaethon aethereus	Chromosome	various	PacBio,Arima2
+GCA_023637945.2	46513	Phaethornis superciliosus	Chromosome	FALCON v. falcon-kit 1.8.1; Falcon Unzip v. 1.3.7; purge_dups v. 1.2.3; scaff10x v. 4.2; LongRanger v. 2.2.2; Bionano Solve v. 3.5.1; salsa2 v. 2.2; pbmm2 v. 1.3.0; freebayes v. 1.3.2; bwa v. 0.7.17-r1188; gcpp v. 2.0.2; bcftools v. 1.2-21-ga865a16	PacBio Sequel II CLR; 10X Genomics linked reads; Arima Genomics Hi-C (v2); Bionano Genomics DLS
+GCA_949628215.1	126867	Phalacrocorax aristotelis	Chromosome	various	PacBio,Arima2
+GCF_963921805.1	9209	Phalacrocorax carbo	Chromosome	various	PacBio,Arima2
+GCF_963924675.1	9742	Phocoena phocoena	Chromosome	various	PacBio,Arima2
+GCF_008692025.1	42100	Phocoena sinus	Chromosome	FALCON v. 5.1.1; FALCON-Unzip v. 1.0.2; Arrow smrtanalysis Pacbio polishing v. 6.0.0.47841; purge_haplotigs v. 1.0.4; scaff10X v. 4.1; Bionano solve DLS v. 3.3_10252018; Salsa HiC v. 2.2; Arrow smrtanalysis Pacbio polishing & gap filling v. 6.0.0.47841; longranger align v. 2.2.2; freebayes Illumina polishing v. 1.2.0; gEVAL manual curation v. 2019-07-23; VGP assembly pipeline individual v. 1.5	PacBio Sequel I; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLE-1
+GCA_009819775.1	9218	Phoenicopterus ruber ruber	Chromosome	FALCON v. DNANexus 1.9.0; FALCON-Unzip v. DNANexus 1.0.6; purge_haplotigs v. v1.0.3+ 1.Nov.2018; scaff10x v. 4.1.0; Bionano Solve DLS v. 3.2.1; Salsa HiC v. 2.2; Arrow smrtanalysis Pacbio polishing & gap filling v. 6.0.0.47841; longranger align v. 2.2.2; freebayes Illumina polishing v. 1.3; gEVAL manual curation v. 2019-08-13; VGP assembly pipeline individual v. 1.5	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCA_020510985.1	390368	Pholidichthys leucotaenia	Chromosome	falcon-kit v. 1.3.0; FALCON-Unzip v. 1.2.0; purge_dups v. 1.2.3; scaff10X v. 4.2; bionano Solve Solve v. 3.5_12162019; Salsa2 HiC v. 2.2; Longranger Align v. 2.2.2; pbmm2 v. 1.4.0; gcpp v. 1.0.0-1807624; bcftools v. 1.12-21-ga865a16; merfin v. 09c026d; deepvariant v. 1.1.0; gEVAL manual curation v. 2021-07-16	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCA_910591455.2	56726	Pholis gunnellus	Chromosome	various	PacBio,Illumina,Arima
+GCA_949152265.1	58324	Phoxinus phoxinus	Chromosome	various	PacBio,Arima2
+GCF_004126475.2	89673	Phyllostomus discolor	Chromosome	FALCON v. 5.1.1; FALCON-Unzip v. 1.0.2; scaff10X v. git 4.28.2018; Bionano Solve B v. spQI/BssSI 3.2.1; Salsa2 HiC v. 2.0; smrtanalysis Arrow polishing & gap filling v. 5.1.0.26412; longranger align v. 2.2.2; freebayes v. 1.2.0; purge_haplotigs v. bit 7.10.2018; gEVAL manual curation v. 2019-11-29	PacBio Sequel; 10X Genomics linked reads; Bioanano Genomics 2 enzyme; Arima Genomics HiC
+GCF_014108245.1	59472	Pipistrellus kuhlii	Scaffold	DAmar v. Apr 19; Bionano Solve DLS v. 3.3; Salsa2 HiC v. git commit: e3ae7d8; GenomicConsensus v. git commit: 038de5c; longranger align v. 2.2.0; Freebayes v. 1.2.0; HiGlass manual curation v. 1.5	PacBio Sequel CLR; 10X Genomics chromium linked reads; Bionano Genomics; Phase Genomics HiC; PacBio Sequel IsoSeq
+GCA_965203405.2	59474	Pipistrellus pipistrellus	Chromosome	various	PacBio,Arima
+GCA_949987585.2	246814	Pipistrellus pygmaeus	Chromosome	various	PacBio,Arima2
+GCA_965183815.1	257867	Platalea leucorodia	Chromosome	various	PacBio,Arima2
+GCF_949316205.1	8260	Platichthys flesus	Chromosome	various	PacBio,Arima2
+GCA_963455305.1	61862	Plecotus auritus	Chromosome	various	PacBio,Arima2
+GCF_947347685.1	8262	Pleuronectes platessa	Chromosome	various	PacBio,Arima2
+GCA_017639485.1	670352	Pluvialis apricaria	Chromosome	FALCON v. DX 2.0.2; FALCON-Unzip v. DX 8.0.1; purge_dups v. DX 19-08-10; scaff10X v. DX 2.0.3; bionano Solve v. DX 3.4.0; Salsa2 HiC v. DX 2.2.0; pbalign v. 0.3.2; pbgcpp v. 1.9.0; Longranger Align v. DX 2.2.2.1; freebayes v. DX 19-07-11; gEVAL manual curation v. 2020-07-15; VGP assembly pipeline v. 1.6	PacBio Sequel II CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCA_964188305.1	90520	Podarcis bocagei	Chromosome	various	PacBio,Arima2
+GCA_951804945.1	1330250	Podarcis cretensis	Chromosome	various	PacBio,Arima2
+GCA_964252035.1	140042	Podarcis erhardii	Chromosome	various	PacBio,Arima2
+GCA_964270895.1	65481	Podarcis filfolensis	Chromosome	various	PacBio,Arima2
+GCA_964106915.2	90521	Podarcis gaigeae	Chromosome	various	PacBio,Arima2
+GCA_965112155.1	662736	Podarcis liolepis	Chromosome	various	PacBio,Arima2
+GCA_964234825.1	65482	Podarcis melisellensis	Chromosome	various	PacBio,Arima2
+GCA_964106635.2	74359	Podarcis pityusensis	Chromosome	various	PacBio,Arima2
+GCF_027172205.1	65483	Podarcis raffonei	Chromosome	HiFiasm v. 0.16.1-r375; purge_dups v. 1.2.5; Bionano solve v. 3.6.1; Salsa v. 2.3	PacBio Sequel II HiFi; Bionano DLS; Arima Hi-C v2
+GCA_964188175.1	65484	Podarcis siculus	Chromosome	various	PacBio,Arima2
+GCA_965153305.1	65485	Podarcis tiliguerta	Chromosome	various	PacBio,Arima2
+GCA_965113305.1	140051	Podarcis vaucheri	Chromosome	various	PacBio,Arima2
+GCA_028020825.1	8905	Podargus strigoides	Chromosome	HiFiasm v. 0.16.1 + galaxy2; purge_dups v. 1.2.5 + galaxy4; Bionano solve v. 3.7.0 + galaxy0; salsa v. 2.3 + galaxy2	PacBio Sequel II HiFi; Bionano Genomics DLS; Arima Hi-C v2
+GCA_045364815.1	44507	Podocnemis expansa	Chromosome	Pipeasm v. 1.0	PacBio Sequel II
+GCA_050000005.1	227871	Podocnemis unifilis	Chromosome	FALCON v. 1.8.1; FALCON-Unzip v. 1.3.7; purge_dups v. 1.2.3; Scaff10x v. 4.2; Bionano Solve v. 1.6.1; Salsa2 v. 2.3; Gap closing with gcpp v. 2.0.2; Polishing with 10x reads and freebayes v. 1.3.2; Hapcut2 v. git commit 1ee1d58; whatshap v. 1.6; freebayes v. 1.3.2	PacBio CLR; Arima Hi-C; 10X-linked reads; Bionano optical mapping (Saphyr)
+GCF_030490865.1	48891	Poecile atricapillus	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1-r375; Bionano Solve v. 3.7; salsa v. 2.0	PacBio Sequel II HiFi; Bionano DLS; Arima Hi-C v2
+GCF_015220805.1	488313	Pogoniulus pusillus	Chromosome	FALCON v. 1.3.0 2018.31.08-03.06; FALCON-Unzip v. 1.2.0 6.0.0.47841; purge_dups v. github ca23030ccf4254dfd2d3a5ea90d0eed41c24f88b ca23030ccf4254dfd2d3a5ea90d0eed41c24f88b; bionano Solve v. 3.2.1_04122018; Salsa2 HiC v. 2.2; Arrow polishing and gap filling v. SMRTLink7.0.1; Longranger Align v. 2.2.2; freebayes v. 1.3.1; gEVAL manual curation v. 2020-05-14; VGP assembly pipeline v. 1.6	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCA_949987615.1	185739	Pollachius pollachius	Chromosome	various	PacBio,Arima2
+GCA_965278745.1	2170621	Polycarpa mamillaris	Chromosome	various	PacBio,Arima2
+GCA_047511595.1	143326	Polymixia lowei	Chromosome	Hifiasm + Hi-C phasing v. 0.19.8 + galaxy0; yahs v. 1.2a.2 + galaxy1	PacBio Revio HiFi; Arima Hi-C v2
+GCA_964638095.1	88708	Poromitra crassiceps	Chromosome	various	PacBio,Arima2
+GCA_020800305.1	439704	Porphyrio hochstetteri	Chromosome	Trio HiFiasm v. 0.15.1-r329; purge_dups v. 1.2.5; Bionano Solve v. 3.6.1_11162020; Salsa v. 2.3; gEVAL manual curation v. 2021-07-20; VGP trio pipeline v. 2.0; cutadapt (done in beginning) v. 3.2; gEVAL manual curation v. 2021-11-06	PacBio Sequel II HiFi; Bionano Genomics DLS; Illumina HiSeq; Arima Genomics Hi-C v2
+GCF_044704955.1	55135	Pristiophorus japonicus	Chromosome	Hifiasm + Hi-C phasing v. 0.19.8 + galaxy0; purge_dups v. 1.2.6 + galaxy0; yahs v. 1.2a.2 + galaxy1	PacBio Revio HiFi; Arima Hi-C v2
+GCA_045363895.1	264210	Pristipomoides typus	Chromosome	HiFiasm v. 19	PacBio Sequel IIe; Illumina NextSeq; Illumina NovaSeq
+GCF_009764475.1	685728	Pristis pectinata	Chromosome	FALCON v. DNANexus 1.9.0; FALCON-Unzip v. DNANexus 1.0.6; purge_haplotigs v. v1.0.3+ 1.Nov.2018; scaff10x v. 4.1.0; Bionano Solve DLS v. 3.2.1; Salsa HiC v. 2.2; Arrow smrtanalysis Pacbio polishing & gap filling v. 6.0.0.47841; longranger align v. 2.2.2; freebayes Illumina polishing v. 1.3.1; gEVAL manual curation v. 2019-11-18; VGP assembly pipeline individual v. 1.5	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCA_963924005.1	443714	Protomyctophum bolini	Chromosome	various	PacBio,Arima2
+GCA_964188405.1	1091426	Protomyctophum parallelum	Chromosome	various	PacBio,Arima2
+GCF_028390025.1	495146	Pseudophryne corroboree	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1 + galaxy2; Bionano Solve v. 3.7.0 + galaxy0; yahs v. 1.2a + galaxy1	PacBio Sequel II HiFi; Bionano Genomics DLS; Arima Hi-C v2
+GCF_036250125.1	415032	Pseudopipra pipra	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1 + galaxy3; yahs v. 1.2a.2 + galaxy1	PacBio Sequel II HiFi; Arima Hi-C v2
+GCF_039906515.1	82174	Pseudorca crassidens	Chromosome	Hifiasm + Hi-C phasing v. 0.19.3 + galaxy0; Bionano Solve v. 3.7; yahs v. 1.2a.1	PacBio Sequel II HiFi; Bionano Genomics DLS; Dovetail Omni-C
+GCA_963264785.1	232653	Psittacula echo	Chromosome	various	PacBio,Arima2
+GCF_949316345.1	134920	Pungitius pungitius	Chromosome	various	PacBio,Arima2
+GCF_015220715.1	42514	Pygocentrus nattereri	Chromosome	FALCON v. 2018.31.08-03.06; FALCON-Unzip v. 7.0.1.66975; purge_dups v. v1; scaff10x v. 4.1.0; Bionano Solve DLS v. 3.4; Salsa HiC v. 2.2; Arrow smrtanalysis Pacbio polishing & gap filling v. SMRTLink7.0.1; longranger align v. 2.2.2; freebayes Illumina polishing v. 1.3.1; gEVAL manual curation v. 2020-03-13; VGP assembly pipeline individual v. 1.6	PacBio Sequel I CLR; llumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCA_963514005.1	223862	Raja brachyura	Chromosome	various	PacBio,Arima2
+GCA_965250365.1	54496	Rallus aquaticus	Chromosome	various	PacBio,Arima2
+GCF_905171775.1	8407	Rana temporaria	Chromosome	various	PacBio,Illumina,BioNano,Dovetail
+GCF_028389875.1	8795	Rhea pennata	Chromosome	HiFiasm v. 0.16.1 + galaxy2; purge_dups v. 1.2.5 + galaxy3; Bionano Solve v. 3.7.0 + galaxy0; salsa v. 2.3 + galaxy2	PacBio Sequel II HiFi; Bionano DLS; Arima Hi-C v2
+GCF_901001135.1	194408	Rhinatrema bivittatum	Chromosome	various	PacBio,Illumina,BioNano,Arima
+GCA_901001135.2	194408	Rhinatrema bivittatum	Chromosome	various	PacBio,Illumina,BioNano,Arima
+GCF_030035675.1	261503	Rhineura floridana	Chromosome	Hifiasm + Hi-C phasing v. 0.18.5 + galaxy1; Bionano Solve v. 3.7; yahs v. 1.2a.2 + galaxy0	PacBio Sequel II HiFi; Bionano DLS; Arima Hi-C v2
+GCF_004115265.2	59479	Rhinolophus ferrumequinum	Chromosome	FALCON-Unzip v. 1.0.2; scaff10X v. git 4.28.2018; Bionano Solve v. BspQI/BssSI 3.2.1; Salsa2 v. HiC 2.0; purge_haplotigs v. bit 7.10.2018; smrtanalysis Arrow polishing & gap filling v. 5.1.0.26412; longranger align v. 2.2.2; FALCON v. 5.1.1; freebayes v. 1.2.0; gEVAL manual curation v. 2018-09-07	PacBio Sequel; 10X Genomics linked reads; Bionano Genomics 2 enzyme; Phase Genomics HiC
+GCA_964194215.2	77218	Rhinolophus hipposideros	Chromosome	various	PacBio,Arima2
+GCA_037306005.1	43566	Rhinophrynus dorsalis	Chromosome	Hifiasm + Hi-C phasing v. 0.19.3 + galaxy0; purge_dups v. 1.2.6; yahs v. 1.2a.2 + galaxy1	PacBio Sequel II HiFi; Arima Hi-C v2
+GCA_043290065.1	320637	Rhynchocyon petersi	Chromosome	Hifiasm + Hi-C phasing v. 0.19.8 + galaxy0; yahs v. 1.2a.2 + galaxy1	PacBio Revio HiFi; Arima Hi-C v2
+GCA_037038555.1	249017	Rhynchonycteris naso	Chromosome	Hifiasm + Hi-C phasing v. 0.19.3 + galaxy0; yahs v. 1.2a.2 + galaxy1	PacBio Sequel II HiFi; Arima Hi-C v2
+GCA_027574665.1	54386	Rhynochetos jubatus	Chromosome	HiFiasm v. 0.16.1 + galaxy2; purge_dups v. 1.2.5 + galaxy4; Bionano Solve v. 3.7.0 + galaxy0; salsa v. 2.3 + galaxy2; gEVAl manual curation v. 2022-06-16	PacBio Sequel II HiFi; Bionano Genomics DLS; Arima Hi-C v2
+GCF_028500815.1	75485	Rissa tridactyla	Chromosome	hifiasm v. 0.16.1+galaxy2; Bionano Solve v. 3.7.0+galaxy0; SALSA2 v. 2.3+galaxy2	PacBio Sequel II HiFi; Bionano DLS; Arima Hi-C v2
+GCF_014176215.1	9407	Rousettus aegyptiacus	Scaffold	DAmar v. APRIL-2019; Bionano Solve DLS v. 3.3; Salsa2 HiC v. git commit: e3ae7d8; GenomicConsensus v. git commit: 038de5c; longranger align v. 2.2.0; Freebayes v. 1.2.0; HiGlass manual curation v. 1.5	PacBio Sequel CLR; 10X Genomics chromium linked reads; Bionano Genomics; Arima Genomics Hi-C kit; PacBio Sequel IsoSeq
+GCF_036850765.1	59482	Saccopteryx bilineata	Chromosome	FALCON v. 1.8.1; FALCON-Unzip v. 1.3.7; Scaff10x v. 4.2; Bionano Solve v. 3.5.1; salsa2 v. 2.2; DipAsm v. 0.1	PacBio Sequel; Illumina NovaSeq; Bionano Saphyr
+GCF_036850995.1	249018	Saccopteryx leptura	Chromosome	FALCON v. 1.8.1; FALCON-Unzip v. 1.3.7; Scaff10X v. 4.2; Bionano Solve v. 3.5.1; salsa2 v. 2.2; DipAsm v. 0.1	PacBio Sequel; Illumina NovaSeq; Bionano Saphyr
+GCF_048565385.1	27679	Saimiri boliviensis	Chromosome	Hifiasm + Hi-C phasing v. 0.18.8 + galaxy1; yahs v. 1.2a.2 + galaxy1	PacBio Revio HiFi; Arima Hi-C v2 from mSaiBol1
+GCF_902148845.1	181472	Salarias fasciatus	Chromosome	various	PacBio,Illumina,BioNano,Arima
+GCF_030463535.1	930266	Salminus brasiliensis	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1 + galaxy4; Bionano Solve v. 3.7; yahs v. 1.2a.2 + galaxy0; manual curation v. 2023-05-12	PacBio Sequel II HiFi; Bionano DLS; Arima Hi-C v2
+GCF_901001165.1	8032	Salmo trutta	Chromosome	various	PacBio,Illumina,BioNano,Arima
+GCA_901001165.2	8032	Salmo trutta	Chromosome	various	PacBio,Illumina,BioNano,Arima
+GCA_037962945.1	43583	Sarcoramphus papa	Chromosome	Hifiasm + Hi-C phasing v. 0.19.3 + galaxy0; purge_dups v. 1.2.6 + galaxy0; yahs v. 1.2a.2 + galaxy1	PacBio Revio HiFi; Arima Hi-C v2
+GCF_963854185.1	27697	Sardina pilchardus	Chromosome	various	PacBio,Arima2
+GCA_964197995.1	58319	Scardinius erythrophthalmus	Chromosome	various	PacBio,Arima2
+GCF_020382885.2	75038	Scatophagus argus	Chromosome	falcon-kit v. 1.3.0; FALCON-Unzip v. 1.2.0; purge_dups v. 1.2.3; scaff10X v. 4.2; bionano Solve v. Solve3.5_12162019; Salsa2 HiC v. 2.2; Longranger Align v. 2.2.2; pbmm2 v. 1.4.0; gcpp v. 1.0.0-1807624; bcftools v. 1.12-21-ga865a16; merfin v. 09c026d; deepvariant v. 1.1.0; gEVAL manual curation v. 2021-07-16	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCF_902686445.1	30640	Sciurus carolinensis	Chromosome	various	PacBio,Illumina,Dovetail
+GCA_902686455.2	55149	Sciurus vulgaris	Chromosome	various	PacBio,Illumina,BioNano,HiC
+GCF_900964775.1	113540	Scleropages formosus	Chromosome	various	PacBio,Illumina,BioNano,Arima
+GCF_027409825.1	13676	Scomber japonicus	Chromosome	HiFiasm v. 0.15.4-r343; purge_dups v. 1.2.5; salsa v. 2.3; VGP pipeline v. 2.0; gEVAL manual curation v. 2022-02-03	PacBio Sequel II HiFi; Arima Hi-C v2
+GCF_963691925.1	13677	Scomber scombrus	Chromosome	various	PacBio,Arima2
+GCF_902713615.1	7830	Scyliorhinus canicula	Chromosome	various	PacBio,Illumina,BioNano,HiC
+GCA_902713615.2	7830	Scyliorhinus canicula	Chromosome	various	PacBio,Illumina,BioNano,HiC
+GCF_015220745.1	72105	Sebastes umbrosus	Chromosome	FALCON v. falcon-2018.31.08-03.06; FALCON-Unzip v. 6.0.0.47841; purge_dups v. github ca23030ccf4254dfd2d3a5ea90d0eed41c24f88b ca23030ccf4254dfd2d3a5ea90d0eed41c24f88b; Scaff10x x v. 3.2.1_04122018; Bionano Solve v. 3.2.1_04122018; Salsa2 HiC v. 2.2; Polish pbgcpp v. 1.9.0; Longranger Align v. 2.2.2; freebayes v. 1.3.1; gEVAL manual curation v. 2020-09-07; VGP assembly pipeline v. 1.6	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCA_946808225.1	933932	Silurus aristotelis	Chromosome	various	PacBio,Arima2
+GCF_958295425.1	90069	Solea solea	Chromosome	various	PacBio,Arima2
+GCF_027595985.1	42254	Sorex araneus	Chromosome	HiFiasm v. 0.15.4 + galaxy0; purge_dups v. 1.2.5 + galaxy3; Bionano Solve v. 3.6.1 + galaxy2; gEVAL manual curtion v. 2022-07-07	PacBio Sequel II HiFi; Bionano Genomics DLS; Arima Hi-C v2
+GCF_900880675.1	8175	Sparus aurata	Chromosome	various	PacBio,Illumina,Arima
+GCA_900880675.2	8175	Sparus aurata	Chromosome	various	PacBio,Illumina,Arima
+GCF_027358695.1	233779	Spea bombifrons	Chromosome	HiFiasm v. 0.16.1 + galaxy1; purge_dups v. 1.2.5 + galaxy3; Bionano Solve v. 3.7.0 + galaxy0; Salsa v. 2.3 + galaxy2; gEVAL manual curation v. 2022-04-01; VGP pipeline v. 2.0	PacBio Sequel II HiFi; Bionano Genomics DLS; Arima Hi-C
+GCA_964194105.1	9997	Spermophilus citellus	Chromosome	various	PacBio,Arima2
+GCF_902148855.1	375764	Sphaeramia orbicularis	Chromosome	various	PacBio,Illumina,BioNano,Arima
+GCA_027474245.1	9240	Spheniscus humboldti	Chromosome	HiFiasm v. 0.16.1 + galaxy1; purge_dups v. 1.2.5 + galaxy3; Bionano Solve v. 3.7.0 + galaxy0; salsa v. 2.3 + galaxy2	PacBio Sequel II HiFi
+GCA_050436865.1	1680617	Sphyraena novaehollandiae	Chromosome	hifiasm v. 0.9.8	PacBio Sequel; Illumina NextSeq
+GCA_963457725.1	196075	Sprattus sprattus	Chromosome	various	PacBio,Arima2
+GCA_050613895.1	7798	Squalus suckleyi	Chromosome	Hifiasm + Hi-C phasing v. 0.20.0 + galaxy0; yahs v. 1.2a.2 + galaxy2	PacBio Revio HiFi; Arima Hi-C v2
+GCF_030684315.1	3053191	Stegostoma tigrinum	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1 + galaxy3; yahs v. 1.2a.2 + galaxy0; Bionano Solve v. 3.7.0 + galaxy0	PacBio Sequel II HiFi; Arima Hi-C v2; Bionano Genomics DLS
+GCA_951394435.1	9737	Stenella coeruleoalba	Chromosome	various	PacBio,Arima2
+GCA_009819605.1	108405	Sterna hirundo	Chromosome	FALCON v. 2018.31.08-03.06; FALCON-Unzip v. 6.0.0.47841; purge_haplotigs v. v1.0.3+ 1.Nov.2018; scaff10x v. 4.1.0; Bionano Solve DLS v. 3.2.1; Salsa HiC v. 2.2; Arrow smrtanalysis Pacbio polishing & gap filling v. 6.0.0.47841; longranger align v. 2.2.2; freebayes Illumina polishing v. 1.3.1; gEVAL manual curation v. 2019-08-20; VGP assembly pipeline individual v. 1.5	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCA_964273445.1	177147	Streptopelia decaocto	Chromosome	various	PacBio,Arima2
+GCA_901699155.2	177155	Streptopelia turtur	Chromosome	various	PacBio,Illumina,BioNano,Arima
+GCF_004027225.2	2489341	Strigops habroptila	Chromosome	FALCON v. 5.1.1; FALCON unzip v. 1.0.2; scaff10X v. git 4.28.2018; Bionano Solve DLS v. 3.2.1; Salsa2 HiC v. 2.0; smrtanalysis Arrow polishing & gap filling v. 5.1.0.26412; longranger align v. 2.2.2; freebayes v. 1.2.0; purge_haplotigs v. bit 7.10.2018; gEVAL manual curation v. 2019-11-08	PacBio RSII; 10X Genomics linked reads; Bionano Genomics DLS; Arima Genomics HiC
+GCA_031877785.1	111821	Strix aluco	Chromosome	Hifiasm + Hi-C phasing v. 0.18.5+galaxy1; purge_dups v. 1.2.6+galaxy0; Bionano Solve v. 3.7; yahs v. 1.2a.2+galaxy0	PacBio Sequel II HiFi; Bionano Genomics DLS; Arima Hi-C v2
+GCF_040807025.1	8801	Struthio camelus	Chromosome	Hifiasm + Hi-C phasing v. 0.19.8 + galaxy0; yahs v. 1.2a.2 + galaxy1	PacBio Revio HiFi; Arima Hi-C v2
+GCF_024139225.1	109475	Suncus etruscus	Chromosome	FALCON v. 2.0.2; FALCON-Unzip v. 8.0.1; purge_dups v. 1.0.0; scaff10x v. 2.0.3; bionano solve v. 3.4.0; salsa v. 2.2; gcpp v. 2.0.2; merfin v. 1.0; freebayes v. 1.3.1	PacBio Sequel CLR; 10X linked reads; Bionano DLS; Arima Hi-C v1
+GCF_009819655.1	48155	Sylvia atricapilla	Chromosome	FALCON v. DNANexus 1.9.0; FALCON-Unzip v. DNANexus 1.0.6; purge_haplotigs v. v1.0.3+ 1.Nov.2018; scaff10x v. 4.1.0; Bionano Solve DLS v. 3.2.1; Salsa HiC v. 2.2; Arrow smrtanalysis Pacbio polishing & gap filling v. 6.0.0.47841; longranger align v. 2.2.2; freebayes Illumina polishing v. 1.3.1; gEVAL manual curation v. 2019-09-16; VGP assembly pipeline individual v. 1.5	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCA_014839755.1	73324	Sylvia borin	Chromosome	FALCON v. DX 2.0.0; FALCON-Unzip v. DX 1.1.0; purge_dups v. DX 19-08-10; scaff10X v. DX 2.0.3; bionano Solve v. DX 3.4.0; Salsa2 HiC v. DX 2.2.0; Arrow polishing and gap filling v. DX 7.0.1.1; Longranger Align v. DX 2.2.2.1; freebayes v. DX 19-07-11; gEVAL manual curation v. 2020-04-24; VGP assembly pipeline v. 1.6	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCA_048128715.1	396798	Symphorus nematophorus	Chromosome	HiFiasm v. 19.8	PacBio Sequel IIe
+GCF_901709675.1	161584	Syngnathus acus	Chromosome	various	PacBio,Illumina,Dovetail
+GCF_015852505.1	9261	Tachyglossus aculeatus	Chromosome	FALCON v. falcon-2018.31.08-03.06; FALCON-Unzip v. 6.0.0.47841; purge_dups v. github ca23030ccf4254dfd2d3a5ea90d0eed41c24f88b ca23030ccf4254dfd2d3a5ea90d0eed41c24f88b; Scaff10x v. 4.1.0; Bionano Solve v. 3.2.1_04122018; Salsa2 HiC v. 2.2; Polish pbgcpp v. 1.9.0; Longranger Align v. 2.2.2; freebayes v. 1.3.1; gEVAL manual curation v. 2020-09-17; Manual Curation v. 2020-10-26; VGP assembly pipeline v. 1.6	PacBio Sequel I CLR; Illumina NovaSeq; Bionano Genomics DLS; Phase Genomics
+GCF_048771995.1	59729	Taeniopygia guttata	Chromosome	dorado correct ONT reads v. 0.7.3; hybrid verkko assembler v. 2.2.1; HiFiasm + manual curation v. 0.24.0; mitoHiFi assembler v. 3 + galaxy0	PacBio Sequel IIe HiFi; Oxford Nanopore PromethION; Arima Hi-C v2; Illumina NovaSeq
+GCF_901000725.2	31033	Takifugu rubripes	Chromosome	various	PacBio,Illumina,BioNano,Arima
+GCA_901000725.3	31033	Takifugu rubripes	Chromosome	various	PacBio,Illumina,BioNano,Arima
+GCA_964194135.1	9375	Talpa europaea	Chromosome	various	PacBio,Arima2
+GCA_023851605.1	48850	Tamandua tetradactyla	Chromosome	falcon-kit v. 1.3.0; FALCON-Unzip v. 1.2.0; purge_dups v. 1.2.3; scaff10x v. 4.2; bionano_solve v. Solve3.5_12162019; salsa v. 2.2; longranger v. 2.2.2; pbmm2 v. 1.4.0; gcpp v. 1.0.0-1807624; bcftools v. 1.12-21-ga865a16; merfin v. 09c026d; deepvariant v. 1.1.0; gEVAL manual curation v. 2022-02-03; VGP pipeline v. 1.7	PacBio Sequel I CLR; Illumina NovaSeq; Bionano Genomics DLS; Arima Genomics Hi-C
+GCA_031878705.1	9802	Tapirus indicus	Chromosome	Hifiasm + Hi-C phasing v. 0.19.3 + galaxy0; yahs v. 1.2a.2 + galaxy1	PacBio Sequel II HiFi; Dovetail OmniC
+GCA_910589615.1	61643	Taurulus bubalis	Chromosome	various	PacBio,Illumina,Arima
+GCA_020745685.1	34787	Tautogolabrus adspersus	Chromosome	FALCON v. 2018.31.08-03.06; FALCON unzip v. SMRTLink8, pbalign:0.3.2,; purge_dups v. 1.2.5; scaff10X v. 4.1.0; Bionano Solve DLS v. 3.4_06042019a; Arrow polishing and gap filling v. pbgcpp:1.9.0.1; Longranger Align v. 2.2.2; Deepvariant v. 1.1.0	PacBio Sequel II CLR; 10X Gemonics linked reads; Bionano Genomics DLS; Arima Genomics Hi-C v1
+GCA_933228915.1	446457	Telmatherina bonti	Chromosome	various	PacBio,Arima2
+GCA_050624465.1	94439	Tenrec ecaudatus	Chromosome	Hifiasm + Hi-C phasing v. 0.20.0 + galaxy0; yahs v. 1.2a.2 + galaxy2	PacBio Revio HiFi; Arima Hi-C v2
+GCA_951394365.1	100830	Tetrao urogallus	Chromosome	various	PacBio,Arima2
+GCF_902500255.1	390379	Thalassophryne amazonica	Chromosome	various	PacBio,Illumina,BioNano,Arima
+GCA_965202585.1	34761	Thalia democratica	Chromosome	various	PacBio,Arima2
+GCF_009769535.1	35005	Thamnophis elegans	Chromosome	FALCON v. DNANexus 1.9.0; FALCON-Unzip v. DNANexus 1.0.6; purge_haplotigs v. v1.0.3+ 1.Nov.2018; scaff10x v. 4.1.0; Bionano Solve DLS v. 3.2.1; Salsa HiC v. 2.2; Arrow smrtanalysis Pacbio polishSing & gap filling v. 6.0.0.47841; longranger align v. 2.2.2; freebayes Illumina polishing v. 1.3.1; gEVAL manual curation v. 2019-08-20; VGP assembly pipeline individual v. 1.5	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCA_020745775.1	1118847	Theristicus caerulescens	Chromosome	FALCON v. 2018.31.08-03.06; FALCON unzip v. 7.0.1.66975; purge_dups v. 1.2.5; scaff10X v. 4.1.0; Bionano solve v. 3.4.0; Salsa2 v. 2.2; Arrow polishing pbcpp v. 1.9.0.1; Longranger Align v. 2.2.2; Deep variant polishing v. 1.1.0; gEVAL manual curation v. 2021-05-25; VGP pipeline v. 1.7	PacBio Sequel CLR; Illumina NovaSeq; Bionano Genomics Saphyr DLS; Arima Genomics Hi-C v1
+GCF_914725855.1	8236	Thunnus albacares	Chromosome	various	PacBio,Illumina,Arima
+GCA_914725855.2	8236	Thunnus albacares	Chromosome	various	PacBio,Illumina,Arima
+GCF_910596095.1	8240	Thunnus maccoyii	Chromosome	various	PacBio,Illumina,BioNano,Arima
+GCF_963924715.1	8237	Thunnus thynnus	Chromosome	various	PacBio,Arima2
+GCF_035046505.1	71010	Tiliqua scincoides	Chromosome	Hifiasm + Hi-C phasing v. 0.18.5 + galaxy1; yahs v. 1.2a.2 + galaxy0	PacBio Sequel II HiFi; Arima Hi-C v2
+GCF_017976425.1	941984	Toxotes jaculatrix	Chromosome	FALCON v. DX 2.0.2; FALCON-Unzip v. DX 8.0.1; purge_dups v. DX 19-08-10; scaff10X v. DX 2.0.3; bionano Solve v. DX 3.4.0; Salsa2 HiC v. DX 2.2.0; Assembly Polish v. SMRTLink7.0.1; Longranger Align v. DX 2.2.2.1; freebayes v. DX 19-07-11; gEVAL manual curation v. 2021-03-05; VGP assembly pipeline v. 1.6	PacBio Sequel; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCA_905171665.2	36212	Trachurus trachurus	Chromosome	various	PacBio,Illumina,Arima
+GCA_046562895.1	9777	Trichechus inunguis	Chromosome	Pipeasm v. 1.0	PacBio Sequel II
+GCF_030014385.1	2290929	Trichomycterus rosablanca	Chromosome	Hifiasm + Hi-C phasing v. 0.16.1 + galaxy4; yahs v. 1.2a.2 + galaxy0	PacBio Sequel II HiFi; Arima Hi-C v2
+GCF_011100635.1	9337	Trichosurus vulpecula	Chromosome	FALCON v. DNANexus 1.9.0; FALCON-Unzip v. DNANexus 1.0.6; purge_haplotigs v. v1.0.3+ 1.Nov.2018; scaff10x v. 4.1.0; Bionano Solve DLS v. 3.2.1; Salsa HiC v. 2.2; Arrow smrtanalysis Pacbio polishing & gap filling v. 6.0.0.47841; longranger align v. 2.2.2; freebayes Illumina polishing v. 1.3.1; gEVAL manual curation v. 2020-01-15; VGP assembly pipeline v. 1.5	PacBio Sequel; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCA_963675345.1	641091	Trididemnum clinides	Chromosome	various	PacBio,Arima2
+GCA_964204655.1	8323	Triturus cristatus	Chromosome	various	PacBio,Arima2
+GCA_020746105.1	297711	Trogon surrucura	Chromosome	FALCON v. 2018.31.08-03.06; FALCON-Unzip v. 7.0.1.66975; purge_dups v. 1.2.5; scaff10X v. 4.1.0; Bionano solve v. 3.4.0; Salsa2 v. 2.2; Arrow polishing pbcpp v. 1.9.0.1; Longranger Align v. 2.2.2; Deep variant polishing v. 1.1.0; gEVAL manual curation v. 2021-05-25; VGP pipeline v. 1.7	PacBio Sequel CLR; Illumina NovaSeq; Bionano Genomics Saphyr DLS; Arima Genomics Hi-C
+GCF_011762595.2	9739	Tursiops truncatus	Chromosome	TrioCanu v. 1.8; purge_dups v. 1.0.0; Scaff 10x v. 4.1.0; Bionano solve v. 3.2.1_04122018; Salsa2 HiC v. 2.2; Arrow polishing and gap filling v. smrtlink_6.0.0.47841; Freebayes v. 1.3.1; gEVAL manual curation v. 2020-01-15; VGP trio assembly pipeline v. 1.6	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCF_026979565.1	81927	Vidua chalybeata	Chromosome	canu v. 2.1; merfin v. 1.0; purgedups v. 1.2.5; salsa v. 2.2	PacBio Sequel II HiFi; Illumina
+GCA_964194415.1	31155	Vipera berus	Chromosome	various	PacBio,Arima2
+GCA_024294585.1	246179	Vipera latastei	Chromosome	hifiasm v. 0.13; purge_dups v. 1.2.5; Bionano solve v. 3.6.1; salsa v. 2.2; gEVAL v. 2021-12-08; VGP pipeline v. 2.0	PacBio Sequel II HiFi; Bionano DLE1; Arima Hi-C
+GCA_947247035.1	103942	Vipera ursinii	Chromosome	various	PacBio,Arima2
+GCA_045364795.1	1566151	Willisornis vidua	Chromosome	Pipeasm v. 1.0	PacBio Sequel II
+GCA_014839995.1	129108	Xenentodon cancila	Chromosome	FALCON v. DX 2.0.0; FALCON-Unzip v. DX 1.1.0; purge_dups v. DX 19-08-10; scaff10X v. DX 2.0.3; bionano Solve v. DX 3.4.0; Salsa2 HiC v. DX 2.2.0; Arrow polishing and gap filling v. DX 7.0.1.1; Longranger Align v. DX 2.2.2.1; freebayes v. DX 19-07-11; gEVAL manual curation v. 2020-04-24; VGP assembly pipeline v. 1.6	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCA_038501925.1	288555	Xenopus petersii	Chromosome	Hifiasm with trio-dual v. 0.19.3 + galaxy0; yahs v. 1.2a.2 + galaxy0	PacBio Sequel II HiFi; Arima Hi-C v2
+GCF_009762305.2	9704	Zalophus californianus	Chromosome	FALCON v. 2018.31.08-03.06; FALCON-Unzip v. 7.0.1.66975; purge_dups v. v1; scaff10x v. 4.1.0; Bionano Solve DLS v. 3.2.1; Salsa HiC v. 2.2; Arrow smrtanalysis Pacbio polishing & gap filling v. SMRTLink7.0.1; longranger align v. 2.2.2; freebayes Illumina polishing v. 1.3.1; gEVAL manual curation v. 2020-03-13; VGP assembly pipeline individual v. 1.6	PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS
+GCA_960531495.1	64108	Zeus faber	Chromosome	various	PacBio,Arima2
+GCF_963506605.1	8524	Zootoca vivipara	Chromosome	various	PacBio,Arima2
+GCA_965231245.1	43581	Zosterops lateralis	Chromosome	various	PacBio,Arima2

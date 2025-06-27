@@ -1,0 +1,38 @@
+accession	taxid	species_name	assembly_level	method	sequencing_technology	submission_date	number_of_contigs	number_of_scaffolds	contig_n50	scaffold_n50
+GCA_028646355.1	161921	Arctocephalus townsendi	Chromosome	3D-DNA v. 2021; JBAT v. 2021 (see dnazoo.org/methods)	Illumina NovaSeq 6000	2021-09-23T18:22:05.626	284102	238431	61084	127156334
+GCA_028533215.1	1303000	Babyrousa celebensis	Chromosome	3D-DNA v. 2021; JBAT v. 2021 (see dnazoo.org/methods)	HiSeq X Ten; Illumina NovaSeq 6000	2021-09-23T18:22:05.650	743099	696483	52664	112896847
+GCA_028627265.1	36225	Cercopithecus mitis	Chromosome	3D-DNA v. 2022; JBAT v. 2022 (see dnazoo.org/methods)	Illumina NovaSeq 6000	2022-02-01T23:58:03.680	1456707	1396160	28335	51119100
+GCA_028533335.1	68728	Chrysocyon brachyurus	Chromosome	3D-DNA v. 2020; JBAT v. 2020 (see dnazoo.org/methods)	HiSeq X Ten; Illumina MiSeq; Illumina NovaSeq 6000	2020-11-24T17:43:04.556	157193	120371	91425	60785871
+GCA_028534165.1	187985	Coendou prehensilis	Chromosome	3D-DNA v. 2019; JBAT v. 2019 (see dnazoo.org/methods)	HiSeq X Ten; Illumina NovaSeq 6000	2019-10-21T18:19:04.663	1798555	1753065	32746	42412415
+GCA_028646485.1	94188	Cryptoprocta ferox	Chromosome	3D-DNA v. 2019; JBAT v. 2019 (see dnazoo.org/methods)	HiSeq X Ten; NextSeq 500; Illumina NovaSeq 6000	2020-02-17T17:24:05.520	213093	185515	124286	107277967
+GCA_028627145.1	58063	Eidolon dupreanum	Chromosome	3D-DNA v. 2020; JBAT v. 2020 (see dnazoo.org/methods)	Illumina NovaSeq 6000	2020-11-24T17:43:04.586	1209684	1191098	109255	101563129
+GCA_028534055.1	34828	Eulemur mongoz	Chromosome	3D-DNA v. 2019; JBAT v. 2019 (see dnazoo.org/methods)	HiSeq X Ten; NextSeq 500; Illumina NovaSeq 6000	2020-02-17T17:24:05.776	1106606	1055658	38022	82429097
+GCF_012274545.1	885580	Fukomys damarensis	Scaffold	3D DNA v. NOV-2017	Illumina X Ten; Hi-C	2019-02-20T10:58:04.603	162868	73969	44756	62586000
+GCA_028533245.1	9634	Helarctos malayanus	Chromosome	3D-DNA v. 2020; JBAT v. 2020 (see dnazoo.org/methods)	HiSeq X Ten; Illumina NovaSeq 6000	2020-11-24T17:43:04.720	762462	726300	73706	59704986
+GCA_028533205.1	65632	Lagorchestes hirsutus	Chromosome	3D-DNA v. 2021; JBAT v. 2021 (see dnazoo.org/methods)	Illumina NovaSeq 6000	2021-09-23T18:22:06.046	631689	569642	57452	401333761
+GCA_028533165.1	30588	Leontopithecus rosalia	Chromosome	3D-DNA v. 2021; JBAT v. 2021 (see dnazoo.org/methods)	HiSeq X Ten; Illumina NovaSeq 6000	2021-09-23T18:22:06.066	401755	342831	55757	121128971
+GCA_028583105.1	9316	Macropus fuliginosus	Chromosome	3D-DNA v. 2018; JBAT v. 2018 (see dnazoo.org/methods)	HiSeq X Ten	2019-02-20T10:58:04.680	1491687	1417799	30299	341276260
+GCA_028627215.1	9317	Macropus giganteus	Chromosome	3D-DNA v. 2018; JBAT v. 2018 (see dnazoo.org/methods)	HiSeq X Ten	2019-02-20T10:58:04.700	1081779	1012328	41690	392871110
+GCA_028551445.1	36231	Miopithecus talapoin	Chromosome	3D-DNA v. 2022; JBAT v. 2022 (see dnazoo.org/methods)	Illumina NovaSeq 6000	2022-07-14T19:48:04.960	696051	651021	76031	99916881
+GCA_028533885.1	352831	Nasua narica	Chromosome	3D-DNA v. 2019; JBAT v. 2019 (see dnazoo.org/methods)	HiSeq X Ten; NextSeq 500; Illumina NovaSeq 6000	2020-02-17T17:24:05.890	1127599	1091317	64559	119764535
+GCA_028658305.1	298894	Pachyuromys duprasi	Chromosome	3D-DNA v. 2020; JBAT v. 2020 (see dnazoo.org/methods)	HiSeq X Ten; Illumina NovaSeq 6000	2020-11-24T17:43:04.946	551819	502065	47672	70283636
+GCF_028533385.1	9690	Panthera onca	Chromosome	3D-DNA v. 2020; JBAT v. 2020 (see dnazoo.org/methods)	HiSeq X Ten; NextSeq 500; Illumina NovaSeq 6000	2020-02-17T17:24:05.923	92613	36242	53866	138099990
+GCA_028646595.1	65615	Phalanger gymnotis	Chromosome	3D-DNA v. 2018; JBAT v. 2018 (see dnazoo.org/methods)	HiSeq X Ten	2019-02-20T10:58:05.020	1222713	1142900	28067	353051754
+GCA_029783875.1	358128	Phataginus tricuspis	Scaffold	Supernova v. 2.0; 3D de novo assembly (3D-DNA) pipeline v. 180922	Illumina NovaSeq; 10X Genomics; Hi-C	2022-11-24T13:33:03.160	66524	26460	113164	46351422
+GCA_028658325.1	173936	Potorous gilbertii	Chromosome	3D-DNA v. 2021; JBAT v. 2021 (see dnazoo.org/methods)	Illumina NovaSeq 6000	2021-09-23T18:22:06.300	1209112	1148168	46323	557804701
+GCA_028534135.1	29067	Potos flavus	Chromosome	3D-DNA v. 2019; JBAT v. 2019 (see dnazoo.org/methods)	HiSeq X Ten; Illumina NovaSeq 6000	2019-10-21T18:19:05.133	878264	841001	65113	121721779
+GCA_028646535.1	9654	Procyon lotor	Chromosome	3D-DNA v. 2018; JBAT v. 2018 (see dnazoo.org/methods)	HiSeq X Ten	2019-02-20T10:58:05.040	877198	819431	34230	114539748
+GCA_028646575.1	656515	Pseudocheirus occidentalis	Chromosome	3D-DNA v. 2019; JBAT v. 2019 (see dnazoo.org/methods)	Illumina NovaSeq 6000	2019-10-21T18:19:05.156	1001302	917762	24464	213462136
+GCA_028646515.1	65629	Pseudochirops corinnae	Chromosome	3D-DNA v. 2019; JBAT v. 2019 (see dnazoo.org/methods)	Illumina NovaSeq 6000	2019-10-21T18:19:05.180	635686	551799	26949	209248263
+GCA_028627135.1	37702	Pseudochirops cupreus	Chromosome	3D-DNA v. 2019; JBAT v. 2019 (see dnazoo.org/methods)	Illumina NovaSeq 6000	2019-10-21T18:19:05.203	1136014	1056511	27966	425237964
+GCA_028533765.1	196297	Pteropus rufus	Chromosome	3D-DNA v. 2019; JBAT v. 2019 (see dnazoo.org/methods)	NextSeq 500; Illumina NovaSeq 6000	2020-02-17T17:24:06.020	483369	469091	213999	110476781
+GCA_028646465.1	9809	Rhinoceros unicornis	Chromosome	3D-DNA v. 2020; JBAT v. 2020 (see dnazoo.org/methods)	HiSeq X Ten; Illumina NovaSeq 6000	2020-02-17T17:24:06.046	306900	273665	105810	56870999
+GCA_028533395.1	77223	Rousettus madagascariensis	Chromosome	3D-DNA v. 2020; JBAT v. 2020 (see dnazoo.org/methods)	NextSeq 500; Illumina NovaSeq 6000	2020-02-17T17:24:06.073	1491090	1467186	63903	85834856
+GCA_028646385.1	46167	Steno bredanensis	Chromosome	3D-DNA v. 2020; JBAT v. 2020 (see dnazoo.org/methods)	Illumina NovaSeq 6000	2020-11-24T17:43:05.340	266806	221678	59977	94897118
+GCF_006229205.1	37032	Suricata suricatta	Chromosome	3-D DNA Pipeline v. AUGUST-2017	Illumina HiSeq; Illumina X10	2019-05-23T10:51:05.626	129036	63791	75409	141453419
+GCA_015711505.1	365149	Sylvilagus bachmani	Chromosome	3D-DNA v. 2020; JBAT v. 2020	Illumina NovaSeq 6000	2020-08-12T09:54:20.593	575170	524010	58367	110456461
+GCA_028533065.1	148073	Trachops cirrhosus	Chromosome	3D-DNA and JBAT (see dnazoo.org/methods) v. v. 2022	Illumina NovaSeq 6000	2022-07-14T19:48:05.120	432766	396519	60077	124458213
+GCA_028551375.1	9638	Tremarctos ornatus	Chromosome	3D-DNA v. 2021; JBAT v. 2021 (see dnazoo.org/methods)	HiSeq X Ten	2021-09-23T18:22:06.550	217262	188811	117282	104741234
+GCA_028551405.1	36800	Uromys caudimaculatus	Chromosome	3D-DNA v. 2020; JBAT v. 2020 (see dnazoo.org/methods)	Illumina NovaSeq 6000	2020-11-24T17:43:05.386	611178	559416	49660	99048585
+GCA_028533085.1	9455	Varecia variegata	Chromosome	3D-DNA v. 2022; JBAT v. 2022 (see dnazoo.org/methods)	HiSeq X Ten; Illumina NovaSeq 6000	2022-07-14T19:48:05.133	1029863	984208	40155	128811464
+GCA_028644305.1	226860	Xerus rutilus	Chromosome	3D-DNA v. 2021; JBAT v. 2021 (see dnazoo.org/methods)	Illumina NovaSeq 6000	2021-09-23T18:22:06.570	1164041	1123228	58140	127260801
