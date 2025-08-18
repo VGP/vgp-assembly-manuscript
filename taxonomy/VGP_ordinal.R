@@ -44,11 +44,15 @@ devtools::install_github("phylotastic/datelifeplot")
 # load VGP ordinal list
 gs4_auth(token = NULL, scopes = "https://www.googleapis.com/auth/spreadsheets.readonly", email = "giulio.formenti@gmail.com")
 ordinal_list <- read_sheet(ss = "17aOjpVgclwdDcDccx7Jpuy4IL6PUcVYntB-iwfj0aZ4", sheet = 1)
+
 #ordinal_list <- read_excel("VGP Ordinal List.xlsx", sheet = 1) # ord download as Excel first
 setDT(ordinal_list)
 setnames(ordinal_list, c("Orders Scientific Name (inferred >50 MYA divergence times)"), c("order_50MYA"))
 ordinal_list <- ordinal_list %>% mutate(order_50MYA = gsub(")", "", order_50MYA))
 ordinal_list[, c("order", "suborder1", "suborder2", "suborder3") := tstrsplit(order_50MYA, "\\ \\(|\\ > |\\|", fixed=FALSE)]
+
+# fix the hybrid
+ordinal_list$`Scientific Name`[ordinal_list$`Scientific Name` == "Ambystoma mexicanum x Ambystoma tigrinum"] <- "Ambystoma mexicanum"
 
 #List all superorders:
 write.table(as.data.frame(table(ordinal_list$Superorder[!is.na(ordinal_list$`Accession # for main haplotype`)])), ,
@@ -78,8 +82,8 @@ frequency$Percent=round(frequency$Freq/sum(frequency$Freq)*100,2)
 write.table(frequency, sep = "\t", row.names = FALSE, quote = FALSE)
 
 # replace missing names in taxonomy with closely related species
-conditions <- c("Ambystoma mexicanum x Ambystoma tigrinum", "Aspidoscelis tigris stejnegeri", "Aegotheles albertisi", "Osmerus mordax", "Hydrolagus colliei")
-replacement_values <- c("Ambystoma mexicanum", "Aspidoscelis tigris", "Aegotheles albertisi albertisi", "Osmerus mordax mordax", "Hydrolagus bemisi")
+conditions <- c("Aspidoscelis tigris stejnegeri", "Aegotheles albertisi", "Osmerus mordax", "Hydrolagus colliei")
+replacement_values <- c("Aspidoscelis tigris", "Aegotheles albertisi albertisi", "Osmerus mordax mordax", "Hydrolagus bemisi")
 inds <- match(ordinal_species$`Scientific Name`, conditions)
 ordinal_species$`Scientific Name updated` <- ordinal_species$`Scientific Name` # Copy original column to a new one
 ordinal_species$`Scientific Name updated`[!is.na(inds)] <- replacement_values[na.omit(inds)] # Replace only matched rows in the new column
@@ -87,8 +91,8 @@ ordinal_species$`Scientific Name updated`[!is.na(inds)] <- replacement_values[na
 # match names
 VGP_ordinal_resolved_names <- rotl::tnrs_match_names(names = ordinal_species$`Scientific Name updated`)
 
-# add status and lineage
-VGP_ordinal_resolved_names_with_status <- cbind(VGP_ordinal_resolved_names, ordinal_species$complete_status, ordinal_species$Lineage, ordinal_species$`Scientific Name`)
+# add status and extended lineage
+VGP_ordinal_resolved_names_with_status <- cbind(VGP_ordinal_resolved_names, ordinal_species$complete_status, ordinal_species$`Extended lineage`, ordinal_species$`Scientific Name`)
 
 #check presence in tree
 in_tree <- rotl::is_in_tree(VGP_ordinal_resolved_names_with_status$ott_id)
@@ -117,12 +121,12 @@ VGP_ordinal_subtree$tip.label <- sapply(VGP_ordinal_subtree$tip.label, function(
 }, USE.NAMES = FALSE)
 
 # build metadata table for lineage
-l <- VGP_ordinal_resolved_names_with_status[lengths(VGP_ordinal_resolved_names_with_status$`ordinal_species$\`Scientific Name\``)>0,] %>% select(`ordinal_species$Lineage`)
+l <- VGP_ordinal_resolved_names_with_status[lengths(VGP_ordinal_resolved_names_with_status$`ordinal_species$\`Scientific Name\``)>0,] %>% select(`ordinal_species$\`Extended lineage\``)
 row.names(l) <- VGP_ordinal_resolved_names_with_status[lengths(VGP_ordinal_resolved_names_with_status$`ordinal_species$\`Scientific Name\``)>0,]$`ordinal_species$\`Scientific Name\``
 
 metadata <- data.frame (
   label = row.names(l),
-  lineage = l$`ordinal_species$Lineage`
+  lineage = l$`ordinal_species$\`Extended lineage\``
   )
 
 lineage_colors <- metadata %>%
@@ -131,17 +135,48 @@ lineage_colors <- metadata %>%
 
 metadata$order = ordinal_list$`Order (NCBI)`[match(metadata$label, ordinal_list$`Scientific Name`)]
 metadata$assembly_size = ordinal_list$`Assembly Size`[match(metadata$label, ordinal_list$`Scientific Name`)] / 1e6
-metadata$completed = VGP_ordinal_resolved_names_with_status$`ordinal_species$complete_status`[match(metadata$label, ordinal_list$`Scientific Name`)]
+metadata$completed = VGP_ordinal_resolved_names_with_status$`ordinal_species$complete_status`[match(metadata$label, VGP_ordinal_resolved_names_with_status$`ordinal_species$\`Scientific Name\``)]
 metadata$label_to_plot = ifelse(metadata$completed, metadata$label, NA)
 metadata$lineage <- factor(metadata$lineage, levels=lineage_colors$lineage)
 
 class_colors <- c(
-  Amphibians    = "#228B22",  # Forest green
-  Birds         = "#DAA520",  # Goldenrod
-  Fishes        = "#4682B4",  # Steel blue
-  Invertebrates = "#DA70D6",  # Orchid
-  Mammals       = "#B22222",  # Firebrick
-  Reptiles      = "#556B2F"   # Dark olive green
+  "Mammals" = "#E69F00",  # Okabe–Ito Orange
+  "Birds" = "#00796B",    # Teal 700
+  "Crocodiles" = "#009688",# Teal 500
+  "Turtles" = "#4DB6AC",  # Teal 300
+  "Lepidosauria" = "#80CBC4", # Teal 200
+  "Amphibians" = "#984EA3",   # Purple
+  "Lobe-finned fishes" = "#A6761D", # Brown
+  "Ray-finned fishes" = "#56B4E9",  # Okabe–Ito Sky Blue
+  "Cartilaginous fishes" = "#0072B2", # Okabe–Ito Blue
+  "Cyclostomes" = "#CC79A7", # Okabe–Ito Magenta
+  "Other Deurostomes" = "#999999"  # Neutral Gray
+)
+
+# 1) Choose which lineages go on row 1 vs row 2
+top_row <- c("Mammals","Birds","Crocodiles","Turtles","Lepidosauria","Amphibians")
+bottom_row <- c("Lobe-finned fishes",
+                "Ray-finned fishes","Cartilaginous fishes",
+                "Cyclostomes","Other Deurostomes")
+
+desired_order <- c(top_row, bottom_row)
+
+# Apply the order to the factor used by the plot
+metadata$lineage <- factor(metadata$lineage, levels = desired_order)
+
+# 2) Two-line legend labels (insert \n where you want the wrap and adjust wording here)
+display_labels <- c(
+  "Mammals" = "Mammals",
+  "Birds" = "Birds",
+  "Crocodiles" = "Crocodiles",
+  "Turtles" = "Turtles",
+  "Lepidosauria" = "Lepidosauria\n(Squamates and Tuatara)",
+  "Amphibians" = "Amphibians",
+  "Lobe-finned fishes" = "Lobe-finned fishes\n(coelacanth/lungfish)",
+  "Ray-finned fishes" = "Ray-finned fishes",
+  "Cartilaginous fishes" = "Cartilaginous fishes",
+  "Cyclostomes" = "Cyclostomes (Jawless fishes)",
+  "Other Deurostomes" = "Other Deurostomes\n(non-vertebrates)"
 )
 
 row.names(metadata) <- row.names(l)
@@ -185,7 +220,13 @@ p_ordinal <- groupOTU(p_ordinal, completeness_grp, 'status') + aes(color=status)
     width = 2,          # ring thickness
     offset = 0        # distance from tips
   ) +
-  scale_fill_manual(values = class_colors, name = "Lineage")
+  scale_fill_manual(
+    name   = "Lineage",
+    values = class_colors[desired_order],
+    breaks = desired_order,                      # order in legend
+    labels = display_labels[desired_order],      # two-line text
+    guide  = guide_legend(nrow = 2, ncol = length(top_row), byrow = TRUE, keywidth = 0.5, keyheight = 0.5)
+  )
 
 # (2) OUTER ring: assembly-size bars
 p_ordinal <- p_ordinal + 
@@ -275,6 +316,17 @@ order_strips <- tip_order %>%
     strip_color = ifelse(idx %% 2 == 1, "gray", "black")
   )
 
+# Color orders red ONLY if none of their species is represented among the plotted (completed) tips
+order_rep <- p_ordinal$data %>%
+  dplyr::filter(isTip) %>%
+  dplyr::group_by(order = !!rlang::sym("order")) %>%
+  dplyr::summarise(n_rep = sum(!is.na(label_to_plot_short)), .groups = "drop") %>%  # completed & labeled
+  dplyr::mutate(has_rep = n_rep > 0)
+
+order_strips <- order_strips %>%
+  dplyr::left_join(order_rep, by = "order") %>%
+  dplyr::mutate(status_color = ifelse(is.na(has_rep) | !has_rep, "red", "black"))
+
 # quick diagnostic
 cat("Orders in tip_order:", n_distinct(tip_order$order),
     " | Orders with strips:", n_distinct(order_strips$order), "\n")
@@ -295,28 +347,25 @@ for (i in seq_len(nrow(order_strips))) {
       barsize = 1,                         # set >0 for a thin connector
       extend = 0,
       fill    = NA,                        # or e.g. "black", alpha = 0.1 for a band
-      barcolor = order_strips$strip_color[i],  # Color for the bar
-      textcolor = "black",   # Color for the label text
+      barcolor = "black",  # Color for the bar, order_strips$strip_color[i]
+      textcolor = order_strips$status_color[i],   # Color for the label text
       fontsize = 2
     )
 }
 
 # legends
 p_ordinal2 <- p_ordinal1 +
-  theme(legend.position="right",
-        legend.margin=margin(0,0,0,10),
-        legend.box.spacing = margin(4)) + 
-  scale_color_manual(values = c("black", "red")) + new_scale_fill() +
-  scale_fill_manual(
-    name="Lineage",
-    values=class_colors,
-    guide=guide_legend(keywidth=0.3, keyheight=0.3, ncol=2, order=2)
-  )+
   theme(
-    legend.position = "right",
-    legend.margin = margin(0, 0, 0, 0),
-    legend.box.spacing = unit(1, "cm"),
-    plot.margin = margin(0,0,0,0))
+    legend.position = "bottom",
+    legend.direction = "horizontal",
+    legend.box = "horizontal",
+    legend.margin = margin(t = 4, r = 0, b = 0, l = 0),
+    legend.box.spacing = unit(4, "mm")
+  ) +
+  scale_color_manual(
+    values = c("black", "red"),
+    guide = guide_legend(title = "Status", nrow = 1, byrow = TRUE, order = 1)
+  )
 
 ggsave(dpi=600, filename='ordinal_tree.png', width = 15, height = 12)
 
