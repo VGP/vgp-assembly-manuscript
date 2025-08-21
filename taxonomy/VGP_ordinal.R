@@ -76,6 +76,26 @@ ordinal_species <- ordinal_list %>%
   ungroup %>%
   filter((count_complete_status > 1 & complete_status) | count_complete_status == 1 | (count_complete_status > 1 & !complete_status))
 
+# Count sequenced species (Status >= 4) per Order from the full table
+order_seq_counts <- ordinal_list %>%
+  transmute(
+    Order,
+    species = `Scientific Name`,
+    is_seq = !is.na(`Accession # for main haplotype`)
+  ) %>%
+  distinct(Order, species, .keep_all = TRUE) %>%   # avoid duplicate species rows, if any
+  group_by(Order) %>%
+  summarise(
+    n_sequenced = sum(is_seq, na.rm = TRUE),
+    n_species   = n(),                              # total species listed for that Order
+    pct_seq     = n_sequenced / n_species,
+    .groups = "drop"
+  )
+
+# Attach to existing ordinal_species dataframe
+ordinal_species <- ordinal_species %>%
+  left_join(order_seq_counts, by = "Order")
+
 # completeness stats
 frequency <- as.data.frame(table(ordinal_species$complete_status))
 frequency$Percent=round(frequency$Freq/sum(frequency$Freq)*100,2)
@@ -135,6 +155,8 @@ lineage_colors <- metadata %>%
 
 metadata$order = ordinal_list$`Order (NCBI)`[match(metadata$label, ordinal_list$`Scientific Name`)]
 metadata$assembly_size = ordinal_list$`Assembly Size`[match(metadata$label, ordinal_list$`Scientific Name`)] / 1e6
+metadata$total_species = ordinal_list$`# species/order`[match(metadata$label, ordinal_list$`Scientific Name`)] / 1e3
+metadata$sequenced_species = ordinal_species$n_sequenced[match(metadata$label, ordinal_species$`Scientific Name`)]
 metadata$completed = VGP_ordinal_resolved_names_with_status$`ordinal_species$complete_status`[match(metadata$label, VGP_ordinal_resolved_names_with_status$`ordinal_species$\`Scientific Name\``)]
 metadata$label_to_plot = ifelse(metadata$completed, metadata$label, NA)
 metadata$lineage <- factor(metadata$lineage, levels=lineage_colors$lineage)
@@ -219,20 +241,39 @@ p_ordinal <- groupOTU(p_ordinal, completeness_grp, 'status') + aes(color=status)
     mapping = aes(fill = lineage),
     width = 2,          # ring thickness
     offset = 0        # distance from tips
-  ) +
-  scale_fill_manual(
-    name   = "Lineage",
-    values = class_colors[desired_order],
-    breaks = desired_order,                      # order in legend
-    labels = display_labels[desired_order],      # two-line text
-    guide  = guide_legend(nrow = 2, ncol = length(top_row), byrow = TRUE, keywidth = 0.5, keyheight = 0.5)
   )
 
-# (2) OUTER ring: assembly-size bars
+# (2a) OUTER ring: assembly-size bars
 p_ordinal <- p_ordinal + 
   geom_fruit(
     geom = geom_bar,
     mapping = aes(x = assembly_size),
+    stat = "identity",
+    orientation = "y",
+    width = 1,
+    offset = 0.65
+  ) +
+  scale_x_continuous(name = NULL) +
+  theme(text = element_text(family = "Arial"))
+
+# (2b) OUTER ring: number of species in the order
+p_ordinal <- p_ordinal + 
+  geom_fruit(
+    geom = geom_bar,
+    mapping = aes(x = total_species),
+    stat = "identity",
+    orientation = "y",
+    width = 1,
+    offset = 0.65
+  ) +
+  scale_x_continuous(name = NULL) +
+  theme(text = element_text(family = "Arial"))
+
+# (2c) OUTER ring: number of species sequenced
+p_ordinal <- p_ordinal + 
+  geom_fruit(
+    geom = geom_bar,
+    mapping = aes(x = sequenced_species),
     stat = "identity",
     orientation = "y",
     width = 1,
@@ -353,6 +394,11 @@ for (i in seq_len(nrow(order_strips))) {
     )
 }
 
+# keep the tip label size in one place
+tip_font_mm <- 2     # <- this matches geom_tiplab2(size = 2)
+mm_to_pt    <- function(mm) mm / 0.3527778
+legend_pt   <- mm_to_pt(tip_font_mm)   # ~ 5.67 pt
+
 # legends
 p_ordinal2 <- p_ordinal1 +
   theme(
@@ -360,11 +406,23 @@ p_ordinal2 <- p_ordinal1 +
     legend.direction = "horizontal",
     legend.box = "horizontal",
     legend.margin = margin(t = 4, r = 0, b = 0, l = 0),
-    legend.box.spacing = unit(4, "mm")
+    legend.box.spacing = unit(4, "mm"),
+    legend.text  = element_text(size = legend_pt),
+    legend.title = element_text(size = legend_pt)
   ) +
   scale_color_manual(
     values = c("black", "red"),
-    guide = guide_legend(title = "Status", nrow = 1, byrow = TRUE, order = 1)
+    guide = guide_legend(title = "Status", nrow = 1, byrow = TRUE, order = 1, title.theme = element_text(size = legend_pt),
+                         label.theme = element_text(size = legend_pt))
+  ) +
+  scale_fill_manual(
+    name   = "Lineage",
+    values = class_colors[desired_order],
+    breaks = desired_order,                      # order in legend
+    labels = display_labels[desired_order],      # two-line text
+    guide  = guide_legend(nrow = 2, ncol = length(top_row), byrow = TRUE, keywidth = 0.5, keyheight = 0.5,
+                          title.theme = element_text(size = legend_pt),
+                          label.theme = element_text(size = legend_pt))
   )
 
 ggsave(dpi=600, filename='ordinal_tree.png', width = 15, height = 12)
