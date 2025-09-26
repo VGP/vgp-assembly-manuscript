@@ -13,7 +13,7 @@ install_load <- function(packages){
 
 required_packages <- c("readxl", "data.table", "tidyverse", "ape", "ggplot2", 
                        "TreeTools", "ape", "devtools", "stringr", "ggnewscale", 
-                       "BiocManager", "RColorBrewer", "googlesheets4", "ggforce", "gtable", "ggpubr", "grid")
+                       "BiocManager", "RColorBrewer", "googlesheets4", "ggforce", "gtable", "ggpubr", "grid", "systemfonts", "svglite")
 
 install_load(required_packages)
 lapply(required_packages, packageVersion)
@@ -154,9 +154,9 @@ lineage_colors <- metadata %>%
   distinct()
 
 metadata$order = ordinal_list$`Order (NCBI)`[match(metadata$label, ordinal_list$`Scientific Name`)]
-metadata$assembly_size = ordinal_list$`Assembly Size`[match(metadata$label, ordinal_list$`Scientific Name`)] / 1e6
-metadata$total_species = ordinal_list$`# species/order`[match(metadata$label, ordinal_list$`Scientific Name`)] / 1e3
-metadata$sequenced_species = ordinal_species$n_sequenced[match(metadata$label, ordinal_species$`Scientific Name`)]
+metadata$assembly_size = ordinal_list$`Assembly Size`[match(metadata$label, ordinal_list$`Scientific Name`)]
+metadata$total_species_order = ordinal_list$`# species/order`[match(metadata$label, ordinal_list$`Scientific Name`)]
+metadata$sequenced_species_order = ordinal_species$n_sequenced[match(metadata$label, ordinal_species$`Scientific Name`)]
 metadata$completed = VGP_ordinal_resolved_names_with_status$`ordinal_species$complete_status`[match(metadata$label, VGP_ordinal_resolved_names_with_status$`ordinal_species$\`Scientific Name\``)]
 metadata$label_to_plot = ifelse(metadata$completed, metadata$label, NA)
 metadata$lineage <- factor(metadata$lineage, levels=lineage_colors$lineage)
@@ -164,7 +164,7 @@ metadata$lineage <- factor(metadata$lineage, levels=lineage_colors$lineage)
 class_colors <- c(
   "Mammals" = "#E69F00",  # Okabe–Ito Orange
   "Birds" = "#00796B",    # Teal 700
-  "Crocodiles" = "#009688",# Teal 500
+  "Crocodilians" = "#009688",# Teal 500
   "Turtles" = "#4DB6AC",  # Teal 300
   "Lepidosauria" = "#80CBC4", # Teal 200
   "Amphibians" = "#984EA3",   # Purple
@@ -176,7 +176,7 @@ class_colors <- c(
 )
 
 # 1) Choose which lineages go on row 1 vs row 2
-top_row <- c("Mammals","Birds","Crocodiles","Turtles","Lepidosauria","Amphibians")
+top_row <- c("Mammals","Birds","Crocodilians","Turtles","Lepidosauria","Amphibians")
 bottom_row <- c("Lobe-finned fishes",
                 "Ray-finned fishes","Cartilaginous fishes",
                 "Cyclostomes","Other Deurostomes")
@@ -190,7 +190,7 @@ metadata$lineage <- factor(metadata$lineage, levels = desired_order)
 display_labels <- c(
   "Mammals" = "Mammals",
   "Birds" = "Birds",
-  "Crocodiles" = "Crocodiles",
+  "Crocodilians" = "Crocodilians",
   "Turtles" = "Turtles",
   "Lepidosauria" = "Lepidosauria\n(Squamates and Tuatara)",
   "Amphibians" = "Amphibians",
@@ -231,6 +231,29 @@ metadata$label_to_plot_short <- ifelse(
   NA_character_
 )
 
+# Prepare inward (negative) values and shared limits
+metadata$sequenced_inward <- -metadata$sequenced_species_order
+xmax <- max(
+  metadata$total_species_order,
+  metadata$sequenced_species_order,
+  na.rm = TRUE
+)
+
+# Create a scatterplot
+plot(metadata$sequenced_species_order, metadata$total_species_order,
+     main = "Scatterplot of X vs Y", # Plot title
+     xlab = "Sequenced species per order",            # X-axis label
+     ylab = "Total species per order",            # Y-axis label
+     pch = 19,                       # Point style (filled circles)
+     col = "blue",
+     log = "yx")                   # Point color
+
+# choose readable ticks
+axis_breaks <- c(0,2000,4000)
+axis_labs   <- c(0, "2K", "4K")  # show magnitudes only
+
+#### plotting starts here ####
+
 # Start from the circular tree
 p_ordinal <- ggtree(VGP_ordinal_subtree, layout = "circular") %<+% metadata
 
@@ -243,44 +266,34 @@ p_ordinal <- groupOTU(p_ordinal, completeness_grp, 'status') + aes(color=status)
     offset = 0        # distance from tips
   )
 
-# (2a) OUTER ring: assembly-size bars
-p_ordinal <- p_ordinal + 
+# (2) ONE ultra-compact back-to-back ring
+# Outward = total species per order (positive)
+p_ordinal <- p_ordinal +
   geom_fruit(
-    geom = geom_bar,
-    mapping = aes(x = assembly_size),
-    stat = "identity",
+    geom        = geom_col,
+    mapping     = aes(x = total_species_order),
     orientation = "y",
-    width = 1,
-    offset = 0.65
-  ) +
-  scale_x_continuous(name = NULL) +
-  theme(text = element_text(family = "Arial"))
+    width       = 0.4,     # ring thickness (keep small)
+    offset      = 0.7,     # distance from tips
+    axis.params = list(
+      axis       = "x",
+      text.size  = 2
+    ),
+    fill="darkgrey"
+  )
 
-# (2b) OUTER ring: number of species in the order
-p_ordinal <- p_ordinal + 
+# Inward = sequenced species per order (negative)
+# Same offset/width/limits, hide axis to avoid duplication
+p_ordinal <- p_ordinal +
   geom_fruit(
-    geom = geom_bar,
-    mapping = aes(x = total_species),
-    stat = "identity",
+    geom        = geom_col,
+    mapping     = aes(x = sequenced_inward),
     orientation = "y",
-    width = 1,
-    offset = 0.65
-  ) +
-  scale_x_continuous(name = NULL) +
-  theme(text = element_text(family = "Arial"))
-
-# (2c) OUTER ring: number of species sequenced
-p_ordinal <- p_ordinal + 
-  geom_fruit(
-    geom = geom_bar,
-    mapping = aes(x = sequenced_species),
-    stat = "identity",
-    orientation = "y",
-    width = 1,
-    offset = 0.65
-  ) +
-  scale_x_continuous(name = NULL) +
-  theme(text = element_text(family = "Arial"))
+    width       = 0.4,
+    offset      = -0.2,
+    axis.params = list(axis = "x", text.size = 2),
+    fill="lightgrey"
+  )
 
 # (3) Labels outside both rings
 p_ordinal <- p_ordinal + 
@@ -425,7 +438,7 @@ p_ordinal2 <- p_ordinal1 +
                           label.theme = element_text(size = legend_pt))
   )
 
-ggsave(dpi=600, filename='ordinal_tree.png', width = 15, height = 12)
+ggsave(filename='ordinal_tree.svg', width = 15, height = 12, device = "svg")
 
 ###### Full vertebrate tree
 
