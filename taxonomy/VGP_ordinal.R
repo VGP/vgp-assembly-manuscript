@@ -442,75 +442,123 @@ ggsave(filename='ordinal_tree.svg', width = 15, height = 12, device = "svg")
 
 ###### Full vertebrate tree
 
+#### deprecated method, includes all leaves by default
 #import vertebrate tree
-if (!file.exists("vertebrate_tree.rds")) {
-  id <- 801601
-  vertebrate_tree <- rotl::tol_subtree(ott_id = id)
-  saveRDS(vertebrate_tree, file = "vertebrate_tree.rds")
-} else {
-  vertebrate_tree <- readRDS("vertebrate_tree.rds")
-}
-# remove underscore from tip labels
-vertebrate_tree$tip.label <- sub("_", " ", rotl::strip_ott_ids(vertebrate_tree$tip.label))
+# if (!file.exists("vertebrate_tree.rds")) {
+#   id <- 801601
+#   vertebrate_tree <- rotl::tol_subtree(ott_id = id)
+#   saveRDS(vertebrate_tree, file = "vertebrate_tree.rds")
+# } else {
+#   vertebrate_tree <- readRDS("vertebrate_tree.rds")
+# }
+# 
+# # subset at the species level
+# if (!file.exists("vertebrate_tree_species_only.rds")) {
+#   species_list <- unique(gsub("^(\\S+\\s+\\S+).*", "\\1", vertebrate_tree$tip.label)) # keep genus + species
+#   resolved <- rotl::tnrs_match_names(species_list)
+#   sum(is.na(resolved)) # get count of missing values
+#   resolved_wo_na <- na.omit(resolved)
+#   #in_tree <- rotl::is_in_tree(resolved_wo_na$ott_id) # very slow
+#   resolved_ok <- resolved_wo_na[in_tree, , drop = FALSE]
+#   vertebrate_tree_species_only <- rotl::tol_induced_subtree(ott_ids = resolved_ok$ott_id)
+# } else {
+#   vertebrate_tree_species_only <- readRDS("vertebrate_tree_species_only.rds")
+# }
+####
 
 if (!file.exists("taxa.rds")) {
   orders <- datelife::get_ott_children(ott_ids = 801601, ott_rank = "order")
-  orders <- orders[orders$rank == 'order',]
   families <- datelife::get_ott_children(ott_ids = 801601, ott_rank = "family")
-  #species <- datelife::get_ott_children(ott_ids = 801601, ott_rank = "species")
-  saveRDS(list(orders, families), file = "taxa.rds")
+  species <- datelife::get_ott_children(ott_ids = 801601, ott_rank = "species")
+  saveRDS(list(orders, families, species), file = "taxa.rds")
 } else {
   taxa <- readRDS("taxa.rds")
   orders <- taxa[[1]]$Vertebrata
+  orders <- orders[orders$rank == 'order',]
   families <- taxa[[2]]$Vertebrata
+  families <- families[families$rank == 'family',]
+  species <- taxa[[3]]$Vertebrata
+  species["Latimeria chalumnae", "rank"] <- "species"
+  species <- species[species$rank == 'species',]
 }
 
-# find orders
-VGP_orders_resolved_names <- rotl::tnrs_match_names(names = row.names(orders))
+if (!file.exists("vertebrate_tree_species_only.rds")) {
+  vertebrate_tree_species_only <- rotl::tol_induced_subtree(ott_ids = species$ott_id)
+  saveRDS(vertebrate_tree_species_only, file = "vertebrate_tree_species_only.rds")
+} else {
+  vertebrate_tree_species_only <- readRDS("vertebrate_tree_species_only.rds")
+}
 
-#check presence in tree
-orders_in_tree <- rotl::is_in_tree(VGP_orders_resolved_names$ott_id)
-VGP_orders_resolved_names[!orders_in_tree,] # species missing in tree
+# remove underscore from tip labels
+vertebrate_tree_species_only$tip.label <- sub("_", " ", rotl::strip_ott_ids(vertebrate_tree_species_only$tip.label))
 
-# completed species
-completed_grp <- list(completed = sub("_", " ", rotl::strip_ott_ids(unlist(VGP_ordinal_resolved_names_with_status[VGP_ordinal_resolved_names_with_status$`ordinal_species$complete_status` == TRUE,]$tip, use.names = FALSE))))
-
-# Statistics:
-length(vertebrate_tree$tip.label)
+# statistics:
 length(orders$ott_id)
 length(families$ott_id)
+length(vertebrate_tree_species_only$tip.label)
+
+# find extended lineages
+lineages <- c(
+  "Mammals" = "Mammalia",  # Okabe–Ito Orange
+  "Birds" = "Aves",    # Teal 700
+  "Crocodilians" = "Alligatoridae", # Teal 500
+  "Crocodilians" = "Longirostres", # Teal 500
+  "Turtles" = "Testudines",  # Teal 300
+  "Lepidosauria" = "Lepidosauria", # Teal 200
+  "Amphibians" = "Amphibia",   # Purple
+  "Lobe-finned fishes" = "Dipnoi", # Brown
+  "Lobe-finned fishes" = "Coelacanthimorpha", # Brown
+  "Ray-finned fishes" = "Actinopterygii",  # Okabe–Ito Sky Blue
+  "Cartilaginous fishes" = "Chondrichthyes", # Okabe–Ito Blue
+  "Cyclostomes" = "Cyclostomata" # Okabe–Ito Magenta
+)
+VGP_lineages_resolved_names <- rotl::tnrs_match_names(names = lineages)
+
+# check presence in tree
+lineages_in_tree <- rotl::is_in_tree(na.omit(VGP_lineages_resolved_names$ott_id))
+VGP_lineages_resolved_names[!lineages_in_tree,] # lineages missing in tree
+
+# build metadata table for lineage
+row_idx <- lapply(VGP_lineages_resolved_names$unique_name, function(x) grep(x, vertebrate_tree_species_only$node.label))
+internal_order_nodes <- as.list(vertebrate_tree_species_only$node.label[unlist(row_idx)])
+subtrees <- sapply(internal_order_nodes, function(x) {extract.clade(vertebrate_tree_species_only, x)})
+internal_order_nodes_grp <- as.list(subtrees['tip.label',])
+
+# singletons are not added to the tree directly
+lobe_finned_fish <- c("Dipnoi ott29500", "Coelacanthimorpha ott760169")
+lobe_finned_fish_species <- c(list("Protopterus annectens"), list("Latimeria chalumnae"))
+insert_position <- 7
+internal_order_nodes <- append(internal_order_nodes, lobe_finned_fish, after = insert_position)
+internal_order_nodes_grp <- append(internal_order_nodes_grp, lobe_finned_fish_species, after = insert_position)
+
+# add lineage names to lists
+names(internal_order_nodes_grp) <- internal_order_nodes
+
+# completed species
+completed_species <- ordinal_list[`Accession # for main haplotype` != 4,]$`Scientific Name`
+# replace missing names in taxonomy with closely related species
+conditions_full <- c("Aspidoscelis tigris stejnegeri", "Aegotheles albertisi", "Osmerus mordax", "Hydrolagus colliei", "Glossophaga mutica", "Molossus nigricans", "Rhinolophus yonghoiseni", "Rhinolophus perniger lanosus", "Doryrhina cyclops", "Mustela nivalis vulgaris", "Neogale vison", "Ammospiza nelsoni", "Polymixia cf. hollisterae")
+replacement_values_full <- c("Aspidoscelis tigris", "Aegotheles albertisi albertisi", "Osmerus mordax mordax", "Hydrolagus bemisi", "Glossophaga commissarisi", "Molossus pretiosus", "Rhinolophus monoceros", "Rhinolophus denti", "Hipposideros cyclops", "Mustela altaica", "Neovison vison", "Ammospiza leconteii", "Polymixia busakhini")
+inds <- match(completed_species, conditions_full)
+completed_species[!is.na(inds)] <- replacement_values_full[na.omit(inds)] # Replace only matched rows in the new column
+VGP_all_resolved_names <- rotl::tnrs_match_names(names = completed_species)
+completed_grp <- list(VGP_all_resolved_names$unique_name)
+
+#### plotting starts here ####
 
 # plot tree
 if (!file.exists("vertebrate_tree_plot.rds")) {
-  p<-ggtree(vertebrate_tree, layout="fan")
+  p<-ggtree(vertebrate_tree_species_only, layout="fan")
   saveRDS(p, file = "vertebrate_tree_plot.rds")
 }else{
   p<-readRDS("vertebrate_tree_plot.rds")
 }
-
-# build metadata table for lineage
-row_idx <- lapply(VGP_orders_resolved_names$unique_name, function(x) grep(x, vertebrate_tree$node.label))
-internal_order_nodes <- as.list(vertebrate_tree$node.label[unlist(row_idx)])
-subtrees <- sapply(internal_order_nodes, function(x) {extract.clade(vertebrate_tree, x)})
-internal_order_nodes_grp <- as.list(subtrees['tip.label',])
-
-# add order names to lists
-names(internal_order_nodes_grp) <- internal_order_nodes
 
 p1 <- groupOTU(p, completed_grp, 'status') + aes(color=status) +
   theme(legend.position="right",
         legend.margin=margin(0,0,0,40),
         legend.box.spacing = margin(4)) + 
   scale_color_manual(values = c("black","green"))
-
-# Original levels (e.g. "Notacanthiformes ott925748", etc.)
-lineage_levels <- internal_order_nodes
-
-# Pretty labels for the legend only
-legend_labels <- gsub(" ott\\d+$", "", lineage_levels)
-
-# Name the colors with the full lineage values used in the data
-names(order_colors) <- lineage_levels
 
 p2 <- groupOTU(p1, internal_order_nodes_grp, 'lineage') + new_scale_fill() +
   geom_fruit(
@@ -521,9 +569,9 @@ p2 <- groupOTU(p1, internal_order_nodes_grp, 'lineage') + new_scale_fill() +
   ) +
   scale_fill_manual(
     name = "Lineage",
-    values = order_colors,
-    labels = legend_labels,
+    values = setNames(class_colors[names(lineages)], unlist(internal_order_nodes)),
+    labels = setNames(names(lineages), unlist(internal_order_nodes)),
     guide = guide_legend(keywidth = 0.3, keyheight = 0.3, ncol = 2, order = 2)
   )+
   theme(plot.margin = margin(40,0,40,0))
-ggsave(dpi=600, filename='full_tree.png', width = 12, height = 8)
+ggsave(p2, filename='full_tree.svg', width = 12, height = 8, device = "svg")
