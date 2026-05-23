@@ -18,11 +18,11 @@ required_packages <- c("readxl", "data.table", "tidyverse", "ape", "ggplot2",
 install_load(required_packages)
 lapply(required_packages, packageVersion)
 
-BiocManager_packages <- c("treeio", "ggtree", "ggtreeExtra", "tidytree")
 for (p in BiocManager_packages) {
-  if(require(p, quietly=TRUE)){
-    BiocManager::install(p)
+  if (!requireNamespace(p, quietly = TRUE)) {
+    BiocManager::install(p, ask = FALSE, update = FALSE)
   }
+  library(p, character.only = TRUE)
 }
 
 library(treeio)
@@ -32,24 +32,66 @@ library(tidytree)
 library(dplyr)
 library(ggforce)
 
-library(remotes)
-install_github("ropensci/bold") # needed by taxize
-install_github("ropensci/taxize") # needed by datelife
-remotes::install_github("ropensci/rotl") # default version is buggy
-library(rotl)
+# ---------------------------------------------------------------------------
+# GitHub-only dependencies required for OpenTree descendant retrieval
+# ---------------------------------------------------------------------------
 
-devtools::install_github("phylotastic/datelife")
-devtools::install_github("phylotastic/datelifeplot")
+if (!requireNamespace("remotes", quietly = TRUE)) {
+  install.packages("remotes", repos = "https://cloud.r-project.org")
+}
+
+if (!requireNamespace("bold", quietly = TRUE)) {
+  remotes::install_github(
+    "ropensci/bold",
+    upgrade = "never",
+    dependencies = TRUE
+  )
+}
+
+if (!requireNamespace("datelife", quietly = TRUE)) {
+  remotes::install_github(
+    "phylotastic/datelife",
+    upgrade = "never",
+    dependencies = TRUE
+  )
+}
+
+library(datelife)
+
+github_packages <- c(
+  bold         = "ropensci/bold",
+  taxize       = "ropensci/taxize",
+  rotl         = "ropensci/rotl",
+  datelife     = "phylotastic/datelife",
+  datelifeplot = "phylotastic/datelifeplot"
+)
+
+for (p in names(github_packages)) {
+  if (!requireNamespace(p, quietly = TRUE)) {
+    remotes::install_github(github_packages[[p]], upgrade = "never")
+  }
+  library(p, character.only = TRUE)
+}
 
 # load VGP ordinal list
-gs4_auth(token = NULL, scopes = "https://www.googleapis.com/auth/spreadsheets.readonly", email = "giulio.formenti@gmail.com")
-ordinal_list <- read_sheet(ss = "17aOjpVgclwdDcDccx7Jpuy4IL6PUcVYntB-iwfj0aZ4", sheet = 1)
+gs4_auth(token = NULL, scopes = "https://www.googleapis.com/auth/spreadsheets.readonly", email = "giulio.formenti@gmail.com", cache = TRUE)
+ordinal_list <- read_sheet(ss = "118_VJMfdvHzZfcJPIN4jJwSZ157TjtoAwfMVIAIYSmI", sheet = 1)
 
 #ordinal_list <- read_excel("VGP Ordinal List.xlsx", sheet = 1) # ord download as Excel first
 setDT(ordinal_list)
-setnames(ordinal_list, c("Orders Scientific Name (inferred >50 MYA divergence times)"), c("order_50MYA"))
-ordinal_list <- ordinal_list %>% mutate(order_50MYA = gsub(")", "", order_50MYA))
-ordinal_list[, c("order", "suborder1", "suborder2", "suborder3") := tstrsplit(order_50MYA, "\\ \\(|\\ > |\\|", fixed=FALSE)]
+
+# April 2026 spreadsheet: updated header for the inferred >50 MYA order field
+setnames(
+  ordinal_list,
+  "Inferred Orders (>50 MYA divergence times)",
+  "order_50MYA"
+)
+
+ordinal_list <- ordinal_list %>%
+  mutate(order_50MYA = gsub(")", "", order_50MYA, fixed = TRUE))
+
+ordinal_list[, c("order", "suborder1", "suborder2", "suborder3") :=
+               tstrsplit(order_50MYA, "\\ \\(|\\ > |\\|", fixed = FALSE)]
 
 # fix the hybrid
 ordinal_list$`Scientific Name`[ordinal_list$`Scientific Name` == "Ambystoma mexicanum x Ambystoma tigrinum"] <- "Ambystoma mexicanum"
@@ -65,7 +107,7 @@ write.table(as.data.frame(table(ordinal_list$order[!is.na(ordinal_list$`Accessio
             row.names = FALSE,
             quote = FALSE)
 
-# representation of ordinal species
+# representation of ordinal species (VGP Orders)
 ordinal_species <- ordinal_list %>% 
   mutate(complete_status = Status >= 4) %>%
   group_by(Order, complete_status) %>% 
@@ -101,6 +143,28 @@ frequency <- as.data.frame(table(ordinal_species$complete_status))
 frequency$Percent=round(frequency$Freq/sum(frequency$Freq)*100,2)
 write.table(frequency, sep = "\t", row.names = FALSE, quote = FALSE)
 
+# representation of official NCBI orders by completed assemblies
+ncbi_order_completion <- ordinal_list %>%
+  filter(!is.na(`Order (NCBI)`)) %>%
+  group_by(`Order (NCBI)`) %>%
+  summarise(
+    complete_status = any(Status >= 4, na.rm = TRUE),
+    .groups = "drop"
+  )
+
+frequency_ncbi <- as.data.frame(table(ncbi_order_completion$complete_status))
+frequency_ncbi$Percent <- round(
+  frequency_ncbi$Freq / sum(frequency_ncbi$Freq) * 100,
+  2
+)
+
+write.table(
+  frequency_ncbi,
+  sep = "\t",
+  row.names = FALSE,
+  quote = FALSE
+)
+
 # replace missing names in taxonomy with closely related species
 conditions <- c("Aspidoscelis tigris stejnegeri", "Aegotheles albertisi", "Osmerus mordax", "Hydrolagus colliei")
 replacement_values <- c("Aspidoscelis tigris", "Aegotheles albertisi albertisi", "Osmerus mordax mordax", "Hydrolagus bemisi")
@@ -134,11 +198,32 @@ VGP_ordinal_resolved_names_with_status <- VGP_ordinal_resolved_names_with_status
 completeness_grp <- list(missing   = unlist(VGP_ordinal_resolved_names_with_status[VGP_ordinal_resolved_names_with_status$`ordinal_species$complete_status` == FALSE,]$`ordinal_species$\`Scientific Name\``, use.names = FALSE),
             completed = unlist(VGP_ordinal_resolved_names_with_status[VGP_ordinal_resolved_names_with_status$`ordinal_species$complete_status` == TRUE,]$`ordinal_species$\`Scientific Name\``, use.names = FALSE))
 
-# remove underscore from tip labels
-VGP_ordinal_subtree$tip.label <- sapply(VGP_ordinal_subtree$tip.label, function(x) {
-  i <- match(x, VGP_ordinal_resolved_names_with_status$tip)
-  if (!is.na(i)) VGP_ordinal_resolved_names_with_status$`ordinal_species$\`Scientific Name\``[i] else x
-}, USE.NAMES = FALSE)
+# ---------------------------------------------------------------------------
+# Retain OpenTree identifiers before cleaning tip labels for display
+# ---------------------------------------------------------------------------
+
+vertebrate_tip_map <- tibble::tibble(
+  raw_tip_label = vertebrate_tree_species_only$tip.label,
+  ott_id = as.numeric(
+    stringr::str_extract(raw_tip_label, "(?<=ott)[0-9]+$")
+  ),
+  plotted_tip_label = rotl::strip_ott_ids(
+    raw_tip_label,
+    remove_underscores = TRUE
+  )
+)
+
+# Check that OTT IDs were successfully recovered from the tree tip labels
+if (any(is.na(vertebrate_tip_map$ott_id))) {
+  print(
+    vertebrate_tip_map %>%
+      dplyr::filter(is.na(ott_id))
+  )
+  stop("Could not recover OTT identifiers from one or more vertebrate-tree tips.")
+}
+
+# Use clean labels only for plotting
+vertebrate_tree_species_only$tip.label <- vertebrate_tip_map$plotted_tip_label
 
 # build metadata table for lineage
 l <- VGP_ordinal_resolved_names_with_status[lengths(VGP_ordinal_resolved_names_with_status$`ordinal_species$\`Scientific Name\``)>0,] %>% select(`ordinal_species$\`Extended lineage\``)
@@ -438,140 +523,1012 @@ p_ordinal2 <- p_ordinal1 +
                           label.theme = element_text(size = legend_pt))
   )
 
-ggsave(filename='ordinal_tree.svg', width = 15, height = 12, device = "svg")
-
-###### Full vertebrate tree
-
-#### deprecated method, includes all leaves by default
-#import vertebrate tree
-# if (!file.exists("vertebrate_tree.rds")) {
-#   id <- 801601
-#   vertebrate_tree <- rotl::tol_subtree(ott_id = id)
-#   saveRDS(vertebrate_tree, file = "vertebrate_tree.rds")
-# } else {
-#   vertebrate_tree <- readRDS("vertebrate_tree.rds")
-# }
-# 
-# # subset at the species level
-# if (!file.exists("vertebrate_tree_species_only.rds")) {
-#   species_list <- unique(gsub("^(\\S+\\s+\\S+).*", "\\1", vertebrate_tree$tip.label)) # keep genus + species
-#   resolved <- rotl::tnrs_match_names(species_list)
-#   sum(is.na(resolved)) # get count of missing values
-#   resolved_wo_na <- na.omit(resolved)
-#   #in_tree <- rotl::is_in_tree(resolved_wo_na$ott_id) # very slow
-#   resolved_ok <- resolved_wo_na[in_tree, , drop = FALSE]
-#   vertebrate_tree_species_only <- rotl::tol_induced_subtree(ott_ids = resolved_ok$ott_id)
-# } else {
-#   vertebrate_tree_species_only <- readRDS("vertebrate_tree_species_only.rds")
-# }
-####
-
-if (!file.exists("taxa.rds")) {
-  orders <- datelife::get_ott_children(ott_ids = 801601, ott_rank = "order")
-  families <- datelife::get_ott_children(ott_ids = 801601, ott_rank = "family")
-  species <- datelife::get_ott_children(ott_ids = 801601, ott_rank = "species")
-  saveRDS(list(orders, families, species), file = "taxa.rds")
-} else {
-  taxa <- readRDS("taxa.rds")
-  orders <- taxa[[1]]$Vertebrata
-  orders <- orders[orders$rank == 'order',]
-  families <- taxa[[2]]$Vertebrata
-  families <- families[families$rank == 'family',]
-  species <- taxa[[3]]$Vertebrata
-  species["Latimeria chalumnae", "rank"] <- "species"
-  species <- species[species$rank == 'species',]
-}
-
-if (!file.exists("vertebrate_tree_species_only.rds")) {
-  vertebrate_tree_species_only <- rotl::tol_induced_subtree(ott_ids = species$ott_id)
-  saveRDS(vertebrate_tree_species_only, file = "vertebrate_tree_species_only.rds")
-} else {
-  vertebrate_tree_species_only <- readRDS("vertebrate_tree_species_only.rds")
-}
-
-# remove underscore from tip labels
-vertebrate_tree_species_only$tip.label <- sub("_", " ", rotl::strip_ott_ids(vertebrate_tree_species_only$tip.label))
-
-# statistics:
-length(orders$ott_id)
-length(families$ott_id)
-length(vertebrate_tree_species_only$tip.label)
-
-# find extended lineages
-lineages <- c(
-  "Mammals" = "Mammalia",  # Okabe–Ito Orange
-  "Birds" = "Aves",    # Teal 700
-  "Crocodilians" = "Alligatoridae", # Teal 500
-  "Crocodilians" = "Longirostres", # Teal 500
-  "Turtles" = "Testudines",  # Teal 300
-  "Lepidosauria" = "Lepidosauria", # Teal 200
-  "Amphibians" = "Amphibia",   # Purple
-  "Lobe-finned fishes" = "Dipnoi", # Brown
-  "Lobe-finned fishes" = "Coelacanthimorpha", # Brown
-  "Ray-finned fishes" = "Actinopterygii",  # Okabe–Ito Sky Blue
-  "Cartilaginous fishes" = "Chondrichthyes", # Okabe–Ito Blue
-  "Cyclostomes" = "Cyclostomata" # Okabe–Ito Magenta
+ggsave(
+  filename = "ordinal_tree.svg",
+  plot = p_ordinal2,
+  width = 15,
+  height = 12,
+  device = "svg"
 )
-VGP_lineages_resolved_names <- rotl::tnrs_match_names(names = lineages)
 
-# check presence in tree
-lineages_in_tree <- rotl::is_in_tree(na.omit(VGP_lineages_resolved_names$ott_id))
-VGP_lineages_resolved_names[!lineages_in_tree,] # lineages missing in tree
+###### Full vertebrate tree ######################################################################################################################################################
 
-# build metadata table for lineage
-row_idx <- lapply(VGP_lineages_resolved_names$unique_name, function(x) grep(x, vertebrate_tree_species_only$node.label))
-internal_order_nodes <- as.list(vertebrate_tree_species_only$node.label[unlist(row_idx)])
-subtrees <- sapply(internal_order_nodes, function(x) {extract.clade(vertebrate_tree_species_only, x)})
-internal_order_nodes_grp <- as.list(subtrees['tip.label',])
+# ---------------------------------------------------------------------------
+# Read updated VGP table
+# ---------------------------------------------------------------------------
 
-# singletons are not added to the tree directly
-lobe_finned_fish <- c("Dipnoi ott29500", "Coelacanthimorpha ott760169")
-lobe_finned_fish_species <- c(list("Protopterus annectens"), list("Latimeria chalumnae"))
-insert_position <- 7
-internal_order_nodes <- append(internal_order_nodes, lobe_finned_fish, after = insert_position)
-internal_order_nodes_grp <- append(internal_order_nodes_grp, lobe_finned_fish_species, after = insert_position)
+vgp_tbl <- googlesheets4::read_sheet(
+  ss = "1Jwjv6Kwc6VIn1UMMhnG6kvFCxjwGdC5b7p_HtbDOMOs",
+  sheet = 1
+) %>%
+  tibble::as_tibble()
 
-# add lineage names to lists
-names(internal_order_nodes_grp) <- internal_order_nodes
+required_columns <- c(
+  "Scientific Name",
+  "Extended Lineage",
+  "Accession # for main haplotype",
+  "# species/order"
+)
 
-# completed species
-completed_species <- ordinal_list[`Accession # for main haplotype` != 4,]$`Scientific Name`
-# replace missing names in taxonomy with closely related species
-conditions_full <- c("Aspidoscelis tigris stejnegeri", "Aegotheles albertisi", "Osmerus mordax", "Hydrolagus colliei", "Glossophaga mutica", "Molossus nigricans", "Rhinolophus yonghoiseni", "Rhinolophus perniger lanosus", "Doryrhina cyclops", "Mustela nivalis vulgaris", "Neogale vison", "Ammospiza nelsoni", "Polymixia cf. hollisterae")
-replacement_values_full <- c("Aspidoscelis tigris", "Aegotheles albertisi albertisi", "Osmerus mordax mordax", "Hydrolagus bemisi", "Glossophaga commissarisi", "Molossus pretiosus", "Rhinolophus monoceros", "Rhinolophus denti", "Hipposideros cyclops", "Mustela altaica", "Neovison vison", "Ammospiza leconteii", "Polymixia busakhini")
-inds <- match(completed_species, conditions_full)
-completed_species[!is.na(inds)] <- replacement_values_full[na.omit(inds)] # Replace only matched rows in the new column
-VGP_all_resolved_names <- rotl::tnrs_match_names(names = completed_species)
-completed_grp <- list(VGP_all_resolved_names$unique_name)
+missing_columns <- setdiff(required_columns, names(vgp_tbl))
 
-#### plotting starts here ####
-
-# plot tree
-if (!file.exists("vertebrate_tree_plot.rds")) {
-  p<-ggtree(vertebrate_tree_species_only, layout="fan")
-  saveRDS(p, file = "vertebrate_tree_plot.rds")
-}else{
-  p<-readRDS("vertebrate_tree_plot.rds")
+if (length(missing_columns) > 0) {
+  stop(
+    "Missing required columns in the updated VGP table: ",
+    paste(missing_columns, collapse = ", ")
+  )
 }
 
-p1 <- groupOTU(p, completed_grp, 'status') + aes(color=status) +
-  theme(legend.position="right",
-        legend.margin=margin(0,0,0,40),
-        legend.box.spacing = margin(4)) + 
-  scale_color_manual(values = c("black","green"))
+# ---------------------------------------------------------------------------
+# Extended Lineages represented in the vertebrate figure
+# ---------------------------------------------------------------------------
 
-p2 <- groupOTU(p1, internal_order_nodes_grp, 'lineage') + new_scale_fill() +
+lineage_components <- tibble::tribble(
+  ~lineage,                ~ott_query,             ~fallback_tip,
+  "Mammals",               "Mammalia",             NA_character_,
+  "Birds",                 "Aves",                 NA_character_,
+  "Crocodilians",          "Alligatoridae",        NA_character_,
+  "Crocodilians",          "Longirostres",         NA_character_,
+  "Turtles",               "Testudines",           NA_character_,
+  "Lepidosauria",          "Lepidosauria",         NA_character_,
+  "Amphibians",            "Amphibia",             NA_character_,
+  "Lobe-finned fishes",    "Dipnoi",               "Protopterus annectens",
+  "Lobe-finned fishes",    "Coelacanthimorpha",    "Latimeria chalumnae",
+  "Ray-finned fishes",     "Actinopterygii",       NA_character_,
+  "Cartilaginous fishes",  "Chondrichthyes",       NA_character_,
+  "Cyclostomes",           "Cyclostomata",         NA_character_
+)
+
+extended_lineage_order <- unique(lineage_components$lineage)
+
+class_colors <- c(
+  "Mammals"              = "#E69F00",
+  "Birds"                = "#00796B",
+  "Crocodilians"         = "#009688",
+  "Turtles"              = "#4DB6AC",
+  "Lepidosauria"         = "#80CBC4",
+  "Amphibians"           = "#984EA3",
+  "Lobe-finned fishes"   = "#A6761D",
+  "Ray-finned fishes"    = "#56B4E9",
+  "Cartilaginous fishes" = "#0072B2",
+  "Cyclostomes"          = "#CC79A7"
+)
+
+vgp_green <- "#00A651"
+
+# ---------------------------------------------------------------------------
+# Select VGP vertebrate species with a genome in the data freeze
+# ---------------------------------------------------------------------------
+
+has_accession <- function(x) {
+  !is.na(x) & trimws(as.character(x)) != ""
+}
+
+represented_metadata <- vgp_tbl %>%
+  dplyr::filter(
+    !is.na(`Scientific Name`),
+    !is.na(`Extended Lineage`),
+    has_accession(`Accession # for main haplotype`),
+    `Extended Lineage` %in% extended_lineage_order
+  ) %>%
+  dplyr::distinct(`Scientific Name`, `Extended Lineage`, .keep_all = TRUE)
+
+excluded_outgroups <- vgp_tbl %>%
+  dplyr::filter(
+    !is.na(`Scientific Name`),
+    has_accession(`Accession # for main haplotype`),
+    is.na(`Extended Lineage`) |
+      !`Extended Lineage` %in% extended_lineage_order
+  ) %>%
+  dplyr::distinct(`Scientific Name`, `Extended Lineage`, .keep_all = TRUE) %>%
+  dplyr::select(
+    `Scientific Name`,
+    `Extended Lineage`,
+    `Accession # for main haplotype`
+  )
+
+cat(
+  "\nVGP input for vertebrate figure\n",
+  "-------------------------------\n",
+  "All accession-bearing rows:                    ",
+  sum(has_accession(vgp_tbl$`Accession # for main haplotype`)), "\n",
+  "Vertebrate species retained for the figure:    ",
+  nrow(represented_metadata), "\n",
+  "Outgroup/non-vertebrate species excluded:      ",
+  nrow(excluded_outgroups), "\n",
+  sep = ""
+)
+
+if (nrow(excluded_outgroups) > 0) {
+  cat("\nExcluded outgroup/non-vertebrate species:\n")
+  print(tibble::as_tibble(excluded_outgroups), n = Inf)
+}
+
+write.table(
+  excluded_outgroups,
+  file = "full_tree_excluded_outgroups.tsv",
+  sep = "\t",
+  row.names = FALSE,
+  quote = FALSE
+)
+
+# ---------------------------------------------------------------------------
+# Resolve Extended Lineage clades in OpenTree
+# ---------------------------------------------------------------------------
+
+lineage_resolved <- rotl::tnrs_match_names(
+  names = lineage_components$ott_query
+)
+
+lineage_components <- dplyr::bind_cols(
+  lineage_components,
+  lineage_resolved %>%
+    dplyr::select(
+      unique_name,
+      ott_id,
+      approximate_match,
+      score,
+      is_synonym
+    )
+)
+
+if (any(is.na(lineage_components$ott_id))) {
+  cat("\nExtended Lineage components not resolved by OpenTree:\n")
+  print(
+    tibble::as_tibble(
+      lineage_components %>%
+        dplyr::filter(is.na(ott_id))
+    ),
+    n = Inf
+  )
+  stop("One or more Extended Lineage components could not be resolved.")
+}
+
+# ---------------------------------------------------------------------------
+# Retrieve OpenTree species descendants for each Extended Lineage component
+# ---------------------------------------------------------------------------
+
+extract_descendant_table <- function(x) {
+  
+  if (inherits(x, "data.frame")) {
+    return(tibble::as_tibble(x, rownames = "taxon_name"))
+  }
+  
+  if (is.list(x)) {
+    
+    is_df <- vapply(
+      x,
+      function(z) inherits(z, "data.frame"),
+      logical(1)
+    )
+    
+    if (sum(is_df) == 0) {
+      stop("No data.frame was returned by datelife::get_ott_children().")
+    }
+    
+    return(
+      tibble::as_tibble(
+        x[[which(is_df)[1]]],
+        rownames = "taxon_name"
+      )
+    )
+  }
+  
+  stop("Unexpected output from datelife::get_ott_children().")
+}
+
+get_component_species <- function(lineage, ott_query, ott_id, fallback_tip) {
+  
+  descendant_result <- datelife::get_ott_children(
+    ott_ids = setNames(ott_id, ott_query),
+    ott_rank = "species"
+  )
+  
+  descendants <- extract_descendant_table(descendant_result)
+  
+  if ("rank" %in% names(descendants)) {
+    descendants <- descendants %>%
+      dplyr::filter(rank == "species")
+  }
+  
+  descendant_ids <- unique(stats::na.omit(descendants$ott_id))
+  
+  if (length(descendant_ids) == 0 && !is.na(fallback_tip)) {
+    
+    fallback_resolved <- rotl::tnrs_match_names(
+      names = fallback_tip
+    )
+    
+    descendant_ids <- unique(
+      stats::na.omit(fallback_resolved$ott_id)
+    )
+  }
+  
+  if (length(descendant_ids) == 0) {
+    stop("No species descendants retrieved for lineage component: ", ott_query)
+  }
+  
+  tibble::tibble(
+    lineage = lineage,
+    component = ott_query,
+    ott_id = descendant_ids
+  )
+}
+
+lineage_species_cache <- "full_tree_extended_lineage_species_ott_ids.rds"
+
+if (!file.exists(lineage_species_cache)) {
+  
+  component_species_ott <- purrr::pmap_dfr(
+    lineage_components %>%
+      dplyr::select(lineage, ott_query, ott_id, fallback_tip),
+    get_component_species
+  ) %>%
+    dplyr::distinct(lineage, ott_id, .keep_all = TRUE)
+  
+  saveRDS(
+    component_species_ott,
+    file = lineage_species_cache
+  )
+  
+} else {
+  
+  component_species_ott <- readRDS(lineage_species_cache)
+}
+
+# The plotted universe is the union of the displayed vertebrate lineages.
+# Non-vertebrate outgroups are excluded from the plotted tree.
+vertebrate_species_ott_ids <- unique(component_species_ott$ott_id)
+
+cat(
+  "\nOpenTree species retrieved across displayed vertebrate lineages: ",
+  length(vertebrate_species_ott_ids), "\n",
+  sep = ""
+)
+
+# ---------------------------------------------------------------------------
+# Build the vertebrate-only OpenTree species tree
+# ---------------------------------------------------------------------------
+
+tree_cache <- "full_tree_vertebrate_extended_lineages_species_only.rds"
+
+if (!file.exists(tree_cache)) {
+  
+  vertebrate_tree_species_only <- rotl::tol_induced_subtree(
+    ott_ids = vertebrate_species_ott_ids
+  )
+  
+  saveRDS(
+    vertebrate_tree_species_only,
+    file = tree_cache
+  )
+  
+} else {
+  
+  vertebrate_tree_species_only <- readRDS(tree_cache)
+}
+
+make_tip_map <- function(tree) {
+  
+  tip_map <- tibble::tibble(
+    raw_tip_label = tree$tip.label,
+    ott_id = as.numeric(
+      stringr::str_extract(raw_tip_label, "(?<=ott)[0-9]+$")
+    ),
+    clean_tip_label = gsub(
+      "_",
+      " ",
+      rotl::strip_ott_ids(raw_tip_label),
+      fixed = TRUE
+    )
+  )
+  
+  if (any(is.na(tip_map$ott_id))) {
+    cat("\nTree tips without recoverable OTT identifiers:\n")
+    print(
+      tibble::as_tibble(
+        tip_map %>%
+          dplyr::filter(is.na(ott_id))
+      ),
+      n = Inf
+    )
+    stop("Could not recover OTT identifiers from one or more tree tips.")
+  }
+  
+  tip_map
+}
+
+vertebrate_tip_map <- make_tip_map(vertebrate_tree_species_only)
+
+cat(
+  "\nPlotted OpenTree vertebrate tree\n",
+  "-------------------------------\n",
+  "Terminal species tips: ",
+  length(vertebrate_tree_species_only$tip.label), "\n",
+  sep = ""
+)
+
+# ---------------------------------------------------------------------------
+# Build Extended Lineage gear metadata
+# ---------------------------------------------------------------------------
+
+lineage_tip_metadata <- component_species_ott %>%
+  dplyr::inner_join(
+    vertebrate_tip_map %>%
+      dplyr::select(ott_id, label = raw_tip_label),
+    by = "ott_id"
+  ) %>%
+  dplyr::select(lineage, label) %>%
+  dplyr::distinct() %>%
+  dplyr::mutate(
+    lineage = factor(lineage, levels = extended_lineage_order)
+  )
+
+# ---------------------------------------------------------------------------
+# Extended Lineage coverage table for manual placement beside the legend
+# ---------------------------------------------------------------------------
+# Numerator: accession-bearing VGP species from the updated full table.
+# Denominator: sum of '# species/order' within each Extended Lineage.
+# OpenTree tips are retained only as a diagnostic for the rendered tree.
+# ---------------------------------------------------------------------------
+
+parse_species_count <- function(x) {
+  suppressWarnings(
+    as.numeric(
+      gsub("[^0-9.]", "", as.character(x))
+    )
+  )
+}
+
+lineage_vgp_counts <- represented_metadata %>%
+  dplyr::count(`Extended Lineage`, name = "n_vgp_species") %>%
+  dplyr::rename(lineage = `Extended Lineage`)
+
+lineage_estimated_species_counts <- vgp_tbl %>%
+  dplyr::filter(
+    !is.na(`Extended Lineage`),
+    `Extended Lineage` %in% extended_lineage_order,
+    !is.na(`# species/order`)
+  ) %>%
+  dplyr::mutate(
+    species_count = parse_species_count(`# species/order`)
+  ) %>%
+  dplyr::group_by(`Extended Lineage`) %>%
+  dplyr::summarise(
+    estimated_total_species = sum(species_count, na.rm = TRUE),
+    .groups = "drop"
+  ) %>%
+  dplyr::rename(lineage = `Extended Lineage`)
+
+lineage_opentree_counts <- lineage_tip_metadata %>%
+  dplyr::mutate(
+    lineage = as.character(lineage)
+  ) %>%
+  dplyr::count(lineage, name = "n_opentree_species")
+
+lineage_coverage <- tibble::tibble(
+  lineage = extended_lineage_order
+) %>%
+  dplyr::left_join(lineage_vgp_counts, by = "lineage") %>%
+  dplyr::left_join(lineage_estimated_species_counts, by = "lineage") %>%
+  dplyr::left_join(lineage_opentree_counts, by = "lineage") %>%
+  dplyr::mutate(
+    n_vgp_species = tidyr::replace_na(n_vgp_species, 0L),
+    coverage_estimated_pct = round(
+      100 * n_vgp_species / estimated_total_species,
+      2
+    ),
+    coverage_opentree_pct = round(
+      100 * n_vgp_species / n_opentree_species,
+      2
+    )
+  )
+
+lineage_coverage_for_figure <- lineage_coverage %>%
+  dplyr::transmute(
+    `Extended Lineage` = lineage,
+    `VGP species with genome` = n_vgp_species,
+    `Estimated extant species` = estimated_total_species,
+    `Coverage (%)` = coverage_estimated_pct
+  )
+
+lineage_coverage_with_opentree_diagnostic <- lineage_coverage %>%
+  dplyr::transmute(
+    `Extended Lineage` = lineage,
+    `VGP species with genome` = n_vgp_species,
+    `Estimated extant species` = estimated_total_species,
+    `Coverage of estimated diversity (%)` = coverage_estimated_pct,
+    `OpenTree tips in plotted tree` = n_opentree_species,
+    `Coverage of OpenTree tips (%)` = coverage_opentree_pct
+  )
+
+cat("\nExtended Lineage coverage table for figure annotation:\n")
+print(tibble::as_tibble(lineage_coverage_for_figure), n = Inf)
+
+cat(
+  "\nTotals across displayed vertebrate Extended Lineages\n",
+  "---------------------------------------------------\n",
+  "VGP species with genome:  ",
+  sum(lineage_coverage_for_figure$`VGP species with genome`, na.rm = TRUE), "\n",
+  "Estimated extant species: ",
+  format(
+    sum(lineage_coverage_for_figure$`Estimated extant species`, na.rm = TRUE),
+    big.mark = ","
+  ), "\n",
+  "OpenTree tips in tree:    ",
+  format(
+    sum(
+      lineage_coverage_with_opentree_diagnostic$`OpenTree tips in plotted tree`,
+      na.rm = TRUE
+    ),
+    big.mark = ","
+  ), "\n",
+  sep = ""
+)
+
+write.table(
+  lineage_coverage_for_figure,
+  file = "full_tree_extended_lineage_coverage_for_figure.tsv",
+  sep = "\t",
+  row.names = FALSE,
+  quote = FALSE
+)
+
+write.table(
+  lineage_coverage_with_opentree_diagnostic,
+  file = "full_tree_extended_lineage_coverage_with_opentree_diagnostic.tsv",
+  sep = "\t",
+  row.names = FALSE,
+  quote = FALSE
+)
+
+# ---------------------------------------------------------------------------
+# Resolve VGP species against OpenTree
+# ---------------------------------------------------------------------------
+
+species_reconciliation <- represented_metadata %>%
+  dplyr::transmute(
+    spreadsheet_name = `Scientific Name`,
+    lineage = `Extended Lineage`,
+    opentree_query = `Scientific Name`
+  )
+
+# Use only for strict naming normalization, not proxy substitution.
+name_query_corrections <- c(
+  "Amia calva ocellicauda" = "Amia calva"
+)
+
+correction_index <- match(
+  species_reconciliation$opentree_query,
+  names(name_query_corrections)
+)
+
+species_reconciliation$opentree_query[!is.na(correction_index)] <-
+  unname(name_query_corrections[correction_index[!is.na(correction_index)]])
+
+species_reconciliation <- species_reconciliation %>%
+  dplyr::mutate(
+    query_corrected = spreadsheet_name != opentree_query
+  )
+
+vgp_resolved <- rotl::tnrs_match_names(
+  names = species_reconciliation$opentree_query
+)
+
+species_reconciliation <- dplyr::bind_cols(
+  species_reconciliation,
+  vgp_resolved %>%
+    dplyr::select(
+      unique_name,
+      ott_id,
+      approximate_match,
+      score,
+      is_synonym
+    )
+) %>%
+  dplyr::mutate(
+    resolved_by_opentree = !is.na(ott_id),
+    actual_tip_present = resolved_by_opentree &
+      ott_id %in% vertebrate_tip_map$ott_id,
+    actual_tip_label = vertebrate_tip_map$raw_tip_label[
+      match(ott_id, vertebrate_tip_map$ott_id)
+    ],
+    in_synthetic_tree = FALSE
+  )
+
+resolved_rows <- which(species_reconciliation$resolved_by_opentree)
+
+if (length(resolved_rows) > 0) {
+  species_reconciliation$in_synthetic_tree[resolved_rows] <-
+    rotl::is_in_tree(species_reconciliation$ott_id[resolved_rows])
+}
+
+# ---------------------------------------------------------------------------
+# Automatically find plotted-tip proxies for resolved but unplotted taxa
+# ---------------------------------------------------------------------------
+
+proxy_candidates <- species_reconciliation %>%
+  dplyr::filter(
+    resolved_by_opentree,
+    in_synthetic_tree,
+    !actual_tip_present
+  )
+
+cat(
+  "\nInitial VGP recovery against species-only tree\n",
+  "----------------------------------------------\n",
+  "VGP vertebrate species with genome:           ",
+  nrow(species_reconciliation), "\n",
+  "Resolved by OpenTree:                         ",
+  sum(species_reconciliation$resolved_by_opentree), "\n",
+  "Present as plotted tips:                      ",
+  sum(species_reconciliation$actual_tip_present), "\n",
+  "Eligible for automatic proxy search:          ",
+  nrow(proxy_candidates), "\n",
+  "Unresolved or absent from synthetic tree:     ",
+  sum(
+    !species_reconciliation$resolved_by_opentree |
+      !species_reconciliation$in_synthetic_tree
+  ), "\n",
+  sep = ""
+)
+
+descendant_tip_nodes <- function(tree, node) {
+  
+  children <- tree$edge[tree$edge[, 1] == node, 2]
+  
+  tip_children <- children[
+    children <= ape::Ntip(tree)
+  ]
+  
+  internal_children <- children[
+    children > ape::Ntip(tree)
+  ]
+  
+  if (length(internal_children) > 0) {
+    tip_children <- c(
+      tip_children,
+      unlist(
+        lapply(
+          internal_children,
+          function(x) descendant_tip_nodes(tree, x)
+        )
+      )
+    )
+  }
+  
+  unique(tip_children)
+}
+
+auto_proxy_results <- tibble::tibble(
+  ott_id = numeric(),
+  proxy_tip_label = character(),
+  proxy_tip_clean_name = character(),
+  proxy_ott_id = numeric(),
+  proxy_candidate_count = integer(),
+  proxy_ancestor_steps = integer()
+)
+
+if (nrow(proxy_candidates) > 0) {
+  
+  augmented_ids <- unique(
+    c(
+      vertebrate_tip_map$ott_id,
+      proxy_candidates$ott_id
+    )
+  )
+  
+  signature_file <- tempfile()
+  writeLines(as.character(sort(augmented_ids)), signature_file)
+  augmented_signature <- unname(tools::md5sum(signature_file))
+  unlink(signature_file)
+  
+  augmented_cache <- paste0(
+    "full_tree_augmented_for_proxy_assignment_",
+    substr(augmented_signature, 1, 12),
+    ".rds"
+  )
+  
+  if (!file.exists(augmented_cache)) {
+    
+    augmented_tree <- rotl::tol_induced_subtree(
+      ott_ids = augmented_ids
+    )
+    
+    saveRDS(
+      augmented_tree,
+      file = augmented_cache
+    )
+    
+  } else {
+    
+    augmented_tree <- readRDS(augmented_cache)
+  }
+  
+  augmented_tip_map <- make_tip_map(augmented_tree) %>%
+    dplyr::mutate(
+      tree_node = dplyr::row_number()
+    )
+  
+  base_plotted_ids <- vertebrate_tip_map$ott_id
+  
+  find_proxy_tip <- function(target_ott_id) {
+    
+    target_node <- augmented_tip_map$tree_node[
+      match(target_ott_id, augmented_tip_map$ott_id)
+    ]
+    
+    if (is.na(target_node)) {
+      return(
+        tibble::tibble(
+          ott_id = target_ott_id,
+          proxy_tip_label = NA_character_,
+          proxy_tip_clean_name = NA_character_,
+          proxy_ott_id = NA_real_,
+          proxy_candidate_count = NA_integer_,
+          proxy_ancestor_steps = NA_integer_
+        )
+      )
+    }
+    
+    current_node <- target_node
+    ancestor_steps <- 0L
+    
+    repeat {
+      
+      parent_row <- match(current_node, augmented_tree$edge[, 2])
+      
+      if (is.na(parent_row)) {
+        return(
+          tibble::tibble(
+            ott_id = target_ott_id,
+            proxy_tip_label = NA_character_,
+            proxy_tip_clean_name = NA_character_,
+            proxy_ott_id = NA_real_,
+            proxy_candidate_count = NA_integer_,
+            proxy_ancestor_steps = ancestor_steps
+          )
+        )
+      }
+      
+      parent_node <- augmented_tree$edge[parent_row, 1]
+      ancestor_steps <- ancestor_steps + 1L
+      
+      descendant_nodes <- descendant_tip_nodes(
+        augmented_tree,
+        parent_node
+      )
+      
+      candidates <- augmented_tip_map %>%
+        dplyr::filter(
+          tree_node %in% descendant_nodes,
+          ott_id %in% base_plotted_ids,
+          ott_id != target_ott_id
+        ) %>%
+        dplyr::arrange(clean_tip_label, ott_id)
+      
+      if (nrow(candidates) > 0) {
+        
+        chosen <- candidates[1, ]
+        
+        return(
+          tibble::tibble(
+            ott_id = target_ott_id,
+            proxy_tip_label = chosen$raw_tip_label,
+            proxy_tip_clean_name = chosen$clean_tip_label,
+            proxy_ott_id = chosen$ott_id,
+            proxy_candidate_count = nrow(candidates),
+            proxy_ancestor_steps = ancestor_steps
+          )
+        )
+      }
+      
+      current_node <- parent_node
+    }
+  }
+  
+  auto_proxy_results <- dplyr::bind_rows(
+    lapply(
+      unique(proxy_candidates$ott_id),
+      find_proxy_tip
+    )
+  )
+}
+
+species_reconciliation <- species_reconciliation %>%
+  dplyr::left_join(auto_proxy_results, by = "ott_id") %>%
+  dplyr::mutate(
+    plotted_tip_to_highlight = dplyr::case_when(
+      actual_tip_present ~ actual_tip_label,
+      !is.na(proxy_tip_label) ~ proxy_tip_label,
+      TRUE ~ NA_character_
+    ),
+    highlight_method = dplyr::case_when(
+      actual_tip_present ~ "Actual plotted tip",
+      !is.na(proxy_tip_label) ~ "Automatic nearest plotted proxy",
+      TRUE ~ "Not highlighted"
+    )
+  )
+
+# ---------------------------------------------------------------------------
+# Proxy audit and proxy-use statistics
+# ---------------------------------------------------------------------------
+
+proxy_audit <- species_reconciliation %>%
+  dplyr::select(
+    spreadsheet_name,
+    lineage,
+    opentree_query,
+    query_corrected,
+    unique_name,
+    ott_id,
+    resolved_by_opentree,
+    in_synthetic_tree,
+    actual_tip_present,
+    actual_tip_label,
+    proxy_tip_label,
+    proxy_tip_clean_name,
+    proxy_ott_id,
+    proxy_candidate_count,
+    proxy_ancestor_steps,
+    plotted_tip_to_highlight,
+    highlight_method
+  ) %>%
+  dplyr::arrange(highlight_method, lineage, spreadsheet_name)
+
+proxy_used <- proxy_audit %>%
+  dplyr::filter(
+    highlight_method == "Automatic nearest plotted proxy"
+  )
+
+actual_used <- proxy_audit %>%
+  dplyr::filter(
+    highlight_method == "Actual plotted tip"
+  )
+
+not_highlighted <- proxy_audit %>%
+  dplyr::filter(
+    highlight_method == "Not highlighted"
+  )
+
+proxy_summary <- tibble::tibble(
+  metric = c(
+    "Total VGP vertebrate species with genome",
+    "Represented by actual OpenTree tip",
+    "Represented by automatic plotted proxy",
+    "Not represented after proxy search",
+    "Unique proxy tips used",
+    "Proxy tips representing >1 VGP species"
+  ),
+  value = c(
+    nrow(proxy_audit),
+    nrow(actual_used),
+    nrow(proxy_used),
+    nrow(not_highlighted),
+    dplyr::n_distinct(proxy_used$proxy_tip_label),
+    proxy_used %>%
+      dplyr::count(proxy_tip_label) %>%
+      dplyr::filter(n > 1) %>%
+      nrow()
+  )
+) %>%
+  dplyr::mutate(
+    percent_of_vgp_species = round(
+      100 * value / nrow(proxy_audit),
+      2
+    )
+  )
+
+proxy_by_lineage <- proxy_audit %>%
+  dplyr::group_by(lineage) %>%
+  dplyr::summarise(
+    n_vgp_species = dplyr::n(),
+    n_actual_tips = sum(highlight_method == "Actual plotted tip"),
+    n_proxy_tips = sum(highlight_method == "Automatic nearest plotted proxy"),
+    n_not_highlighted = sum(highlight_method == "Not highlighted"),
+    percent_using_proxy = round(
+      100 * n_proxy_tips / n_vgp_species,
+      2
+    ),
+    .groups = "drop"
+  ) %>%
+  dplyr::arrange(
+    factor(lineage, levels = extended_lineage_order)
+  )
+
+proxy_substitution_table <- proxy_used %>%
+  dplyr::transmute(
+    `VGP species` = spreadsheet_name,
+    `Extended Lineage` = lineage,
+    `Resolved OpenTree taxon` = unique_name,
+    `Highlighted proxy tip` = proxy_tip_clean_name,
+    `Proxy candidate tips in nearest clade` = proxy_candidate_count,
+    `Ancestor steps to proxy clade` = proxy_ancestor_steps
+  ) %>%
+  dplyr::arrange(
+    factor(`Extended Lineage`, levels = extended_lineage_order),
+    `VGP species`
+  )
+
+cat("\nProxy usage summary:\n")
+print(tibble::as_tibble(proxy_summary), n = Inf)
+
+cat("\nProxy use by Extended Lineage:\n")
+print(tibble::as_tibble(proxy_by_lineage), n = Inf)
+
+cat("\nAutomatic proxy substitutions:\n")
+print(tibble::as_tibble(proxy_substitution_table), n = Inf)
+
+if (nrow(not_highlighted) > 0) {
+  cat("\nSpecies remaining without a plotted representation:\n")
+  print(tibble::as_tibble(not_highlighted), n = Inf)
+}
+
+write.table(
+  proxy_audit,
+  file = "full_tree_species_highlight_and_proxy_audit.tsv",
+  sep = "\t",
+  row.names = FALSE,
+  quote = FALSE
+)
+
+write.table(
+  proxy_summary,
+  file = "full_tree_proxy_usage_summary.tsv",
+  sep = "\t",
+  row.names = FALSE,
+  quote = FALSE
+)
+
+write.table(
+  proxy_by_lineage,
+  file = "full_tree_proxy_usage_by_extended_lineage.tsv",
+  sep = "\t",
+  row.names = FALSE,
+  quote = FALSE
+)
+
+write.table(
+  proxy_substitution_table,
+  file = "full_tree_proxy_substitutions.tsv",
+  sep = "\t",
+  row.names = FALSE,
+  quote = FALSE
+)
+
+write.table(
+  not_highlighted,
+  file = "full_tree_species_not_highlighted_after_proxy.tsv",
+  sep = "\t",
+  row.names = FALSE,
+  quote = FALSE
+)
+
+# ---------------------------------------------------------------------------
+# Select displayed tips and report tip collisions
+# ---------------------------------------------------------------------------
+
+represented_tips <- unique(
+  stats::na.omit(species_reconciliation$plotted_tip_to_highlight)
+)
+
+tip_collisions <- species_reconciliation %>%
+  dplyr::filter(!is.na(plotted_tip_to_highlight)) %>%
+  dplyr::count(plotted_tip_to_highlight, name = "n_vgp_species") %>%
+  dplyr::filter(n_vgp_species > 1)
+
+if (nrow(tip_collisions) > 0) {
+  cat("\nMultiple VGP species represented by the same displayed tip:\n")
+  print(tibble::as_tibble(tip_collisions), n = Inf)
+}
+
+cat(
+  "\nFinal highlighted-tip summary\n",
+  "-----------------------------\n",
+  "VGP vertebrate species with genome: ",
+  nrow(species_reconciliation), "\n",
+  "VGP species assigned a display tip: ",
+  sum(!is.na(species_reconciliation$plotted_tip_to_highlight)), "\n",
+  "Unique tree tips highlighted:       ",
+  length(represented_tips), "\n",
+  "VGP species not represented:        ",
+  nrow(not_highlighted), "\n",
+  sep = ""
+)
+
+if (length(represented_tips) == 0) {
+  stop("No VGP tips were assigned for plotting.")
+}
+
+represented_grp <- list("VGP Phase I" = represented_tips)
+
+# ---------------------------------------------------------------------------
+# Plot: black tree, green represented/proxy branches, Extended Lineage gear
+# ---------------------------------------------------------------------------
+
+tree_annotated <- ggtree::groupOTU(
+  vertebrate_tree_species_only,
+  represented_grp,
+  group_name = "status"
+)
+
+p <- ggtree::ggtree(
+  tree_annotated,
+  layout = "fan",
+  color = "black",
+  linewidth = 0.10
+)
+
+tree_overlay_data <- p$data %>%
+  dplyr::mutate(
+    is_vgp = !is.na(status) & as.character(status) != "0",
+    vgp_overlay = ifelse(is_vgp, vgp_green, NA_character_)
+  )
+
+green_tips <- tree_overlay_data %>%
+  dplyr::filter(isTip, is_vgp) %>%
+  dplyr::distinct(label)
+
+cat(
+  "\nGreen-overlay diagnostic\n",
+  "------------------------\n",
+  "Assigned display tips:               ",
+  length(represented_tips), "\n",
+  "Terminal tips highlighted green:     ",
+  nrow(green_tips), "\n",
+  "Green branches/nodes with internals: ",
+  sum(tree_overlay_data$is_vgp), "\n",
+  sep = ""
+)
+
+# Green VGP / proxy branches above the black tree
+p1 <- p +
+  ggtree::geom_tree(
+    data = tree_overlay_data,
+    mapping = aes(color = vgp_overlay),
+    linewidth = 0.22,
+    na.rm = TRUE
+  ) +
+  scale_color_identity(
+    name = "Species represented",
+    breaks = vgp_green,
+    labels = "VGP Phase I or nearest plotted proxy",
+    na.value = "transparent",
+    guide = guide_legend(order = 2)
+  )
+
+# Extended Lineage gear added last so it remains above branch layers
+p2 <- p1 +
+  ggnewscale::new_scale_fill() +
   geom_fruit(
-    geom=geom_tile,
-    mapping=aes(fill=lineage),
-    width=2,
-    offset=0
+    data = lineage_tip_metadata,
+    geom = geom_tile,
+    mapping = aes(y = label, fill = lineage),
+    width = 0.85,
+    offset = 0
   ) +
   scale_fill_manual(
-    name = "Lineage",
-    values = setNames(class_colors[names(lineages)], unlist(internal_order_nodes)),
-    labels = setNames(names(lineages), unlist(internal_order_nodes)),
-    guide = guide_legend(keywidth = 0.3, keyheight = 0.3, ncol = 2, order = 2)
-  )+
-  theme(plot.margin = margin(40,0,40,0))
-ggsave(p2, filename='full_tree.svg', width = 12, height = 8, device = "svg")
+    name = "Extended Lineage",
+    values = class_colors[extended_lineage_order],
+    breaks = extended_lineage_order,
+    guide = guide_legend(
+      keywidth = 0.35,
+      keyheight = 0.35,
+      ncol = 2,
+      order = 1
+    )
+  ) +
+  theme(
+    legend.position = "right",
+    legend.margin = margin(0, 0, 0, 20),
+    legend.box.spacing = unit(3, "mm"),
+    plot.margin = margin(40, 80, 40, 20)
+  )
+
+ggsave(
+  filename = "full_tree_extended_lineage_gear_with_proxies.svg",
+  plot = p2,
+  width = 14,
+  height = 12,
+  device = "svg"
+)
