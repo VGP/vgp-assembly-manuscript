@@ -18,17 +18,20 @@ required_packages <- c("readxl", "data.table", "tidyverse", "ape", "ggplot2",
 install_load(required_packages)
 lapply(required_packages, packageVersion)
 
-for (p in BiocManager_packages) {
+bioc_packages <- c(
+  "treeio",
+  "ggtree",
+  "ggtreeExtra",
+  "tidytree"
+)
+
+for (p in bioc_packages) {
   if (!requireNamespace(p, quietly = TRUE)) {
     BiocManager::install(p, ask = FALSE, update = FALSE)
   }
   library(p, character.only = TRUE)
 }
 
-library(treeio)
-library(ggtree)
-library(ggtreeExtra)
-library(tidytree)
 library(dplyr)
 library(ggforce)
 
@@ -108,12 +111,12 @@ write.table(as.data.frame(table(ordinal_list$order[!is.na(ordinal_list$`Accessio
             quote = FALSE)
 
 # representation of ordinal species (VGP Orders)
-ordinal_species <- ordinal_list %>% 
+ordinal_species <- ordinal_list %>%
   mutate(complete_status = Status >= 4) %>%
-  group_by(Order, complete_status) %>% 
+  group_by(Order, complete_status) %>%
   slice_head(n = 1) %>%
   ungroup %>%
-  group_by(Order) %>% 
+  group_by(Order) %>%
   mutate(count_complete_status = n()) %>%
   ungroup %>%
   filter((count_complete_status > 1 & complete_status) | count_complete_status == 1 | (count_complete_status > 1 & !complete_status))
@@ -166,8 +169,8 @@ write.table(
 )
 
 # replace missing names in taxonomy with closely related species
-conditions <- c("Aspidoscelis tigris stejnegeri", "Aegotheles albertisi", "Osmerus mordax", "Hydrolagus colliei")
-replacement_values <- c("Aspidoscelis tigris", "Aegotheles albertisi albertisi", "Osmerus mordax mordax", "Hydrolagus bemisi")
+conditions <- c("Aspidoscelis tigris stejnegeri", "Aegotheles albertisi", "Osmerus mordax", "Hydrolagus colliei", "Bassozetus sp. 2 HX-2024")
+replacement_values <- c("Aspidoscelis tigris", "Aegotheles albertisi albertisi", "Osmerus mordax mordax", "Hydrolagus bemisi", "Bassozetus zenkevitchi")
 inds <- match(ordinal_species$`Scientific Name`, conditions)
 ordinal_species$`Scientific Name updated` <- ordinal_species$`Scientific Name` # Copy original column to a new one
 ordinal_species$`Scientific Name updated`[!is.na(inds)] <- replacement_values[na.omit(inds)] # Replace only matched rows in the new column
@@ -189,62 +192,92 @@ VGP_ordinal_subtree <- rotl::tol_induced_subtree(VGP_ordinal_resolved_names_with
 completed_status <- VGP_ordinal_resolved_names_with_status$`ordinal_species$complete_status`
 ott_id_completed <- VGP_ordinal_resolved_names_with_status$ott_id[completed_status]
 
-# generate full tip names
-VGP_ordinal_resolved_names_with_status <- VGP_ordinal_resolved_names_with_status%>%
-  mutate(tip=sapply(as.character(ott_id), function(x) {
-    str_subset(VGP_ordinal_subtree$tip.label, paste(".*_ott",x,"$", sep=""))}))
-
-# group Operational Taxonomic Units (OTUs) by completeness
-completeness_grp <- list(missing   = unlist(VGP_ordinal_resolved_names_with_status[VGP_ordinal_resolved_names_with_status$`ordinal_species$complete_status` == FALSE,]$`ordinal_species$\`Scientific Name\``, use.names = FALSE),
-            completed = unlist(VGP_ordinal_resolved_names_with_status[VGP_ordinal_resolved_names_with_status$`ordinal_species$complete_status` == TRUE,]$`ordinal_species$\`Scientific Name\``, use.names = FALSE))
-
 # ---------------------------------------------------------------------------
-# Retain OpenTree identifiers before cleaning tip labels for display
+# Match OpenTree tips to VGP species, then use clean VGP names for plotting
 # ---------------------------------------------------------------------------
 
-vertebrate_tip_map <- tibble::tibble(
-  raw_tip_label = vertebrate_tree_species_only$tip.label,
+tip_map_ordinal <- tibble::tibble(
+  raw_tip = VGP_ordinal_subtree$tip.label,
   ott_id = as.numeric(
-    stringr::str_extract(raw_tip_label, "(?<=ott)[0-9]+$")
-  ),
-  plotted_tip_label = rotl::strip_ott_ids(
-    raw_tip_label,
-    remove_underscores = TRUE
+    stringr::str_extract(raw_tip, "(?<=ott)[0-9]+$")
   )
 )
 
-# Check that OTT IDs were successfully recovered from the tree tip labels
-if (any(is.na(vertebrate_tip_map$ott_id))) {
-  print(
-    vertebrate_tip_map %>%
-      dplyr::filter(is.na(ott_id))
-  )
-  stop("Could not recover OTT identifiers from one or more vertebrate-tree tips.")
+if (any(is.na(tip_map_ordinal$ott_id))) {
+  print(tip_map_ordinal %>% dplyr::filter(is.na(ott_id)))
+  stop("Could not recover OTT identifiers from one or more VGP_ordinal_subtree tips.")
 }
 
-# Use clean labels only for plotting
-vertebrate_tree_species_only$tip.label <- vertebrate_tip_map$plotted_tip_label
-
-# build metadata table for lineage
-l <- VGP_ordinal_resolved_names_with_status[lengths(VGP_ordinal_resolved_names_with_status$`ordinal_species$\`Scientific Name\``)>0,] %>% select(`ordinal_species$\`Extended lineage\``)
-row.names(l) <- VGP_ordinal_resolved_names_with_status[lengths(VGP_ordinal_resolved_names_with_status$`ordinal_species$\`Scientific Name\``)>0,]$`ordinal_species$\`Scientific Name\``
-
-metadata <- data.frame (
-  label = row.names(l),
-  lineage = l$`ordinal_species$\`Extended lineage\``
+# Add raw OpenTree tip identifier to the species table
+VGP_ordinal_resolved_names_with_status_in_tree <-
+  VGP_ordinal_resolved_names_with_status %>%
+  dplyr::inner_join(tip_map_ordinal, by = "ott_id") %>%
+  dplyr::mutate(
+    plot_tip = `ordinal_species$\`Scientific Name\``
   )
 
-lineage_colors <- metadata %>%
-  select('lineage') %>%
-  distinct()
+# Map current raw tree tips to the original VGP scientific names
+tip_label_map <- VGP_ordinal_resolved_names_with_status_in_tree %>%
+  dplyr::select(raw_tip, plot_tip)
 
-metadata$order = ordinal_list$`Order (NCBI)`[match(metadata$label, ordinal_list$`Scientific Name`)]
-metadata$assembly_size = ordinal_list$`Assembly Size`[match(metadata$label, ordinal_list$`Scientific Name`)]
-metadata$total_species_order = ordinal_list$`# species/order`[match(metadata$label, ordinal_list$`Scientific Name`)]
-metadata$sequenced_species_order = ordinal_species$n_sequenced[match(metadata$label, ordinal_species$`Scientific Name`)]
-metadata$completed = VGP_ordinal_resolved_names_with_status$`ordinal_species$complete_status`[match(metadata$label, VGP_ordinal_resolved_names_with_status$`ordinal_species$\`Scientific Name\``)]
-metadata$label_to_plot = ifelse(metadata$completed, metadata$label, NA)
-metadata$lineage <- factor(metadata$lineage, levels=lineage_colors$lineage)
+new_tip_labels <- tip_label_map$plot_tip[
+  match(VGP_ordinal_subtree$tip.label, tip_label_map$raw_tip)
+]
+
+if (any(is.na(new_tip_labels))) {
+  stop("Some OpenTree tip labels could not be matched back to VGP scientific names.")
+}
+
+# From this point onward, the plotted tree uses clean scientific names
+VGP_ordinal_subtree$tip.label <- new_tip_labels
+
+# groupOTU now uses the clean labels that are actually in the plotted tree
+completeness_grp <- list(
+  missing = VGP_ordinal_resolved_names_with_status_in_tree$plot_tip[
+    !VGP_ordinal_resolved_names_with_status_in_tree$`ordinal_species$complete_status`
+  ],
+  completed = VGP_ordinal_resolved_names_with_status_in_tree$plot_tip[
+    VGP_ordinal_resolved_names_with_status_in_tree$`ordinal_species$complete_status`
+  ]
+)
+
+stopifnot(
+  all(unlist(completeness_grp) %in% VGP_ordinal_subtree$tip.label)
+)
+
+# ---------------------------------------------------------------------------
+# Build metadata keyed by the clean plotted tip labels
+# ---------------------------------------------------------------------------
+
+metadata <- VGP_ordinal_resolved_names_with_status_in_tree %>%
+  dplyr::transmute(
+    label = plot_tip,
+    lineage = `ordinal_species$\`Extended lineage\``,
+    completed = `ordinal_species$complete_status`
+  ) %>%
+  dplyr::mutate(
+    order = ordinal_list$`Order (NCBI)`[
+      match(label, ordinal_list$`Scientific Name`)
+    ],
+    assembly_size = ordinal_list$`Assembly Size`[
+      match(label, ordinal_list$`Scientific Name`)
+    ],
+    total_species_order = ordinal_list$`# species/order`[
+      match(label, ordinal_list$`Scientific Name`)
+    ],
+    sequenced_species_order = ordinal_species$n_sequenced[
+      match(label, ordinal_species$`Scientific Name`)
+    ],
+    label_to_plot = ifelse(completed, label, NA_character_)
+  )
+
+row.names(metadata) <- metadata$label
+
+lineage_colors <- metadata %>%
+  dplyr::select(lineage) %>%
+  dplyr::distinct()
+
+metadata$lineage <- factor(metadata$lineage, levels = lineage_colors$lineage)
 
 class_colors <- c(
   "Mammals" = "#E69F00",  # Okabe–Ito Orange
@@ -285,8 +318,6 @@ display_labels <- c(
   "Cyclostomes" = "Cyclostomes (Jawless fishes)",
   "Other Deurostomes" = "Other Deurostomes\n(non-vertebrates)"
 )
-
-row.names(metadata) <- row.names(l)
 
 # Make "Genus species subspecies" -> "G. species"
 # and "Genus1 sp1 x Genus2 sp2"   -> "G. sp1 × G. sp2"
