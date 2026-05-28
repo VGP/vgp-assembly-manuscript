@@ -1,0 +1,60 @@
+Assembly Accession      Assembly Name   Organism Name   Annotation Name Assembly Stats Total Sequence Length    Assembly Stats Total Number of Chromosomes      Assembly Stats Number of Contigs        Assembly Level  Assembly Release Date   Assembly Stats Contig N50       Assembly Stats Scaffold N50     Assembly Stats Number of Scaffolds      Assembly Stats GC Percent       Assembly Sequencing Tech        Assembly Submitter
+GCA_028533385.1	Panthera_onca_HiC	Panthera onca		2498323642	19	466954	Chromosome	2023-02-09	51083	132627732	410583	41.5	HiSeq X Ten; NextSeq 500; Illumina NovaSeq 6000	DNA Zoo
+GCF_028533385.1	Panthera_onca_HiC	Panthera onca	GCF_028533385.1-RS_2023_10	2380242927	19	92613	Chromosome	2023-02-09	53866	138099990	36242	41.5	HiSeq X Ten; NextSeq 500; Illumina NovaSeq 6000	DNA Zoo
+GCA_006229205.1	meerkat_22Aug2017_6uvM2_HiC	Suricata suricatta		2353578744	18	129036	Chromosome	2019-07-03	75409	141453419	63791	41.5	Illumina HiSeq; Illumina X10	DNA Zoo
+GCF_006229205.1	meerkat_22Aug2017_6uvM2_HiC	Suricata suricatta	NCBI Suricata suricatta Annotation Release 100	2353578744	18	129036	Chromosome	2019-07-03	75409	141453419	63791	41.5	Illumina HiSeq; Illumina X10	DNA Zoo
+GCA_028646535.1	pl-1k	Procyon lotor		2525713215	19	877198	Chromosome	2023-02-16	34230	114539748	819431	42	HiSeq X Ten	DNA Zoo
+GCA_028646485.1	Cryptoprocta_ferox_HiC	Cryptoprocta ferox		2373352832	21	213093	Chromosome	2023-02-16	124286	107277967	185515	41.5	HiSeq X Ten; NextSeq 500; Illumina NovaSeq 6000	DNA Zoo
+GCA_028551375.1	Tremarctos_ornatus_HiC	Tremarctos ornatus		2342007988	26	217262	Chromosome	2023-02-09	117282	104741234	188811	42	HiSeq X Ten	DNA Zoo
+GCA_028646465.1	Rhinoceros_unicornis_HiC	Rhinoceros unicornis		2631998212	41	306900	Chromosome	2023-02-16	105810	56870999	273665	41	HiSeq X Ten; Illumina NovaSeq 6000	DNA Zoo
+GCA_028533765.1	Pteropus_rufus_HiC	Pteropus rufus		2094173032	19	483369	Chromosome	2023-02-10	213999	110476781	469091	40	NextSeq 500; Illumina NovaSeq 6000	DNA Zoo
+GCA_028627145.1	Eidolon_dupreanum_HiC	Eidolon dupreanum		2294267257	17	1209684	Chromosome	2023-02-16	109255	101563129	1191098	40.5	Illumina NovaSeq 6000	DNA Zoo
+GCA_028533335.1	Chrysocyon_brachyurus_HiC	Chrysocyon brachyurus		2338097569	38	157193	Chromosome	2023-02-09	91425	60785871	120371	41	HiSeq X Ten; Illumina MiSeq; Illumina NovaSeq 6000	DNA Zoo
+GCA_028551445.1	Miopithecus_talapoin_HiC	Miopithecus talapoin		2969301606	27	696051	Chromosome	2023-02-09	76031	99916881	651021	41	Illumina NovaSeq 6000	DNA Zoo
+GCA_028533245.1	Helarctos_malayanus_HiC	Helarctos malayanus		2486327345	37	762462	Chromosome	2023-02-09	73706	59704986	726300	42	HiSeq X Ten; Illumina NovaSeq 6000	DNA Zoo
+GCA_028534135.1	Potos_flavus_HiC	Potos flavus		2465739417	19	878264	Chromosome	2023-02-09	65113	121721779	841001	42	HiSeq X Ten; Illumina NovaSeq 6000	DNA Zoo
+GCA_028533885.1	Nasua_narica_HiC	Nasua narica		2610174539	19	1127599	Chromosome	2023-02-09	64559	119764535	1091317	42	HiSeq X Ten; NextSeq 500; Illumina NovaSeq 6000	DNA Zoo
+GCA_028533395.1	Rousettus_madagascariensis_HiC	Rousettus madagascariensis		2344104132	18	1491090	Chromosome	2023-02-09	63903	85834856	1467186	40.5	NextSeq 500; Illumina NovaSeq 6000	DNA Zoo
+GCA_028646355.1	Arctocephalus_townsendi_HiC	Arctocephalus townsendi		2372365934	18	284102	Chromosome	2023-02-16	61084	127156334	238431	41.5	Illumina NovaSeq 6000	DNA Zoo
+GCA_028533065.1	Trachops_cirrhosus_HiC	Trachops cirrhosus		2179537627	15	432766	Chromosome	2023-02-09	60077	124458213	396519	42	Illumina NovaSeq 6000	DNA Zoo
+GCA_028646385.1	Steno_bredanensis_HiC	Steno bredanensis		2331324105	22	266806	Chromosome	2023-02-16	59977	94897118	221678	41.5	Illumina NovaSeq 6000	DNA Zoo
+GCA_015711505.1	Sylvilagus_bachmani_HiC	Sylvilagus bachmani		2686379823	24	575170	Chromosome	2020-12-04	58367	110456461	524010	44	Illumina NovaSeq 6000	DNA Zoo
+GCA_028644305.1	Xerus_rutilus_HiC	Xerus rutilus		2750758914	19	1164041	Chromosome	2023-02-16	58140	127260801	1123228	40	Illumina NovaSeq 6000	DNA Zoo
+GCA_028533205.1	Lagorchestes_hirsutus_HiC	Lagorchestes hirsutus		3381150672	10	631689	Chromosome	2023-02-09	57452	401333761	569642	38.5	Illumina NovaSeq 6000	DNA Zoo
+GCA_028533165.1	Leontopithecus_rosalia_HiC	Leontopithecus rosalia		2874530362	23	401755	Chromosome	2023-02-09	55757	121128971	342831	41	HiSeq X Ten; Illumina NovaSeq 6000	DNA Zoo
+GCA_028533215.1	Babyrousa_celebensis_HiC	Babyrousa celebensis		2571103617	19	743099	Chromosome	2023-02-09	52664	112896847	696483	42	HiSeq X Ten; Illumina NovaSeq 6000	DNA Zoo
+GCA_028551405.1	Uromys_caudimaculatus_HiC	Uromys caudimaculatus		2615851634	23	611178	Chromosome	2023-02-09	49660	99048585	559416	41.5	Illumina NovaSeq 6000	DNA Zoo
+GCA_028658305.1	Pachyuromys_duprasi_HiC	Pachyuromys duprasi		2488923329	27	551819	Chromosome	2023-02-17	47672	70283636	502065	42	HiSeq X Ten; Illumina NovaSeq 6000	DNA Zoo
+GCA_028658325.1	Potorous_gilbertii_HiC	Potorous gilbertii		3826410559	7	1209112	Chromosome	2023-02-17	46323	557804701	1148168	38.5	Illumina NovaSeq 6000	DNA Zoo
+GCA_028627215.1	mg-2k	Macropus giganteus		3535619686	8	1081779	Chromosome	2023-02-16	41690	392871110	1012328	38.5	HiSeq X Ten	DNA Zoo
+GCA_028533085.1	Varecia_variegata_HiC	Varecia variegata		2424021081	22	1029863	Chromosome	2023-02-10	40155	128811464	984208	41	HiSeq X Ten; Illumina NovaSeq 6000	DNA Zoo
+GCA_028534055.1	Eulemur_mongoz_HiC	Eulemur mongoz		2476385662	30	1106606	Chromosome	2023-02-09	38022	82429097	1055658	41	HiSeq X Ten; NextSeq 500; Illumina NovaSeq 6000	DNA Zoo
+GCA_028534165.1	Coendou_prehensilis_HiC	Coendou prehensilis		2849765846	37	1798555	Chromosome	2023-02-09	32746	42412415	1753065	41	HiSeq X Ten; Illumina NovaSeq 6000	DNA Zoo
+GCA_028583105.1	mf-2k	Macropus fuliginosus		3638522883	8	1491687	Chromosome	2023-02-10	30299	341276260	1417799	38.5	HiSeq X Ten	DNA Zoo
+GCA_028627265.1	Cercopithecus_mitis_HiC	Cercopithecus mitis		3104799808	36	1456707	Chromosome	2023-02-16	28335	51119100	1396160	41	Illumina NovaSeq 6000	DNA Zoo
+GCA_028646595.1	pg-2k	Phalanger gymnotis		3623972075	7	1222713	Chromosome	2023-02-16	28067	353051754	1142900	39.5	HiSeq X Ten	DNA Zoo
+GCA_028627135.1	Pseudochirops_cupreus_HiC	Pseudochirops cupreus		3579892125	5	1136014	Chromosome	2023-02-16	27966	425237964	1056511	39	Illumina NovaSeq 6000	DNA Zoo
+GCA_028646515.1	Pseudochirops_corinnae_HiC	Pseudochirops corinnae		3503377836	8	635686	Chromosome	2023-02-16	26949	209248263	551799	39	Illumina NovaSeq 6000	DNA Zoo
+GCA_028646575.1	Pseudocheirus_occidentalis_HiC	Pseudocheirus occidentalis		3603728918	10	1001302	Chromosome	2023-02-16	24464	213462136	917762	39	Illumina NovaSeq 6000	DNA Zoo
+GCA_029783875.1	UCLA_PhaTri_1.0	Phataginus tricuspis		2464734937		66524	Scaffold	2023-04-17	113164	46351422	26460	41	Illumina NovaSeq; 10X Genomics; Hi-C	DNA Zoo
+GCA_028643795.1	Sciurus_carolinensis_HiC	Sciurus carolinensis		3182857308	20	2117925	Chromosome	2023-02-16	16665	37295854	2067066	40.5	Illumina NovaSeq 6000	DNA Zoo
+GCA_028646445.1	Panthera_uncia_HiC	Panthera uncia		2407715237	19	159269	Chromosome	2023-02-21	65051	141103905	108642	41.5	HiSeq X Ten; Illumina NovaSeq 6000	DNA Zoo
+GCA_028646425.1	Grampus_griseus_HiC	Grampus griseus		2536411710	22	813233	Chromosome	2023-02-16	62041	93180659	773381	41.5	Illumina NovaSeq 6000	DNA Zoo
+GCA_028533375.1	Diceros_bicornis_HiC	Diceros bicornis		2604568178	42	670561	Chromosome	2023-02-09	87018	59591286	636610	41	HiSeq X Ten; Illumina NovaSeq 6000	DNA Zoo
+GCA_015741225.1	Hydrochoerus_hydrochaeris_HiC	Hydrochoerus hydrochaeris		2590838763	33	384170	Chromosome	2020-12-04	78808	71052467	343877	40	Illumina NovaSeq 6000	DNA Zoo
+GCA_028626985.1	vu-2k	Vombatus ursinus		3341345253	7	685857	Chromosome	2023-02-16	74778	576111283	633732	39	HiSeq X Ten	DNA Zoo
+GCA_028533075.1	Theropithecus_gelada_HiC	Theropithecus gelada		2878106698	21	415068	Chromosome	2023-02-10	49679	120619367	347802	41	Illumina NovaSeq 6000	DNA Zoo
+GCA_028533255.1	Tapirus_terrestris_HiC	Tapirus terrestris		2848289233	40	1749853	Chromosome	2023-02-10	46059	47139982	1711479	40.5	Illumina NovaSeq 6000	DNA Zoo
+GCA_028551425.1	Prionailurus_viverrinus_HiC	Prionailurus viverrinus		2510020520	19	457310	Chromosome	2023-02-09	45920	132313483	395495	42	HiSeq X Ten; NextSeq 500; Illumina NovaSeq 6000	DNA Zoo
+GCA_028645565.1	Papio_papio_HiC	Papio papio		2908029665	21	493925	Chromosome	2023-02-16	44968	116598389	429164	41	Illumina NovaSeq 6000	DNA Zoo
+GCA_028642525.1	Symphalangus_syndactylus_HiC	Symphalangus syndactylus		2896079755	25	867194	Chromosome	2023-02-16	32309	87438310	797215	41	Illumina HiSeq 2500; Illumina NovaSeq 6000	DNA Zoo
+GCA_028534125.1	Lama_glama_HiC	Lama glama		2351761190	37	1096291	Chromosome	2023-02-09	93318	57409894	1072352	41.5	HiSeq X Ten; NextSeq 500; Illumina NovaSeq 6000	DNA Zoo
+GCA_028533875.1	Mungos_mungo_HiC	Mungos mungo		2494883117	18	614368	Chromosome	2023-02-09	60614	128516143	572361	42	HiSeq X Ten; Illumina NovaSeq 6000	DNA Zoo
+GCA_028533295.1	Felis_nigripes_HiC	Felis nigripes		2454720760	19	286425	Chromosome	2023-02-09	50736	139656774	226952	42	Illumina NovaSeq 6000	DNA Zoo
+GCA_028643805.1	Dasyurus_viverrinus_HiC	Dasyurus viverrinus		3085907905	7	457206	Chromosome	2023-02-17	42318	531475703	386556	36	Illumina NovaSeq 6000	DNA Zoo
+GCA_028551515.1	Pithecia_pithecia_HiC	Pithecia pithecia		3051940974	24	1370502	Chromosome	2023-02-09	53327	103980617	1322362	41	HiSeq X Ten; Illumina MiSeq; Illumina NovaSeq 6000; Illumina HiSeq 2000; NextSeq 500	DNA Zoo
+GCA_021288785.3	ASM2128878v3	Mirounga angustirostris		2366166981	17	182391	Chromosome	2022-12-21	76189	139676048	142455	41.5	Illumina NovaSeq 6000	DNA Zoo
+GCF_021288785.2	ASM2128878v3	Mirounga angustirostris	GCF_021288785.2-RS_2023_03	2366166981	17	182391	Chromosome	2022-12-21	76189	139676048	142455	41.5	Illumina NovaSeq 6000	DNA Zoo
+GCA_012274545.1	DMR_v1.0_HiC	Fukomys damarensis		2334358650		162868	Scaffold	2020-04-13	44756	62586000	73969	40.5	Illumina X Ten; Hi-C	DNA Zoo Consortium
+GCF_012274545.1	DMR_v1.0_HiC	Fukomys damarensis	NCBI Fukomys damarensis Annotation Release 102	2334358650		162868	Scaffold	2020-04-13	44756	62586000	73969	40.5	Illumina X Ten; Hi-C	DNA Zoo Consortium
+GCA_040438115.1	ASM4043811v1	Tragelaphus eurycerus isaaci		2965146561	17	97422	Chromosome	2024-07-02	79532	192009155	34537	42	Illumina NovaSeq	George Mason University

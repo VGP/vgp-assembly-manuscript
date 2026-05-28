@@ -1,0 +1,188 @@
+accession	taxid	species_name	assembly_level	method	sequencing_technology	submission_date	number_of_contigs	number_of_scaffolds	contig_n50	scaffold_n50
+GCA_964271855.1	83528	Acomys minous	Chromosome	Hifiasm,yahs	PACBIO	2023-03-08T11:21:44.070	297	113	29281624	122851966
+GCA_965287075.1	68471	Acrocephalus paludicola	Chromosome	NextDeNovo,Medaka,Hapo-G,Decap,Purge_dups,3D-DNA	ONT,Omni-C	2023-03-28T08:10:23.080	212	111	27615808	76810945
+GCA_022086475.1	335395	Actinemys marmorata	Scaffold	HiFiasm v. 0.15-r327; purge_dups v. 1.2.5; SALSA2 v. 2.2	PacBio Sequel II; Illumina NovaSeq; Dovetail OmniC	2021-09-14T21:17:06.310	195	47	75081387	146229595
+GCA_023634205.1	1485138	Actinemys pallida	Scaffold	HiFiasm v. 0.16.1-r375; purge_dups v. 1.2.6; SALSA2 v. 2	PacBio Sequel II; PacBio Sequel IIe; Dovetails OmniC; Illumina NovaSeq	2022-02-12T02:11:03.203	105	52	93983910	140349533
+GCF_023055355.1	9191	Agelaius tricolor	Scaffold	HiFiasm v. 0.16.1-r375; purge_dups v. 1.2.6; SALSA2 v. 2	PacBio Sequel II; PacBio Sequel IIe; Dovetails OmniC; Illumina NovaSeq	2022-02-12T02:14:03.363	310	213	22601135	47739980
+GCA_965278835.1	40178	Alectoris graeca	Chromosome	Hifiasm v0.25.0-r726, purge_dups v1.2.5, Yahs v1.2.2, MicroFinder v0.1, PretextView v1.0.3, GRIT_Rapid git:1a3d79a8, MitoHifi v3.2.1	PacBio, Illumina, OmniC	2024-01-21T10:03:11.990	266	116	43679502	97991491
+GCA_040955115.1	224703	Alosa aestivalis	Contig	hifiasm v. 0.19.4; purge_dups v. 1.2.5	PacBio Sequel II	2024-03-14T14:57:10.236	3820	3820	912851	912851
+GCA_043789995.1	985688	Anarhynchus nivosus	Scaffold	HiFiasm v. 0.19.8-r603; SALSA v. 2; YAG Closer (gap closing) v. https://github.com/merlyescalona/yagcloser (23d4fe9); Rapid curation v. https://gitlab.com/wtsi-grit/rapid-curation (commit 4ddca450)	PacBio Revio; Illumina NovaSeq; Dovetail Omni-C	2024-07-11T15:18:06.263	1358	1229	26317920	85629357
+GCF_004355925.1	433405	Anarrhichthys ocellatus	Scaffold	Supernova v. 2.1.1	Illumina HiSeq	2018-10-15T17:45:04.063	33924	10816	41757	5717598
+GCA_041430395.1	30325	Anaxyrus boreas	Scaffold	HiFiasm v. 0.16.1-r375; SALSA v. 2; YAGCloser v. https://github.com/merlyescalona/yagcloser	Illumina NovaSeq; PacBio Sequel; Dovetail OmniC	2024-04-30T20:36:04.997	6808	3913	2844713	646048006
+GCA_029215795.1	2202111	Anniella stebbinsi	Scaffold	Hifiasm v. 0.16.1-r375; SALSA v. 2; Rapid Curation v. https://gitlab.com/wtsi-grit/rapid-curation (commit 4ddca450)	PacBio Sequel IIe; Illumina NovaSeq; Dovetail OmniC	2023-02-20T20:30:08.027	122	91	120289678	276533474
+GCA_964269795.2	327821	Anthias anthias	Chromosome	Hifiasm,Purge_dups,Yahs	PacBio,Arima	2024-07-25T10:10:21.386	168	65	17256112	34740752
+GCA_007570785.1	9891	Antilocapra americana	Scaffold	Supernova v. 2.1.1	Illumina HiSeq	2019-03-08T15:53:03.677	48443	22440	220431	18739554
+GCA_027563665.1	9440	Antrozous pallidus	Chromosome	DAmar v. git version 969b689; scaff10x v. 4.2; bionano Solve v. 3.5.1; Salsa2 HiC v. git version cf0fa8e2; DipAsm v. git version a84f0afde5233fcb3b76b032f5e29688dc21f762	PacBio Sequel II CLR; 10X Genomics linked reads; Arima Genomics Hi-C (v2); Bionano Genomics DLS	2022-08-10T05:28:04.550	325	92	41887785	114648712
+GCA_028536675.1	142466	Aphelocoma californica	Scaffold	HiFiasm v. 0.16.1-r375; SALSA v. 2; Rapid Curation v. https://gitlab.com/wtsi-grit/rapid-curation (commit 4ddca450)	PacBio Sequel II; Illumina NovaSeq; Dovetail OmniC	2022-11-22T12:50:05.653	1664	1392	11534525	66144195
+GCA_964023405.1	39030	Apodemus agrarius	Chromosome	NEXTDENOVO, HYPO, PURGE_DUPS, YAHS	ONT, Illumina, omniC	2023-03-21T09:07:08.043	242	60	35188814	119125257
+GCA_964211915.2	357811	Apogon imberbis	Chromosome	Hifiasm,Purgedups,Yahs	PacBio,ONT,Arima	2024-07-25T10:10:34.363	37	32	40310727	40310727
+GCA_040955285.1	473348	Arctozenus risso	Contig	hifiasm v. 0.19.4; purge_dups v. 1.2.5	PacBio Sequel II	2024-02-23T14:36:10.005	22419	22419	117323	117323
+GCA_022577455.1	94893	Arizona elegans	Scaffold	HiFiasm v. 0.16.1-r375; purge_dups v. 1.2.5; SALSA2 v. 2	PacBio Sequel II; PacBio Sequel IIe; Dovetail OmniC; Illumina NovaSeq	2022-01-11T05:51:04.120	395	139	54101938	105945816
+GCA_965260895.1	208529	Arnoglossus laterna	Chromosome	Hifiasm,Purge_dups,Yahs	PacBio,Arima	2025-04-10T08:11:19.476	1399	367	1717611	20332259
+GCA_021963965.1	198938	Artemisiospiza belli	Scaffold	HiFiasm v. 0.16.1-r375; purge_dups v. 1.2.5; SALSA v. 2	PacBio Sequel II; PacBio Sequel IIe; Illumina NovaSeq; Dovetail OmniC	2021-12-20T07:56:03.940	1538	1338	8253817	17082054
+GCA_043727835.1	188568	Aselliscus stoliczkanus	Chromosome	HiFiasm v. 0.13; purge-dups v. 1.2.3; bwa-mem v. 0.7.17; salsa v. 2.2; pbmm2 v. 1.4.0; deepvariant v. 0.2.0; bcftools v. 1.12	PacBio Sequel; Illumina NovaSeq	2023-02-20T09:50:04.863	161	74	61181192	162130651
+GCA_023333525.2	2917703	Aspidoscelis tigris stejnegeri	Chromosome	HiFiasm v. 0.16.1-r375; purge_dups v. 1.2.6; SALSA2 v. 2	PacBio Sequel IIe HiFi; Dovetail Omni-C; Illumina NovaSeq	2022-02-12T02:00:06.010	295	185	41557363	115489130
+GCA_023783555.1	9509	Ateles geoffroyi	Contig	Wtdbg2 v. 2	PacBio RSII	2021-12-03T01:24:04.010	2723	2723	29212752	29212752
+GCA_965295175.1	303921	Atherina presbyter	Chromosome	Hifiasm,Purge_dups,Yahs	PacBio,Arima	2025-04-30T08:16:29.323	338	126	25751300	43223242
+GCA_040955155.1	81638	Brosme brosme	Contig	hifiasm v. 0.19.4; purge_dups v. 1.2.5	PacBio Sequel II	2024-03-14T14:57:10.209	6798	6798	157414	157414
+GCA_965212795.1	371907	Bubo scandiacus	Chromosome	Hifiasm, version 0.16.1-r375	PACBIO_SMART, ONT, ILLUMINA	2024-09-18T08:11:12.950	1429	1104	16496251	50972959
+GCA_037951015.1	223441	Buteo regalis	Contig	hifiasm v. 0.19.4; purge_dups v. 1.2.5	PacBio Revio	2024-01-31T19:03:13.015	231	231	35970857	35970857
+GCA_046118985.1	110671	Butorides virescens	Contig	hifiasm v. 0.19.4; purge_dups v. 1.2.5	Sequel II	2024-06-05T19:25:05.573	1393	1393	2336571	2336571
+GCA_016630915.1	34785	Callionymus lyra	Scaffold	wtdbg2 v. 2.2	Oxford Nanopore MinION	2020-07-14T10:47:05.056	1744	1205	2201294	26698546
+GCA_023055505.1	2893758	Callipepla californica brunnescens	Scaffold	HiFiasm v. 0.16.1-r375; purge_dups v. 1.2.5; SALSA2 v. 2	PacBio Sequel IIe; Dovetail's OmniC; Illumina NovaSeq	2022-03-23T12:52:04.683	607	320	5506990	19408658
+GCF_003265705.2	34884	Callorhinus ursinus	Scaffold	Supernova v. 2.1.1	Illumina HiSeq	2018-06-07T12:29:04.766	44269	14518	161048	46987914
+GCF_023653815.2	8467	Caretta caretta	Chromosome	Racon v. 1.4.13; Medaka v. 1.2.0; Pilon v. 1.23; Salsa v. 2.3; nf-core/hic v. 1.1.0; Juicer v. 1.6; Redbean v. 2.5; LongStitch v. 1.0.1	Illumina NovaSeq; Oxford Nanopore PromethION	2022-04-28T12:56:04.000	2751	2007	18214114	130956235
+GCF_023349555.1	271503	Cebidichthys violaceus	Scaffold	HiFiasm v. 0.16.1-r375; purge_dups v. 1.2.6; SALSA2 v. 2	PacBio Sequel IIe; Dovetails OmniC; Illumina NovaSeq	2022-02-12T01:42:02.843	1660	724	1006396	16359613
+GCA_023783575.1	9514	Cebus albifrons	Contig	NextDenovo v. 1	Oxford Nanopore PromethION	2021-12-03T01:24:04.030	2079	2079	18502463	18502463
+GCA_027257055.1	9477	Cephalopachus bancanus	Contig	wtdbg v. 2	PacBio	2022-12-12T01:51:03.377	6942	6942	5252243	5252243
+GCA_023783535.1	867370	Cercopithecus albogularis	Contig	Wtdbg2 v. 2	PacBio RSII	2021-12-03T01:24:04.043	3544	3544	13914891	13914891
+GCF_029207755.1	190680	Chamaea fasciata	Scaffold	HiFiasm v. 0.16.1-r375; SALSA v. 2; Rapid Curation v. https://gitlab.com/wtsi-grit/rapid-curation (commit 4ddca450)	PacBio Sequel IIe; Illumina NovaSeq; Dovetail OmniC	2023-02-20T20:15:05.223	1694	1341	4583527	73256386
+GCA_023362775.1	51858	Charina bottae	Scaffold	HiFiasm v. 0.16.1-r375; SALSA2 v. 2	PacBio Sequel IIe; Dovetail's OmniC; Illumina NovaSeq	2022-03-02T18:04:04.610	373	288	37334273	97015800
+GCA_037349315.1	8475	Chelydra serpentina	Contig	hifiasm v. 0.19.4; purge_dups v. 1.2.5	PacBio Revio	2023-10-12T17:19:04.106	815	815	47384726	47384726
+GCF_047496795.1	137246	Chiloscyllium punctatum	Chromosome	hifiasm v. 0.16.0; YaHS v. v1.2	PacBio Sequel	2024-12-23T08:52:04.110	4880	1989	5342658	93668967
+GCA_023783515.1	9534	Chlorocebus aethiops	Contig	Wtdbg2 v. 2	PacBio RSII	2021-12-03T01:24:04.060	2565	2565	9639656	9639656
+GCA_040208395.1	85608	Clemmys guttata	Contig	hifiasm v. 0.19.4; purge_dups v. 1.2.5	PacBio Revio	2024-01-31T19:03:12.999	153	153	108421626	108421626
+GCA_040207285.2	537920	Clethrionomys rutilus	Chromosome	hifiasm v. 0.19.4; purge_dups v. 1.2.5; yahs v. 1.2	Revio; Illumina NovaSeq 6000	2024-01-31T19:03:13.083	270	83	42196457	87441830
+GCF_023055335.1	304258	Clinocottus analis	Scaffold	HiFiasm v. 0.16.1-r375; SALSA2 v. 2	PacBio Sequel II; Dovetail's OmniC; Illumina NovaSeq	2022-03-02T18:16:03.227	661	442	9145431	21001540
+GCF_033807715.1	129043	Cololabis saira	Chromosome	HiFiasm v. 0.16.1; 3d-dna v. 201008	PacBio Sequel	2023-10-12T11:12:03.736	1658	758	8087617	47710000
+GCA_038048745.1	3052055	Coluber constrictor foxii	Chromosome	hifiasm v. 0.19.4; purge_dups v. 1.2.5; yahs v. 1.2	PacBio Sequel; Illumina NovaSeq	2023-08-11T00:11:05.314	1098	272	72486006	170815331
+GCA_026230045.1	124745	Corynorhinus townsendii	Scaffold	HiFiasm v. 0.16.1-r375; SALSA v. 2; Rapid curation v. https://gitlab.com/wtsi-grit/rapid-curation (commit 4ddca450)	PacBio Sequel II; PacBio Sequel IIe; Dovetail OmniC; Illumina NovaSeq	2022-10-31T14:14:04.303	399	182	22150609	177756282
+GCA_965229965.1	152538	Coryphoblennius galerita	Chromosome	Hifiasm,Purge_dups,Yahs	PacBio,Dovetail (Assembly link)	2025-03-16T10:07:35.100	559	76	3971000	32081767
+GCA_964304595.1	10034	Cricetus cricetus	Chromosome	NEXTDENOVO, HYPO, PURGE_DUPS, YAHS	ONT, Illumina, Omni-C	2024-07-30T08:15:13.023	178	48	47690202	305542590
+GCA_965212715.1	387912	Crocidura zimmermanni	Chromosome	Hifiasm,Purge_dups,Yahs	PacBio,Arima	2024-07-25T10:10:13.536	307	146	28351139	127229103
+GCA_024509115.1	8741	Crotalus helleri	Scaffold	HiFiasm v. 0.16.1-r375; purge_dups v. 1.2.6; SALSA2 v. 2	PacBio Sequel II; PacBio Sequel IIe; Dovetails OmniC; Illumina NovaSeq	2022-02-12T01:37:08.260	1140	697	10371895	110762666
+GCA_040955035.1	1266866	Cryptacanthodes maculatus	Contig	HiFiasm v. 0.19.4; purge_dups v. 1.2.5	PacBio Revio	2024-05-01T13:51:41.030	501	501	5529297	5529297
+GCA_965358205.1	171735	Ctenolabrus rupestris	Chromosome	Hifiasm,Purge_dups,Yahs	PacBio,Arima	2025-04-16T08:12:12.636	675	147	9703000	34173648
+GCA_026167965.1	114083	Cyanocitta stelleri	Scaffold	HiFiasm v. 0.16.1-r375; SALSA v. 2	PacBio Sequel II; Illumina NovaSeq; Dovetail's Omni-C	2022-08-26T14:04:04.087	574	351	7854909	25842608
+GCA_023053685.1	158812	Diadophis punctatus similis	Scaffold	HiFiasm v. 0.16.1-r375; purge_dups v. 1.2.6; SALSA2 v. 2	PacBio Sequel IIe; Dovetails OmniC; Illumina NovaSeq	2022-02-12T02:06:05.867	1166	443	8013852	83654930
+GCA_963678695.2	48915	Diplodus puntazzo	Chromosome	Flye, Novoplasty, purge_dups, juicer	PacBio, Illumina	2023-01-21T08:27:30.186	1908	1274	5518951	34685444
+GCF_024711535.1	94247	Dipodomys merriami	Scaffold	HiFiasm v. 0.16.1-r375; SALSA v. 2	PacBio Sequel; Illumina NovaSeq; Dovetails OmniC	2022-06-14T16:56:24.543	4535	4353	7443915	13535215
+GCA_043880285.1	249021	Doryrhina cyclops	Chromosome	HiCanu v. 2.1; purge-dups v. 1.2.3; salsa v. 2.2; deepvariant v. 1.2.0; bcftools v. 1.12	PacBio Sequel; Illumina NovaSeq	2023-02-20T10:56:16.133	399	65	14255823	154073572
+GCF_022577435.1	100190	Embiotoca jacksoni	Scaffold	HiFiasm v. 0.16.1-r375; purge_dups v. 1.2.5; SALSA2 v. 2	PacBio Sequel IIe; Dovetail OmniC; Illumina NovaSeq	2022-01-13T12:10:04.330	463	229	6500778	15510158
+GCA_036785055.1	85613	Emydoidea blandingii	Scaffold	hifiasm v. 0.19.4; purge_dups v. 1.2.5; yahs v. 1.2	PacBio Sequel; Illumina NovaSeq	2023-08-11T00:11:05.336	402	164	43111614	148530947
+GCF_027574615.1	29078	Eptesicus fuscus	Chromosome	DAmar v. git version 378c61f; purge_dups v. 1.2.5; yahs v. 1.1; gcpp v. 2.0.2; merfin v. 1.1	PacBio Sequel II CLR; HiC; Illumina	2022-08-31T02:38:04.200	123	48	49033427	102817582
+GCA_023783455.1	9538	Erythrocebus patas	Contig	NextDenovo v. 1	Oxford Nanopore PromethION	2021-12-03T01:24:04.103	4898	4898	18747272	18747272
+GCF_026437365.1	166745	Eucyclogobius newberryi	Scaffold	HiFiasm v. 0.16.1-r375; SALSA v. 2; Rapid Curation v. https://gitlab.com/wtsi-grit/rapid-curation (commit 4ddca450)	PacBio Sequel II; PacBio Sequel IIe; Dovetail OmniC; Illumina NovaSeq	2022-10-31T14:09:03.750	1614	820	1988651	38890901
+GCF_004028035.1	34886	Eumetopias jubatus	Scaffold	supernova v. 2.0.1	Illumina HiSeq	2018-06-12T14:44:04.867	24746	7471	242372	14018600
+GCA_040955675.1	430040	Eumicrotremus spinosus	Contig	hifiasm v. 0.19.4; purge_dups v. 1.2.5	PacBio Revio	2024-05-01T13:51:41.043	6265	6265	238604	238604
+GCA_040954885.1	1266883	Foetorepus agassizii	Contig	hifiasm v. 0.19.4; purge_dups v. 1.2.5	Revio	2024-05-01T13:51:40.963	217	217	20466301	20466301
+GCA_023783435.1	30609	Galago moholi	Contig	Wtdbg2 v. 2	PacBio RSII	2021-12-03T01:24:04.120	11899	11899	583552	583552
+GCA_030847615.1	43593	Gambelia wislizenii	Scaffold	HiFiasm v. 0.16.1-r375; SALSA v. 2; Rapid Curation v. https://gitlab.com/wtsi-grit/rapid-curation (commit 4ddca450)	Illumina NovaSeq 6000; Pacbio Sequel IIe; Dovetail OmniC	2023-06-22T18:31:04.857	96	69	138191064	380060318
+GCA_965282415.1	37273	Gambusia holbrooki	Chromosome	various	PacBio,Arima2	2024-08-15T08:12:36.150	421	318	15918108	29628722
+GCA_026230005.1	71755	Gila orcuttii	Scaffold	HiFiasm v. 0.16.1-r375; SALSA v. 2; purge_dups v. 1.2.5; Rapid curation v. https://gitlab.com/wtsi-grit/rapid-curation (commit 4ddca450)	Illumina NovaSeq; PacBio Sequel IIe; Dovetail's OmniC	2022-10-31T14:02:04.863	506	179	13138541	50480577
+GCA_032172135.1	335392	Glyptemys insculpta	Scaffold	hifiasm v. 0.19.4; purge_dups v. 1.2.5; yahs v. 1.2	PacBio Sequel; Illumina NovaSeq	2023-08-11T00:11:05.326	375	105	95749198	144216551
+GCA_965278345.1	85418	Gobius paganellus	Chromosome	Hifiasm,Purge_dups,Yahs	PacBio,Arima	2025-04-16T08:12:10.873	198	122	29485388	34904278
+GCA_037349215.1	8481	Graptemys geographica	Contig	hifiasm v. 0.19.4; purge_dups v. 1.2.5	PacBio Revio	2023-10-12T17:19:04.033	201	201	107021855	107021855
+GCF_048418815.1	2704970	Hemitrygon akajei	Chromosome	hifiasm v. 0.16.0	PacBio Sequel	2025-01-03T08:04:03.947	2325	260	8940806	175234968
+GCA_964340495.1	166086	Hemorrhois hippocrepis	Chromosome	NEXTDENOVO, HYPO, PURGE_DUPS, YAHS	ONT, Illumina, Omni-C	2024-01-05T08:11:02.133	146	110	54718507	153613759
+GCA_965263715.1	109283	Hippocampus hippocampus	Chromosome	Hifiasm,Purge_dups,Yahs	PacBio,Arima	2025-04-16T08:12:01.246	119	49	8192736	21946309
+GCA_021498465.1	9589	Hylobates pileatus	Chromosome	NextDenovo v. 1	Oxford Nanopore PromethION	2021-12-03T01:24:04.146	1567	743	17385161	131825309
+GCA_965212315.1	7750	Lampetra planeri	Chromosome	Hifiasm, version 0.19.8-r603	PACBIO_SMART, ILLUMINA	2024-09-17T08:08:39.760	3066	2193	3005152	12932130
+GCA_022605575.1	650015	Laterallus jamaicensis coturniculus	Scaffold	HiFiasm v. 0.15-r327; purge_dups v. 1.2.5; SALSA2 v. 2.2	PacBio Sequell II; Dovetail OmniC; Illumina NovaSeq	2021-12-30T07:17:04.453	963	644	7445194	21403927
+GCA_965278445.1	2740763	Lepadogaster candolii	Chromosome	Hifiasm,Purge_dups,Yahs	PacBio,Arima	2025-04-17T08:12:31.940	256	113	18941000	49201026
+GCA_965274325.2	164309	Lepadogaster purpurea	Chromosome	Hifiasm,Purge_dups,Yahs	PacBio,Arima	2025-04-17T08:12:38.556	169	91	15794238	36980150
+GCA_965246675.1	154550	Lepidorhombus whiffiagonis	Chromosome	Nextdenovo,Purge_dups,Yahs	ONT,Arima	2025-04-12T08:14:13.896	72	32	17714167	25032925
+GCA_032191485.1	980417	Leptoclinus maculatus	Scaffold	hifiasm v. 0.19.4; purge_dups v. 1.2.5; yahs v. 1.2	PacBio Sequel; Illumina NovaSeq	2023-08-09T18:01:25.089	1078	585	2413687	23457207
+GCF_033115175.1	9983	Lepus europaeus	Chromosome	HiFiasm v. 07-2023	PacBio RSII	2023-03-30T09:18:03.953	1068	650	43409466	125776599
+GCA_040893245.2	62621	Lepus timidus	Chromosome	HiFiasm v. 0.16.1; YaHS v. 1.2	PacBio Sequel; Illumina NovaSeq	2024-05-17T02:59:05.510	1411	84	4885811	125755317
+GCA_036785375.1	173042	Leucoraja ocellata	Scaffold	hifiasm v. 0.19.4; purge_dups v. 1.2.5; yahs v. 1.2	PacBio Sequel; Illumina NovaSeq	2023-08-11T00:11:05.290	19047	5846	305059	4435174
+GCF_036924035.1	355514	Leuresthes tenuis	Scaffold	HiFiasm v. 0.16.1-r375; SALSA v. 2; Rapid Curation v. https://gitlab.com/wtsi-grit/rapid-curation (commit 4ddca450)	Illumina NovaSeq 6000; PacBio Sequel IIe; Dovetail OmniC	2023-08-09T12:38:05.220	518	295	9667060	35077053
+GCA_040955725.1	255718	Liparis gibbus	Contig	hifiasm v. 0.19.4; purge_dups v. 1.2.5	PacBio Revio	2024-05-01T13:51:40.990	5179	5179	590126	590126
+GCA_037952925.1	145282	Lithobates clamitans	Contig	hifiasm v. 0.19.4; purge_dups v. 1.2.5	PacBio Revio	2024-01-31T19:03:13.056	3945	3945	4403197	4403197
+GCA_037367395.1	8404	Lithobates pipiens	Contig	hifiasm v. 0.19.4; purge_dups v. 1.2.5	PacBio Sequel II	2023-10-12T17:19:03.827	3166	3166	5395217	5395217
+GCA_037952835.1	190274	Lithobates septentrionalis	Contig	hifiasm v. 0.19.4; purge_dups v. 1.2.5	PacBio Revio	2024-01-31T19:03:13.043	6078	6078	3139341	3139341
+GCF_010015895.1	76717	Lontra canadensis	Scaffold	Supernova v. 2.1.1	Illumina HiSeq	2019-10-17T12:45:03.503	13981	7023	691969	18460785
+GCA_037951165.1	8073	Lophius americanus	Contig	hifiasm v. 0.19.4; purge_dups v. 1.2.5	PacBio Sequel II	2024-02-23T14:36:09.993	670	670	4555137	4555137
+GCA_023783235.1	75566	Lophocebus aterrimus	Contig	Wtdbg2 v. 2	PacBio RSII	2021-12-03T01:24:04.160	4389	4389	6802059	6802059
+GCA_023783135.1	9468	Loris tardigradus	Contig	Wtdbg2 v. 2	PacBio RSII	2021-12-03T01:24:04.173	3586	3586	7727436	7727436
+GCF_022079265.1	61384	Lynx rufus	Scaffold	HiFiasm v. 0.16.1-r375; purge_dups v. 1.2.5; SALSA v. 2.2	PacBio Sequel II; Dovetail OmniC; Illumina NovaSeq	2021-11-22T16:51:05.437	99	75	66217191	142134035
+GCA_023783095.1	9551	Macaca assamensis	Contig	Wtdbg2 v. 2	PacBio RSII	2021-12-03T01:24:04.186	1153	1153	27348716	27348716
+GCA_023807365.1	54601	Macaca silenus	Contig	NextDenovo v. 1	Oxford Nanopore PromethION	2021-12-03T01:24:04.203	1809	1809	25691658	25691658
+GCA_965194845.1	110205	Macrovipera schweizeri	Chromosome	various	PacBio,Arima2	2024-01-21T10:03:12.686	1898	534	3162383	214481692
+GCA_038087875.1	1072478	Malacoraja senta	Chromosome	hifiasm v. 0.19.4; purge_dups v. 1.2.5; yahs v. 1.2	PacBio Sequel; Illumina NovaSeq	2023-08-11T00:11:05.389	19273	6181	150120	58719002
+GCA_050437385.1	30960	Mallotus villosus	Contig	hifiasm v. 0.19.4; purge_dups v. 1.2.5	Revio	2024-10-01T13:59:06.252	3162	3162	1075357	1075357
+GCA_964265115.1	184164	Malpolon monspessulanus	Chromosome	NEXTDENOVO, HYPO, PURGE_DUPS, YAHS	ONT, Illumina, omniC	2023-10-27T08:13:01.353	140	60	32743049	121923953
+GCA_023783085.1	9561	Mandrillus sphinx	Contig	NextDenovo v. 1	Oxford Nanopore PromethION	2021-12-03T01:24:04.240	2118	2118	20999372	20999372
+GCA_040207255.1	93167	Marmota vancouverensis	Contig	hifiasm v. 0.19.4; purge_dups v. 1.2.5	PacBio Revio	2024-01-31T19:03:13.030	526	526	66661095	66661095
+GCA_964304585.1	9659	Martes foina	Chromosome	NEXTDENOVO, HYPO, PURGE_DUPS, YAHS	ONT, Illumina, Omni-C	2024-07-25T16:07:45.480	80	22	64160893	146036623
+GCA_030761175.1	1651146	Masticophis lateralis	Scaffold	HiFiasm v. 0.16.1-r375; SALSA v. 2; Rapid Curation v. https://gitlab.com/wtsi-grit/rapid-curation (commit 4ddca450)	Illumina NovaSeq 6000; PacBio Sequel IIe; Dovetail OmniC	2023-06-14T17:51:04.340	297	120	68931034	214958471
+GCA_043880595.1	9414	Megaderma spasma	Chromosome	Canu v. 2.2; medaka v. 1.4.3; purge-dups v. 1.2.3; Longranger v. 2.2.2; Scaff10X v. 4.2; Break10X v. 3.1; Bionano Solve v. 1.6.1; salsa v. 2.2; merfin v. 1.1; bwa-mem v. 0.7.17; deepvariant v. 1.2.0; bcftools v. 1.12	Oxford Nanopore PromethION; Illumina NovaSeq	2023-03-01T08:52:07.286	1277	418	22627155	120949103
+GCF_026170545.1	211600	Melanerpes formicivorus	Scaffold	HiFiasm v. 0.16.1-r375; SALSA v. 2	PacBio Sequel II; Illumina NovaSeq; Dovetail's Omni-C	2022-08-26T14:02:05.757	4489	3172	1471937	12675290
+GCA_028537955.1	100895	Microtus californicus	Scaffold	HiFiasm v. 0.16.1-r375; SALSA v. 2; Rapid Curation v. https://gitlab.com/wtsi-grit/rapid-curation (commit 4ddca450)	PacBio Sequel II; PacBio Sequel IIe; Illumina NovaSeq; Dovetail OmniC	2022-11-22T12:47:08.753	401	350	49752295	83674487
+GCF_029215605.1	9716	Mirounga angustirostris	Scaffold	HiFiasm v. 0.16.1-r375; SALSA v. 2; Rapid Curation v. https://gitlab.com/wtsi-grit/rapid-curation (commit 4ddca450)	Illumina NovaSeq; Dovetail OmniC; PacBio Sequel II; PacBio Sequel IIe	2023-02-20T20:24:03.410	595	497	58074836	154172358
+GCA_043748645.1	258863	Mops condylurus	Chromosome	HiFiasm v. 0.15.4; purge-dups v. 1.2.3; bwa-mem v. 0.7.17; salsa v. 2.2; pbmm2 v. 1.4; deepvariant v. 1.2.0; bcftools v. 1.12	PacBio Sequel; Illumina NovaSeq	2023-03-01T09:22:03.933	126	38	56964224	105478936
+GCA_032164185.1	210640	Moxostoma hubbsi	Scaffold	hifiasm v. 0.19.4; purge_dups v. 1.2.5; yahs v. 1.2	PacBio Sequel; Illumina NovaSeq	2023-08-08T22:40:06.634	286	249	32686730	41652572
+GCA_017656035.1	2777982	Myanophis thanlyinensis	Scaffold	SPAdes v. 3.14.1	Illumina NovaSeq	2020-10-02T09:30:10.607	311047	297074	7005	7375
+GCF_028538775.1	159337	Myotis yumanensis	Scaffold	HiFiasm v. 0.16.1-r375; SALSA v. 2.2; Rapid curation v. https://gitlab.com/wtsi-grit/rapid-curation (commit 4ddca450)	PacBio Sequel IIe; Dovetail's OmniC; Illumina NovaSeq	2022-08-26T17:25:04.197	684	475	28025655	99144700
+GCA_964659585.1	8585	Natrix maura	Chromosome	NEXTDENOVO, HYPO, PURGE_DUPS, YAHS	ONT, Illumina, Arima v2	2023-10-27T08:12:54.966	284	209	36526383	174378910
+GCA_023783065.1	9586	Nomascus siki	Scaffold	NextDenovo v. 1	Oxford Nanopore PromethION	2021-12-03T01:24:04.250	3765	2647	8523852	19995890
+GCA_049308485.1	125806	Notoscopelus elongatus kroyeri	Contig	hifiasm v. 0.19.4; purge_dups v. 1.2.5	Revio	2024-06-04T23:05:07.606	4770	4770	1331899	1331899
+GCF_905146905.1	34880	Nyctereutes procyonoides	Scaffold	Flye v2.7.1	PacBio, Oxford Nanopore, Illumina	2021-02-04T10:14:44.976	878	810	35077230	53959811
+GCA_023898255.1	261741	Nycticebus bengalensis	Chromosome	Wtdbg2 v. 2	PacBio RSII	2021-12-03T01:24:04.263	4349	3383	19794679	128767214
+GCA_036925125.1	9029	Oreortyx pictus	Scaffold	HiFiasm v. 0.16.1-r375; SALSA v. 2; Rapid Curation v. https://gitlab.com/wtsi-grit/rapid-curation (commit 4ddca450)	Illumina NovaSeq 6000; Dovetail OmniC; PacBio Sequel IIe	2023-07-07T13:32:44.103	715	480	10592639	58864636
+GCA_037575465.1	648198	Pantherophis spiloides	Contig	hifiasm v. 0.19.4; purge_dups v. 1.2.5	PacBio Revio	2023-10-12T17:19:03.908	368	368	66322725	66322725
+GCA_037215915.1	94886	Pantherophis vulpinus	Scaffold	hifiasm v. 0.19.4; yahs v. 1.2	PacBio Sequel; Illumina NovaSeq	2023-08-11T00:11:05.396	696	232	28315126	145441293
+GCA_023781915.1	9557	Papio hamadryas	Contig	Wtdbg2 v. 2	Oxford Nanopore PromethION	2021-12-03T01:24:04.276	3047	3047	24989958	24989958
+GCA_965278395.1	171871	Parablennius gattorugine	Chromosome	Hifiasm,Purge_dups,Yahs	PacBio,Arima	2025-04-16T08:11:53.603	976	245	6015568	31715373
+GCA_043774345.1	319776	Paralichthys californicus	Scaffold	HiFiasm v. 0.19.5-r592; SALSA v. 2; YAGCloser v. https://github.com/merlyescalona/yagcloser (commit 23d4fe9); Rapid curation v. https://gitlab.com/wtsi-grit/rapid-curation (commit 4ddca450)	Illumina NovaSeq; PacBio Sequel; Dovetail Omni-C	2024-05-28T09:11:03.883	256	174	13054129	26111916
+GCA_013375575.1	54317	Percina caprodes	Scaffold	CANU v. 1.8	Oxford Nanopore PromethION	2020-06-10T13:22:06.220	3658	3656	1429287	1429287
+GCF_004348235.1	9720	Phoca vitulina	Scaffold	Supernova v. 2.1.1	Illumina HiSeq	2018-10-01T15:24:03.933	21601	5540	283887	41024070
+GCA_022657655.1	2798809	Phrynoglossus myanhessei	Contig	Velvet v. 1.2.10	Illumina NovaSeq	2020-12-21T15:07:07.550	1446664	1446664	1468	1468
+GCA_026167975.1	372482	Phrynosoma blainvillii	Scaffold	HiFiasm v. 0.16.1-r375; SALSA v. 2; Rapid curation v. https://gitlab.com/wtsi-grit/rapid-curation (commit 4ddca450)	PacBio Sequel II; Illumina NovaSeq; Dovetail Genomics Omni-C	2022-06-14T16:58:04.630	116	52	62272472	352551559
+GCA_964339955.1	412090	Pipistrellus hanaki	Chromosome	Hifiasm,purged_dups,yahs	PacBio,Arima	2024-07-05T10:01:05.636	447	141	48700701	89115682
+GCA_023779675.1	43777	Pithecia pithecia	Contig	NextDenovo v. 1	Oxford Nanopore PromethION	2021-12-03T01:24:04.293	1360	1360	10867430	10867430
+GCF_029215685.1	94852	Pituophis catenifer annectens	Scaffold	HiFiasm v. 0.16.1-r375; SALSA v. 2; Rapid Curation v. https://gitlab.com/wtsi-grit/rapid-curation (commit 4ddca450)	Illumina NovaSeq; Dovetail OmniC; PacBio Sequel IIe	2023-02-20T20:19:04.253	1233	649	26555075	216834086
+GCA_026170595.1	245608	Plestiodon gilberti rubricaudatus	Scaffold	HiFiasm v. 0.16.1-r375; SALSA v. 2; Rapid curation v. https://gitlab.com/wtsi-grit/rapid-curation (commit 4ddca450)	PacBio Sequel II; Illumina NovaSeq; Dovetails OmniC	2022-08-26T13:29:04.037	54	39	127798174	231322181
+GCA_947686815.1	74358	Podarcis lilfordi	Chromosome	FLYE v2.8.2, NEXTPOLISH v1.3.1, Purge_dups v1.2.5	ONT, 10X linked reads, omniC	2022-12-25T08:11:55.586	4469	2148	1481499	89641981
+GCA_044587765.1	8060	Pollachius virens	Contig	hifiasm v. 0.19.4; purge_dups v. 1.2.5	PacBio Sequel II	2024-02-23T14:36:09.969	5435	5435	181162	181162
+GCA_965276375.1	13225	Pomatoschistus minutus	Chromosome	Hifiasm,Purge_dups,Yahs	PacBio,Arima	2025-04-10T08:11:40.453	491	105	14259656	37552910
+GCA_047676105.1	1311485	Pontinus rathbuni	Contig	hifiasm v. 0.19.4; purge_dups v. 1.2.5	Revio	2024-06-04T23:05:07.543	452	452	9805280	9805280
+GCA_043774495.1	47562	Pseudacris regilla	Scaffold	HiFiasm v. 0.16.1-r375; SALSA v. 2; YAGCloser v. https://github.com/merlyescalona/yagcloser (commit 23d4fe9); Rapid curation v. https://gitlab.com/wtsi-grit/rapid-curation (commit 4ddca450)	Illumina NovaSeq; PacBio Sequel; Dovetail Omni-C	2024-04-05T14:50:05.140	2616	1450	7148760	393506142
+GCA_023333565.1	48681	Puffinus mauretanicus	Scaffold	MaSuRCA v. 3.3.1	Illumina HiSeq; Oxford Nanopore MinION	2021-11-16T15:16:03.780	4252	4169	2082814	2125936
+GCA_023764695.1	310352	Pygathrix nigripes	Contig	Wtdbg2 v. 2	PacBio RSII	2021-12-03T01:24:04.320	3753	3753	14260291	14260291
+GCA_965183895.1	928672	Pyrrhula murina	Chromosome	HIFIASM, YAHS	ONT, Illumina, Omni-C	2024-09-03T08:12:20.283	65	60	64819875	76036967
+GCA_022605955.1	156759	Rallus limicola	Scaffold	HiFiasm v. 0.15-r327; purge_dups v. 1.2.5; SALSA2 v. 2.2	PacBio Sequel II; Dovetail OmniC; Illumina NovaSeq	2021-12-30T07:20:04.050	1298	1101	11906378	25302669
+GCA_949782905.1	3082113	Rangifer tarandus platyrhynchus	Chromosome	Hifiasm, version 0.16.1	PACBIO_SMART, ILLUMINA	2023-04-14T10:25:06.610	1662	1395	22482685	69829200
+GCA_006182925.3	111784	Reinhardtius hippoglossoides	Chromosome	wtdbg2 v. 2.5; Dovetail (Hi-C) v. 2018-08	PacBio Sequel	2019-05-21T16:44:04.446	2048	1589	3108829	25015410
+GCA_043882965.1	3079464	Reithrodontomys megalotis longicaudus	Scaffold	HiFiasm v. 0.16.1-r375; SALSA v. 2; YAGCloser v. https://github.com/merlyescalona/yagcloser (commit 23d4fe9); Rapid curation v. https://gitlab.com/wtsi-grit/rapid-curation (commit 4ddca450)	PacBio Sequel; Illumina NovaSeq; Dovetail Omni-C	2024-04-05T14:54:04.787	1805	1469	9769554	98344793
+GCF_021869965.1	259920	Rhincodon typus	Chromosome	Supernova v. 2.1.1; P_RNA_scaffolder v. commit 7941e0f; Tigmint v. 1.1.2; ARKS v. 1.1.0; 3D-DNA v. 180922	Illumina HiSeq	2021-06-03T01:52:10.783	111998	16776	48454	70796938
+GCA_029959095.1	86924	Rhinichthys osculus	Scaffold	HiFiasm v. 0.16.1-r375; SALSA v. 2; Rapid Curation v. https://gitlab.com/wtsi-grit/rapid-curation (commit 4ddca450)	Illumina NovaSeq; Dovetail OmniC; PacBio Sequel IIe	2023-04-05T15:03:05.690	737	490	10885064	44510230
+GCA_043728065.1	59477	Rhinolophus affinis	Chromosome	HiFiasm v. 0.13; purge-dups v. 1.2.3; salsa v. 2.2; bwa-mem v. 0.7.17; pbmm2 v. 1.4; deepvariant v. 1.2.0; bcftools v. 1.12	PacBio Sequel; Illumina NovaSeq	2023-02-21T06:00:12.980	2230	2193	65534120	85365043
+GCA_043748575.1	3030661	Rhinolophus perniger lanosus	Chromosome	HiFiasm v. 0.13; purge-dups v. 1.2.3; bwa-mem v. 0.7.17; salsa v. 2.2; pbmm2 v. 1.4; deepvariant v. 1.2.0; bcftools v. 1.12	PacBio Sequel; Illumina NovaSeq	2023-02-24T17:21:03.740	128	65	53323821	154900566
+GCA_043728145.1	430492	Rhinolophus trifoliatus	Chromosome	HiFiasm v. 0.13; purge-dups v. 1.2.3; bwa-mem v. 0.7.17; salsa v. 2.2; pbmm2 v. 1.4; deepvariant v. 1.2.0; bcftools v. 1.12	PacBio Sequel; Illumina NovaSeq	2023-02-23T03:41:03.056	522	125	11115074	184920896
+GCA_043880425.1	2952509	Rhinolophus yonghoiseni	Chromosome	HiFiasm v. 0.13; purge-dups v. 1.2.3; bwa-mem v. 0.7.17; salsa v. 2.2; pbmm3 v. 1.4; deepvariant v. 1.2.0; bcftools v. 1.12	PacBio Sequel; Illumina NovaSeq	2023-02-22T10:07:03.463	1681	1485	28095277	181652838
+GCA_023764705.1	1194336	Rhinopithecus strykeri	Contig	Wtdbg2 v. 2	Oxford Nanopore PromethION	2021-12-03T01:24:04.330	4623	4623	16766498	16766498
+GCA_043880545.1	173903	Rhinopoma microphyllum	Chromosome	HiFiasm v. 0.15.5; purge-dups v. 1.2.3; bwa-mem v. 0.7.17; salsa v. 2.2; pbmm2 v. 1.4; deepvariant v. 1.2.0; bcftools v. 1.12	PacBio Sequel; Illumina NovaSeq	2023-02-23T03:51:03.123	258	106	32895649	146810189
+GCF_014176215.1	9407	Rousettus aegyptiacus	Scaffold	DAmar v. APRIL-2019; Bionano Solve DLS v. 3.3; Salsa2 HiC v. git commit: e3ae7d8; GenomicConsensus v. git commit: 038de5c; longranger align v. 2.2.0; Freebayes v. 1.2.0; HiGlass manual curation v. 1.5	PacBio Sequel CLR; 10X Genomics chromium linked reads; Bionano Genomics; Arima Genomics Hi-C kit; PacBio Sequel IsoSeq	2020-04-27T05:57:04.483	271	29	21999313	113811795
+GCA_963981305.1	34869	Rupicapra rupicapra	Chromosome	NEXTDENOVO, HYPO, PURGE_DUPS, YAHS	ONT, Illumina, omniC	2023-03-21T09:07:05.633	123	75	77662214	100920001
+GCF_003676395.1	3371155	Sagmatias obliquidens	Scaffold	supernova v. 2.1.1	Illumina HiSeq	2018-06-08T19:36:03.273	21792	5421	255779	28371583
+GCA_021498475.1	30586	Saguinus midas	Chromosome	Wtdbg2 v. 2	Oxford Nanopore PromethION	2021-12-03T01:24:04.343	3987	1785	10987047	143273090
+GCF_016432855.1	8040	Salvelinus namaycush	Chromosome	FALCON v. smrtlink-release_6.0.0.47841; Arrow v. smrtlink-release_6.0.0.47841; Pilon v. 1.23; Salsa v. 2.2; Chromonomer v. 1.13; PBSuite (PBJelly) v. 15.8.24; MaSuRCA (POLCA) v. 3.4.2	PacBio Sequel; Illumina HiSeq; Hi-C	2020-12-02T22:14:04.137	7384	4120	1804090	44976251
+GCF_009761245.1	9515	Sapajus apella	Scaffold	Supernova v. 2.1.1	Illumina HiSeq	2019-11-12T15:04:03.637	60551	17902	144042	23742480
+GCA_023333645.1	8519	Sceloporus occidentalis	Scaffold	HiFiasm v. 0.16.1-r375; purge_dups v. 1.2.5; SALSA2 v. 2	PacBio Sequel II; PacBIo Sequel IIe; Dovetail's OmniC; Illumina NovaSeq	2022-04-08T14:17:05.900	658	607	18989278	98418489
+GCF_047496885.1	75743	Scyliorhinus torazame	Chromosome	hifiasm v. 0.16.0; YaHS v. v1.2	PacBio Sequel	2024-12-24T07:36:04.317	6661	2007	3187150	266286206
+GCA_045837885.1	72073	Sebastes entomelas	Scaffold	HiFiasm v. 0.19.9-r616; SALSA v. 2; YAGCloser v. https://github.com/merlyescalona/yagcloser (23d4fe9); Rapid curation v. https://gitlab.com/wtsi-grit/rapid-curation (commit 4ddca450)	Illumina NovaSeq; PacBio Sequel; Dovetail Omni-C	2024-07-02T13:53:04.843	214	98	21415719	35680620
+GCA_047301235.1	394691	Sebastes fasciatus	Contig	hifiasm v. 0.19.4; purge_dups v. 1.2.5	Revio	2024-06-04T23:05:07.620	407	407	18749358	18749358
+GCA_036937225.1	72093	Sebastes paucispinis	Scaffold	HiFiasm v. 0.19.4-r575; SALSA v. 2; Rapid Curation v. https://gitlab.com/wtsi-grit/rapid-curation (commit 4ddca450)	Dovetail OmniC; Illumina NovaSeq 6000; PacBio Sequel IIe	2023-07-24T18:07:04.860	378	211	14264469	34620701
+GCA_043774175.1	371924	Selasphorus sasin	Scaffold	HiFiasm v. 0.19.5-r592; SALSA v. 2; YAGCloser v. https://github.com/merlyescalona/yagcloser (commit 23d4fe9); Rapid Curation v. https://gitlab.com/wtsi-grit/rapid-curation (commit 4ddca450)	Illumina NovaSeq; PacBio Sequel; Dovetail Omni-C	2024-05-20T14:39:05.223	493	166	13046376	74144985
+GCF_022749685.1	241346	Semicossyphus pulcher	Scaffold	HiFiasm v. 0.16.1-r375; purge_dups v. 1.2.6; SALSA2 v. 2	PacBio Sequel IIe; Dovetails OmniC; Illumina NovaSeq	2022-02-04T20:04:03.300	186	178	31948211	32091781
+GCA_024362935.1	123631	Setophaga petechia	Scaffold	HiFiasm v. 0.16.1-r375; SALSA v. 2.2	PacBio Sequel; Illumina NovaSeq	2022-06-14T15:10:04.910	970	686	6807045	21188473
+GCA_042767315.1	71773	Siphateles bicolor	Scaffold	HiFiasm v. 0.19.5-r592; SALSA v. 2; YAGCloser v. https://github.com/merlyescalona/yagcloser	Illumina NovaSeq; PacBio Sequel; Dovetail OmniC	2024-04-11T14:55:05.340	351	258	23738801	45866664
+GCA_039880765.1	8756	Sistrurus catenatus	Chromosome	hifiasm pacbio+hic mode v. 0.19.4; purge_dups v. 1.2.5; yahs v. 1.2	PacBio Sequel II; Illumina NovaSeq 6000	2023-08-09T00:33:03.932	1471	178	12532727	200181838
+GCA_951411735.1	76058	Somateria mollissima	Chromosome	Hifiasm, version 0.16.1	PACBIO_SMART, ILLUMINA	2023-05-19T10:07:57.413	740	468	7862886	77552753
+GCA_041430695.1	126318	Sorex ornatus	Scaffold	HiFiasm v. 0.16.1-r375; SALSA v. 2; YAGCloser v. https://github.com/merlyescalona/yagcloser	PacBio Sequel; Illumina NovaSeq; Dovetail OmniC	2024-04-02T13:58:05.293	982	623	15899521	115205878
+GCA_029215755.1	228670	Spea hammondii	Scaffold	HiFiasm v. 0.16.1-r375; SALSA v. 2; Rapid curation v. https://gitlab.com/wtsi-grit/rapid-curation (commit 4ddca450)	Illumina NovaSeq; PacBio Sequel IIe; Dovetail OmniC	2023-02-20T20:40:03.393	541	351	14335781	120842655
+GCA_965243705.1	50595	Spondyliosoma cantharus	Chromosome	Hifiasm,Purge_dups,Yahs	PacBio,Arima	2025-04-10T08:11:24.400	157	58	26522000	34487660
+GCA_032164245.1	142480	Sternotherus odoratus	Scaffold	hifiasm v. 0.19.4; purge_dups v. 1.2.5; yahs v. 1.2	PacBio Sequel; Illumina NovaSeq	2023-08-11T00:11:05.360	770	217	17031157	108345705
+GCA_030819815.1	201991	Strix occidentalis	Scaffold	HiFiasm v. 0.16.1-r375; SALSA v. 2; Rapid Curation v. https://gitlab.com/wtsi-grit/rapid-curation (commit 4ddca450)	PacBio Sequel IIe; Dovetail OmniC; Illumina Novaseq	2023-06-07T21:51:05.957	980	790	13287088	90801476
+GCA_947650265.1	171736	Symphodus melops	Chromosome	various	PacBio,Arima2	2022-01-11T08:31:02.920	1773	394	1186940	27641414
+GCA_041228455.1	1266882	Symphurus diomedeanus	Contig	HiFiasm v. 0.19.4; purge_dups v. 1.2.5	Revio	2024-06-04T23:05:07.630	590	590	21098590	21098590
+GCA_030848825.1	9438	Tadarida brasiliensis	Chromosome	Hifiasm v. 0.16.0; purge_dups v. 1.2.5; scaff10X v. git commit bc3a0cb; Bionano Solve v. 3.6.1; salsa2 v. git commit e6e3c77	PacBio Sequel 2; Illumina NovaSeq	2023-05-14T13:45:09.660	167	147	86333355	111098925
+GCA_003697995.1	2282171	Taxidea taxus jeffersonii	Scaffold	supernova v. 2.0.1	Illumina MiSeq	2018-06-29T15:18:03.356	173916	145161	37750	54556
+GCA_048126525.1	70285	Thymallus arcticus	Contig	hifiasm v. 0.19.4; purge_dups v. 1.2.5	Sequel II	2024-07-12T17:53:06.838	5341	5341	707347	707347
+GCA_026826555.1	183749	Tolypeutes matacus	Scaffold	SuperNova v. 2.1.1; HiRise v. MARCH-2019	Illumina HiSeq	2017-09-20T15:31:12.597	131542	54571	129379	12561802
+GCA_023762245.1	272121	Trachypithecus phayrei crepuscula	Contig	FALCON v. 1	PacBio RSII	2021-12-03T01:24:04.383	2946	2946	14781066	14781066
+GCA_026018925.1	70687	Tupaia tana	Scaffold	FALCON-Unzip v. JUL-2020; Scaf10x v. 4.2; HiRise v. AUG-2020	PacBio; 10X Genomics; Dovetail Hi-C	2017-09-20T15:31:12.627	2385	1197	7301848	112954644
+GCA_036785325.1	183657	Urophycis tenuis	Scaffold	hifiasm v. 0.19.4; yahs v. 1.2	PacBio Sequel; Illumina NovaSeq	2023-08-11T00:11:05.380	6432	1756	149954	6939959
+GCA_963556495.2	195855	Valencia hispanica	Chromosome	NEXTDENOVO, HYPO, PURGE_DUPS, YAHS	ONT, Illumina, omniC	2023-06-17T10:01:19.106	99	28	38296799	56937854
+GCA_962446985.1	13765	Xyrichtys novacula	Chromosome	NEXTDENOVO, HYPO, PURGE_DUPS, YAHS	ONT, Illumina, omniC	2023-04-17T10:07:39.362	58	31	21535717	34328652

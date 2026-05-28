@@ -1,0 +1,66 @@
+accession	taxid	species_name	assembly_level	method	sequencing_technology	submission_date	number_of_contigs	number_of_scaffolds	contig_n50	scaffold_n50
+GCA_004027835.1	30589	Alouatta palliata	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:11.280	1152695	1136565	51304	72427
+GCA_004027475.1	27642	Anoura caudifer	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:11.233	341895	337255	143417	185021
+GCA_004027875.1	51342	Aplodontia rufa	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:11.293	1286779	1279526	33245	37811
+GCA_004027495.1	59527	Beatragus hunteri	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:11.780	545176	535889	57444	69303
+GCA_004027775.1	9355	Bradypus variegatus	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:11.570	1772267	1771805	1900	1900
+GCA_004027915.1	34842	Capromys pilorides	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:11.797	2355850	2352358	4080	4081
+GCA_004027735.1	40233	Carollia perspicillata	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:11.587	1929203	1925339	10341	10739
+GCA_004024745.2	51154	Catagonus wagneri	Scaffold	Discovar de novo v. 52489 + Dovetail HiC	Illumina HiSeq	2017-09-20T15:31:11.820	1240743	1183730	65965	19204659
+GCA_004027695.1	143287	Cavia tschudii	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:10.970	1379500	1368179	64807	91436
+GCA_004027955.1	340076	Chaetophractus vellerosus	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:11.887	7680080	7677333	1606	1606
+GCA_004027555.1	208972	Craseonycteris thonglongyai	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:11.323	1230480	1224256	23218	25762
+GCA_004027575.1	10085	Cricetomys gambianus	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:11.110	1110425	1102952	80761	110049
+GCA_004027635.1	876679	Crocidura indochinensis	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:11.403	2420679	2415412	4927	4929
+GCA_004027165.1	43321	Ctenomys sociabilis	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:11.520	823762	807571	37562	49073
+GCA_004365215.1	108852	Cuniculus paca	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:11.950	3771510	3768450	3890	3892
+GCA_004363535.1	34846	Dasyprocta punctata	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:11.967	993123	986664	38650	43703
+GCA_004027595.1	108858	Dinomys branickii	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:12.010	1164830	1158438	64805	77918
+GCA_004024685.1	323379	Dipodomys stephensi	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:12.027	1278525	1269643	30710	36811
+GCA_004027295.1	29091	Dolichotis patagonum	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:12.040	1911987	1905764	27983	31026
+GCA_004363455.1	302098	Eubalaena japonica	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:12.737	1361057	1353963	34866	39813
+GCA_004027185.1	41261	Glis glis	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:10.937	444115	433430	26062	30338
+GCA_004027655.1	51346	Graphiurus murinus	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:12.107	1283630	1267939	22138	28463
+GCA_004023845.1	210647	Helogale parvula	Scaffold	DISCOVAR de novo v. 52488	Illumina HiSeq	2017-09-20T15:31:12.123	200185	189370	113567	179119
+GCA_004027455.1	10149	Hydrochoerus hydrochaeris	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:13.053	661089	655342	148451	202224
+GCA_004026905.1	10137	Hystrix cristata	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:12.203	1140949	1136598	57102	64768
+GCA_004363605.1	34827	Indri indri	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:12.220	1248425	1243540	26447	28620
+GCA_004026805.1	258930	Lasiurus borealis	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:11.143	525280	518900	35165	38543
+GCA_004026855.1	48086	Lepus americanus	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:11.373	1602982	1592829	15057	16725
+GCA_004026885.1	3371112	Lyroderma lyra	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:11.173	1909067	1902801	71674	96489
+GCA_004027375.1	326083	Macroglossus sobrinus	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:11.157	174041	171985	338389	453401
+GCA_007922815.1	9419	Macrotus californicus	Scaffold	Discovar v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:12.833	1127572	1125430	16404	16948
+GCA_004024625.1	9664	Mellivora capensis	Scaffold	DISCOVAR de novo v. 52488	Illumina HiSeq	2017-09-20T15:31:12.267	2074823	2068312	50213	59143
+GCA_004026765.1	148065	Micronycteris hirsuta	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:13.103	553308	550090	62961	68868
+GCA_004024645.1	47180	Mirza coquereli	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:12.280	451546	440879	60596	79947
+GCA_004026545.1	118852	Mormoops blainvillei	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:12.880	207094	205259	142682	156292
+GCA_004024705.2	68415	Moschus moschiferus	Scaffold	Discovar de novo v. 52493 + Dovetail HiC	Illumina HiSeq	2017-09-20T15:31:12.297	1195517	1072499	34785	11728851
+GCA_004023785.1	210652	Mungos mungo	Scaffold	DISCOVAR de novo v. 52488	Illumina HiSeq	2017-09-20T15:31:12.320	316874	312364	180702	236501
+GCA_004026665.1	1453894	Murina feae	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:13.136	886972	880177	23400	26051
+GCA_004027025.1	10157	Myocastor coypus	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:11.020	1684916	1669667	28446	35982
+GCA_004026745.1	71006	Myrmecophaga tridactyla	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:12.333	1629691	1621408	36434	41255
+GCA_004026705.1	2583312	Nesogale talazaci	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:11.636	795514	788895	56946	65143
+GCA_004026825.1	3349691	Nilgiritragus hylocrius	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:12.136	479550	469163	66552	85340
+GCA_004026585.1	94963	Noctilio leporinus	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:12.893	304393	298222	135651	191494
+GCA_007922795.1	27670	Nycticeius humeralis	Scaffold	Discovar v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:11.190	1680573	1676240	14267	15095
+GCA_004026605.1	10060	Ondatra zibethicus	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:11.653	571599	565356	73746	89093
+GCA_004027895.1	1041416	Orientallactaga bullata	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:11.263	1295369	1284382	30651	36308
+GCA_004024585.1	71117	Paradoxurus hermaphroditus	Scaffold	DISCOVAR de novo v. 52488	Illumina HiSeq	2017-09-20T15:31:11.470	442658	438125	62870	71823
+GCA_007922755.1	10023	Pedetes capensis	Scaffold	Discovar v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:12.426	687430	673563	54009	74432
+GCA_004026965.1	10183	Petromus typicus	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:11.033	920324	910679	29916	35766
+GCA_004363435.1	48752	Platanista minor	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:13.150	1110492	1098790	20879	23933
+GCA_004027715.1	230833	Plecturocebus donacophilus	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:13.003	1041365	1033983	41149	46445
+GCA_004024605.1	9672	Pteronura brasiliensis	Scaffold	DISCOVAR de novo v. 52488	Illumina HiSeq	2017-09-20T15:31:11.487	652159	644728	90879	119023
+GCA_004024825.1	54133	Pygathrix nemaeus	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:12.487	1445731	1431093	51434	68569
+GCA_004024885.1	9491	Saguinus imperator	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:12.520	1675070	1666189	53787	65636
+GCA_004024985.1	34875	Saiga tatarica	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:13.263	1775066	1772199	6406	6453
+GCA_004024925.1	71119	Scalopus aquaticus	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:11.420	647535	640296	72421	94879
+GCA_004363575.1	79805	Solenodon paradoxus	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:11.700	181804	176618	236847	407682
+GCA_004023965.1	30551	Spilogale gracilis	Scaffold	DISCOVAR de novo v. 52488	Illumina HiSeq	2017-09-20T15:31:11.503	433831	422009	63054	85970
+GCA_004025025.1	9801	Tapirus terrestris	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:12.580	805779	803506	164193	186384
+GCA_004024845.1	2683044	Tonatia bakeri	Scaffold	DISCOVAR de novo v. 52488	Illumina HiSeq	2017-09-20T15:31:11.203	252670	249810	141649	165561
+GCA_004024965.2	9849	Tragulus javanicus	Scaffold	Discovar de novo v. discovardenovo-52488; Dovetail HiC v. 28-Sep-2017	Illumina HiSeq	2017-09-20T15:31:12.610	1158497	1082489	80230	14082842
+GCA_004024945.1	182669	Uropsilus gracilis	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:11.437	732083	723835	43618	55035
+GCA_004024805.1	234690	Xerus inauris	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:12.657	587115	577370	64054	83865
+GCA_004024765.1	160400	Zapus hudsonius	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:12.973	1165710	1158100	23350	26350
+GCA_004364475.1	9760	Ziphius cavirostris	Scaffold	DISCOVAR de novo v. discovardenovo-52488	Illumina HiSeq	2017-09-20T15:31:12.800	3761505	3758276	3606	3608
