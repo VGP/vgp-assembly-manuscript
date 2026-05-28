@@ -1,0 +1,569 @@
+accession	tax_id	technology	date	species	assembly_size	class	group
+GCA_003287225.2	38626	CLR	2022-12-12	Phascolarctos cinereus	3192631935	Mammalia	marsupials
+GCA_005190385.3	40151	CLR	2022-11-09	Monodon monoceros	2341954608	Mammalia	whales & dolphins
+GCA_008658365.1	28689	CLR	2019-10-10	Alca torda	1178492568	Aves	birds
+GCA_009764595.1	135433	CLR	2019-12-19	Geothlypis trichas	1078128490	Aves	birds
+GCA_009769465.1	121530	CLR	2019-12-19	Tauraco erythrolophus	1252271553	Aves	birds
+GCA_009769525.1	240206	CLR	2019-12-23	Pterocles gutturalis	1127422757	Aves	birds
+GCA_009769605.1	153643	CLR	2019-12-23	Bucorvus abyssinicus	1132597561	Aves	birds
+GCA_009819595.1	57421	CLR	2019-12-31	Merops nubicus	1149356202	Aves	birds
+GCA_009819605.1	108405	CLR	2019-12-31	Sterna hirundo	1229972541	Aves	birds
+GCA_009819775.1	9218	CLR	2019-12-31	Phoenicopterus ruber	1246226932	Aves	birds
+GCA_009819825.1	54380	CLR	2019-12-31	Cariama cristata	1215245693	Aves	birds
+GCA_009914755.4	9606	HiFi	2022-01-24	Homo sapiens	3117292070	Mammalia	primates
+GCA_011004875.1	100784	CLR	2020-03-05	Balearica regulorum	1221051782	Aves	birds
+GCA_011762505.3	61156	CLR	2025-01-29	Arvicanthis niloticus	2496777707	Mammalia	rodents
+GCA_013358685.1	882753	CLR	2020-06-18	Antennarius maculatus	549949511	Actinopteri	bony fishes
+GCA_014706295.1	2767082	CLR	2020-09-23	Lycocorax pyrrhopterus	1107771238	Aves	birds
+GCA_014839685.1	195821	CLR	2020-10-02	Anableps anableps	867632993	Actinopteri	bony fishes
+GCA_014839755.1	73324	CLR	2020-10-02	Sylvia borin	1045652180	Aves	birds
+GCA_014839995.1	129108	CLR	2020-10-02	Xenentodon cancila	736214936	Actinopteri	bony fishes
+GCA_016904835.1	57068	CLR	2021-02-17	Acanthisitta chloris	1077387582	Aves	birds
+GCA_017639485.1	670352	CLR	2021-03-30	Pluvialis apricaria	1247767512	Aves	birds
+GCA_017639555.1	52777	CLR	2021-03-30	Ciconia maguari	1239437416	Aves	birds
+GCA_017639675.1	946358	CLR	2021-03-30	Aplochiton taeniatus	461946147	Actinopteri	bony fishes
+GCA_019677235.1	27706	CLR	2021-08-19	Micropterus salmoides	877669248	Actinopteri	bony fishes
+GCA_020510985.1	390368	CLR	2021-10-15	Pholidichthys leucotaenia	6032307556	Actinopteri	bony fishes
+GCA_020745685.1	34787	CLR	2021-11-05	Tautogolabrus adspersus	723582185	Actinopteri	bony fishes
+GCA_020745705.1	243314	CLR	2021-11-05	Hemiprocne comata	1164813063	Aves	birds
+GCA_020745775.1	1118847	CLR	2021-11-05	Theristicus caerulescens	1203372763	Aves	birds
+GCA_020746105.1	297711	CLR	2021-11-05	Trogon surrucura	1165749515	Aves	birds
+GCA_020800305.1	439704	HiFi	2021-11-08	Porphyrio hochstetteri	1270294353	Aves	birds
+GCA_021292165.1	52224	CLR	2021-12-28	Shinisaurus crocodilurus	2189995079	Lepidosauria	lizards & snakes
+GCA_022682495.2	9430	HiFi	2022-03-24	Desmodus rotundus	2119704833	Mammalia	bats
+GCA_023333525.2	2917703	HiFi	2025-03-05	Aspidoscelis tigris	1673115766	Lepidosauria	lizards & snakes
+GCA_023637945.2	46513	CLR	2025-02-06	Phaethornis superciliosus	1020009783	Aves	birds
+GCA_023851605.1	48850	CLR	2022-06-22	Tamandua tetradactyla	3205741135	Mammalia	placentals
+GCA_024256435.1	13013	HiFi	2022-07-13	Clarias gariepinus	972641408	Actinopteri	bony fishes
+GCA_024294585.1	246179	HiFi	2022-07-20	Vipera latastei	1631568913	Lepidosauria	snakes
+GCA_026018925.1	70687	CLR	2022-11-07	Tupaia tana	2948294157	Mammalia	placentals
+GCA_026229955.1	372063	HiFi	2022-11-14	Peromyscus maniculatus	2847741276	Mammalia	rodents
+GCA_026230055.1	124745	HiFi	2022-11-18	Corynorhinus townsendii	2104912948	Mammalia	bats
+GCA_026652325.1	8319	HiFi	2022-12-05	Pleurodeles waltl	20300798037	Amphibia	salamanders
+GCA_027410445.1	8351	CLR	2022-12-28	Discoglossus pictus	3872602052	Amphibia	frogs & toads
+GCA_027474245.1	9240	HiFi	2022-12-28	Spheniscus humboldti	1358357718	Aves	birds
+GCA_027559615.1	279927	HiFi	2023-01-09	Acridotheres tristis	1193419045	Aves	birds
+GCA_027563665.1	9440	CLR	2023-01-09	Antrozous pallidus	2126460045	Mammalia	bats
+GCA_027574665.1	54386	HiFi	2023-01-09	Rhynochetos jubatus	1331454348	Aves	birds
+GCA_027917425.1	8429	HiFi	2023-01-18	Gastrophryne carolinensis	4336248441	Amphibia	frogs & toads
+GCA_027942865.1	219752	HiFi	2023-01-24	Odontesthes bonariensis	945823896	Actinopteri	bony fishes
+GCA_028020825.1	8905	HiFi	2023-01-31	Podargus strigoides	1271141449	Aves	birds
+GCA_028022725.1	1772091	HiFi	2023-01-31	Lycodopsis pacificus	646369862	Actinopteri	bony fishes
+GCA_028022735.1	33610	HiFi	2023-01-31	Gypaetus barbatus	1365299843	Aves	hawks & eagles
+GCA_028451465.1	34844	CLR	2023-02-06	Erethizon dorsatum	2432147792	Mammalia	rodents
+GCA_028571685.1	77598	HiFi	2023-02-10	Heterohyrax brucei	3488059404	Mammalia	placentals
+GCA_028858755.1	9226	HiFi	2023-02-24	Ara ararauna	1224360198	Aves	birds
+GCA_029215775.1	2202111	HiFi	2023-03-14	Anniella stebbinsi	1890507581	Lepidosauria	lizards & snakes
+GCA_030020295.1	94835	HiFi	2023-05-22	Gavialis gangeticus	2328538659		vertebrates
+GCA_030035585.1	29137	HiFi	2023-05-18	Dugong dugon	3158488110	Mammalia	placentals
+GCA_030412105.1	118683	HiFi	2023-07-07	Cyclura pinguis	1983631412	Lepidosauria	lizards & snakes
+GCA_030440675.1	187939	HiFi	2023-07-12	Furcifer pardalis	1609777135	Lepidosauria	lizards & snakes
+GCA_030463565.1	36300	HiFi	2023-07-18	Pelecanus crispus	1314587946	Aves	birds
+GCA_030848825.1	9438	HiFi	2023-08-22	Tadarida brasiliensis	2283188801	Mammalia	bats
+GCA_030867105.1	283338	HiFi	2023-08-24	Liasis olivaceus	1486119866	Lepidosauria	snakes
+GCA_030867145.1	30419	HiFi	2023-08-24	Opisthocomus hoazin	1482459898	Aves	birds
+GCA_031216445.1	315492	HiFi	2023-09-07	Lateolabrax maculatus	632510465	Actinopteri	bony fishes
+GCA_031468815.1	37578	HiFi	2023-09-15	Morus bassanus	1294804326	Aves	birds
+GCA_031876335.1	175524	HiFi	2023-09-25	Hipposideros larvatus	2338923724	Mammalia	bats
+GCA_031877795.1	111821	HiFi	2023-09-25	Strix aluco	1414802443	Aves	birds
+GCA_031878675.1	10013	HiFi	2023-09-25	Thomomys bottae	2025650949	Mammalia	rodents
+GCA_031878705.1	9802	HiFi	2023-09-25	Tapirus indicus	2477445429	Mammalia	odd-toed ungulates
+GCA_031885435.1	161624	HiFi	2023-09-25	Passerculus sandwichensis	1270940266	Aves	birds
+GCA_031893055.1	238119	HiFi	2023-09-26	Leptodactylus fuscus	2197996823	Amphibia	frogs & toads
+GCA_032164245.1	142480	HiFi	2023-09-29	Sternotherus odoratus	1759411633		turtles
+GCA_033349115.1	3026461	HiFi	2023-11-06	Macrochelys suwanniensis	1937254095		turtles
+GCA_033958435.1	44489	HiFi	2023-11-27	Carettochelys insculpta	2180317067		turtles
+GCA_034619465.1	188344	HiFi	2023-12-27	Leptosomus discolor	1332047658	Aves	birds
+GCA_035046505.1	71010	HiFi	2024-01-04	Tiliqua scincoides	1623332312	Lepidosauria	lizards & snakes
+GCA_035084275.1	7873	HiFi	2024-01-05	Hydrolagus colliei	1003172678	Chondrichthyes	chimaeras
+GCA_036010785.1	3111550	HiFi	2024-01-24	Ammospiza maritima	1397856043	Aves	birds
+GCA_036172795.1	233781	HiFi	2024-01-26	Pelodytes ibericus	2077659799	Amphibia	frogs & toads
+GCA_036417435.1	9725	CLR	2024-02-06	Inia geoffrensis	2749362370	Mammalia	whales & dolphins
+GCA_036417535.1	187382	HiFi	2024-02-07	Chlamydotis macqueenii	1273933319	Aves	birds
+GCA_036426135.1	9796	HiFi	2024-02-07	Equus caballus	2596737506	Mammalia	odd-toed ungulates
+GCA_036784965.1	152111	HiFi	2024-02-23	Salvelinus alpinus	2129031653	Actinopteri	bony fishes
+GCA_036873955.1	1570318	HiFi	2024-02-26	Mergus octosetaceus	1245791205	Aves	birds
+GCA_036971685.2	372321	HiFi	2025-02-10	Patagioenas fasciata	1198742887	Aves	birds
+GCA_037038515.1	10058	HiFi	2024-03-06	Microtus pennsylvanicus	2369135991	Mammalia	rodents
+GCA_037038545.1	249017	HiFi	2024-03-06	Rhynchonycteris naso	2455066473	Mammalia	bats
+GCA_037039145.1	54267	HiFi	2024-03-06	Fundulus diaphanus	1351828608	Actinopteri	bony fishes
+GCA_037157525.1	1552295	HiFi	2024-03-15	Molossus alvarezi	2478684717	Mammalia	bats
+GCA_037306005.1	43566	HiFi	2024-03-20	Rhinophrynus dorsalis	4745569335	Amphibia	frogs & toads
+GCA_037893015.1	92651	CLR	2024-04-04	Macrotis lagotis	3655732635	Mammalia	marsupials
+GCA_037962945.1	43583	HiFi	2024-04-04	Sarcoramphus papa	1543950730	Aves	hawks & eagles
+GCA_038024135.1	28792	HiFi	2024-04-08	Cyprinella venusta	928717837	Actinopteri	bony fishes
+GCA_038048845.1	3061075	HiFi	2024-04-17	Mixophyes fleayi	2969628263	Amphibia	frogs & toads
+GCA_038355195.1	8014	HiFi	2024-04-17	Osmerus mordax	497673479	Actinopteri	bony fishes
+GCA_038363095.2	27634	HiFi	2024-05-21	Artibeus lituratus	2311617438	Mammalia	bats
+GCA_038363145.1	51014	HiFi	2024-04-22	Artibeus intermedius	2293600955	Mammalia	bats
+GCA_038501925.1	288555	HiFi	2024-04-29	Xenopus petersii	2883796191	Amphibia	frogs & toads
+GCA_039655065.1	2994998	HiFi	2024-05-17	Glossophaga mutica	2159908085	Mammalia	bats
+GCA_039720435.1	151761	HiFi	2024-05-24	Amazona ochrocephala	1361915838	Aves	birds
+GCA_039878825.1	46218	HiFi	2024-05-31	Excalfactoria chinensis	966847183	Aves	birds
+GCA_039880945.1	2997257	HiFi	2024-05-29	Molossus nigricans	2567103348	Mammalia	bats
+GCA_039906565.1	48277	HiFi	2024-05-31	Aegotheles albertisi	1167497019	Aves	birds
+GCA_040206685.1	8439	HiFi	2024-06-17	Ascaphus truei	3722616900	Amphibia	frogs & toads
+GCA_040805955.1	9940	HiFi	2024-07-22	Ovis aries	2853626077	Mammalia	even-toed ungulates & whales
+GCA_040894355.2	1041117	HiFi	2025-02-07	Myuchelys georgesi	1980039302		turtles
+GCA_040939525.1	7888	CLR	2024-08-01	Protopterus annectens	40524173670		lungfishes
+GCA_040955705.1	9622	HiFi	2024-08-01	Lycaon pictus	2384012108	Mammalia	carnivores
+GCA_041735815.1	9925	HiFi	2024-09-04	Capra hircus	2863923675	Mammalia	even-toed ungulates & whales
+GCA_041753875.1	72011	HiFi	2024-09-05	Acanthopagrus schlegelii	714975658	Actinopteri	bony fishes
+GCA_041834305.1	9773	HiFi	2024-09-09	Megaptera novaeangliae	3146604256	Mammalia	whales & dolphins
+GCA_041902795.1	8005	HiFi	2024-09-12	Electrophorus electricus	833427914	Actinopteri	bony fishes
+GCA_041903045.1	310571	HiFi	2024-09-12	Epinephelus lanceolatus	1089387278	Actinopteri	bony fishes
+GCA_042242135.1	3352246	HiFi	2024-09-25	Arripis georgiana	801586327	Actinopteri	bony fishes
+GCA_043250625.1	394691	HiFi	2024-10-17	Sebastes fasciatus	833835073	Actinopteri	bony fishes
+GCA_043290085.1	320637	HiFi	2024-10-17	Rhynchocyon petersi	5620370870	Mammalia	placentals
+GCA_043727835.1	188568	HiFi	2024-10-24	Aselliscus stoliczkanus	2268696503	Mammalia	bats
+GCA_043728065.1	59477	HiFi	2024-10-24	Rhinolophus affinis	2302456897	Mammalia	bats
+GCA_043728145.1	430492	HiFi	2024-10-24	Rhinolophus trifoliatus	2232422560	Mammalia	bats
+GCA_043748575.1	3030661	HiFi	2024-10-24	Rhinolophus perniger	2185535924	Mammalia	bats
+GCA_043748645.1	258863	HiFi	2024-10-24	Mops condylurus	2209024231	Mammalia	bats
+GCA_043880285.1	249021	HiFi	2024-10-28	Doryrhina cyclops	2390604663	Mammalia	bats
+GCA_043880425.1	2952509	HiFi	2024-10-28	Rhinolophus yonghoiseni	2323192134	Mammalia	bats
+GCA_043880545.1	173903	HiFi	2024-10-28	Rhinopoma microphyllum	2564586454	Mammalia	bats
+GCA_043880595.1	9414	HiFi	2024-10-28	Megaderma spasma	2124740378	Mammalia	bats
+GCA_044231665.1	390378	HiFi	2024-11-04	Neosynchiropus ocellatus	470091028	Actinopteri	bony fishes
+GCA_044231675.1	586865	HiFi	2024-11-04	Synchiropus picturatus	492062741	Actinopteri	bony fishes
+GCA_045345405.1	51906	HiFi	2024-12-02	Guaruba guarouba	1366127126	Aves	birds
+GCA_045345515.1	252789	HiFi	2024-12-02	Morphnus guianensis	1576624229	Aves	hawks & eagles
+GCA_045362495.1	182658	HiFi	2024-11-26	Lethrinus nebulosus	1133212262	Actinopteri	bony fishes
+GCA_045363895.1	264210	HiFi	2024-11-26	Pristipomoides typus	1147302341	Actinopteri	bony fishes
+GCA_045364795.1	1566151	HiFi	2024-12-02	Willisornis vidua	1233406177	Aves	birds
+GCA_045364815.1	44507	HiFi	2024-12-02	Podocnemis expansa	2565358608		turtles
+GCA_045781085.1	260642	HiFi	2024-12-06	Pangshura tecta	2174585695		turtles
+GCA_045843805.1	9999	HiFi	2024-12-13	Urocitellus parryii	2935792869	Mammalia	rodents
+GCA_046126795.1	3379902	HiFi	2024-12-18	Dibamus cf. smithi	2282721590	Lepidosauria	lizards & snakes
+GCA_046129655.1	28727	HiFi	2024-12-18	Cyanocitta cristata	1227176437	Aves	birds
+GCA_046129695.1	40157	HiFi	2024-12-18	Lonchura striata	1207550942	Aves	birds
+GCA_046255685.1	1195602	HiFi	2024-12-23	Amblyopsis spelaea	817459139	Actinopteri	bony fishes
+GCA_046562885.1	9690	HiFi	2025-01-08	Panthera onca	2303345105	Mammalia	carnivores
+GCA_046562895.1	9777	HiFi	2025-01-08	Trichechus inunguis	3320339069	Mammalia	placentals
+GCA_047301625.1	241275	HiFi	2025-01-30	Choerodon schoenleinii	865958939	Actinopteri	bony fishes
+GCA_047511565.1	143326	HiFi	2025-02-10	Polymixia lowei	675344950	Actinopteri	bony fishes
+GCA_047511655.1	51338	HiFi	2025-02-10	Castor canadensis	2828089101	Mammalia	rodents
+GCA_047715975.1	179887	HiFi	2025-02-12	Bradypodion pumilum	2467904324	Lepidosauria	lizards & snakes
+GCA_047830755.1	44394	HiFi	2025-02-18	Zonotrichia albicollis	1278938765	Aves	birds
+GCA_047922985.1	8805	HiFi	2025-02-20	Eudromia elegans	1109691113	Aves	birds
+GCA_048126345.1	37699	HiFi	2025-02-26	Notoryctes typhlops	3845140558	Mammalia	marsupials
+GCA_048126635.1	206126	HiFi	2025-02-27	Spinachia spinachia	407561107	Actinopteri	bony fishes
+GCA_048126745.1	30532	HiFi	2025-02-27	Dama dama	2723325442	Mammalia	even-toed ungulates & whales
+GCA_048128725.1	396798	HiFi	2025-02-28	Symphorus nematophorus	1079363760	Actinopteri	bony fishes
+GCA_048128805.1	166262	HiFi	2025-02-28	Centroberyx gerrardi	779177424	Actinopteri	bony fishes
+GCA_048129055.1	1311420	HiFi	2025-02-28	Caesio teres	1078118487	Actinopteri	bony fishes
+GCA_048129235.1	2930458	HiFi	2025-02-28	Epinephelus rankini	1035398499	Actinopteri	bony fishes
+GCA_048301445.1	161592	HiFi	2025-03-03	Syngnathus typhle	368300239	Actinopteri	bony fishes
+GCA_048301465.1	150449	HiFi	2025-03-03	Aulostomus maculatus	662945422	Actinopteri	bony fishes
+GCA_048301585.1	2590489	HiFi	2025-03-04	Rhinogobio nasutus	953377980	Actinopteri	bony fishes
+GCA_048338725.1	9823	HiFi	2025-03-05	Sus scrofa	2633166191	Mammalia	even-toed ungulates & whales
+GCA_048537225.1	3239838	HiFi	2025-03-10	Polymixia cf. hollisterae	722757191	Actinopteri	bony fishes
+GCA_048544225.1	286537	HiFi	2025-03-12	Coilia mystus	854254650	Actinopteri	bony fishes
+GCA_048565345.1	43514	HiFi	2025-03-12	Mantella aurantiaca	3336112499	Amphibia	frogs & toads
+GCA_048565385.1	27679	HiFi	2025-03-12	Saimiri boliviensis	2747476440	Mammalia	primates
+GCA_048569125.1	88682	HiFi	2025-03-13	Diretmus argenteus	1517026147	Actinopteri	bony fishes
+GCA_048569485.1	238106	HiFi	2025-03-13	Anomaloglossus baeobatrachus	6265077250	Amphibia	frogs & toads
+GCA_048593225.1	9305	HiFi	2025-03-17	Sarcophilus harrisii	3244907618	Mammalia	marsupials
+GCA_048593235.1	9301	HiFi	2025-03-17	Sminthopsis crassicaudata	3239981553	Mammalia	marsupials
+GCA_048593285.1	9281	HiFi	2025-03-17	Dasyurus maculatus	3043210118	Mammalia	marsupials
+GCA_048628825.1	238744	HiFi	2025-03-19	Menidia menidia	571276089	Actinopteri	bony fishes
+GCA_048771875.1	10166	HiFi	2025-03-21	Ctenodactylus gundi	2184404205	Mammalia	rodents
+GCA_048771995.1	59729	HiFi	2025-03-21	Taeniopygia guttata	1141165377	Aves	birds
+GCA_048772815.1	76772	HiFi	2025-03-21	Callospermophilus lateralis	4646974320	Mammalia	rodents
+GCA_048934315.1	7757	CLR	2025-03-25	Petromyzon marinus	1808332251	Hyperoartia	lampreys
+GCA_049082185.1	879810	HiFi	2025-03-27	Cristiceps australis	619674967	Actinopteri	bony fishes
+GCA_049190665.1	89578	HiFi	2025-03-31	Lepidogalaxias salamandroides	735065728	Actinopteri	bony fishes
+GCA_049354715.1	9483	CLR	2025-04-08	Callithrix jacchus	2933409465	Mammalia	primates
+GCA_901001165.2	8032	CLR	2021-04-24	Salmo trutta	2371880186	Actinopteri	bony fishes
+GCA_901699155.2	177155	CLR	2021-05-17	Streptopelia turtur	1178816852	Aves	birds
+GCA_901765095.2	1415580	CLR	2021-04-24	Microcaecilia unicolor	4685939421	Amphibia	caecilians
+GCA_902686455.2	55149	CLR	2020-07-31	Sciurus vulgaris	2878607543	Mammalia	rodents
+GCA_903797595.2	37610	CLR	2021-05-03	Erithacus rubecula	1086738418	Aves	birds
+GCA_903992545.1	59474	CLR	2020-08-06	Pipistrellus pipistrellus	1763439233	Mammalia	bats
+GCA_905171665.2	36212	CLR	2021-11-26	Trachurus trachurus	801243942	Actinopteri	bony fishes
+GCA_905319855.2	9612	HiFi	2021-03-26	Canis lupus	2447463909	Mammalia	carnivores
+GCA_907165065.1	111811	CLR	2021-05-17	Caprimulgus europaeus	1177791212	Aves	birds
+GCA_910589615.1	61643	HiFi	2021-07-07	Taurulus bubalis	615153901	Actinopteri	bony fishes
+GCA_910591455.2	56726	HiFi	2021-11-18	Pholis gunnellus	588696950	Actinopteri	bony fishes
+GCA_933228915.1	446457	HiFi	2022-03-23	Telmatherina bonti	986039709	Actinopteri	bony fishes
+GCA_936440315.1	40830	HiFi	2022-05-03	Barbus barbus	1584929904	Actinopteri	bony fishes
+GCA_944039275.1	7955	HiFi	2022-06-24	Danio rerio	1413675870	Actinopteri	bony fishes
+GCA_946808225.1	933932	HiFi	2022-09-15	Silurus aristotelis	800118513	Actinopteri	bony fishes
+GCA_947034865.1	135647	HiFi	2022-10-07	Barbatula barbatula	617663352	Actinopteri	bony fishes
+GCA_947247035.1	103942	HiFi	2022-10-30	Vipera ursinii	1625023540	Lepidosauria	snakes
+GCA_947650265.1	171736	HiFi	2022-12-21	Symphodus melops	636368453	Actinopteri	bony fishes
+GCA_949152265.1	58324	HiFi	2023-04-08	Phoxinus phoxinus	950498056	Actinopteri	bony fishes
+GCA_949316315.1	10090	HiFi	2023-04-08	Mus musculus	2770968735	Mammalia	rodents
+GCA_949319135.1	8284	HiFi	2023-04-08	Squalius cephalus	1101930522	Actinopteri	bony fishes
+GCA_949357685.1	27704	HiFi	2023-04-08	Gobio gobio	1460679231	Actinopteri	bony fishes
+GCA_949357725.1	1484357	HiFi	2023-04-08	Hyperoplus immaculatus	797804280	Actinopteri	bony fishes
+GCA_949606895.1	101497	HiFi	2023-04-08	Notothenia rossii	1042906029	Actinopteri	bony fishes
+GCA_949628215.1	126867	HiFi	2023-04-08	Phalacrocorax aristotelis	1279134750	Aves	birds
+GCA_949748355.1	1091424	HiFi	2023-04-08	Melanostigma gelatinosum	661975483	Actinopteri	bony fishes
+GCA_949752795.1	48744	HiFi	2023-04-08	Hyperoodon ampullatus	2828760712	Mammalia	whales & dolphins
+GCA_949987555.1	473354	HiFi	2023-05-03	Borostomias antarcticus	909249001	Actinopteri	bony fishes
+GCA_949987585.1	246814	HiFi	2023-05-01	Pipistrellus pygmaeus	1895125685	Mammalia	bats
+GCA_949987615.1	185739	HiFi	2023-05-03	Pollachius pollachius	606767444	Actinopteri	bony fishes
+GCA_949987685.1	146480	HiFi	2023-05-03	Ammodytes marinus	777835610	Actinopteri	bony fishes
+GCA_951216825.1	206093	HiFi	2023-05-11	Electrona antarctica	1427445741	Actinopteri	bony fishes
+GCA_951394365.1	100830	HiFi	2023-06-15	Tetrao urogallus	1013184029	Aves	birds
+GCA_951394435.1	9737	HiFi	2023-06-16	Stenella coeruleoalba	2691423227	Mammalia	whales & dolphins
+GCA_951640355.1	3371016	HiFi	2023-05-18	Cnephaeus nilssonii	2064119045	Mammalia	bats
+GCA_951799395.1	446415	HiFi	2023-05-27	Argentina silus	670765936	Actinopteri	bony fishes
+GCA_951799975.1	85417	HiFi	2023-05-27	Gobius niger	870572126	Actinopteri	bony fishes
+GCA_951802725.1	48668	HiFi	2023-05-30	Rutilus rutilus	1100195650	Actinopteri	bony fishes
+GCA_951804945.1	1330250	HiFi	2023-06-02	Podarcis cretensis	1507627055	Lepidosauria	lizards & snakes
+GCA_960531495.1	64108	HiFi	2023-07-26	Zeus faber	804731948	Actinopteri	bony fishes
+GCA_963082525.1	187126	HiFi	2023-08-09	Nesoenas mayeri	1183271950	Aves	birds
+GCA_963210335.1	148596	HiFi	2023-08-19	Falco punctatus	1279277844	Aves	birds
+GCA_963264785.1	232653	HiFi	2023-08-20	Psittacula echo	1203831919	Aves	birds
+GCA_963280865.1	948025	HiFi	2023-08-20	Gymnoscopelus braueri	1367984568	Actinopteri	bony fishes
+GCA_963383615.1	56720	HiFi	2023-08-26	Lipophrys pholis	768243328	Actinopteri	bony fishes
+GCA_963383645.1	39082	HiFi	2023-08-26	Muscardinus avellanarius	2497520702	Mammalia	rodents
+GCA_963422515.1	195075	HiFi	2023-09-13	Blennius ocellaris	728745255	Actinopteri	bony fishes
+GCA_963454915.1	1090481	HiFi	2023-09-13	Gymnoscopelus microlampas	1318656016	Actinopteri	bony fishes
+GCA_963455305.1	61862	HiFi	2023-09-20	Plecotus auritus	2163221563	Mammalia	bats
+GCA_963455335.1	29065	HiFi	2023-09-20	Martes martes	2484650161	Mammalia	carnivores
+GCA_963457635.1	90074	HiFi	2023-09-20	Microchirus variegatus	724694306	Actinopteri	bony fishes
+GCA_963457725.1	196075	HiFi	2023-09-20	Sprattus sprattus	840332306	Actinopteri	bony fishes
+GCA_963513975.1	37598	HiFi	2023-09-28	Fringilla coelebs	1209243761	Aves	birds
+GCA_963514005.1	223862	HiFi	2023-09-28	Raja brachyura	2700467673	Chondrichthyes	sharks & rays
+GCA_963514085.1	48171	HiFi	2023-09-29	Chelon labrosus	717420143	Actinopteri	bony fishes
+GCA_963514095.1	426098	HiFi	2023-09-29	Eutrigla gurnardus	680483561	Actinopteri	bony fishes
+GCA_963691815.1	94984	HiFi	2023-12-07	Echiichthys vipera	800398249	Actinopteri	bony fishes
+GCA_963854745.1	52904	HiFi	2023-12-15	Scophthalmus maximus	550297089	Actinopteri	bony fishes
+GCA_963921795.1	473322	HiFi	2024-02-09	Nannobrachium achirus	1658848640	Actinopteri	bony fishes
+GCA_963924005.1	443714	HiFi	2024-01-19	Protomyctophum bolini	1148224649	Actinopteri	bony fishes
+GCA_963924515.1	59485	HiFi	2024-01-29	Vespertilio murinus	1925577803	Mammalia	bats
+GCA_963924665.1	13151	HiFi	2024-01-29	Micromys minutus	2651787409	Mammalia	rodents
+GCA_963932225.1	8915	HiFi	2024-02-07	Larus fuscus	1324286540	Aves	birds
+GCA_963969265.1	454631	HiFi	2024-02-26	Rhamphochromis sp. 'chilingali'	921184210	Actinopteri	bony fishes
+GCA_963971535.1	948063	HiFi	2024-03-07	Notolepis coatsorum	3427809033	Actinopteri	bony fishes
+GCA_963989245.1	443705	HiFi	2024-03-11	Nansenia antarctica	1085794659	Actinopteri	bony fishes
+GCA_963989345.1	197941	HiFi	2024-03-14	Clangula hyemalis	1206104048	Aves	birds
+GCA_963993115.1	38527	HiFi	2024-03-16	Abramis brama	1108218292	Actinopteri	bony fishes
+GCA_964030765.1	81636	HiFi	2024-04-20	Micromesistius poutassou	520636573	Actinopteri	bony fishes
+GCA_964034855.1	132585	HiFi	2024-04-27	Anser brachyrhynchus	1287337719	Aves	birds
+GCA_964035555.1	30387	HiFi	2024-04-29	Netta rufina	1166978622	Aves	birds
+GCA_964059595.1	107022	HiFi	2024-06-06	Bucephala clangula	1190938797	Aves	birds
+GCA_964094495.2	109479	HiFi	2024-06-12	Myotis mystacinus	2081199042	Mammalia	bats
+GCA_964106545.1	452646	HiFi	2024-06-06	Neogale vison	2697147479	Mammalia	carnivores
+GCA_964106645.2	74359	HiFi	2024-07-06	Podarcis pityusensis	1515373509	Lepidosauria	lizards & snakes
+GCA_964106825.2	9627	HiFi	2024-06-27	Vulpes vulpes	2411727275	Mammalia	carnivores
+GCA_964106855.1	40816	HiFi	2024-06-06	Grus grus	1352282554	Aves	birds
+GCA_964106895.1	31919	HiFi	2024-06-06	Numenius arquata	1348876333	Aves	birds
+GCA_964106915.2	90521	HiFi	2024-09-17	Podarcis gaigeae	1514643635	Lepidosauria	lizards & snakes
+GCA_964146895.2	9433	HiFi	2025-04-05	Miniopterus schreibersii	1850590334	Mammalia	bats
+GCA_964165515.1	48745	HiFi	2024-06-06	Mesoplodon bidens	2999098505	Mammalia	whales & dolphins
+GCA_964187855.1	7769	HiFi	2024-06-18	Myxine glutinosa	3057523704	Myxini	hagfishes
+GCA_964188175.1	65484	HiFi	2024-06-21	Podarcis siculus	1571381643	Lepidosauria	lizards & snakes
+GCA_964188305.1	90520	HiFi	2024-06-21	Podarcis bocagei	1615206822	Lepidosauria	lizards & snakes
+GCA_964188315.1	64176	HiFi	2024-06-21	Podarcis muralis	1522641370	Lepidosauria	lizards & snakes
+GCA_964188345.1	8839	HiFi	2024-06-21	Anas platyrhynchos	1300248985	Aves	birds
+GCA_964188355.1	30397	HiFi	2024-06-21	Buteo buteo	1303700921	Aves	hawks & eagles
+GCA_964188405.1	1091426	HiFi	2024-06-21	Protomyctophum parallelum	1235328005	Actinopteri	bony fishes
+GCA_964194105.1	9997	HiFi	2024-06-28	Spermophilus citellus	3090049053	Mammalia	rodents
+GCA_964194135.1	9375	HiFi	2024-06-28	Talpa europaea	2061000977	Mammalia	insectivores
+GCA_964194155.1	57982	HiFi	2024-06-28	Cetorhinus maximus	3993866540	Chondrichthyes	sharks & rays
+GCA_964194185.1	77218	HiFi	2024-06-28	Rhinolophus hipposideros	2171328640	Mammalia	bats
+GCA_964194415.1	31155	HiFi	2024-06-28	Vipera berus	1695017208	Lepidosauria	snakes
+GCA_964195595.2	1323832	HiFi	2024-07-24	Calonectris borealis	1366205003	Aves	birds
+GCA_964197995.1	58319	HiFi	2024-07-10	Scardinius erythrophthalmus	1229666150	Actinopteri	bony fishes
+GCA_964198595.1	7748	HiFi	2024-07-13	Lampetra fluviatilis	1042475189	Hyperoartia	lampreys
+GCA_964199755.1	119627	HiFi	2024-07-14	Larus michahellis	1405581498	Aves	birds
+GCA_964204655.1	8323	HiFi	2024-07-31	Triturus cristatus	22324633092	Amphibia	salamanders
+GCA_964205295.1	8348	HiFi	2024-07-29	Bombina variegata	9369791316	Amphibia	frogs & toads
+GCA_964211825.1	219593	HiFi	2024-07-31	Aythya ferina	1252319576	Aves	birds
+GCA_964211835.1	8843	HiFi	2024-07-31	Anser anser	1313455045	Aves	birds
+GCA_964212035.2	109481	HiFi	2025-03-28	Myotis nattereri	2138592721	Mammalia	bats
+GCA_964213995.1	112232	HiFi	2024-08-22	Mustelus asterias	3679792345	Chondrichthyes	sharks & rays
+GCA_964234715.1	65482	HiFi	2024-08-31	Podarcis melisellensis	1574923724	Lepidosauria	lizards & snakes
+GCA_964237585.1	9123	HiFi	2024-08-31	Gallinula chloropus	1282411533	Aves	birds
+GCA_964252035.1	140042	HiFi	2024-08-31	Podarcis erhardii	1495994634	Lepidosauria	lizards & snakes
+GCA_964261635.1	256425	HiFi	2024-10-17	Lissotriton helveticus	23170028842	Amphibia	salamanders
+GCA_964263255.1	8324	HiFi	2024-10-17	Lissotriton vulgaris	24226223864	Amphibia	salamanders
+GCA_964263955.1	59291	HiFi	2024-09-15	Coregonus lavaretus	2842862595	Actinopteri	bony fishes
+GCA_964264875.2	59465	HiFi	2025-04-03	Nyctalus leisleri	2226338041	Mammalia	bats
+GCA_964266715.1	106175	HiFi	2024-09-26	Microstomus kitt	752333918	Actinopteri	bony fishes
+GCA_964270895.1	65481	HiFi	2024-09-29	Podarcis filfolensis	1506966124	Lepidosauria	lizards & snakes
+GCA_964270905.1	3371109	HiFi	2024-09-29	Leucopleurus acutus	2676209414	Mammalia	whales & dolphins
+GCA_964271855.1	83528	HiFi	2024-10-03	Acomys minous	2350237540	Mammalia	rodents
+GCA_964273445.1	177147	HiFi	2024-10-04	Streptopelia decaocto	1290957608	Aves	birds
+GCA_964273705.1	2025560	HiFi	2024-10-05	Natrix helvetica	1777516490	Lepidosauria	snakes
+GCA_964276395.1	69293	HiFi	2024-10-28	Gasterosteus aculeatus	511155287	Actinopteri	bony fishes
+GCA_964289735.1	37045	HiFi	2024-10-28	Phaethon aethereus	1321027743	Aves	birds
+GCA_964339955.1	412090	HiFi	2024-11-14	Pipistrellus hanaki	1892221984	Mammalia	bats
+GCA_964341445.1	52113	HiFi	2024-11-28	Mesoplodon mirus	3442419404	Mammalia	whales & dolphins
+GCA_964374135.1	83653	HiFi	2024-11-29	Grampus griseus	2667081928	Mammalia	whales & dolphins
+GCA_964374335.1	8154	ONT	2024-12-01	Astatotilapia calliptera	933429770	Actinopteri	bony fishes
+GCA_964417175.1	35669	HiFi	2024-12-05	Larus argentatus	1417856064	Aves	birds
+GCA_964638095.1	88708	HiFi	2025-01-02	Poromitra crassiceps	1630001977	Actinopteri	bony fishes
+GCA_964656225.1	59473	HiFi	2025-01-02	Pipistrellus nathusii	1916223105	Mammalia	bats
+GCA_964656455.1	9711	HiFi	2025-01-02	Halichoerus grypus	2400078677	Mammalia	carnivores
+GCA_964662115.1	36239	HiFi	2025-01-03	Mustela nivalis	3437873602	Mammalia	carnivores
+GCA_965112155.1	662736	HiFi	2025-01-23	Podarcis liolepis	1574020868	Lepidosauria	lizards & snakes
+GCA_965113295.1	58325	HiFi	2025-01-24	Leuciscus leuciscus	1198377133	Actinopteri	bony fishes
+GCA_965113315.1	140051	HiFi	2025-01-24	Podarcis vaucheri	1614928384	Lepidosauria	lizards & snakes
+GCA_965115925.1	109480	HiFi	2025-01-24	Myotis emarginatus	2109797427	Mammalia	bats
+GCA_965119305.1	45623	HiFi	2025-02-11	Pelophylax lessonae	5811246175	Amphibia	frogs & toads
+GCA_965140235.1	8467	HiFi	2025-02-13	Caretta caretta	2217236305		turtles
+GCA_965140245.1	126797	HiFi	2025-02-13	Athene noctua	1355875761	Aves	birds
+GCA_965140285.1	8472	HiFi	2025-03-26	Lepidochelys kempii	2219022919		turtles
+GCA_965140295.1	27788	HiFi	2025-02-13	Lepidochelys olivacea	2206585630		turtles
+GCA_965140915.1	189534	HiFi	2025-02-13	Aythya marila	1224533240	Aves	birds
+GCA_965151615.1	110926	HiFi	2025-02-15	Cygnus columbianus	1293538149	Aves	birds
+GCA_965152235.1	27787	HiFi	2025-04-10	Eretmochelys imbricata	2218003986		turtles
+GCA_965152275.1	27790	HiFi	2025-02-16	Natator depressus	2173446978		turtles
+GCA_965153285.1	65485	HiFi	2025-02-26	Podarcis tiliguerta	1462327121	Lepidosauria	lizards & snakes
+GCA_965178545.1	30423	HiFi	2025-03-04	Coloeus monedula	1263996688	Aves	birds
+GCA_965183815.1	257867	HiFi	2025-03-04	Platalea leucorodia	1345843103	Aves	birds
+GCA_965194805.1	9768	HiFi	2025-03-10	Balaenoptera borealis	3234573494	Mammalia	whales & dolphins
+GCA_965194825.1	9770	HiFi	2025-03-10	Balaenoptera physalus	3442554901	Mammalia	whales & dolphins
+GCA_965226115.1	286572	ONT	2025-03-27	Aulonocara stuartgranti	945383024	Actinopteri	bony fishes
+GCA_965226575.1	8173	HiFi	2025-03-28	Pagrus pagrus	825699107	Actinopteri	bony fishes
+GCA_965231255.1	100859	HiFi	2025-03-28	Vanellus vanellus	1476623026	Aves	birds
+GCA_965231275.1	43581	HiFi	2025-03-28	Zosterops lateralis	1143512649	Aves	birds
+GCA_965231335.1	8853	HiFi	2025-03-29	Branta canadensis	1311899232	Aves	birds
+GCF_003369695.1	30522	CLR	2018-11-30	Bos indicus x Bos taurus	2680953056	Mammalia	even-toed ungulates & whales
+GCF_003957555.1	9244	CLR	2019-05-16	Calypte anna	1059687259	Aves	birds
+GCF_004027225.2	2489341	CLR	2020-03-04	Strigops habroptila	1148597545	Aves	birds
+GCF_004115215.2	9258	CLR	2020-11-06	Ornithorhynchus anatinus	1859281927	Mammalia	monotremes
+GCF_004115265.2	59479	CLR	2019-05-16	Rhinolophus ferrumequinum	2075768562	Mammalia	bats
+GCF_004126475.2	89673	CLR	2020-05-12	Phyllostomus discolor	2108832841	Mammalia	bats
+GCF_007364275.1	63155	CLR	2019-08-01	Archocentrus centrarchus	932930362	Actinopteri	bony fishes
+GCF_007399415.2	1825980	CLR	2019-07-25	Gopherus evgoodei	2298564209		turtles
+GCF_007474595.2	61383	CLR	2020-07-14	Lynx canadensis	2407810255	Mammalia	carnivores
+GCF_008692025.1	42100	CLR	2019-09-26	Phocoena sinus	2371524154	Mammalia	whales & dolphins
+GCF_009650955.1	1196302	CLR	2019-11-14	Corvus moneduloides	1112734094	Aves	birds
+GCF_009762305.2	9704	CLR	2020-07-14	Zalophus californianus	2409685272	Mammalia	carnivores
+GCF_009762535.1	1203425	CLR	2019-12-18	Notolabrus celidotus	846744125	Actinopteri	bony fishes
+GCF_009764475.1	685728	CLR	2019-12-19	Pristis pectinata	2267840987	Chondrichthyes	sharks & rays
+GCF_009764565.3	27794	CLR	2021-08-25	Dermochelys coriacea	2164762090		turtles
+GCF_009769535.1	35005	CLR	2019-12-23	Thamnophis elegans	1672190305	Lepidosauria	snakes
+GCF_009769545.1	8103	CLR	2019-12-23	Cyclopterus lumpus	572885595	Actinopteri	bony fishes
+GCF_009769625.2	8869	CLR	2021-03-31	Cygnus olor	1134186642	Aves	birds
+GCF_009819535.1	80427	CLR	2019-12-31	Lacerta agilis	1391404169	Lepidosauria	lizards & snakes
+GCF_009819655.1	48155	CLR	2019-12-31	Sylvia atricapilla	1066804524	Aves	birds
+GCF_009819705.1	8267	CLR	2019-12-31	Hippoglossus hippoglossus	596792615	Actinopteri	bony fishes
+GCF_009819795.1	219594	CLR	2019-12-31	Aythya fuligula	1127004725	Aves	birds
+GCF_009819885.2	91951	CLR	2020-12-22	Catharus ustulatus	1131616530	Aves	birds
+GCF_009829125.3	409849	CLR	2023-03-21	Periophthalmus magnuspinnatus	752605561	Actinopteri	bony fishes
+GCF_009829145.1	296741	CLR	2020-01-03	Chiroxiphia lanceolata	1089631598	Aves	birds
+GCF_009829155.1	36723	CLR	2020-01-03	Mustela erminea	2445217270	Mammalia	carnivores
+GCF_009873245.2	9771	CLR	2020-10-02	Balaenoptera musculus	2374868943	Mammalia	whales & dolphins
+GCF_010909765.2	386614	CLR	2020-02-21	Amblyraja radiata	2558784953	Chondrichthyes	sharks & rays
+GCF_011004845.1	8010	CLR	2020-03-05	Esox lucius	918748614	Actinopteri	bony fishes
+GCF_011100635.1	9337	CLR	2020-03-10	Trichosurus vulpecula	3359347707	Mammalia	marsupials
+GCF_011100685.1	9615	CLR	2020-03-10	Canis lupus	2481983352	Mammalia	carnivores
+GCF_011762595.1	9739	CLR	2020-03-27	Tursiops truncatus	2378522213	Mammalia	whales & dolphins
+GCF_012275295.1	13146	CLR	2020-04-13	Melopsittacus undulatus	1171617451	Aves	birds
+GCF_013347855.1	7936	CLR	2020-06-18	Anguilla anguilla	979045926	Actinopteri	bony fishes
+GCF_013368585.1	118141	CLR	2020-06-23	Megalops cyprinoides	959258046	Actinopteri	bony fishes
+GCF_013368605.1	48427	CLR	2020-06-23	Nyctibius grandis	1256393467	Aves	birds
+GCF_014108235.1	51298	CLR	2020-08-07	Myotis myotis	2002797769	Mammalia	bats
+GCF_014108245.1	59472	CLR	2020-08-07	Pipistrellus kuhlii	1775688541	Mammalia	bats
+GCF_014108415.1	27622	CLR	2020-08-07	Molossus molossus	2315568481	Mammalia	bats
+GCF_014176215.1	9407	CLR	2020-08-07	Rousettus aegyptiacus	1893602072	Mammalia	bats
+GCF_014839835.1	118200	CLR	2020-10-02	Dryobates pubescens	1187939694	Aves	birds
+GCF_015220075.1	120794	CLR	2020-11-03	Falco rusticolus	1195847496	Aves	birds
+GCF_015220235.1	27675	CLR	2020-11-03	Choloepus didactylus	3214702648	Mammalia	placentals
+GCF_015220715.1	42514	CLR	2020-11-03	Pygocentrus nattereri	1222050449	Actinopteri	bony fishes
+GCF_015220745.1	72105	CLR	2020-11-03	Sebastes umbrosus	800904020	Actinopteri	bony fishes
+GCF_015220805.1	488313	CLR	2020-11-03	Pogoniulus pusillus	1272338968	Aves	birds
+GCF_015227675.2	10116	CLR	2020-11-10	Rattus norvegicus	2647915728	Mammalia	rodents
+GCF_015227805.1	43150	CLR	2021-03-02	Hirundo rustica	1105955550	Aves	birds
+GCF_015237465.2	8469	CLR	2021-07-15	Chelonia mydas	2134375114		turtles
+GCF_015852505.1	9261	CLR	2020-12-09	Tachyglossus aculeatus	2213004214	Mammalia	monotremes
+GCF_016700215.2	9031	CLR	2021-10-01	Gallus gallus	1050511239	Aves	birds
+GCF_017639515.1	13397	CLR	2021-03-30	Carcharodon carcharias	4286311191	Chondrichthyes	sharks & rays
+GCF_017639655.2	148594	CLR	2021-03-30	Falco naumanni	1215719661	Aves	birds
+GCF_017639745.1	1250792	CLR	2021-03-30	Melanotaenia boesemani	865592457	Actinopteri	bony fishes
+GCF_017976325.1	109905	CLR	2021-04-15	Chelmon rostratus	644208431	Actinopteri	bony fishes
+GCF_017976375.1	55661	CLR	2021-04-15	Cuculus canorus	1180136575	Aves	birds
+GCF_017976425.1	941984	CLR	2021-04-15	Toxotes jaculatrix	621503431	Actinopteri	bony fishes
+GCF_018492685.1	34773	HiFi	2021-05-25	Alosa sapidissima	903581644	Actinopteri	bony fishes
+GCF_019393635.1	33562	CLR	2021-08-03	Dromiciops gliroides	3303199800	Mammalia	marsupials
+GCF_020382885.2	75038	CLR	2021-10-13	Scatophagus argus	570802272	Actinopteri	bony fishes
+GCF_020740605.2	9447	HiFi	2021-11-04	Lemur catta	2245601549	Mammalia	primates
+GCF_020740685.1	51337	CLR	2021-11-04	Jaculus jaculus	2863865261	Mammalia	rodents
+GCF_020740725.1	134902	HiFi	2021-11-04	Corvus hawaiiensis	1151611379	Aves	birds
+GCF_020740795.1	8895	CLR	2021-11-04	Apus apus	1100378261	Aves	birds
+GCF_020745735.1	170820	CLR	2021-11-05	Hemiscyllium ocellatum	3983466396	Chondrichthyes	sharks & rays
+GCF_020745825.1	39638	HiFi	2023-03-15	Agelaius phoeniceus	1188547179	Aves	birds
+GCF_020826845.1	77932	HiFi	2021-11-10	Diceros bicornis	3005535620	Mammalia	odd-toed ungulates
+GCF_021462225.1	208333	CLR	2022-02-24	Girardinichthys multiradiatus	1150004004	Actinopteri	bony fishes
+GCF_023053635.1	159646	HiFi	2024-01-04	Elgaria multicarinata	1790500004	Lepidosauria	lizards & snakes
+GCF_023343835.1	64668	HiFi	2022-05-12	Lagopus muta	1026771810	Aves	birds
+GCF_023375975.1	7994	HiFi	2022-05-19	Astyanax mexicanus	1373169186	Actinopteri	bony fishes
+GCF_023634085.1	345164	HiFi	2022-06-02	Falco cherrug	1309385023	Aves	birds
+GCF_023634155.1	8954	HiFi	2022-06-02	Falco peregrinus	1311598859	Aves	birds
+GCF_023638135.1	345155	HiFi	2022-06-02	Falco biarmicus	1285492283	Aves	birds
+GCF_024139225.1	109475	CLR	2022-07-06	Suncus etruscus	2471666657	Mammalia	insectivores
+GCF_024166365.1	99487	HiFi	2022-07-06	Elephas maximus	3401247148	Mammalia	placentals
+GCF_025201925.1	286002	CLR	2022-09-15	Gopherus flavomarginatus	2460542086		turtles
+GCF_025265405.1	48708	HiFi	2022-09-19	Mesoplodon densirostris	2683391478	Mammalia	whales & dolphins
+GCF_026419915.1	202280	HiFi	2022-11-27	Harpia harpyja	1351447071	Aves	hawks & eagles
+GCF_026419965.1	27615	HiFi	2022-11-27	Kogia breviceps	2555855246	Mammalia	whales & dolphins
+GCF_026979565.1	81927	HiFi	2022-12-21	Vidua chalybeata	1080440577	Aves	birds
+GCF_027172205.1	65483	HiFi	2022-12-27	Podarcis raffonei	1513131503	Lepidosauria	lizards & snakes
+GCF_027358585.1	310915	HiFi	2022-12-28	Pangasianodon hypophthalmus	764974446	Actinopteri	bony fishes
+GCF_027358695.1	233779	HiFi	2022-12-27	Spea bombifrons	987655159	Amphibia	frogs & toads
+GCF_027406575.1	9470	HiFi	2022-12-28	Nycticebus coucang	2917154053	Mammalia	primates
+GCF_027409185.1	110931	HiFi	2022-12-28	Cynocephalus volans	2814418120	Mammalia	placentals
+GCF_027409825.1	13676	HiFi	2022-12-28	Scomber japonicus	828681152	Actinopteri	bony fishes
+GCF_027477595.1	30427	HiFi	2022-12-29	Haemorhous mexicanus	1148233018	Aves	birds
+GCF_027574615.1	29078	CLR	2023-01-09	Eptesicus fuscus	2008057866	Mammalia	bats
+GCF_027579445.1	2857394	HiFi	2023-01-09	Ammospiza nelsoni	1185463352	Aves	birds
+GCF_027579695.1	443677	HiFi	2023-01-09	Neoarius graeffei	2341916362	Actinopteri	bony fishes
+GCF_027579735.1	8345	CLR	2023-01-09	Bombina bombina	10019663791	Amphibia	frogs & toads
+GCF_027595985.1	42254	HiFi	2023-01-09	Sorex araneus	2405993548	Mammalia	insectivores
+GCF_027789765.1	150705	CLR	2023-01-13	Dendropsophus ebraccatus	2214937069	Amphibia	frogs & toads
+GCF_027887145.1	2857398	HiFi	2023-01-18	Ammospiza caudacuta	1241209685	Aves	birds
+GCF_027887155.1	2991368	HiFi	2023-01-18	Malaclemys terrapin	2211221380		turtles
+GCF_027887165.1	13616	HiFi	2023-01-18	Monodelphis domestica	3586166573	Mammalia	marsupials
+GCF_028017835.1	82168	HiFi	2023-01-30	Emys orbicularis	2309740635		turtles
+GCF_028018385.1	61452	HiFi	2023-01-31	Neofelis nebulosa	2468345093	Mammalia	carnivores
+GCF_028018845.1	44398	HiFi	2023-01-31	Melospiza georgiana	1162015399	Aves	birds
+GCF_028021215.1	9764	HiFi	2023-01-31	Eschrichtius robustus	2982418581	Mammalia	whales & dolphins
+GCF_028023285.1	2746895	HiFi	2023-01-30	Balaenoptera ricei	2678442663	Mammalia	whales & dolphins
+GCF_028372415.1	9315	HiFi	2023-02-06	Notamacropus eugenii	3447464908	Mammalia	marsupials
+GCF_028389875.1	8795	HiFi	2023-02-06	Rhea pennata	1269016774	Aves	birds
+GCF_028390025.1	495146	HiFi	2023-02-06	Pseudophryne corroboree	8872758793	Amphibia	frogs & toads
+GCF_028500815.1	75485	HiFi	2023-02-09	Rissa tridactyla	1353621101	Aves	birds
+GCF_028564815.1	27606	HiFi	2023-02-09	Eubalaena glacialis	2843691573	Mammalia	whales & dolphins
+GCF_028583425.1	481883	HiFi	2023-02-10	Eublepharis macularius	2237397408	Lepidosauria	lizards & snakes
+GCF_028858705.1	9117	CLR	2023-02-24	Grus americana	1257837975	Aves	birds
+GCF_028858725.1	57412	HiFi	2023-02-24	Colius striatus	1212482152	Aves	birds
+GCF_028858775.2	9598	HiFi	2024-01-08	Pan troglodytes	3177756316	Mammalia	primates
+GCF_028878055.3	9590	HiFi	2024-01-05	Symphalangus syndactylus	3262904224	Mammalia	primates
+GCF_028885625.2	9600	HiFi	2024-01-08	Pongo pygmaeus	3220951552	Mammalia	primates
+GCF_028885655.2	9601	HiFi	2024-01-05	Pongo abelii	3259870029	Mammalia	primates
+GCF_029281585.2	9595	HiFi	2024-01-08	Gorilla gorilla	3545850636	Mammalia	primates
+GCF_029289425.2	9597	HiFi	2024-01-08	Pan paniscus	3244905271	Mammalia	primates
+GCF_029499605.1	327740	HiFi	2023-04-07	Hyla sarda	4142159359	Amphibia	frogs & toads
+GCF_029582105.1	2939378	CLR	2023-04-06	Oenanthe melanoleuca	1036256795	Aves	birds
+GCF_029633855.1	27720	HiFi	2024-06-25	Hoplias malabaricus	1186371479	Actinopteri	bony fishes
+GCF_029633865.1	2546036	HiFi	2023-04-13	Lampris incognitus	1482357630	Actinopteri	bony fishes
+GCF_029931775.1	460621	HiFi	2023-05-15	Euleptes europaea	1781916107	Lepidosauria	lizards & snakes
+GCF_030014295.1	9785	HiFi	2023-05-16	Loxodonta africana	3540876381	Mammalia	placentals
+GCF_030014385.1	2290929	HiFi	2023-05-16	Trichomycterus rosablanca	1045025885	Actinopteri	bony fishes
+GCF_030020395.1	143292	HiFi	2023-05-23	Manis pentadactyla	2840164579	Mammalia	placentals
+GCF_030028045.1	575201	HiFi	2023-05-18	Hippopotamus amphibius	2538259262	Mammalia	even-toed ungulates & whales
+GCF_030028105.1	1983395	HiFi	2023-05-22	Mobula birostris	4014635230	Chondrichthyes	sharks & rays
+GCF_030035675.1	261503	HiFi	2023-05-22	Rhineura floridana	2307419594	Lepidosauria	lizards & snakes
+GCF_030144855.1	79690	HiFi	2023-06-05	Hypanus sabinus	4044869043	Chondrichthyes	sharks & rays
+GCF_030435755.1	9978	HiFi	2023-07-13	Ochotona princeps	2555444530	Mammalia	rabbits & hares
+GCF_030435805.1	9666	HiFi	2023-07-13	Mustela lutreola	2586268927	Mammalia	carnivores
+GCF_030445035.2	9361	HiFi	2023-07-13	Dasypus novemcinctus	3610551914	Mammalia	placentals
+GCF_030463535.1	930266	HiFi	2023-07-14	Salminus brasiliensis	1066483687	Actinopteri	bony fishes
+GCF_030490865.1	48891	HiFi	2023-07-18	Poecile atricapillus	1251133642	Aves	birds
+GCF_030684315.1	3053191	HiFi	2023-08-08	Stegostoma tigrinum	3198515386	Chondrichthyes	sharks & rays
+GCF_030867095.1	8496	HiFi	2023-08-24	Alligator mississippiensis	2346795873		vertebrates
+GCF_030936135.1	37040	HiFi	2023-08-30	Gavia stellata	1321270170	Aves	birds
+GCF_031021105.1	121349	HiFi	2023-08-31	Erythrolamprus reginae	1964049041	Lepidosauria	snakes
+GCF_032444005.1	111125	HiFi	2023-10-16	Ranitomeya imitator	5956610564	Amphibia	frogs & toads
+GCF_035084215.1	212740	HiFi	2024-01-05	Heptranchias perlo	3249915908	Chondrichthyes	sharks & rays
+GCF_035149785.1	51853	HiFi	2024-01-18	Candoia aspera	1530810380	Lepidosauria	snakes
+GCF_035609145.1	57060	HiFi	2024-01-12	Eleutherodactylus coqui	3371297528	Amphibia	frogs & toads
+GCF_035770615.1	1914991	HiFi	2024-01-24	Melospiza melodia	1541245192	Aves	birds
+GCF_036013445.1	187106	HiFi	2024-01-26	Caloenas nicobarica	1285834579	Aves	birds
+GCF_036013475.1	8932	HiFi	2024-04-08	Columba livia	1325566026	Aves	birds
+GCF_036169615.1	472823	HiFi	2024-01-26	Heliangelus exortis	1049650714	Aves	birds
+GCF_036172605.1	191477	HiFi	2024-01-26	Pelobates fuscus	3606456729	Amphibia	frogs & toads
+GCF_036250125.1	415032	HiFi	2024-01-31	Pseudopipra pipra	1165201947	Aves	birds
+GCF_036321535.1	9838	HiFi	2024-01-31	Camelus dromedarius	2306603094	Mammalia	even-toed ungulates & whales
+GCF_036365525.1	7792	HiFi	2024-02-06	Heterodontus francisci	6013048672	Chondrichthyes	sharks & rays
+GCF_036370855.1	8790	HiFi	2024-02-26	Dromaius novaehollandiae	1468706110	Aves	birds
+GCF_036373705.1	7924	HiFi	2024-02-06	Amia calva	989103751	Actinopteri	bony fishes
+GCF_036417665.1	48849	HiFi	2024-02-07	Passer domesticus	1310131054	Aves	birds
+GCF_036417845.1	2696672	HiFi	2024-02-06	Apteryx mantelli	1504396159	Aves	birds
+GCF_036850765.1	59482	CLR	2024-02-26	Saccopteryx bilineata	2612309609	Mammalia	bats
+GCF_036850995.1	249018	CLR	2024-02-26	Saccopteryx leptura	2576513769	Mammalia	bats
+GCF_036971445.1	1343680	HiFi	2024-03-06	Narcine bancroftii	3328432768	Chondrichthyes	sharks & rays
+GCF_037157495.1	678569	HiFi	2024-03-15	Lathamus discolor	1241003407	Aves	birds
+GCF_037176765.1	38937	HiFi	2024-03-15	Anolis sagrei	1950830970	Lepidosauria	lizards & snakes
+GCF_037176945.1	7897	HiFi	2024-03-18	Latimeria chalumnae	2947609019		coelacanths
+GCF_037993035.1	9541	HiFi	2024-04-05	Macaca fascicularis	3042914375	Mammalia	primates
+GCF_039877785.1	109706	HiFi	2024-05-29	Chaetodon trifascialis	662489023	Actinopteri	bony fishes
+GCF_039906515.1	82174	HiFi	2024-05-31	Pseudorca crassidens	2674592094	Mammalia	whales & dolphins
+GCF_040182565.1	8845	HiFi	2024-06-14	Anser cygnoides	1215354515	Aves	birds
+GCF_040807025.1	8801	HiFi	2024-07-22	Struthio camelus	1452018929	Aves	birds
+GCF_040894005.1	76066	HiFi	2024-07-30	Engystomops pustulosus	2158203323	Amphibia	frogs & toads
+GCF_040937935.1	752182	HiFi	2024-07-30	Hyperolius riggenbachi	4915935452	Amphibia	frogs & toads
+GCF_040938575.1	8296	HiFi	2024-07-30	Ambystoma mexicanum	29117864639	Amphibia	salamanders
+GCF_040954835.1	7918	HiFi	2024-08-01	Lepisosteus oculatus	1200589847	Actinopteri	bony fishes
+GCF_042242105.1	3127111	HiFi	2024-09-25	Pempheris klunzingeri	646252061	Actinopteri	bony fishes
+GCF_042477335.2	37174	HiFi	2024-10-18	Ovis canadensis	2974283533	Mammalia	even-toed ungulates & whales
+GCF_043159975.1	9545	HiFi	2024-10-15	Macaca nemestrina	3116288670	Mammalia	primates
+GCF_043641665.1	215367	HiFi	2024-10-30	Enoplosus armatus	579897767	Actinopteri	bony fishes
+GCF_044704955.1	55135	HiFi	2024-11-13	Pristiophorus japonicus	5923069295	Chondrichthyes	sharks & rays
+GCF_047511675.1	93162	HiFi	2025-02-10	Marmota flaviventris	2704651887	Mammalia	rodents
+GCF_048164855.1	143281	HiFi	2025-02-27	Canis lupus	2495589887	Mammalia	carnivores
+GCF_900324465.2	64144	CLR	2018-12-19	Anabas testudineus	555658001	Actinopteri	bony fishes
+GCF_900324485.2	205130	CLR	2019-03-16	Mastacembelus armatus	591951587	Actinopteri	bony fishes
+GCF_900496995.4	223781	CLR	2021-03-26	Aquila chrysaetos	1233704830	Aves	hawks & eagles
+GCF_900634415.1	56716	CLR	2019-02-06	Cottoperca gobio	609391784	Actinopteri	bony fishes
+GCF_900634625.1	210632	CLR	2019-02-06	Parambassis ranga	551012959	Actinopteri	bony fishes
+GCF_900634775.1	441366	CLR	2019-02-06	Gouania willdenowi	937150793	Actinopteri	bony fishes
+GCF_900634795.4	158456	CLR	2023-03-10	Betta splendens	427001245	Actinopteri	bony fishes
+GCF_900700375.1	299321	CLR	2019-03-16	Denticeps clupeoides	567401054	Actinopteri	bony fishes
+GCF_900747795.2	27687	CLR	2021-07-07	Erpetoichthys calabaricus	3613551144	Cladistia	bony fishes
+GCF_900880675.1	8175	CLR	2019-07-30	Sparus aurata	833595063	Actinopteri	bony fishes
+GCF_900963305.1	173247	CLR	2019-04-11	Echeneis naucrates	544229245	Actinopteri	bony fishes
+GCF_900964775.1	113540	CLR	2019-04-11	Scleropages formosus	784563014	Actinopteri	bony fishes
+GCF_901000725.2	31033	CLR	2019-06-05	Takifugu rubripes	384126662	Actinopteri	bony fishes
+GCF_901001135.1	194408	CLR	2019-06-02	Rhinatrema bivittatum	5319239201	Amphibia	caecilians
+GCF_901709675.1	161584	CLR	2020-07-31	Syngnathus acus	324331233	Actinopteri	bony fishes
+GCF_902148845.1	181472	CLR	2019-07-03	Salarias fasciatus	797507141	Actinopteri	bony fishes
+GCF_902148855.1	375764	CLR	2019-07-03	Sphaeramia orbicularis	1342662642	Actinopteri	bony fishes
+GCF_902150065.1	586833	CLR	2019-07-03	Myripristis murdjan	835254674	Actinopteri	bony fishes
+GCF_902167405.1	8049	CLR	2019-07-16	Gadus morhua	669966409	Actinopteri	bony fishes
+GCF_902362185.1	29144	CLR	2019-08-14	Chanos chanos	656929047	Actinopteri	bony fishes
+GCF_902459505.1	260995	CLR	2019-08-18	Geotrypetes seraphini	3779430019	Amphibia	caecilians
+GCF_902500255.1	390379	CLR	2019-09-30	Thalassophryne amazonica	2446592878	Actinopteri	bony fishes
+GCF_902655055.1	9657	CLR	2020-07-31	Lutra lutra	2438458878	Mammalia	carnivores
+GCF_902686445.1	30640	CLR	2020-07-31	Sciurus carolinensis	2815397268	Mammalia	rodents
+GCF_902713425.1	7906	HiFi	2022-02-02	Acipenser ruthenus	1899810788	Actinopteri	bony fishes
+GCF_902713615.1	7830	CLR	2020-12-17	Scyliorhinus canicula	4220406627	Chondrichthyes	sharks & rays
+GCF_903992535.2	1047088	CLR	2021-05-15	Arvicola amphibius	2297766297	Mammalia	rodents
+GCF_903995425.1	38674	CLR	2020-08-21	Onychomys torridus	2468394440	Mammalia	rodents
+GCF_903995435.1	60746	CLR	2020-08-21	Acomys russatus	2301522284	Mammalia	rodents
+GCF_904848185.1	8177	CLR	2020-10-12	Acanthopagrus latus	685144197	Actinopteri	bony fishes
+GCF_905171765.1	8384	CLR	2021-01-28	Bufo bufo	5044744194	Amphibia	frogs & toads
+GCF_905171775.1	8407	CLR	2021-01-28	Rana temporaria	4111422596	Amphibia	frogs & toads
+GCF_910594005.1	9860	HiFi	2021-07-07	Cervus elaphus	2886603524	Mammalia	even-toed ungulates & whales
+GCF_910596095.1	8240	HiFi	2021-07-07	Thunnus maccoyii	782423979	Actinopteri	bony fishes
+GCF_914725855.1	8236	HiFi	2021-09-16	Thunnus albacares	792101331	Actinopteri	bony fishes
+GCF_922984935.1	9662	HiFi	2021-12-19	Meles meles	2738694446	Mammalia	carnivores
+GCF_929443795.1	8957	HiFi	2022-02-09	Astur gentilis	1398011397	Aves	hawks & eagles
+GCF_937001465.1	9733	HiFi	2022-05-03	Orcinus orca	2647351467	Mammalia	whales & dolphins
+GCF_947179515.1	10129	HiFi	2022-10-28	Apodemus sylvaticus	2889785202	Mammalia	rodents
+GCF_947347685.1	8262	HiFi	2022-11-29	Pleuronectes platessa	687388084	Actinopteri	bony fishes
+GCF_947461875.1	8969	HiFi	2022-12-06	Haliaeetus albicilla	1320315924	Aves	hawks & eagles
+GCF_949316205.1	8260	HiFi	2023-04-05	Platichthys flesus	597120941	Actinopteri	bony fishes
+GCF_949316345.1	134920	HiFi	2023-04-08	Pungitius pungitius	480434100	Actinopteri	bony fishes
+GCF_949774975.1	27610	HiFi	2023-04-08	Lagenorhynchus albirostris	2544835795	Mammalia	whales & dolphins
+GCF_949987515.2	9728	HiFi	2024-09-07	Delphinus delphis	2663516986	Mammalia	whales & dolphins
+GCF_949987535.1	9767	HiFi	2023-05-01	Balaenoptera acutorostrata	2772885358	Mammalia	whales & dolphins
+GCF_950005125.1	269649	HiFi	2023-05-01	Chionomys nivalis	2393390621	Mammalia	rodents
+GCF_950295315.1	9365	HiFi	2023-05-01	Erinaceus europaeus	2720683831	Mammalia	insectivores
+GCF_958295425.1	90069	HiFi	2023-07-06	Solea solea	643757955	Actinopteri	bony fishes
+GCF_963082965.1	217509	HiFi	2023-08-09	Carassius carassius	1684296438	Actinopteri	bony fishes
+GCF_963259705.1	98922	HiFi	2023-08-20	Myotis daubentonii	2127807131	Mammalia	bats
+GCF_963455315.2	9731	HiFi	2024-09-07	Globicephala melas	2651276051	Mammalia	whales & dolphins
+GCF_963506605.1	8524	HiFi	2023-09-20	Zootoca vivipara	1440239386	Lepidosauria	lizards & snakes
+GCF_963514075.1	82655	HiFi	2023-09-29	Conger conger	1136402888	Actinopteri	bony fishes
+GCF_963576545.1	27771	HiFi	2023-11-03	Limanda limanda	717580706	Actinopteri	bony fishes
+GCF_963584025.1	508554	HiFi	2023-11-05	Labrus mixtus	740563171	Actinopteri	bony fishes
+GCF_963662255.1	127875	HiFi	2023-12-11	Cinclus cinclus	1170837027	Aves	birds
+GCF_963691925.1	13677	HiFi	2023-12-07	Scomber scombrus	764141294	Actinopteri	bony fishes
+GCF_963692335.1	29151	HiFi	2023-12-11	Osmerus eperlanus	508721272	Actinopteri	bony fishes
+GCF_963854185.1	27697	HiFi	2023-12-14	Sardina pilchardus	869396467	Actinopteri	bony fishes
+GCF_963921805.1	9209	HiFi	2024-02-09	Phalacrocorax carbo	1283623959	Aves	birds
+GCF_963924245.1	1192867	HiFi	2024-01-20	Chroicocephalus ridibundus	1417554307	Aves	birds
+GCF_963924675.1	9742	HiFi	2024-01-29	Phocoena phocoena	2512713112	Mammalia	whales & dolphins
+GCF_963924715.1	8237	HiFi	2024-01-29	Thunnus thynnus	799047066	Actinopteri	bony fishes
+GCF_963930625.1	9886	HiFi	2024-01-31	Muntiacus reevesi	2656168540	Mammalia	even-toed ungulates & whales
+GCF_963930695.1	56723	HiFi	2024-01-31	Labrus bergylta	720210020	Actinopteri	bony fishes
+GCF_963932015.1	28680	HiFi	2024-02-07	Anas acuta	1189296988	Aves	birds
+GCF_964237555.1	9986	HiFi	2024-08-31	Oryctolagus cuniculus	2804657419	Mammalia	rabbits & hares
