@@ -1,0 +1,569 @@
+accession	tax_id	contig_n50	compleasm_fragmented	compleasm_frameshift	compleasm_missing	compleasm_complete	compleasm_single	compleasm_dup	compleasm_retro	technology	group	class	order	species	plot_class
+GCA_003287225.2	38626	11399805	2	194	6	3382	3356	6	20	CLR	marsupials	Mammalia	Diprotodontia	Phascolarctos cinereus	Mammals
+GCA_005190385.3	40151	22031227	1	146	7	3382	3332	18	32	CLR	whales & dolphins	Mammalia	Artiodactyla	Monodon monoceros	Mammals
+GCA_008658365.1	28689	18221265	3	105	6	3381	3377	4	0	CLR	birds	Aves	Charadriiformes	Alca torda	Birds
+GCA_009764595.1	135433	3247339	27	203	84	3279	3249	30	0	CLR	birds	Aves	Passeriformes	Geothlypis trichas	Birds
+GCA_009769465.1	121530	11927027	4	159	7	3379	3369	10	0	CLR	birds	Aves	Musophagiformes	Tauraco erythrolophus	Birds
+GCA_009769525.1	240206	12131577	8	225	14	3368	3362	6	0	CLR	birds	Aves	Pterocliformes	Pterocles gutturalis	Birds
+GCA_009769605.1	153643	12039478	1	139	20	3369	3359	10	0	CLR	birds	Aves	Bucerotiformes	Bucorvus abyssinicus	Birds
+GCA_009819595.1	57421	12372304	3	205	11	3376	3339	37	0	CLR	birds	Aves	Coraciiformes	Merops nubicus	Birds
+GCA_009819605.1	108405	22002498	1	74	2	3387	3373	14	0	CLR	birds	Aves	Charadriiformes	Sterna hirundo	Birds
+GCA_009819775.1	9218	14700712	0	157	5	3385	3372	13	0	CLR	birds	Aves	Phoenicopteriformes	Phoenicopterus ruber	Birds
+GCA_009819825.1	54380	13514148	6	117	6	3378	3364	13	1	CLR	birds	Aves	Cariamiformes	Cariama cristata	Birds
+GCA_009914755.4	9606	150617247	0	48	1	3389	3325	29	35	HiFi	primates	Mammalia	Primates	Homo sapiens	Mammals
+GCA_011004875.1	100784	23326060	0	64	4	3386	3375	11	0	CLR	birds	Aves	Gruiformes	Balearica regulorum	Birds
+GCA_011762505.3	61156	11143170	6	66	11	3373	3303	41	29	CLR	rodents	Mammalia	Rodentia	Arvicanthis niloticus	Mammals
+GCA_013358685.1	882753	10114706	16	94	36	3338	3317	18	3	CLR	bony fishes	Actinopteri	Lophiiformes	Antennarius maculatus	Ray-finned Fishes
+GCA_014706295.1	2767082	7380351	12	76	23	3355	3343	11	1	CLR	birds	Aves	Passeriformes	Lycocorax pyrrhopterus	Birds
+GCA_014839685.1	195821	17460000	4	108	10	3376	3366	10	0	CLR	bony fishes	Actinopteri	Cyprinodontiformes	Anableps anableps	Ray-finned Fishes
+GCA_014839755.1	73324	31914676	3	62	22	3365	3357	6	2	CLR	birds	Aves	Passeriformes	Sylvia borin	Birds
+GCA_014839995.1	129108	2195850	14	81	30	3346	3334	12	0	CLR	bony fishes	Actinopteri	Beloniformes	Xenentodon cancila	Ray-finned Fishes
+GCA_016904835.1	57068	16681756	10	160	23	3357	3343	14	0	CLR	birds	Aves	Passeriformes	Acanthisitta chloris	Birds
+GCA_017639485.1	670352	15203797	2	101	8	3380	3373	7	0	CLR	birds	Aves	Charadriiformes	Pluvialis apricaria	Birds
+GCA_017639555.1	52777	23757428	5	163	7	3378	3372	6	0	CLR	birds	Aves	Ciconiiformes	Ciconia maguari	Birds
+GCA_017639675.1	946358	956540	51	100	352	2987	2958	28	1	CLR	bony fishes	Actinopteri	Galaxiiformes	Aplochiton taeniatus	Ray-finned Fishes
+GCA_019677235.1	27706	5637587	5	138	8	3377	3301	75	1	CLR	bony fishes	Actinopteri	Centrarchiformes	Micropterus salmoides	Ray-finned Fishes
+GCA_020510985.1	390368	5866050	5	96	12	3373	3329	26	18	CLR	bony fishes	Actinopteri	Cichliformes	Pholidichthys leucotaenia	Ray-finned Fishes
+GCA_020745685.1	34787	7919333	6	120	9	3375	3362	13	0	CLR	bony fishes	Actinopteri	Labriformes	Tautogolabrus adspersus	Ray-finned Fishes
+GCA_020745705.1	243314	20531774	4	136	12	3374	3369	5	0	CLR	birds	Aves	Apodiformes	Hemiprocne comata	Birds
+GCA_020745775.1	1118847	37098842	2	94	5	3383	3379	4	0	CLR	birds	Aves	Pelecaniformes	Theristicus caerulescens	Birds
+GCA_020746105.1	297711	16237294	3	100	3	3384	3371	11	2	CLR	birds	Aves	Trogoniformes	Trogon surrucura	Birds
+GCA_020800305.1	439704	13461271	6	64	23	3361	3352	8	1	HiFi	birds	Aves	Gruiformes	Porphyrio hochstetteri	Birds
+GCA_021292165.1	52224	3338364	9	214	15	3366	3114	242	10	CLR	lizards & snakes	Lepidosauria	Squamata	Shinisaurus crocodilurus	Lepidosauria
+GCA_022682495.2	9430	6739964	6	62	18	3366	3334	18	14	HiFi	bats	Mammalia	Chiroptera	Desmodus rotundus	Mammals
+GCA_023333525.2	2917703	41557363	8	59	56	3326	3315	7	4	HiFi	lizards & snakes	Lepidosauria	Squamata	Aspidoscelis tigris	Lepidosauria
+GCA_023637945.2	46513	35194150	2	52	24	3364	3362	2	0	CLR	birds	Aves	Apodiformes	Phaethornis superciliosus	Birds
+GCA_023851605.1	48850	9869167	6	91	7	3377	3167	33	177	CLR	placentals	Mammalia	Pilosa	Tamandua tetradactyla	Mammals
+GCA_024256435.1	13013	32098287	10	58	35	3345	3322	22	1	HiFi	bony fishes	Actinopteri	Siluriformes	Clarias gariepinus	Ray-finned Fishes
+GCA_024294585.1	246179	44839567	10	75	46	3334	3316	13	5	HiFi	snakes	Lepidosauria	Squamata	Vipera latastei	Lepidosauria
+GCA_026018925.1	70687	7301848	6	111	4	3380	3236	32	112	CLR	placentals	Mammalia	Scandentia	Tupaia tana	Mammals
+GCA_026229955.1	372063	10714300	5	61	48	3337	3212	70	55	HiFi	rodents	Mammalia	Rodentia	Peromyscus maniculatus	Mammals
+GCA_026230055.1	124745	23382908	4	83	15	3371	3259	11	101	HiFi	bats	Mammalia	Chiroptera	Corynorhinus townsendii	Mammals
+GCA_026652325.1	8319	45590032	29	22	42	3319	3280	27	12	HiFi	salamanders	Amphibia	Caudata	Pleurodeles waltl	Amphibians
+GCA_027410445.1	8351	3043591	40	62	53	3297	3265	29	3	CLR	frogs & toads	Amphibia	Anura	Discoglossus pictus	Amphibians
+GCA_027474245.1	9240	13936613	0	50	5	3385	3369	16	0	HiFi	birds	Aves	Sphenisciformes	Spheniscus humboldti	Birds
+GCA_027559615.1	279927	7308823	7	79	14	3369	3359	10	0	HiFi	birds	Aves	Passeriformes	Acridotheres tristis	Birds
+GCA_027563665.1	9440	41887785	4	96	15	3371	3223	22	126	CLR	bats	Mammalia	Chiroptera	Antrozous pallidus	Mammals
+GCA_027574665.1	54386	10485863	4	69	0	3386	3377	9	0	HiFi	birds	Aves	Eurypygiformes	Rhynochetos jubatus	Birds
+GCA_027917425.1	8429	4962642	37	64	72	3281	3262	18	1	HiFi	frogs & toads	Amphibia	Anura	Gastrophryne carolinensis	Amphibians
+GCA_027942865.1	219752	9831534	5	65	9	3376	3367	9	0	HiFi	bony fishes	Actinopteri	Atheriniformes	Odontesthes bonariensis	Ray-finned Fishes
+GCA_028020825.1	8905	11637970	2	57	10	3378	3333	44	1	HiFi	birds	Aves	Caprimulgiformes	Podargus strigoides	Birds
+GCA_028022725.1	1772091	4715471	15	88	21	3354	3330	22	2	HiFi	bony fishes	Actinopteri	Perciformes	Lycodopsis pacificus	Ray-finned Fishes
+GCA_028022735.1	33610	18064636	1	55	2	3387	3375	12	0	HiFi	hawks & eagles	Aves	Accipitriformes	Gypaetus barbatus	Birds
+GCA_028451465.1	34844	19239546	7	61	5	3378	3303	26	49	CLR	rodents	Mammalia	Rodentia	Erethizon dorsatum	Mammals
+GCA_028571685.1	77598	78495281	4	47	4	3382	3367	6	9	HiFi	placentals	Mammalia	Hyracoidea	Heterohyrax brucei	Mammals
+GCA_028858755.1	9226	38811057	5	60	17	3368	3355	13	0	HiFi	birds	Aves	Psittaciformes	Ara ararauna	Birds
+GCA_029215775.1	2202111	120109455	1	36	18	3371	3358	7	6	HiFi	lizards & snakes	Lepidosauria	Squamata	Anniella stebbinsi	Lepidosauria
+GCA_030020295.1	94835	84235120	2	40	11	3377	3369	7	1	HiFi	vertebrates	Crocodiles	Crocodylia	Gavialis gangeticus	Crocodiles
+GCA_030035585.1	29137	57632671	1	57	1	3388	3374	5	9	HiFi	placentals	Mammalia	Sirenia	Dugong dugon	Mammals
+GCA_030412105.1	118683	112814430	7	50	22	3361	3344	15	2	HiFi	lizards & snakes	Lepidosauria	Squamata	Cyclura pinguis	Lepidosauria
+GCA_030440675.1	187939	158731830	6	44	29	3355	3351	1	3	HiFi	lizards & snakes	Lepidosauria	Squamata	Furcifer pardalis	Lepidosauria
+GCA_030463565.1	36300	9666746	1	54	1	3388	3373	14	1	HiFi	birds	Aves	Pelecaniformes	Pelecanus crispus	Birds
+GCA_030848825.1	9438	86333355	3	65	4	3383	3328	19	36	HiFi	bats	Mammalia	Chiroptera	Tadarida brasiliensis	Mammals
+GCA_030867105.1	283338	65226870	7	58	32	3351	3344	6	1	HiFi	snakes	Lepidosauria	Squamata	Liasis olivaceus	Lepidosauria
+GCA_030867145.1	30419	14274197	1	55	8	3381	3359	22	0	HiFi	birds	Aves	Opisthocomiformes	Opisthocomus hoazin	Birds
+GCA_031216445.1	315492	27954791	1	48	0	3389	3382	7	0	HiFi	bony fishes	Actinopteri	Acropomatiformes	Lateolabrax maculatus	Ray-finned Fishes
+GCA_031468815.1	37578	10178591	2	44	3	3385	3377	8	0	HiFi	birds	Aves	Suliformes	Morus bassanus	Birds
+GCA_031876335.1	175524	34562834	3	82	1	3386	3321	8	57	HiFi	bats	Mammalia	Chiroptera	Hipposideros larvatus	Mammals
+GCA_031877795.1	111821	11872084	4	48	2	3384	3367	17	0	HiFi	birds	Aves	Strigiformes	Strix aluco	Birds
+GCA_031878675.1	10013	5921125	9	69	26	3355	3278	36	41	HiFi	rodents	Mammalia	Rodentia	Thomomys bottae	Mammals
+GCA_031878705.1	9802	56553937	2	51	7	3381	3365	11	5	HiFi	odd-toed ungulates	Mammalia	Perissodactyla	Tapirus indicus	Mammals
+GCA_031885435.1	161624	19816254	2	71	9	3379	3371	5	3	HiFi	birds	Aves	Passeriformes	Passerculus sandwichensis	Birds
+GCA_031893055.1	238119	5334240	32	51	119	3239	3222	13	4	HiFi	frogs & toads	Amphibia	Anura	Leptodactylus fuscus	Amphibians
+GCA_032164245.1	142480	17031157	13	48	107	3270	3250	17	3	HiFi	turtles	Turtles	Testudines	Sternotherus odoratus	Turtles
+GCA_033349115.1	3026461	28400779	19	40	298	3073	3061	11	1	HiFi	turtles	Turtles	Testudines	Macrochelys suwanniensis	Turtles
+GCA_033958435.1	44489	126464372	2	41	7	3381	3376	4	1	HiFi	turtles	Turtles	Testudines	Carettochelys insculpta	Turtles
+GCA_034619465.1	188344	8826436	3	58	7	3380	3375	5	0	HiFi	birds	Aves	Coraciiformes	Leptosomus discolor	Birds
+GCA_035046505.1	71010	33113817	16	48	112	3262	3244	13	5	HiFi	lizards & snakes	Lepidosauria	Squamata	Tiliqua scincoides	Lepidosauria
+GCA_035084275.1	7873	1059761	61	99	327	3002	2983	19	0	HiFi	chimaeras	Chondrichthyes	Chimaeriformes	Hydrolagus colliei	Cartilaginous Fishes
+GCA_036010785.1	3111550	8735889	3	61	6	3381	3367	9	5	HiFi	birds	Aves	Passeriformes	Ammospiza maritima	Birds
+GCA_036172795.1	233781	19137354	26	43	40	3324	3312	10	2	HiFi	frogs & toads	Amphibia	Anura	Pelodytes ibericus	Amphibians
+GCA_036417435.1	9725	40892022	2	67	4	3384	3330	20	34	CLR	whales & dolphins	Mammalia	Artiodactyla	Inia geoffrensis	Mammals
+GCA_036417535.1	187382	25335467	1	52	2	3387	3380	7	0	HiFi	birds	Aves	Otidiformes	Chlamydotis macqueenii	Birds
+GCA_036426135.1	9796	43557573	2	60	7	3381	3356	16	9	HiFi	odd-toed ungulates	Mammalia	Perissodactyla	Equus caballus	Mammals
+GCA_036784965.1	152111	1203068	33	103	310	3047	1911	1132	4	HiFi	bony fishes	Actinopteri	Salmoniformes	Salvelinus alpinus	Ray-finned Fishes
+GCA_036873955.1	1570318	10800487	5	62	12	3373	3353	16	4	HiFi	birds	Aves	Anseriformes	Mergus octosetaceus	Birds
+GCA_036971685.2	372321	63448456	7	51	193	3190	3180	10	0	HiFi	birds	Aves	Columbiformes	Patagioenas fasciata	Birds
+GCA_037038515.1	10058	47175454	3	47	9	3378	3296	21	61	HiFi	rodents	Mammalia	Rodentia	Microtus pennsylvanicus	Mammals
+GCA_037038545.1	249017	86271459	2	57	11	3377	3339	13	25	HiFi	bats	Mammalia	Chiroptera	Rhynchonycteris naso	Mammals
+GCA_037039145.1	54267	11036555	6	72	30	3354	3338	16	0	HiFi	bony fishes	Actinopteri	Cyprinodontiformes	Fundulus diaphanus	Ray-finned Fishes
+GCA_037157525.1	1552295	63410948	5	69	3	3382	3321	14	47	HiFi	bats	Mammalia	Chiroptera	Molossus alvarezi	Mammals
+GCA_037306005.1	43566	12994863	46	69	53	3291	3276	14	1	HiFi	frogs & toads	Amphibia	Anura	Rhinophrynus dorsalis	Amphibians
+GCA_037893015.1	92651	1223998	12	96	16	3362	3208	53	101	CLR	marsupials	Mammalia	Peramelemorphia	Macrotis lagotis	Mammals
+GCA_037962945.1	43583	40899883	2	48	4	3384	3359	25	0	HiFi	hawks & eagles	Aves	Accipitriformes	Sarcoramphus papa	Birds
+GCA_038024135.1	28792	1550857	11	64	27	3352	3326	26	0	HiFi	bony fishes	Actinopteri	Cypriniformes	Cyprinella venusta	Ray-finned Fishes
+GCA_038048845.1	3061075	4050021	22	57	76	3292	3262	25	5	HiFi	frogs & toads	Amphibia	Anura	Mixophyes fleayi	Amphibians
+GCA_038355195.1	8014	607895	34	134	43	3313	3269	43	1	HiFi	bony fishes	Actinopteri	Osmeriformes	Osmerus mordax	Ray-finned Fishes
+GCA_038363095.2	27634	65515378	4	55	8	3378	3292	70	16	HiFi	bats	Mammalia	Chiroptera	Artibeus lituratus	Mammals
+GCA_038363145.1	51014	60026580	5	53	11	3374	3298	67	9	HiFi	bats	Mammalia	Chiroptera	Artibeus intermedius	Mammals
+GCA_038501925.1	288555	15294995	15	71	30	3345	1855	1486	4	HiFi	frogs & toads	Amphibia	Anura	Xenopus petersii	Amphibians
+GCA_039655065.1	2994998	77027013	3	65	4	3383	3357	8	18	HiFi	bats	Mammalia	Chiroptera	Glossophaga mutica	Mammals
+GCA_039720435.1	151761	14879228	3	57	9	3378	3340	34	4	HiFi	birds	Aves	Psittaciformes	Amazona ochrocephala	Birds
+GCA_039878825.1	46218	7816141	3	57	37	3350	3344	6	0	HiFi	birds	Aves	Galliformes	Excalfactoria chinensis	Birds
+GCA_039880945.1	2997257	74731956	5	62	3	3382	3330	22	30	HiFi	bats	Mammalia	Chiroptera	Molossus nigricans	Mammals
+GCA_039906565.1	48277	9620782	7	51	15	3368	3348	19	1	HiFi	birds	Aves	Caprimulgiformes	Aegotheles albertisi	Birds
+GCA_040206685.1	8439	981472	74	108	112	3203	3176	27	0	HiFi	frogs & toads	Amphibia	Anura	Ascaphus truei	Amphibians
+GCA_040805955.1	9940	103395564	0	64	1	3389	3275	17	97	HiFi	even-toed ungulates & whales	Mammalia	Artiodactyla	Ovis aries	Mammals
+GCA_040894355.2	1041117	56181416	3	38	2	3385	3380	2	3	HiFi	turtles	Turtles	Testudines	Myuchelys georgesi	Turtles
+GCA_040939525.1	7888	3414998	441	76	179	2769	2749	10	10	CLR	lungfishes	Lungfish	Ceratodontiformes	Protopterus annectens	Lobe-finned Fishes
+GCA_040955705.1	9622	39426608	3	56	1	3386	3302	13	71	HiFi	carnivores	Mammalia	Carnivora	Lycaon pictus	Mammals
+GCA_041735815.1	9925	100793790	0	58	1	3389	3308	14	67	HiFi	even-toed ungulates & whales	Mammalia	Artiodactyla	Capra hircus	Mammals
+GCA_041753875.1	72011	31795397	1	54	1	3388	3379	8	1	HiFi	bony fishes	Actinopteri	Spariformes	Acanthopagrus schlegelii	Ray-finned Fishes
+GCA_041834305.1	9773	36344089	4	69	1	3385	3290	17	78	HiFi	whales & dolphins	Mammalia	Artiodactyla	Megaptera novaeangliae	Mammals
+GCA_041902795.1	8005	22449376	6	62	13	3371	3310	60	1	HiFi	bony fishes	Actinopteri	Gymnotiformes	Electrophorus electricus	Ray-finned Fishes
+GCA_041903045.1	310571	44383456	1	55	1	3388	3374	14	0	HiFi	bony fishes	Actinopteri	Perciformes	Epinephelus lanceolatus	Ray-finned Fishes
+GCA_042242135.1	3352246	15715076	1	46	1	3388	3359	28	1	HiFi	bony fishes	Actinopteri	Scombriformes	Arripis georgiana	Ray-finned Fishes
+GCA_043250625.1	394691	7769413	14	73	8	3368	3348	20	0	HiFi	bony fishes	Actinopteri	Perciformes	Sebastes fasciatus	Ray-finned Fishes
+GCA_043290085.1	320637	13617243	4	68	9	3377	3282	24	71	HiFi	placentals	Mammalia	Macroscelidea	Rhynchocyon petersi	Mammals
+GCA_043727835.1	188568	61181192	2	63	4	3384	3309	10	65	HiFi	bats	Mammalia	Chiroptera	Aselliscus stoliczkanus	Mammals
+GCA_043728065.1	59477	65534120	2	61	2	3386	3358	17	11	HiFi	bats	Mammalia	Chiroptera	Rhinolophus affinis	Mammals
+GCA_043728145.1	430492	11115074	6	78	16	3368	3286	32	50	HiFi	bats	Mammalia	Chiroptera	Rhinolophus trifoliatus	Mammals
+GCA_043748575.1	3030661	53323821	4	72	3	3383	3317	29	37	HiFi	bats	Mammalia	Chiroptera	Rhinolophus perniger	Mammals
+GCA_043748645.1	258863	56964224	6	72	36	3348	3280	14	54	HiFi	bats	Mammalia	Chiroptera	Mops condylurus	Mammals
+GCA_043880285.1	249021	14255823	5	78	3	3382	3323	21	38	HiFi	bats	Mammalia	Chiroptera	Doryrhina cyclops	Mammals
+GCA_043880425.1	2952509	28095277	5	67	4	3381	3342	12	27	HiFi	bats	Mammalia	Chiroptera	Rhinolophus yonghoiseni	Mammals
+GCA_043880545.1	173903	32895649	2	46	2	3386	3360	8	18	HiFi	bats	Mammalia	Chiroptera	Rhinopoma microphyllum	Mammals
+GCA_043880595.1	9414	22627155	4	91	5	3381	3341	12	28	HiFi	bats	Mammalia	Chiroptera	Megaderma spasma	Mammals
+GCA_044231665.1	390378	19762325	18	102	45	3327	3317	9	1	HiFi	bony fishes	Actinopteri	Syngnathiformes	Neosynchiropus ocellatus	Ray-finned Fishes
+GCA_044231675.1	586865	17238139	20	123	35	3335	3324	10	1	HiFi	bony fishes	Actinopteri	Syngnathiformes	Synchiropus picturatus	Ray-finned Fishes
+GCA_045345405.1	51906	33341676	4	65	6	3380	3353	27	0	HiFi	birds	Aves	Psittaciformes	Guaruba guarouba	Birds
+GCA_045345515.1	252789	26372894	1	41	20	3369	3341	28	0	HiFi	hawks & eagles	Aves	Accipitriformes	Morphnus guianensis	Birds
+GCA_045362495.1	182658	21706182	4	66	6	3380	3373	7	0	HiFi	bony fishes	Actinopteri	Spariformes	Lethrinus nebulosus	Ray-finned Fishes
+GCA_045363895.1	264210	20615779	4	58	1	3385	3375	10	0	HiFi	bony fishes	Actinopteri	Lutjaniformes	Pristipomoides typus	Ray-finned Fishes
+GCA_045364795.1	1566151	4357226	6	63	9	3375	3363	12	0	HiFi	birds	Aves	Passeriformes	Willisornis vidua	Birds
+GCA_045364815.1	44507	24087131	1	38	1	3388	3377	7	4	HiFi	turtles	Turtles	Testudines	Podocnemis expansa	Turtles
+GCA_045781085.1	260642	58728674	5	41	12	3373	3367	1	5	HiFi	turtles	Turtles	Testudines	Pangshura tecta	Turtles
+GCA_045843805.1	9999	23164455	8	59	44	3338	3206	51	81	HiFi	rodents	Mammalia	Rodentia	Urocitellus parryii	Mammals
+GCA_046126795.1	3379902	18158878	10	48	25	3355	3230	122	3	HiFi	lizards & snakes	Lepidosauria	Squamata	Dibamus cf. smithi	Lepidosauria
+GCA_046129655.1	28727	6932545	4	58	9	3377	3363	12	2	HiFi	birds	Aves	Passeriformes	Cyanocitta cristata	Birds
+GCA_046129695.1	40157	29140630	6	62	63	3321	3306	14	1	HiFi	birds	Aves	Passeriformes	Lonchura striata	Birds
+GCA_046255685.1	1195602	4008197	29	82	94	3267	3232	34	1	HiFi	bony fishes	Actinopteri	Percopsiformes	Amblyopsis spelaea	Ray-finned Fishes
+GCA_046562885.1	9690	45599555	7	55	72	3311	3289	9	13	HiFi	carnivores	Mammalia	Carnivora	Panthera onca	Mammals
+GCA_046562895.1	9777	25109643	4	56	1	3385	3357	16	12	HiFi	placentals	Mammalia	Sirenia	Trichechus inunguis	Mammals
+GCA_047301625.1	241275	37536982	6	67	4	3380	3365	14	1	HiFi	bony fishes	Actinopteri	Labriformes	Choerodon schoenleinii	Ray-finned Fishes
+GCA_047511565.1	143326	1684680	11	71	5	3374	3331	43	0	HiFi	bony fishes	Actinopteri	Polymixiiformes	Polymixia lowei	Ray-finned Fishes
+GCA_047511655.1	51338	59379167	0	50	4	3386	3312	31	43	HiFi	rodents	Mammalia	Rodentia	Castor canadensis	Mammals
+GCA_047715975.1	179887	44366450	9	61	34	3347	3331	9	7	HiFi	lizards & snakes	Lepidosauria	Squamata	Bradypodion pumilum	Lepidosauria
+GCA_047830755.1	44394	17147933	5	64	12	3373	3353	16	4	HiFi	birds	Aves	Passeriformes	Zonotrichia albicollis	Birds
+GCA_047922985.1	8805	11629215	4	44	10	3376	3316	60	0	HiFi	birds	Aves	Tinamiformes	Eudromia elegans	Birds
+GCA_048126345.1	37699	88902510	7	92	9	3374	3110	31	233	HiFi	marsupials	Mammalia	Notoryctemorphia	Notoryctes typhlops	Mammals
+GCA_048126635.1	206126	6606641	6	86	18	3366	3353	13	0	HiFi	bony fishes	Actinopteri	Perciformes	Spinachia spinachia	Ray-finned Fishes
+GCA_048126745.1	30532	49431082	1	89	0	3389	3235	25	129	HiFi	even-toed ungulates & whales	Mammalia	Artiodactyla	Dama dama	Mammals
+GCA_048128725.1	396798	40433363	1	48	3	3386	3374	12	0	HiFi	bony fishes	Actinopteri	Lutjaniformes	Symphorus nematophorus	Ray-finned Fishes
+GCA_048128805.1	166262	6370452	7	67	6	3377	3339	38	0	HiFi	bony fishes	Actinopteri	Beryciformes	Centroberyx gerrardi	Ray-finned Fishes
+GCA_048129055.1	1311420	36254855	2	56	3	3385	3373	12	0	HiFi	bony fishes	Actinopteri	Lutjaniformes	Caesio teres	Ray-finned Fishes
+GCA_048129235.1	2930458	36345755	1	63	1	3388	3371	17	0	HiFi	bony fishes	Actinopteri	Perciformes	Epinephelus rankini	Ray-finned Fishes
+GCA_048301445.1	161592	5638113	28	144	85	3277	3259	17	1	HiFi	bony fishes	Actinopteri	Syngnathiformes	Syngnathus typhle	Ray-finned Fishes
+GCA_048301465.1	150449	6127553	6	74	9	3375	3372	3	0	HiFi	bony fishes	Actinopteri	Syngnathiformes	Aulostomus maculatus	Ray-finned Fishes
+GCA_048301585.1	2590489	38227425	12	74	10	3368	3331	36	1	HiFi	bony fishes	Actinopteri	Cypriniformes	Rhinogobio nasutus	Ray-finned Fishes
+GCA_048338725.1	9823	144930921	0	54	1	3389	3368	14	7	HiFi	even-toed ungulates & whales	Mammalia	Artiodactyla	Sus scrofa	Mammals
+GCA_048537225.1	3239838	4150567	5	56	12	3373	3322	51	0	HiFi	bony fishes	Actinopteri	Polymixiiformes	Polymixia cf. hollisterae	Ray-finned Fishes
+GCA_048544225.1	286537	1817416	19	87	38	3333	3291	41	1	HiFi	bony fishes	Actinopteri	Clupeiformes	Coilia mystus	Ray-finned Fishes
+GCA_048565345.1	43514	2265415	96	69	122	3172	3153	17	2	HiFi	frogs & toads	Amphibia	Anura	Mantella aurantiaca	Amphibians
+GCA_048565385.1	27679	69222429	1	62	3	3386	3269	25	92	HiFi	primates	Mammalia	Primates	Saimiri boliviensis	Mammals
+GCA_048569125.1	88682	542425	45	66	77	3268	3086	175	7	HiFi	bony fishes	Actinopteri	Trachichthyiformes	Diretmus argenteus	Ray-finned Fishes
+GCA_048569485.1	238106	2835192	49	102	93	3248	3211	31	6	HiFi	frogs & toads	Amphibia	Anura	Anomaloglossus baeobatrachus	Amphibians
+GCA_048593225.1	9305	4514036	21	67	93	3276	3169	90	17	HiFi	marsupials	Mammalia	Dasyuromorphia	Sarcophilus harrisii	Mammals
+GCA_048593235.1	9301	4228802	7	109	51	3332	3272	23	37	HiFi	marsupials	Mammalia	Dasyuromorphia	Sminthopsis crassicaudata	Mammals
+GCA_048593285.1	9281	93424779	5	43	49	3336	3312	8	16	HiFi	marsupials	Mammalia	Dasyuromorphia	Dasyurus maculatus	Mammals
+GCA_048628825.1	238744	4610982	43	186	43	3304	3289	15	0	HiFi	bony fishes	Actinopteri	Atheriniformes	Menidia menidia	Ray-finned Fishes
+GCA_048771875.1	10166	38834406	4	53	16	3370	3355	12	3	HiFi	rodents	Mammalia	Rodentia	Ctenodactylus gundi	Mammals
+GCA_048771995.1	59729	65033001	2	71	11	3377	3365	11	1	HiFi	birds	Aves	Passeriformes	Taeniopygia guttata	Birds
+GCA_048772815.1	76772	6579271	8	72	17	3365	3235	36	94	HiFi	rodents	Mammalia	Rodentia	Callospermophilus lateralis	Mammals
+GCA_048934315.1	7757	4594409	122	144	486	2782	2692	90	0	CLR	lampreys	Hyperoartia	Petromyzontiformes	Petromyzon marinus	Cyclostomes
+GCA_049082185.1	879810	1816655	12	100	26	3352	3229	123	0	HiFi	bony fishes	Actinopteri	Blenniiformes	Cristiceps australis	Ray-finned Fishes
+GCA_049190665.1	89578	776167	20	88	34	3336	3125	208	3	HiFi	bony fishes	Actinopteri	Lepidogalaxiiformes	Lepidogalaxias salamandroides	Ray-finned Fishes
+GCA_049354715.1	9483	137132494	1	55	1	3388	3252	36	100	CLR	primates	Mammalia	Primates	Callithrix jacchus	Mammals
+GCA_901001165.2	8032	1692994	24	96	15	3351	1692	1653	6	CLR	bony fishes	Actinopteri	Salmoniformes	Salmo trutta	Ray-finned Fishes
+GCA_901699155.2	177155	3730413	11	167	57	3322	3280	42	0	CLR	birds	Aves	Columbiformes	Streptopelia turtur	Birds
+GCA_901765095.2	1415580	3650988	11	155	35	3344	3225	107	12	CLR	caecilians	Amphibia	Gymnophiona	Microcaecilia unicolor	Amphibians
+GCA_902686455.2	55149	16327774	3	152	3	3384	3182	52	150	CLR	rodents	Mammalia	Rodentia	Sciurus vulgaris	Mammals
+GCA_903797595.2	37610	5585877	12	82	31	3347	3343	4	0	CLR	birds	Aves	Passeriformes	Erithacus rubecula	Birds
+GCA_903992545.1	59474	4446752	51	171	155	3184	3126	12	46	CLR	bats	Mammalia	Chiroptera	Pipistrellus pipistrellus	Mammals
+GCA_905171665.2	36212	6490592	3	77	12	3375	3359	15	1	CLR	bony fishes	Actinopteri	Carangiformes	Trachurus trachurus	Ray-finned Fishes
+GCA_905319855.2	9612	34375412	3	67	1	3386	3312	11	63	HiFi	carnivores	Mammalia	Carnivora	Canis lupus	Mammals
+GCA_907165065.1	111811	30622946	1	42	3	3386	3371	15	0	CLR	birds	Aves	Caprimulgiformes	Caprimulgus europaeus	Birds
+GCA_910589615.1	61643	13037006	9	72	14	3367	3349	18	0	HiFi	bony fishes	Actinopteri	Perciformes	Taurulus bubalis	Ray-finned Fishes
+GCA_910591455.2	56726	3519450	6	83	10	3374	3363	11	0	HiFi	bony fishes	Actinopteri	Perciformes	Pholis gunnellus	Ray-finned Fishes
+GCA_933228915.1	446457	1254875	28	83	22	3340	3333	7	0	HiFi	bony fishes	Actinopteri	Atheriniformes	Telmatherina bonti	Ray-finned Fishes
+GCA_936440315.1	40830	22843665	8	87	14	3368	670	2691	7	HiFi	bony fishes	Actinopteri	Cypriniformes	Barbus barbus	Ray-finned Fishes
+GCA_944039275.1	7955	6927137	12	65	32	3346	3323	19	4	HiFi	bony fishes	Actinopteri	Cypriniformes	Danio rerio	Ray-finned Fishes
+GCA_946808225.1	933932	4577990	23	72	52	3315	3284	28	3	HiFi	bony fishes	Actinopteri	Siluriformes	Silurus aristotelis	Ray-finned Fishes
+GCA_947034865.1	135647	2654543	23	80	60	3307	3278	29	0	HiFi	bony fishes	Actinopteri	Cypriniformes	Barbatula barbatula	Ray-finned Fishes
+GCA_947247035.1	103942	2137891	24	69	64	3302	3284	14	4	HiFi	snakes	Lepidosauria	Squamata	Vipera ursinii	Lepidosauria
+GCA_947650265.1	171736	1186940	42	94	54	3294	3277	17	0	HiFi	bony fishes	Actinopteri	Labriformes	Symphodus melops	Ray-finned Fishes
+GCA_949152265.1	58324	1988965	15	72	31	3344	3319	24	1	HiFi	bony fishes	Actinopteri	Cypriniformes	Phoxinus phoxinus	Ray-finned Fishes
+GCA_949316315.1	10090	39533248	1	76	10	3379	3269	15	95	HiFi	rodents	Mammalia	Rodentia	Mus musculus	Mammals
+GCA_949319135.1	8284	3040692	13	72	23	3354	3319	33	2	HiFi	bony fishes	Actinopteri	Cypriniformes	Squalius cephalus	Ray-finned Fishes
+GCA_949357685.1	27704	2576923	21	67	34	3335	3307	27	1	HiFi	bony fishes	Actinopteri	Cypriniformes	Gobio gobio	Ray-finned Fishes
+GCA_949357725.1	1484357	1486508	59	72	54	3276	3256	19	1	HiFi	bony fishes	Actinopteri	Uranoscopiformes	Hyperoplus immaculatus	Ray-finned Fishes
+GCA_949606895.1	101497	383412	101	121	78	3211	3195	15	1	HiFi	bony fishes	Actinopteri	Perciformes	Notothenia rossii	Ray-finned Fishes
+GCA_949628215.1	126867	11420000	1	48	8	3381	3373	8	0	HiFi	birds	Aves	Suliformes	Phalacrocorax aristotelis	Birds
+GCA_949748355.1	1091424	1934223	14	86	19	3357	3328	29	0	HiFi	bony fishes	Actinopteri	Perciformes	Melanostigma gelatinosum	Ray-finned Fishes
+GCA_949752795.1	48744	3126546	9	65	10	3371	3286	23	62	HiFi	whales & dolphins	Mammalia	Artiodactyla	Hyperoodon ampullatus	Mammals
+GCA_949987555.1	473354	959230	48	103	50	3291	3225	64	2	HiFi	bony fishes	Actinopteri	Stomiiformes	Borostomias antarcticus	Ray-finned Fishes
+GCA_949987585.1	246814	54047000	3	59	8	3379	3349	6	24	HiFi	bats	Mammalia	Chiroptera	Pipistrellus pygmaeus	Mammals
+GCA_949987615.1	185739	606672	17	116	34	3339	3324	14	1	HiFi	bony fishes	Actinopteri	Gadiformes	Pollachius pollachius	Ray-finned Fishes
+GCA_949987685.1	146480	2041615	21	71	37	3332	3312	19	1	HiFi	bony fishes	Actinopteri	Uranoscopiformes	Ammodytes marinus	Ray-finned Fishes
+GCA_951216825.1	206093	1002537	27	99	29	3334	3088	80	166	HiFi	bony fishes	Actinopteri	Myctophiformes	Electrona antarctica	Ray-finned Fishes
+GCA_951394365.1	100830	1909808	5	60	11	3374	3368	6	0	HiFi	birds	Aves	Galliformes	Tetrao urogallus	Birds
+GCA_951394435.1	9737	3590204	6	65	10	3373	3327	13	33	HiFi	whales & dolphins	Mammalia	Artiodactyla	Stenella coeruleoalba	Mammals
+GCA_951640355.1	3371016	2474537	3	62	6	3381	3337	12	32	HiFi	bats	Mammalia	Chiroptera	Cnephaeus nilssonii	Mammals
+GCA_951799395.1	446415	858168	22	88	29	3339	3272	66	1	HiFi	bony fishes	Actinopteri	Argentiniformes	Argentina silus	Ray-finned Fishes
+GCA_951799975.1	85417	3365000	20	94	24	3346	3331	13	2	HiFi	bony fishes	Actinopteri	Gobiiformes	Gobius niger	Ray-finned Fishes
+GCA_951802725.1	48668	3932511	11	63	27	3352	3322	29	1	HiFi	bony fishes	Actinopteri	Cypriniformes	Rutilus rutilus	Ray-finned Fishes
+GCA_951804945.1	1330250	65743000	3	48	12	3375	3354	11	10	HiFi	lizards & snakes	Lepidosauria	Squamata	Podarcis cretensis	Lepidosauria
+GCA_960531495.1	64108	1449431	6	82	15	3369	3341	21	7	HiFi	bony fishes	Actinopteri	Zeiformes	Zeus faber	Ray-finned Fishes
+GCA_963082525.1	187126	4840756	5	70	5	3380	3376	4	0	HiFi	birds	Aves	Columbiformes	Nesoenas mayeri	Birds
+GCA_963210335.1	148596	4755657	1	51	1	3388	3381	7	0	HiFi	birds	Aves	Falconiformes	Falco punctatus	Birds
+GCA_963264785.1	232653	5922112	3	60	4	3383	3378	5	0	HiFi	birds	Aves	Psittaciformes	Psittacula echo	Birds
+GCA_963280865.1	948025	901999	15	106	19	3356	3046	81	229	HiFi	bony fishes	Actinopteri	Myctophiformes	Gymnoscopelus braueri	Ray-finned Fishes
+GCA_963383615.1	56720	3299550	4	96	10	3376	3365	11	0	HiFi	bony fishes	Actinopteri	Blenniiformes	Lipophrys pholis	Ray-finned Fishes
+GCA_963383645.1	39082	2432660	2	77	4	3384	3317	13	54	HiFi	rodents	Mammalia	Rodentia	Muscardinus avellanarius	Mammals
+GCA_963422515.1	195075	1116256	31	174	44	3315	3303	10	2	HiFi	bony fishes	Actinopteri	Blenniiformes	Blennius ocellaris	Ray-finned Fishes
+GCA_963454915.1	1090481	1741000	7	70	13	3370	3092	54	224	HiFi	bony fishes	Actinopteri	Myctophiformes	Gymnoscopelus microlampas	Ray-finned Fishes
+GCA_963455305.1	61862	2948753	4	61	5	3381	3328	8	45	HiFi	bats	Mammalia	Chiroptera	Plecotus auritus	Mammals
+GCA_963455335.1	29065	1599794	13	51	5	3372	3353	5	14	HiFi	carnivores	Mammalia	Carnivora	Martes martes	Mammals
+GCA_963457635.1	90074	2444644	9	69	21	3360	3345	12	3	HiFi	bony fishes	Actinopteri	Pleuronectiformes	Microchirus variegatus	Ray-finned Fishes
+GCA_963457725.1	196075	1216682	18	86	30	3342	3290	49	3	HiFi	bony fishes	Actinopteri	Clupeiformes	Sprattus sprattus	Ray-finned Fishes
+GCA_963513975.1	37598	3733973	7	56	12	3371	3362	7	2	HiFi	birds	Aves	Passeriformes	Fringilla coelebs	Birds
+GCA_963514005.1	223862	2048057	43	49	63	3284	3268	12	4	HiFi	sharks & rays	Chondrichthyes	Rajiformes	Raja brachyura	Cartilaginous Fishes
+GCA_963514085.1	48171	2544200	5	72	7	3378	3362	15	1	HiFi	bony fishes	Actinopteri	Mugiliformes	Chelon labrosus	Ray-finned Fishes
+GCA_963514095.1	426098	2351664	5	83	7	3378	3371	5	2	HiFi	bony fishes	Actinopteri	Perciformes	Eutrigla gurnardus	Ray-finned Fishes
+GCA_963691815.1	94984	2579157	6	82	9	3375	3361	14	0	HiFi	bony fishes	Actinopteri	Perciformes	Echiichthys vipera	Ray-finned Fishes
+GCA_963854745.1	52904	1410686	7	85	18	3365	3358	7	0	HiFi	bony fishes	Actinopteri	Pleuronectiformes	Scophthalmus maximus	Ray-finned Fishes
+GCA_963921795.1	473322	1305851	11	78	18	3361	3062	77	222	HiFi	bony fishes	Actinopteri	Myctophiformes	Nannobrachium achirus	Ray-finned Fishes
+GCA_963924005.1	443714	1267060	19	94	30	3341	3162	49	130	HiFi	bony fishes	Actinopteri	Myctophiformes	Protomyctophum bolini	Ray-finned Fishes
+GCA_963924515.1	59485	3319810	4	64	12	3374	3328	6	40	HiFi	bats	Mammalia	Chiroptera	Vespertilio murinus	Mammals
+GCA_963924665.1	13151	1835000	16	95	79	3295	3193	20	82	HiFi	rodents	Mammalia	Rodentia	Micromys minutus	Mammals
+GCA_963932225.1	8915	3570916	0	45	0	3390	3388	1	1	HiFi	birds	Aves	Charadriiformes	Larus fuscus	Birds
+GCA_963969265.1	454631	4163600	4	72	12	3374	3347	21	6	HiFi	bony fishes	Actinopteri	Cichliformes	Rhamphochromis sp. 'chilingali'	Ray-finned Fishes
+GCA_963971535.1	948063	444000	69	156	67	3254	3132	90	32	HiFi	bony fishes	Actinopteri	Aulopiformes	Notolepis coatsorum	Ray-finned Fishes
+GCA_963989245.1	443705	750607	38	145	34	3318	3165	151	2	HiFi	bony fishes	Actinopteri	Argentiniformes	Nansenia antarctica	Ray-finned Fishes
+GCA_963989345.1	197941	3738964	1	50	2	3387	3381	5	1	HiFi	birds	Aves	Anseriformes	Clangula hyemalis	Birds
+GCA_963993115.1	38527	3478172	8	71	29	3353	3309	41	3	HiFi	bony fishes	Actinopteri	Cypriniformes	Abramis brama	Ray-finned Fishes
+GCA_964030765.1	81636	238748	94	145	291	3005	2923	82	0	HiFi	bony fishes	Actinopteri	Gadiformes	Micromesistius poutassou	Ray-finned Fishes
+GCA_964034855.1	132585	2049950	2	58	12	3376	3370	6	0	HiFi	birds	Aves	Anseriformes	Anser brachyrhynchus	Birds
+GCA_964035555.1	30387	3347974	4	71	2	3384	3376	8	0	HiFi	birds	Aves	Anseriformes	Netta rufina	Birds
+GCA_964059595.1	107022	4272793	5	57	1	3384	3377	6	1	HiFi	birds	Aves	Anseriformes	Bucephala clangula	Birds
+GCA_964094495.2	109479	2201046	7	63	9	3374	3251	19	104	HiFi	bats	Mammalia	Chiroptera	Myotis mystacinus	Mammals
+GCA_964106545.1	452646	1439238	3	66	3	3384	3271	69	44	HiFi	carnivores	Mammalia	Carnivora	Neogale vison	Mammals
+GCA_964106645.2	74359	1611619	5	46	23	3362	3332	19	11	HiFi	lizards & snakes	Lepidosauria	Squamata	Podarcis pityusensis	Lepidosauria
+GCA_964106825.2	9627	2040520	8	73	5	3377	3290	23	64	HiFi	carnivores	Mammalia	Carnivora	Vulpes vulpes	Mammals
+GCA_964106855.1	40816	3365458	0	50	1	3389	3384	5	0	HiFi	birds	Aves	Gruiformes	Grus grus	Birds
+GCA_964106895.1	31919	2605715	2	45	17	3371	3356	15	0	HiFi	birds	Aves	Charadriiformes	Numenius arquata	Birds
+GCA_964106915.2	90521	2858450	4	54	12	3374	3355	14	5	HiFi	lizards & snakes	Lepidosauria	Squamata	Podarcis gaigeae	Lepidosauria
+GCA_964146895.2	9433	28014000	1	49	3	3386	3365	10	11	HiFi	bats	Mammalia	Chiroptera	Miniopterus schreibersii	Mammals
+GCA_964165515.1	48745	3140665	4	60	7	3379	3256	35	88	HiFi	whales & dolphins	Mammalia	Artiodactyla	Mesoplodon bidens	Mammals
+GCA_964187855.1	7769	739991	177	100	925	2288	2245	40	3	HiFi	hagfishes	Myxini	Myxiniformes	Myxine glutinosa	Cyclostomes
+GCA_964188175.1	65484	3060007	3	54	12	3375	3354	16	5	HiFi	lizards & snakes	Lepidosauria	Squamata	Podarcis siculus	Lepidosauria
+GCA_964188305.1	90520	2681335	8	44	59	3323	3302	16	5	HiFi	lizards & snakes	Lepidosauria	Squamata	Podarcis bocagei	Lepidosauria
+GCA_964188315.1	64176	3229453	1	52	12	3377	3354	16	7	HiFi	lizards & snakes	Lepidosauria	Squamata	Podarcis muralis	Lepidosauria
+GCA_964188345.1	8839	3518761	3	44	3	3384	3361	22	1	HiFi	birds	Aves	Anseriformes	Anas platyrhynchos	Birds
+GCA_964188355.1	30397	4249591	1	42	2	3387	3384	3	0	HiFi	hawks & eagles	Aves	Accipitriformes	Buteo buteo	Birds
+GCA_964188405.1	1091426	1024588	21	90	42	3327	3122	65	140	HiFi	bony fishes	Actinopteri	Myctophiformes	Protomyctophum parallelum	Ray-finned Fishes
+GCA_964194105.1	9997	3445081	3	65	4	3383	3258	46	79	HiFi	rodents	Mammalia	Rodentia	Spermophilus citellus	Mammals
+GCA_964194135.1	9375	3421604	7	69	9	3374	3326	16	32	HiFi	insectivores	Mammalia	Eulipotyphla	Talpa europaea	Mammals
+GCA_964194155.1	57982	1961965	33	41	28	3329	3302	9	18	HiFi	sharks & rays	Chondrichthyes	Lamniformes	Cetorhinus maximus	Cartilaginous Fishes
+GCA_964194185.1	77218	2014157	4	82	3	3383	3301	14	68	HiFi	bats	Mammalia	Chiroptera	Rhinolophus hipposideros	Mammals
+GCA_964194415.1	31155	4688414	11	63	58	3321	3276	40	5	HiFi	snakes	Lepidosauria	Squamata	Vipera berus	Lepidosauria
+GCA_964195595.2	1323832	4142416	1	55	1	3388	3353	35	0	HiFi	birds	Aves	Procellariiformes	Calonectris borealis	Birds
+GCA_964197995.1	58319	2291051	15	75	28	3347	3283	63	1	HiFi	bony fishes	Actinopteri	Cypriniformes	Scardinius erythrophthalmus	Ray-finned Fishes
+GCA_964198595.1	7748	1289502	165	197	524	2701	2659	41	1	HiFi	lampreys	Hyperoartia	Petromyzontiformes	Lampetra fluviatilis	Cyclostomes
+GCA_964199755.1	119627	4216312	1	43	0	3389	3379	8	2	HiFi	birds	Aves	Charadriiformes	Larus michahellis	Birds
+GCA_964204655.1	8323	8497210	44	36	56	3290	3218	34	38	HiFi	salamanders	Amphibia	Caudata	Triturus cristatus	Amphibians
+GCA_964205295.1	8348	1741680	106	55	88	3194	3101	59	34	HiFi	frogs & toads	Amphibia	Anura	Bombina variegata	Amphibians
+GCA_964211825.1	219593	4150808	4	63	2	3384	3364	19	1	HiFi	birds	Aves	Anseriformes	Aythya ferina	Birds
+GCA_964211835.1	8843	2674135	3	56	3	3384	3369	14	1	HiFi	birds	Aves	Anseriformes	Anser anser	Birds
+GCA_964212035.2	109481	44226636	2	53	5	3383	3308	18	57	HiFi	bats	Mammalia	Chiroptera	Myotis nattereri	Mammals
+GCA_964213995.1	112232	1197343	48	46	43	3299	3274	14	11	HiFi	sharks & rays	Chondrichthyes	Carcharhiniformes	Mustelus asterias	Cartilaginous Fishes
+GCA_964234715.1	65482	3027832	8	61	12	3370	3348	13	9	HiFi	lizards & snakes	Lepidosauria	Squamata	Podarcis melisellensis	Lepidosauria
+GCA_964237585.1	9123	3673000	1	47	10	3379	3368	11	0	HiFi	birds	Aves	Gruiformes	Gallinula chloropus	Birds
+GCA_964252035.1	140042	3226442	14	60	85	3291	3267	15	9	HiFi	lizards & snakes	Lepidosauria	Squamata	Podarcis erhardii	Lepidosauria
+GCA_964261635.1	256425	7795245	42	32	59	3289	3194	37	58	HiFi	salamanders	Amphibia	Caudata	Lissotriton helveticus	Amphibians
+GCA_964263255.1	8324	6568731	80	52	58	3252	3122	75	55	HiFi	salamanders	Amphibia	Caudata	Lissotriton vulgaris	Amphibians
+GCA_964263955.1	59291	476628	33	103	34	3322	1468	1845	9	HiFi	bony fishes	Actinopteri	Salmoniformes	Coregonus lavaretus	Ray-finned Fishes
+GCA_964264875.2	59465	26125689	5	57	14	3371	3320	7	44	HiFi	bats	Mammalia	Chiroptera	Nyctalus leisleri	Mammals
+GCA_964266715.1	106175	2288625	4	64	10	3376	3355	14	7	HiFi	bony fishes	Actinopteri	Pleuronectiformes	Microstomus kitt	Ray-finned Fishes
+GCA_964270895.1	65481	3042058	3	51	14	3373	3355	14	4	HiFi	lizards & snakes	Lepidosauria	Squamata	Podarcis filfolensis	Lepidosauria
+GCA_964270905.1	3371109	3493168	4	68	6	3380	3314	18	48	HiFi	whales & dolphins	Mammalia	Artiodactyla	Leucopleurus acutus	Mammals
+GCA_964271855.1	83528	29281624	5	48	11	3374	3340	16	18	HiFi	rodents	Mammalia	Rodentia	Acomys minous	Mammals
+GCA_964273445.1	177147	2425281	2	57	13	3375	3370	4	1	HiFi	birds	Aves	Columbiformes	Streptopelia decaocto	Birds
+GCA_964273705.1	2025560	1870695	24	64	58	3308	3284	21	3	HiFi	snakes	Lepidosauria	Squamata	Natrix helvetica	Lepidosauria
+GCA_964276395.1	69293	2544530	8	107	14	3368	3288	80	0	HiFi	bony fishes	Actinopteri	Perciformes	Gasterosteus aculeatus	Ray-finned Fishes
+GCA_964289735.1	37045	2122569	14	56	49	3327	3295	32	0	HiFi	birds	Aves	Phaethontiformes	Phaethon aethereus	Birds
+GCA_964339955.1	412090	48700701	8	83	9	3373	3335	7	31	HiFi	bats	Mammalia	Chiroptera	Pipistrellus hanaki	Mammals
+GCA_964341445.1	52113	3298322	2	71	5	3383	3291	21	71	HiFi	whales & dolphins	Mammalia	Artiodactyla	Mesoplodon mirus	Mammals
+GCA_964374135.1	83653	3106000	4	71	3	3383	3320	20	43	HiFi	whales & dolphins	Mammalia	Artiodactyla	Grampus griseus	Mammals
+GCA_964374335.1	8154	28161480	4	57	6	3380	3348	23	9	ONT	bony fishes	Actinopteri	Cichliformes	Astatotilapia calliptera	Ray-finned Fishes
+GCA_964417175.1	35669	3525167	2	47	2	3386	3368	17	1	HiFi	birds	Aves	Charadriiformes	Larus argentatus	Birds
+GCA_964638095.1	88708	841497	14	84	24	3352	3100	150	102	HiFi	bony fishes	Actinopteri	Beryciformes	Poromitra crassiceps	Ray-finned Fishes
+GCA_964656225.1	59473	1635117	10	70	22	3358	3310	18	30	HiFi	bats	Mammalia	Chiroptera	Pipistrellus nathusii	Mammals
+GCA_964656455.1	9711	3750431	3	63	5	3382	3324	4	54	HiFi	carnivores	Mammalia	Carnivora	Halichoerus grypus	Mammals
+GCA_964662115.1	36239	1161649	17	55	10	3363	3277	19	67	HiFi	carnivores	Mammalia	Carnivora	Mustela nivalis	Mammals
+GCA_965112155.1	662736	2883979	8	50	21	3361	3335	19	7	HiFi	lizards & snakes	Lepidosauria	Squamata	Podarcis liolepis	Lepidosauria
+GCA_965113295.1	58325	1661817	8	66	19	3363	3302	60	1	HiFi	bony fishes	Actinopteri	Cypriniformes	Leuciscus leuciscus	Ray-finned Fishes
+GCA_965113315.1	140051	2971493	7	49	12	3371	3343	18	10	HiFi	lizards & snakes	Lepidosauria	Squamata	Podarcis vaucheri	Lepidosauria
+GCA_965115925.1	109480	2127843	11	77	15	3364	3252	24	88	HiFi	bats	Mammalia	Chiroptera	Myotis emarginatus	Mammals
+GCA_965119305.1	45623	3786355	26	44	69	3295	3253	17	25	HiFi	frogs & toads	Amphibia	Anura	Pelophylax lessonae	Amphibians
+GCA_965140235.1	8467	124322749	0	38	5	3385	3380	4	1	HiFi	turtles	Turtles	Testudines	Caretta caretta	Turtles
+GCA_965140245.1	126797	4050372	3	54	0	3387	3381	6	0	HiFi	birds	Aves	Strigiformes	Athene noctua	Birds
+GCA_965140285.1	8472	52784435	2	32	10	3378	3368	8	2	HiFi	turtles	Turtles	Testudines	Lepidochelys kempii	Turtles
+GCA_965140295.1	27788	91320439	0	34	5	3385	3377	6	2	HiFi	turtles	Turtles	Testudines	Lepidochelys olivacea	Turtles
+GCA_965140915.1	189534	3182246	5	56	8	3377	3360	15	2	HiFi	birds	Aves	Anseriformes	Aythya marila	Birds
+GCA_965151615.1	110926	3838603	1	61	2	3387	3370	16	1	HiFi	birds	Aves	Anseriformes	Cygnus columbianus	Birds
+GCA_965152235.1	27787	80323000	3	32	8	3379	3371	5	3	HiFi	turtles	Turtles	Testudines	Eretmochelys imbricata	Turtles
+GCA_965152275.1	27790	77014821	2	39	2	3386	3380	3	3	HiFi	turtles	Turtles	Testudines	Natator depressus	Turtles
+GCA_965153285.1	65485	2556791	6	57	13	3371	3353	11	7	HiFi	lizards & snakes	Lepidosauria	Squamata	Podarcis tiliguerta	Lepidosauria
+GCA_965178545.1	30423	3289653	3	63	6	3381	3367	13	1	HiFi	birds	Aves	Passeriformes	Coloeus monedula	Birds
+GCA_965183815.1	257867	3299000	3	48	1	3386	3346	40	0	HiFi	birds	Aves	Pelecaniformes	Platalea leucorodia	Birds
+GCA_965194805.1	9768	2585625	8	62	8	3374	3294	16	64	HiFi	whales & dolphins	Mammalia	Artiodactyla	Balaenoptera borealis	Mammals
+GCA_965194825.1	9770	2079521	7	72	5	3378	3285	24	69	HiFi	whales & dolphins	Mammalia	Artiodactyla	Balaenoptera physalus	Mammals
+GCA_965226115.1	286572	37447771	2	65	3	3385	3349	27	9	ONT	bony fishes	Actinopteri	Cichliformes	Aulonocara stuartgranti	Ray-finned Fishes
+GCA_965226575.1	8173	2517928	4	61	2	3384	3367	16	1	HiFi	bony fishes	Actinopteri	Spariformes	Pagrus pagrus	Ray-finned Fishes
+GCA_965231255.1	100859	1930563	2	53	20	3368	3347	21	0	HiFi	birds	Aves	Charadriiformes	Vanellus vanellus	Birds
+GCA_965231275.1	43581	3151134	6	46	14	3370	3343	25	2	HiFi	birds	Aves	Passeriformes	Zosterops lateralis	Birds
+GCA_965231335.1	8853	3892771	1	62	1	3388	3385	3	0	HiFi	birds	Aves	Anseriformes	Branta canadensis	Birds
+GCF_003369695.1	30522	26764281	0	80	9	3381	3313	14	54	CLR	even-toed ungulates & whales	Mammalia	Artiodactyla	Bos indicus x Bos taurus	Mammals
+GCF_003957555.1	9244	14522327	17	129	50	3323	3316	7	0	CLR	birds	Aves	Apodiformes	Calypte anna	Birds
+GCF_004027225.2	2489341	9454087	4	68	6	3380	3358	21	1	CLR	birds	Aves	Psittaciformes	Strigops habroptila	Birds
+GCF_004115215.2	9258	15146802	22	144	31	3337	3320	14	3	CLR	monotremes	Mammalia	Monotremata	Ornithorhynchus anatinus	Mammals
+GCF_004115265.2	59479	29908815	3	116	2	3385	3316	13	56	CLR	bats	Mammalia	Chiroptera	Rhinolophus ferrumequinum	Mammals
+GCF_004126475.2	89673	6892556	7	137	17	3366	3336	11	19	CLR	bats	Mammalia	Chiroptera	Phyllostomus discolor	Mammals
+GCF_007364275.1	63155	2143410	5	133	12	3373	3310	60	3	CLR	bony fishes	Actinopteri	Cichliformes	Archocentrus centrarchus	Ray-finned Fishes
+GCF_007399415.2	1825980	12863190	5	117	7	3378	3350	23	5	CLR	turtles	Turtles	Testudines	Gopherus evgoodei	Turtles
+GCF_007474595.2	61383	7503561	14	148	13	3363	3345	8	10	CLR	carnivores	Mammalia	Carnivora	Lynx canadensis	Mammals
+GCF_008692025.1	42100	20218762	2	125	7	3381	3341	14	26	CLR	whales & dolphins	Mammalia	Artiodactyla	Phocoena sinus	Mammals
+GCF_009650955.1	1196302	11524098	12	83	17	3361	3355	5	1	CLR	birds	Aves	Passeriformes	Corvus moneduloides	Birds
+GCF_009762305.2	9704	31618759	0	104	3	3387	3250	16	121	CLR	carnivores	Mammalia	Carnivora	Zalophus californianus	Mammals
+GCF_009762535.1	1203425	3748462	35	143	110	3245	3233	10	2	CLR	bony fishes	Actinopteri	Labriformes	Notolabrus celidotus	Ray-finned Fishes
+GCF_009764475.1	685728	17009522	21	183	64	3305	3292	13	0	CLR	sharks & rays	Chondrichthyes	Rhinopristiformes	Pristis pectinata	Cartilaginous Fishes
+GCF_009764565.3	27794	7029801	8	116	27	3355	3351	2	2	CLR	turtles	Turtles	Testudines	Dermochelys coriacea	Turtles
+GCF_009769535.1	35005	4620601	35	238	85	3270	3199	67	4	CLR	snakes	Lepidosauria	Squamata	Thamnophis elegans	Lepidosauria
+GCF_009769545.1	8103	4950682	15	139	48	3327	3312	15	0	CLR	bony fishes	Actinopteri	Perciformes	Cyclopterus lumpus	Ray-finned Fishes
+GCF_009769625.2	8869	8308965	2	121	9	3379	3373	5	1	CLR	birds	Aves	Anseriformes	Cygnus olor	Birds
+GCF_009819535.1	80427	6613248	6	147	22	3362	3318	26	18	CLR	lizards & snakes	Lepidosauria	Squamata	Lacerta agilis	Lepidosauria
+GCF_009819655.1	48155	7345957	7	121	42	3341	3311	28	2	CLR	birds	Aves	Passeriformes	Sylvia atricapilla	Birds
+GCF_009819705.1	8267	7020318	9	105	18	3363	3342	20	1	CLR	bony fishes	Actinopteri	Pleuronectiformes	Hippoglossus hippoglossus	Ray-finned Fishes
+GCF_009819795.1	219594	17816505	3	85	5	3382	3375	5	2	CLR	birds	Aves	Anseriformes	Aythya fuligula	Birds
+GCF_009819885.2	91951	4908935	4	96	9	3377	3295	81	1	CLR	birds	Aves	Passeriformes	Catharus ustulatus	Birds
+GCF_009829125.3	409849	2301275	19	108	52	3319	3297	21	1	CLR	bony fishes	Actinopteri	Gobiiformes	Periophthalmus magnuspinnatus	Ray-finned Fishes
+GCF_009829145.1	296741	18496167	6	147	15	3369	3358	11	0	CLR	birds	Aves	Passeriformes	Chiroxiphia lanceolata	Birds
+GCF_009829155.1	36723	36329944	2	63	13	3375	3329	7	39	CLR	carnivores	Mammalia	Carnivora	Mustela erminea	Mammals
+GCF_009873245.2	9771	6274848	3	128	4	3383	3285	15	83	CLR	whales & dolphins	Mammalia	Artiodactyla	Balaenoptera musculus	Mammals
+GCF_010909765.2	386614	1419197	33	70	75	3282	3260	20	2	CLR	sharks & rays	Chondrichthyes	Rajiformes	Amblyraja radiata	Cartilaginous Fishes
+GCF_011004845.1	8010	22630263	3	69	7	3380	3344	35	1	CLR	bony fishes	Actinopteri	Esociformes	Esox lucius	Ray-finned Fishes
+GCF_011100635.1	9337	4314688	17	72	13	3360	3237	18	105	CLR	marsupials	Mammalia	Diprotodontia	Trichosurus vulpecula	Mammals
+GCF_011100685.1	9615	14840767	2	103	2	3386	3300	19	67	CLR	carnivores	Mammalia	Carnivora	Canis lupus	Mammals
+GCF_011762595.1	9739	9729386	6	73	6	3378	3317	18	43	CLR	whales & dolphins	Mammalia	Artiodactyla	Tursiops truncatus	Mammals
+GCF_012275295.1	13146	16636420	4	82	9	3377	3343	34	0	CLR	birds	Aves	Psittaciformes	Melopsittacus undulatus	Birds
+GCF_013347855.1	7936	5114673	9	79	20	3361	3155	204	2	CLR	bony fishes	Actinopteri	Anguilliformes	Anguilla anguilla	Ray-finned Fishes
+GCF_013368585.1	118141	26850664	2	61	7	3381	3087	290	4	CLR	bony fishes	Actinopteri	Elopiformes	Megalops cyprinoides	Ray-finned Fishes
+GCF_013368605.1	48427	23231768	3	89	2	3385	3372	12	1	CLR	birds	Aves	Caprimulgiformes	Nyctibius grandis	Birds
+GCF_014108235.1	51298	12511134	4	64	4	3382	3286	17	79	CLR	bats	Mammalia	Chiroptera	Myotis myotis	Mammals
+GCF_014108245.1	59472	10591995	5	72	11	3374	3326	14	34	CLR	bats	Mammalia	Chiroptera	Pipistrellus kuhlii	Mammals
+GCF_014108415.1	27622	22174888	7	56	4	3379	3344	7	28	CLR	bats	Mammalia	Chiroptera	Molossus molossus	Mammals
+GCF_014176215.1	9407	21999313	4	66	9	3377	3370	7	0	CLR	bats	Mammalia	Chiroptera	Rousettus aegyptiacus	Mammals
+GCF_014839835.1	118200	19150283	5	56	25	3360	3350	7	3	CLR	birds	Aves	Piciformes	Dryobates pubescens	Birds
+GCF_015220075.1	120794	15323486	3	89	5	3382	3375	7	0	CLR	birds	Aves	Falconiformes	Falco rusticolus	Birds
+GCF_015220235.1	27675	20994632	14	117	17	3359	3110	46	203	CLR	placentals	Mammalia	Pilosa	Choloepus didactylus	Mammals
+GCF_015220715.1	42514	12898870	7	51	7	3376	3345	29	2	CLR	bony fishes	Actinopteri	Characiformes	Pygocentrus nattereri	Ray-finned Fishes
+GCF_015220745.1	72105	11445908	19	116	32	3339	3319	19	1	CLR	bony fishes	Actinopteri	Perciformes	Sebastes umbrosus	Ray-finned Fishes
+GCF_015220805.1	488313	16792259	7	68	21	3362	3355	6	1	CLR	birds	Aves	Piciformes	Pogoniulus pusillus	Birds
+GCF_015227675.2	10116	29198295	2	60	9	3379	3299	13	67	CLR	rodents	Mammalia	Rodentia	Rattus norvegicus	Mammals
+GCF_015227805.1	43150	2794774	12	80	33	3344	3334	8	2	CLR	birds	Aves	Passeriformes	Hirundo rustica	Birds
+GCF_015237465.2	8469	39415510	1	45	2	3387	3381	5	1	CLR	turtles	Turtles	Testudines	Chelonia mydas	Turtles
+GCF_015852505.1	9261	19859057	28	150	46	3316	3303	8	5	CLR	monotremes	Mammalia	Monotremata	Tachyglossus aculeatus	Mammals
+GCF_016700215.2	9031	17744542	1	70	8	3381	3376	5	0	CLR	birds	Aves	Galliformes	Gallus gallus	Birds
+GCF_017639515.1	13397	6544962	16	33	22	3352	3340	9	3	CLR	sharks & rays	Chondrichthyes	Lamniformes	Carcharodon carcharias	Cartilaginous Fishes
+GCF_017639655.2	148594	13754753	2	63	4	3384	3367	17	0	CLR	birds	Aves	Falconiformes	Falco naumanni	Birds
+GCF_017639745.1	1250792	9299978	3	62	8	3379	3369	10	0	CLR	bony fishes	Actinopteri	Atheriniformes	Melanotaenia boesemani	Ray-finned Fishes
+GCF_017976325.1	109905	16959746	3	61	2	3385	3375	10	0	CLR	bony fishes	Actinopteri	Chaetodontiformes	Chelmon rostratus	Ray-finned Fishes
+GCF_017976375.1	55661	20797936	8	65	8	3374	3368	6	0	CLR	birds	Aves	Cuculiformes	Cuculus canorus	Birds
+GCF_017976425.1	941984	15555772	2	61	7	3381	3372	9	0	CLR	bony fishes	Actinopteri		Toxotes jaculatrix	Ray-finned Fishes
+GCF_018492685.1	34773	1565278	19	104	22	3349	3308	38	3	HiFi	bony fishes	Actinopteri	Clupeiformes	Alosa sapidissima	Ray-finned Fishes
+GCF_019393635.1	33562	38230856	2	209	5	3383	3280	15	88	CLR	marsupials	Mammalia	Microbiotheria	Dromiciops gliroides	Mammals
+GCF_020382885.2	75038	17189422	0	56	3	3387	3382	5	0	CLR	bony fishes	Actinopteri		Scatophagus argus	Ray-finned Fishes
+GCF_020740605.2	9447	32529614	3	68	20	3367	3320	12	35	HiFi	primates	Mammalia	Primates	Lemur catta	Mammals
+GCF_020740685.1	51337	21929955	12	94	15	3363	3192	29	142	CLR	rodents	Mammalia	Rodentia	Jaculus jaculus	Mammals
+GCF_020740725.1	134902	23064755	6	72	9	3375	3368	6	1	HiFi	birds	Aves	Passeriformes	Corvus hawaiiensis	Birds
+GCF_020740795.1	8895	25561769	5	56	30	3355	3348	7	0	CLR	birds	Aves	Apodiformes	Apus apus	Birds
+GCF_020745735.1	170820	8845575	13	39	32	3345	3334	9	2	CLR	sharks & rays	Chondrichthyes	Orectolobiformes	Hemiscyllium ocellatum	Cartilaginous Fishes
+GCF_020745825.1	39638	22833505	6	77	9	3375	3367	6	2	HiFi	birds	Aves	Passeriformes	Agelaius phoeniceus	Birds
+GCF_020826845.1	77932	28468213	3	60	1	3386	3367	9	10	HiFi	odd-toed ungulates	Mammalia	Perissodactyla	Diceros bicornis	Mammals
+GCF_021462225.1	208333	13818222	2	75	15	3373	3234	137	2	CLR	bony fishes	Actinopteri	Cyprinodontiformes	Girardinichthys multiradiatus	Ray-finned Fishes
+GCF_023053635.1	159646	85762895	5	42	17	3368	3358	9	1	HiFi	lizards & snakes	Lepidosauria	Squamata	Elgaria multicarinata	Lepidosauria
+GCF_023343835.1	64668	17905263	3	48	10	3377	3373	3	1	HiFi	birds	Aves	Galliformes	Lagopus muta	Birds
+GCF_023375975.1	7994	47087582	7	50	7	3376	3343	32	1	HiFi	bony fishes	Actinopteri	Characiformes	Astyanax mexicanus	Ray-finned Fishes
+GCF_023634085.1	345164	21245687	0	60	7	3383	3376	7	0	HiFi	birds	Aves	Falconiformes	Falco cherrug	Birds
+GCF_023634155.1	8954	15744644	0	64	4	3386	3377	9	0	HiFi	birds	Aves	Falconiformes	Falco peregrinus	Birds
+GCF_023638135.1	345155	24892811	1	58	21	3368	3360	8	0	HiFi	birds	Aves	Falconiformes	Falco biarmicus	Birds
+GCF_024139225.1	109475	5042816	11	175	26	3353	3241	20	92	CLR	insectivores	Mammalia	Eulipotyphla	Suncus etruscus	Mammals
+GCF_024166365.1	99487	87987108	4	48	3	3383	3368	7	8	HiFi	placentals	Mammalia	Proboscidea	Elephas maximus	Mammals
+GCF_025201925.1	286002	6917139	14	53	11	3365	3349	12	4	CLR	turtles	Turtles	Testudines	Gopherus flavomarginatus	Turtles
+GCF_025265405.1	48708	48253041	1	66	7	3382	3271	24	87	HiFi	whales & dolphins	Mammalia	Artiodactyla	Mesoplodon densirostris	Mammals
+GCF_026419915.1	202280	16799191	2	53	2	3386	3373	13	0	HiFi	hawks & eagles	Aves	Accipitriformes	Harpia harpyja	Birds
+GCF_026419965.1	27615	42780423	3	68	9	3378	3334	13	31	HiFi	whales & dolphins	Mammalia	Artiodactyla	Kogia breviceps	Mammals
+GCF_026979565.1	81927	15819291	6	64	10	3374	3366	8	0	HiFi	birds	Aves	Passeriformes	Vidua chalybeata	Birds
+GCF_027172205.1	65483	61439401	1	47	11	3378	3361	8	9	HiFi	lizards & snakes	Lepidosauria	Squamata	Podarcis raffonei	Lepidosauria
+GCF_027358585.1	310915	13007371	5	74	36	3349	3330	19	0	HiFi	bony fishes	Actinopteri	Siluriformes	Pangasianodon hypophthalmus	Ray-finned Fishes
+GCF_027358695.1	233779	21170366	24	54	52	3314	3303	9	2	HiFi	frogs & toads	Amphibia	Anura	Spea bombifrons	Amphibians
+GCF_027406575.1	9470	41197715	3	88	3	3384	3187	32	165	HiFi	primates	Mammalia	Primates	Nycticebus coucang	Mammals
+GCF_027409185.1	110931	69195939	1	65	3	3386	3308	20	58	HiFi	placentals	Mammalia	Dermoptera	Cynocephalus volans	Mammals
+GCF_027409825.1	13676	4898551	28	77	25	3337	3326	9	2	HiFi	bony fishes	Actinopteri	Scombriformes	Scomber japonicus	Ray-finned Fishes
+GCF_027477595.1	30427	16787335	3	51	17	3370	3363	3	4	HiFi	birds	Aves	Passeriformes	Haemorhous mexicanus	Birds
+GCF_027574615.1	29078	49033427	3	76	5	3382	3346	9	27	CLR	bats	Mammalia	Chiroptera	Eptesicus fuscus	Mammals
+GCF_027579445.1	2857394	12036358	4	60	20	3366	3356	5	5	HiFi	birds	Aves	Passeriformes	Ammospiza nelsoni	Birds
+GCF_027579695.1	443677	14859289	13	63	47	3330	3288	37	5	HiFi	bony fishes	Actinopteri	Siluriformes	Neoarius graeffei	Ray-finned Fishes
+GCF_027579735.1	8345	3712229	78	114	69	3243	3146	53	44	CLR	frogs & toads	Amphibia	Anura	Bombina bombina	Amphibians
+GCF_027595985.1	42254	4024507	19	74	23	3348	3290	11	47	HiFi	insectivores	Mammalia	Eulipotyphla	Sorex araneus	Mammals
+GCF_027789765.1	150705	8808153	27	60	54	3309	3261	43	5	CLR	frogs & toads	Amphibia	Anura	Dendropsophus ebraccatus	Amphibians
+GCF_027887145.1	2857398	8252193	4	65	10	3376	3365	7	4	HiFi	birds	Aves	Passeriformes	Ammospiza caudacuta	Birds
+GCF_027887155.1	2991368	75591180	2	40	2	3386	3369	11	6	HiFi	turtles	Turtles	Testudines	Malaclemys terrapin	Turtles
+GCF_027887165.1	13616	3910714	8	53	28	3354	3275	16	63	HiFi	marsupials	Mammalia	Didelphimorphia	Monodelphis domestica	Mammals
+GCF_028017835.1	82168	91255289	3	41	2	3385	3373	8	4	HiFi	turtles	Turtles	Testudines	Emys orbicularis	Turtles
+GCF_028018385.1	61452	51579577	2	59	1	3387	3345	7	35	HiFi	carnivores	Mammalia	Carnivora	Neofelis nebulosa	Mammals
+GCF_028018845.1	44398	10446106	5	68	28	3357	3347	7	3	HiFi	birds	Aves	Passeriformes	Melospiza georgiana	Birds
+GCF_028021215.1	9764	39209000	2	80	2	3386	3291	23	72	HiFi	whales & dolphins	Mammalia	Artiodactyla	Eschrichtius robustus	Mammals
+GCF_028023285.1	2746895	36541936	2	57	2	3386	3292	19	75	HiFi	whales & dolphins	Mammalia	Artiodactyla	Balaenoptera ricei	Mammals
+GCF_028372415.1	9315	15255043	2	46	5	3383	3291	16	76	HiFi	marsupials	Mammalia	Diprotodontia	Notamacropus eugenii	Mammals
+GCF_028389875.1	8795	19335416	1	43	2	3387	3384	3	0	HiFi	birds	Aves	Rheiformes	Rhea pennata	Birds
+GCF_028390025.1	495146	6819095	38	46	69	3283	3265	14	4	HiFi	frogs & toads	Amphibia	Anura	Pseudophryne corroboree	Amphibians
+GCF_028500815.1	75485	15653959	0	44	4	3386	3370	16	0	HiFi	birds	Aves	Charadriiformes	Rissa tridactyla	Birds
+GCF_028564815.1	27606	37467374	2	69	1	3387	3268	29	90	HiFi	whales & dolphins	Mammalia	Artiodactyla	Eubalaena glacialis	Mammals
+GCF_028583425.1	481883	80105973	8	47	13	3369	3343	16	10	HiFi	lizards & snakes	Lepidosauria	Squamata	Eublepharis macularius	Lepidosauria
+GCF_028858705.1	9117	28324902	0	50	2	3388	3371	17	0	CLR	birds	Aves	Gruiformes	Grus americana	Birds
+GCF_028858725.1	57412	21931325	2	44	45	3343	3311	32	0	HiFi	birds	Aves	Coliiformes	Colius striatus	Birds
+GCF_028858775.2	9598	146288486	1	48	1	3388	3313	30	45	HiFi	primates	Mammalia	Primates	Pan troglodytes	Mammals
+GCF_028878055.3	9590	146713733	0	45	2	3388	3323	24	41	HiFi	primates	Mammalia	Primates	Symphalangus syndactylus	Mammals
+GCF_028885625.2	9600	140592248	0	49	0	3390	3326	27	37	HiFi	primates	Mammalia	Primates	Pongo pygmaeus	Mammals
+GCF_028885655.2	9601	146197178	0	48	0	3390	3332	23	35	HiFi	primates	Mammalia	Primates	Pongo abelii	Mammals
+GCF_029281585.2	9595	150804130	1	52	4	3385	3309	38	38	HiFi	primates	Mammalia	Primates	Gorilla gorilla	Mammals
+GCF_029289425.2	9597	147028407	0	51	1	3389	3321	26	42	HiFi	primates	Mammalia	Primates	Pan paniscus	Mammals
+GCF_029499605.1	327740	3809262	66	72	101	3223	3209	12	2	HiFi	frogs & toads	Amphibia	Anura	Hyla sarda	Amphibians
+GCF_029582105.1	2939378	7795761	19	64	18	3353	3346	7	0	CLR	birds	Aves	Passeriformes	Oenanthe melanoleuca	Birds
+GCF_029633855.1	27720	3626585	15	39	61	3314	3002	311	1	HiFi	bony fishes	Actinopteri	Characiformes	Hoplias malabaricus	Ray-finned Fishes
+GCF_029633865.1	2546036	917127	17	72	45	3328	3299	24	5	HiFi	bony fishes	Actinopteri	Lampriformes	Lampris incognitus	Ray-finned Fishes
+GCF_029931775.1	460621	26991305	4	59	13	3373	3348	20	5	HiFi	lizards & snakes	Lepidosauria	Squamata	Euleptes europaea	Lepidosauria
+GCF_030014295.1	9785	82653632	4	44	3	3383	3365	12	6	HiFi	placentals	Mammalia	Proboscidea	Loxodonta africana	Mammals
+GCF_030014385.1	2290929	13074164	13	56	38	3339	3311	26	2	HiFi	bony fishes	Actinopteri	Siluriformes	Trichomycterus rosablanca	Ray-finned Fishes
+GCF_030020395.1	143292	25547713	2	65	5	3383	3330	20	33	HiFi	placentals	Mammalia	Pholidota	Manis pentadactyla	Mammals
+GCF_030028045.1	575201	50348260	2	77	2	3386	3235	24	127	HiFi	even-toed ungulates & whales	Mammalia	Artiodactyla	Hippopotamus amphibius	Mammals
+GCF_030028105.1	1983395	7300797	22	39	45	3323	3301	18	4	HiFi	sharks & rays	Chondrichthyes	Myliobatiformes	Mobula birostris	Cartilaginous Fishes
+GCF_030035675.1	261503	18156940	6	47	19	3365	3328	22	15	HiFi	lizards & snakes	Lepidosauria	Squamata	Rhineura floridana	Lepidosauria
+GCF_030144855.1	79690	4266932	23	45	49	3318	3296	22	0	HiFi	sharks & rays	Chondrichthyes	Myliobatiformes	Hypanus sabinus	Cartilaginous Fishes
+GCF_030435755.1	9978	12191025	7	64	17	3366	3297	31	38	HiFi	rabbits & hares	Mammalia	Lagomorpha	Ochotona princeps	Mammals
+GCF_030435805.1	9666	83356672	1	50	1	3388	3320	10	58	HiFi	carnivores	Mammalia	Carnivora	Mustela lutreola	Mammals
+GCF_030445035.2	9361	13963394	6	108	17	3367	3268	21	78	HiFi	placentals	Mammalia	Cingulata	Dasypus novemcinctus	Mammals
+GCF_030463535.1	930266	5834861	16	74	54	3320	3296	23	1	HiFi	bony fishes	Actinopteri	Characiformes	Salminus brasiliensis	Ray-finned Fishes
+GCF_030490865.1	48891	8462732	3	52	13	3374	3181	193	0	HiFi	birds	Aves	Passeriformes	Poecile atricapillus	Birds
+GCF_030684315.1	3053191	6162596	28	45	77	3285	3274	10	1	HiFi	sharks & rays	Chondrichthyes	Orectolobiformes	Stegostoma tigrinum	Cartilaginous Fishes
+GCF_030867095.1	8496	38556409	3	45	21	3366	3359	7	0	HiFi	vertebrates	Crocodiles	Crocodylia	Alligator mississippiensis	Crocodiles
+GCF_030936135.1	37040	13765203	2	42	3	3385	3380	5	0	HiFi	birds	Aves	Gaviiformes	Gavia stellata	Birds
+GCF_031021105.1	121349	3064756	28	99	80	3282	3215	64	3	HiFi	snakes	Lepidosauria	Squamata	Erythrolamprus reginae	Lepidosauria
+GCF_032444005.1	111125	13907627	18	45	60	3312	3275	31	6	HiFi	frogs & toads	Amphibia	Anura	Ranitomeya imitator	Amphibians
+GCF_035084215.1	212740	4905566	46	55	52	3292	3268	21	3	HiFi	sharks & rays	Chondrichthyes	Hexanchiformes	Heptranchias perlo	Cartilaginous Fishes
+GCF_035149785.1	51853	55640180	8	43	35	3347	3339	7	1	HiFi	snakes	Lepidosauria	Squamata	Candoia aspera	Lepidosauria
+GCF_035609145.1	57060	10388966	24	52	79	3287	3255	26	6	HiFi	frogs & toads	Amphibia	Anura	Eleutherodactylus coqui	Amphibians
+GCF_035770615.1	1914991	19453098	3	66	7	3380	3362	15	3	HiFi	birds	Aves	Passeriformes	Melospiza melodia	Birds
+GCF_036013445.1	187106	25101800	0	55	1	3389	3385	3	1	HiFi	birds	Aves	Columbiformes	Caloenas nicobarica	Birds
+GCF_036013475.1	8932	14042120	5	49	15	3370	3357	13	0	HiFi	birds	Aves	Columbiformes	Columba livia	Birds
+GCF_036169615.1	472823	8413062	8	68	35	3347	3339	8	0	HiFi	birds	Aves	Apodiformes	Heliangelus exortis	Birds
+GCF_036172605.1	191477	29412599	17	40	49	3324	3297	14	13	HiFi	frogs & toads	Amphibia	Anura	Pelobates fuscus	Amphibians
+GCF_036250125.1	415032	10447158	8	53	17	3365	3346	19	0	HiFi	birds	Aves	Passeriformes	Pseudopipra pipra	Birds
+GCF_036321535.1	9838	31216184	8	55	35	3347	3327	15	5	HiFi	even-toed ungulates & whales	Mammalia	Artiodactyla	Camelus dromedarius	Mammals
+GCF_036365525.1	7792	3418954	26	49	39	3325	3298	21	6	HiFi	sharks & rays	Chondrichthyes	Heterodontiformes	Heterodontus francisci	Cartilaginous Fishes
+GCF_036370855.1	8790	24239989	1	40	13	3376	3235	141	0	HiFi	birds	Aves	Casuariiformes	Dromaius novaehollandiae	Birds
+GCF_036373705.1	7924	17465777	7	60	12	3371	3360	11	0	HiFi	bony fishes	Actinopteri	Amiiformes	Amia calva	Ray-finned Fishes
+GCF_036417665.1	48849	20590000	6	66	25	3359	3337	18	4	HiFi	birds	Aves	Passeriformes	Passer domesticus	Birds
+GCF_036417845.1	2696672	19797665	2	52	2	3386	3383	3	0	HiFi	birds	Aves	Apterygiformes	Apteryx mantelli	Birds
+GCF_036850765.1	59482	20047694	3	69	5	3382	3312	21	49	CLR	bats	Mammalia	Chiroptera	Saccopteryx bilineata	Mammals
+GCF_036850995.1	249018	17812205	5	67	6	3379	3317	26	36	CLR	bats	Mammalia	Chiroptera	Saccopteryx leptura	Mammals
+GCF_036971445.1	1343680	5195315	39	65	76	3275	3244	23	8	HiFi	sharks & rays	Chondrichthyes	Torpediniformes	Narcine bancroftii	Cartilaginous Fishes
+GCF_037157495.1	678569	19972387	4	63	9	3377	3354	23	0	HiFi	birds	Aves	Psittaciformes	Lathamus discolor	Birds
+GCF_037176765.1	38937	43146625	9	60	28	3353	3246	96	11	HiFi	lizards & snakes	Lepidosauria	Squamata	Anolis sagrei	Lepidosauria
+GCF_037176945.1	7897	42076942	5	31	13	3372	3360	6	6	HiFi	coelacanths	Coelacanth	Coelacanthiformes	Latimeria chalumnae	Lobe-finned Fishes
+GCF_037993035.1	9541	162126771	0	55	1	3389	3321	9	59	HiFi	primates	Mammalia	Primates	Macaca fascicularis	Mammals
+GCF_039877785.1	109706	21327470	3	72	4	3383	3369	14	0	HiFi	bony fishes	Actinopteri	Chaetodontiformes	Chaetodon trifascialis	Ray-finned Fishes
+GCF_039906515.1	82174	58817648	2	64	3	3385	3324	19	42	HiFi	whales & dolphins	Mammalia	Artiodactyla	Pseudorca crassidens	Mammals
+GCF_040182565.1	8845	39655246	1	63	7	3382	3372	9	1	HiFi	birds	Aves	Anseriformes	Anser cygnoides	Birds
+GCF_040807025.1	8801	28829471	2	41	5	3383	3263	120	0	HiFi	birds	Aves	Struthioniformes	Struthio camelus	Birds
+GCF_040894005.1	76066	21805561	40	56	87	3263	3227	35	1	HiFi	frogs & toads	Amphibia	Anura	Engystomops pustulosus	Amphibians
+GCF_040937935.1	752182	2674826	44	70	102	3244	3195	47	2	HiFi	frogs & toads	Amphibia	Anura	Hyperolius riggenbachi	Amphibians
+GCF_040938575.1	8296	23068610	183	45	56	3151	3114	19	18	HiFi	salamanders	Amphibia	Caudata	Ambystoma mexicanum	Amphibians
+GCF_040954835.1	7918	20019514	4	57	5	3381	3377	3	1	HiFi	bony fishes	Actinopteri	Semionotiformes	Lepisosteus oculatus	Ray-finned Fishes
+GCF_042242105.1	3127111	12920725	2	54	1	3387	3362	24	1	HiFi	bony fishes	Actinopteri	Acropomatiformes	Pempheris klunzingeri	Ray-finned Fishes
+GCF_042477335.2	37174	105224494	0	77	1	3389	3273	17	99	HiFi	even-toed ungulates & whales	Mammalia	Artiodactyla	Ovis canadensis	Mammals
+GCF_043159975.1	9545	40835442	7	64	41	3342	3266	11	65	HiFi	primates	Mammalia	Primates	Macaca nemestrina	Mammals
+GCF_043641665.1	215367	17101116	1	49	0	3389	3369	20	0	HiFi	bony fishes	Actinopteri	Centrarchiformes	Enoplosus armatus	Ray-finned Fishes
+GCF_044704955.1	55135	1893048	77	67	60	3253	3233	16	4	HiFi	sharks & rays	Chondrichthyes		Pristiophorus japonicus	Cartilaginous Fishes
+GCF_047511675.1	93162	52587502	2	61	11	3377	3258	38	81	HiFi	rodents	Mammalia	Rodentia	Marmota flaviventris	Mammals
+GCF_048164855.1	143281	31962680	6	64	10	3374	3288	20	66	HiFi	carnivores	Mammalia	Carnivora	Canis lupus	Mammals
+GCF_900324465.2	64144	7055436	4	87	6	3380	3346	34	0	CLR	bony fishes	Actinopteri	Anabantiformes	Anabas testudineus	Ray-finned Fishes
+GCF_900324485.2	205130	7788594	5	65	20	3365	3354	10	1	CLR	bony fishes	Actinopteri	Synbranchiformes	Mastacembelus armatus	Ray-finned Fishes
+GCF_900496995.4	223781	21924221	1	67	4	3385	3373	12	0	CLR	hawks & eagles	Aves	Accipitriformes	Aquila chrysaetos	Birds
+GCF_900634415.1	56716	5939854	61	226	215	3114	3070	44	0	CLR	bony fishes	Actinopteri	Perciformes	Cottoperca gobio	Ray-finned Fishes
+GCF_900634625.1	210632	5080925	7	77	11	3372	3285	85	2	CLR	bony fishes	Actinopteri		Parambassis ranga	Ray-finned Fishes
+GCF_900634775.1	441366	1838341	27	134	72	3291	3210	78	3	CLR	bony fishes	Actinopteri	Blenniiformes	Gouania willdenowi	Ray-finned Fishes
+GCF_900634795.4	158456	2574972	8	106	16	3366	3343	23	0	CLR	bony fishes	Actinopteri	Anabantiformes	Betta splendens	Ray-finned Fishes
+GCF_900700375.1	299321	3059612	19	117	41	3330	3047	281	2	CLR	bony fishes	Actinopteri	Clupeiformes	Denticeps clupeoides	Ray-finned Fishes
+GCF_900747795.2	27687	6772339	10	83	23	3357	3342	13	2	CLR	bony fishes	Cladistia	Polypteriformes	Erpetoichthys calabaricus	Ray-finned Fishes
+GCF_900880675.1	8175	2862625	10	68	20	3360	3329	31	0	CLR	bony fishes	Actinopteri	Spariformes	Sparus aurata	Ray-finned Fishes
+GCF_900963305.1	173247	12371513	4	67	5	3381	3334	47	0	CLR	bony fishes	Actinopteri	Carangiformes	Echeneis naucrates	Ray-finned Fishes
+GCF_900964775.1	113540	9102216	6	61	21	3363	3203	158	2	CLR	bony fishes	Actinopteri	Osteoglossiformes	Scleropages formosus	Ray-finned Fishes
+GCF_901000725.2	31033	3136617	17	132	47	3326	3190	134	2	CLR	bony fishes	Actinopteri	Tetraodontiformes	Takifugu rubripes	Ray-finned Fishes
+GCF_901001135.1	194408	3216284	13	134	28	3349	3271	70	8	CLR	caecilians	Amphibia	Gymnophiona	Rhinatrema bivittatum	Amphibians
+GCF_901709675.1	161584	11959915	26	149	64	3300	3273	26	1	CLR	bony fishes	Actinopteri	Syngnathiformes	Syngnathus acus	Ray-finned Fishes
+GCF_902148845.1	181472	2597836	13	192	24	3353	3151	200	2	CLR	bony fishes	Actinopteri	Blenniiformes	Salarias fasciatus	Ray-finned Fishes
+GCF_902148855.1	375764	2360121	16	152	13	3361	3253	108	0	CLR	bony fishes	Actinopteri	Kurtiformes	Sphaeramia orbicularis	Ray-finned Fishes
+GCF_902150065.1	586833	14475636	2	61	4	3384	3360	24	0	CLR	bony fishes	Actinopteri	Holocentriformes	Myripristis murdjan	Ray-finned Fishes
+GCF_902167405.1	8049	1015663	27	156	64	3299	3278	21	0	CLR	bony fishes	Actinopteri	Gadiformes	Gadus morhua	Ray-finned Fishes
+GCF_902362185.1	29144	23134051	4	59	5	3381	3336	45	0	CLR	bony fishes	Actinopteri	Gonorynchiformes	Chanos chanos	Ray-finned Fishes
+GCF_902459505.1	260995	20656571	13	75	40	3337	3292	21	24	CLR	caecilians	Amphibia	Gymnophiona	Geotrypetes seraphini	Amphibians
+GCF_902500255.1	390379	2319587	35	218	34	3321	3286	32	3	CLR	bony fishes	Actinopteri	Batrachoidiformes	Thalassophryne amazonica	Ray-finned Fishes
+GCF_902655055.1	9657	30403456	0	114	3	3387	3276	10	101	CLR	carnivores	Mammalia	Carnivora	Lutra lutra	Mammals
+GCF_902686445.1	30640	13975867	3	177	2	3385	3297	18	70	CLR	rodents	Mammalia	Rodentia	Sciurus carolinensis	Mammals
+GCF_902713425.1	7906	8776027	11	86	11	3368	985	2380	3	HiFi	bony fishes	Actinopteri	Acipenseriformes	Acipenser ruthenus	Ray-finned Fishes
+GCF_902713615.1	7830	1855773	49	121	71	3270	3234	16	20	CLR	sharks & rays	Chondrichthyes	Carcharhiniformes	Scyliorhinus canicula	Cartilaginous Fishes
+GCF_903992535.2	1047088	5308170	4	142	12	3374	3286	17	71	CLR	rodents	Mammalia	Rodentia	Arvicola amphibius	Mammals
+GCF_903995425.1	38674	2276141	30	87	29	3331	3298	16	17	CLR	rodents	Mammalia	Rodentia	Onychomys torridus	Mammals
+GCF_903995435.1	60746	4450755	6	75	12	3372	3330	15	27	CLR	rodents	Mammalia	Rodentia	Acomys russatus	Mammals
+GCF_904848185.1	8177	14880455	1	61	1	3388	3379	8	1	CLR	bony fishes	Actinopteri	Spariformes	Acanthopagrus latus	Ray-finned Fishes
+GCF_905171765.1	8384	3941737	26	96	67	3297	3272	14	11	CLR	frogs & toads	Amphibia	Anura	Bufo bufo	Amphibians
+GCF_905171775.1	8407	6262427	40	83	91	3259	3217	20	22	CLR	frogs & toads	Amphibia	Anura	Rana temporaria	Amphibians
+GCF_910594005.1	9860	68741660	0	72	1	3389	3232	25	132	HiFi	even-toed ungulates & whales	Mammalia	Artiodactyla	Cervus elaphus	Mammals
+GCF_910596095.1	8240	26803536	4	50	1	3385	3377	8	0	HiFi	bony fishes	Actinopteri	Scombriformes	Thunnus maccoyii	Ray-finned Fishes
+GCF_914725855.1	8236	26795544	5	50	1	3384	3375	9	0	HiFi	bony fishes	Actinopteri	Scombriformes	Thunnus albacares	Ray-finned Fishes
+GCF_922984935.1	9662	75210923	0	66	2	3388	3318	16	54	HiFi	carnivores	Mammalia	Carnivora	Meles meles	Mammals
+GCF_929443795.1	8957	17712854	0	47	4	3386	3382	4	0	HiFi	hawks & eagles	Aves	Accipitriformes	Astur gentilis	Birds
+GCF_937001465.1	9733	45583382	3	67	3	3384	3321	14	49	HiFi	whales & dolphins	Mammalia	Artiodactyla	Orcinus orca	Mammals
+GCF_947179515.1	10129	4449850	3	75	6	3381	3345	10	26	HiFi	rodents	Mammalia	Rodentia	Apodemus sylvaticus	Mammals
+GCF_947347685.1	8262	1477112	18	88	19	3353	3332	20	1	HiFi	bony fishes	Actinopteri	Pleuronectiformes	Pleuronectes platessa	Ray-finned Fishes
+GCF_947461875.1	8969	4576000	3	51	18	3369	3363	6	0	HiFi	hawks & eagles	Aves	Accipitriformes	Haliaeetus albicilla	Birds
+GCF_949316205.1	8260	2078972	5	73	14	3371	3363	8	0	HiFi	bony fishes	Actinopteri	Pleuronectiformes	Platichthys flesus	Ray-finned Fishes
+GCF_949316345.1	134920	1362288	19	88	14	3357	3341	16	0	HiFi	bony fishes	Actinopteri	Perciformes	Pungitius pungitius	Ray-finned Fishes
+GCF_949774975.1	27610	3398034	7	70	8	3375	3312	9	54	HiFi	whales & dolphins	Mammalia	Artiodactyla	Lagenorhynchus albirostris	Mammals
+GCF_949987515.2	9728	3627551	5	69	5	3380	3333	17	30	HiFi	whales & dolphins	Mammalia	Artiodactyla	Delphinus delphis	Mammals
+GCF_949987535.1	9767	3015723	8	68	5	3377	3301	15	61	HiFi	whales & dolphins	Mammalia	Artiodactyla	Balaenoptera acutorostrata	Mammals
+GCF_950005125.1	269649	30960136	4	56	10	3376	3254	33	89	HiFi	rodents	Mammalia	Rodentia	Chionomys nivalis	Mammals
+GCF_950295315.1	9365	999919	34	78	23	3333	3297	6	30	HiFi	insectivores	Mammalia	Eulipotyphla	Erinaceus europaeus	Mammals
+GCF_958295425.1	90069	2587297	5	72	7	3378	3363	10	5	HiFi	bony fishes	Actinopteri	Pleuronectiformes	Solea solea	Ray-finned Fishes
+GCF_963082965.1	217509	3822391	8	85	28	3354	1520	1827	7	HiFi	bony fishes	Actinopteri	Cypriniformes	Carassius carassius	Ray-finned Fishes
+GCF_963259705.1	98922	3062752	5	67	7	3378	3282	11	85	HiFi	bats	Mammalia	Chiroptera	Myotis daubentonii	Mammals
+GCF_963455315.2	9731	3290841	5	68	9	3376	3311	20	45	HiFi	whales & dolphins	Mammalia	Artiodactyla	Globicephala melas	Mammals
+GCF_963506605.1	8524	3447840	6	67	14	3370	3344	12	14	HiFi	lizards & snakes	Lepidosauria	Squamata	Zootoca vivipara	Lepidosauria
+GCF_963514075.1	82655	3090688	24	84	24	3342	3173	168	1	HiFi	bony fishes	Actinopteri	Anguilliformes	Conger conger	Ray-finned Fishes
+GCF_963576545.1	27771	3420448	4	70	11	3375	3335	22	18	HiFi	bony fishes	Actinopteri	Pleuronectiformes	Limanda limanda	Ray-finned Fishes
+GCF_963584025.1	508554	2678957	6	75	6	3378	3365	13	0	HiFi	bony fishes	Actinopteri	Labriformes	Labrus mixtus	Ray-finned Fishes
+GCF_963662255.1	127875	3563180	6	58	10	3374	3366	8	0	HiFi	birds	Aves	Passeriformes	Cinclus cinclus	Birds
+GCF_963691925.1	13677	1496448	25	76	31	3334	3324	9	1	HiFi	bony fishes	Actinopteri	Scombriformes	Scomber scombrus	Ray-finned Fishes
+GCF_963692335.1	29151	396237	42	110	37	3311	3282	27	2	HiFi	bony fishes	Actinopteri	Osmeriformes	Osmerus eperlanus	Ray-finned Fishes
+GCF_963854185.1	27697	1117303	18	85	34	3338	3286	48	4	HiFi	bony fishes	Actinopteri	Clupeiformes	Sardina pilchardus	Ray-finned Fishes
+GCF_963921805.1	9209	4631399	1	46	6	3383	3374	9	0	HiFi	birds	Aves	Suliformes	Phalacrocorax carbo	Birds
+GCF_963924245.1	1192867	4003687	1	44	0	3389	3386	3	0	HiFi	birds	Aves	Charadriiformes	Chroicocephalus ridibundus	Birds
+GCF_963924675.1	9742	3726689	3	61	7	3380	3340	14	26	HiFi	whales & dolphins	Mammalia	Artiodactyla	Phocoena phocoena	Mammals
+GCF_963924715.1	8237	2956553	5	46	2	3383	3374	9	0	HiFi	bony fishes	Actinopteri	Scombriformes	Thunnus thynnus	Ray-finned Fishes
+GCF_963930625.1	9886	5780196	0	61	3	3387	3314	13	60	HiFi	even-toed ungulates & whales	Mammalia	Artiodactyla	Muntiacus reevesi	Mammals
+GCF_963930695.1	56723	2715806	10	83	20	3360	3347	13	0	HiFi	bony fishes	Actinopteri	Labriformes	Labrus bergylta	Ray-finned Fishes
+GCF_963932015.1	28680	3416933	4	58	4	3382	3375	7	0	HiFi	birds	Aves	Anseriformes	Anas acuta	Birds
+GCF_964237555.1	9986	2030165	4	83	8	3378	3268	23	87	HiFi	rabbits & hares	Mammalia	Lagomorpha	Oryctolagus cuniculus	Mammals
